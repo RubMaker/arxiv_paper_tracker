@@ -18,25 +18,6 @@ from jinja2 import Template
 # 加载环境变量
 load_dotenv()
 
-# 修复 arXiv API 的 HTTP 301 重定向问题
-# 强制使用 HTTPS 而不是 HTTP
-if hasattr(arxiv, 'arxiv') and hasattr(arxiv.arxiv, '_BASE_URL'):
-    arxiv.arxiv._BASE_URL = "https://export.arxiv.org/api/query"
-elif hasattr(arxiv, '_BASE_URL'):
-    arxiv._BASE_URL = "https://export.arxiv.org/api/query"
-
-# 为了兼容不同版本的 arxiv 包，还要尝试 monkey patch requests
-try:
-    import requests
-    original_get = requests.get
-    def patched_get(url, *args, **kwargs):
-        if 'http://export.arxiv.org' in url:
-            url = url.replace('http://export.arxiv.org', 'https://export.arxiv.org')
-        return original_get(url, *args, **kwargs)
-    requests.get = patched_get
-except ImportError:
-    pass
-
 # 设置日志
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s',
                    handlers=[logging.StreamHandler(sys.stdout)])
@@ -55,7 +36,7 @@ EMAIL_TO = [email.strip() for email in os.getenv("EMAIL_TO", "").split(",") if e
 PAPERS_DIR = Path("./papers")
 CONCLUSION_FILE = Path("./conclusion.md")
 CATEGORIES = ["cs.CR", "cs.LG", "cs.RO", "cs.AI", "cs.CV", "cs.CL"]
-MAX_PAPERS = 50  # 设置为1以便快速测试
+MAX_PAPERS = 20  # 每天分析25篇论文
 
 # 配置OpenAI API用于DeepSeek
 openai.api_key = DEEPSEEK_API_KEY
