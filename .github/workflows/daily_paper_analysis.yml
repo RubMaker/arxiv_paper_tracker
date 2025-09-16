@@ -2,7 +2,12 @@ name: Daily Paper Analysis
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 每天 UTC 时间 00:00 运行
+    # 运行时间：UTC 20:00 (北京时间 04:00)
+    # 选择此时间的原因：
+    # 1. 中国时间深度凌晨，国内API负载极低，价格最便宜
+    # 2. 绝对的使用低谷期，服务器资源最充足
+    # 3. arXiv论文更新后有足够时间处理，能获取最新论文
+    - cron: '0 20 * * *'
   workflow_dispatch:  # 允许手动触发
 
 jobs:
