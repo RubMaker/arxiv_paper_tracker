@@ -24,6 +24,8 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger(__name__)
 
 # 配置
+# 支持多种AI API，优先级：KIMI > DEEPSEEK > 其他
+KIMI_API_KEY = os.getenv("KIMI_API_KEY")
 DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY")
 SMTP_SERVER = os.getenv("SMTP_SERVER")
 SMTP_PORT = int(os.getenv("SMTP_PORT", "587"))
@@ -38,9 +40,20 @@ CONCLUSION_FILE = Path("./conclusion.md")
 CATEGORIES = ["cs.CR", "cs.LG", "cs.RO", "cs.AI", "cs.CV", "cs.CL"]
 MAX_PAPERS = 20  # 每天分析25篇论文
 
-# 配置OpenAI API用于DeepSeek
-openai.api_key = DEEPSEEK_API_KEY
-openai.api_base = "https://api.deepseek.com/v1"
+# 配置AI API（优先使用Kimi，如果没有则使用DeepSeek）
+if KIMI_API_KEY:
+    openai.api_key = KIMI_API_KEY
+    openai.api_base = "https://api.moonshot.cn/v1"
+    AI_MODEL = "moonshot-v1-8k"
+    logger.info("使用 Kimi API 进行论文分析")
+elif DEEPSEEK_API_KEY:
+    openai.api_key = DEEPSEEK_API_KEY
+    openai.api_base = "https://api.deepseek.com/v1"
+    AI_MODEL = "deepseek-chat"
+    logger.info("使用 DeepSeek API 进行论文分析")
+else:
+    logger.error("未找到可用的AI API密钥，请设置 KIMI_API_KEY 或 DEEPSEEK_API_KEY 环境变量")
+    sys.exit(1)
 
 # 如果不存在论文目录则创建
 PAPERS_DIR.mkdir(exist_ok=True)
@@ -119,7 +132,7 @@ def analyze_paper_with_deepseek(pdf_path, paper):
         
         logger.info(f"正在分析论文: {paper.title}")
         response = openai.ChatCompletion.create(
-            model="deepseek-chat",
+            model=AI_MODEL,
             messages=[
                 {"role": "system", "content": "你是一位专门总结和分析学术论文的研究助手。请使用中文回复。"},
                 {"role": "user", "content": prompt},
