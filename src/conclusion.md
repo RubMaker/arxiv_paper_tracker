@@ -34320,3 +34320,207 @@ MCOO-SLAM提出了一种多相机全景物体SLAM系统，旨在解决传统SLAM
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2025-09-16)
+
+### Character-Centric Understanding of Animated Movies
+**作者**: Zhongrui Gui, Junyu Xie, Tengda Han, Weidi Xie, Andrew Zisserman
+**类别**: cs.CV
+**发布日期**: 2025-09-15
+**链接**: http://arxiv.org/abs/2509.12204v1
+
+**论文分析出错**: Insufficient Balance {"error":{"message":"Insufficient Balance","type":"unknown_error","param":null,"code":"invalid_request_error"}} 402 {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}} {'Date': 'Tue, 16 Sep 2025 06:51:57 GMT', 'Content-Type': 'application/json', 'Content-Length': '111', 'Connection': 'keep-alive', 'CF-RAY': '97fe7030dd22a9c4-IAD', 'vary': 'origin, access-control-request-method, access-control-request-headers', 'access-control-allow-credentials': 'true', 'x-ds-trace-id': '84dd618f0eb04f4d51901b63dd806c38', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains; preload', 'X-Content-Type-Options': 'nosniff', 'cf-cache-status': 'DYNAMIC', 'Set-Cookie': '__cf_bm=oKTuGih71bcNSJDw7mhU2ktKmM6SfIRbGt9y7tpMb0Y-1758005517-1.0.1.1-7_l3t7aLP40N8a5pROOBRPqsjiso.HDdjTIwaAjAFHxYg6g1W.UYpKulu73_j4idQHmf5jpeNDCRoqsnLZpAuMzS9GeINCc52Pb3DIxjJwE; path=/; expires=Tue, 16-Sep-25 07:21:57 GMT; domain=.deepseek.com; HttpOnly; Secure; SameSite=None', 'Server': 'cloudflare'}
+
+---
+
+### LazyDrag: Enabling Stable Drag-Based Editing on Multi-Modal Diffusion Transformers via Explicit Correspondence
+**作者**: Zixin Yin, Xili Dai, Duomin Wang, Xianfang Zeng, Lionel M. Ni, Gang Yu, Heung-Yeung Shum
+**类别**: cs.CV
+**发布日期**: 2025-09-15
+**链接**: http://arxiv.org/abs/2509.12203v1
+
+**论文分析出错**: Insufficient Balance {"error":{"message":"Insufficient Balance","type":"unknown_error","param":null,"code":"invalid_request_error"}} 402 {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}} {'Date': 'Tue, 16 Sep 2025 06:52:00 GMT', 'Content-Type': 'application/json', 'Content-Length': '111', 'Connection': 'keep-alive', 'CF-RAY': '97fe70432b66a9c4-IAD', 'vary': 'origin, access-control-request-method, access-control-request-headers', 'access-control-allow-credentials': 'true', 'x-ds-trace-id': '13691c305abdc478d3e440515306a0b4', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains; preload', 'X-Content-Type-Options': 'nosniff', 'cf-cache-status': 'DYNAMIC', 'Server': 'cloudflare'}
+
+---
+
+### OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling
+**作者**: Yang Zhou, Yifan Wang, Jianjun Zhou, Wenzheng Chang, Haoyu Guo, Zizun Li, Kaijing Ma, Xinyue Li, Yating Wang, Haoyi Zhu, Mingyu Liu, Dingning Liu, Jiange Yang, Zhoujie Fu, Junyi Chen, Chunhua Shen, Jiangmiao Pang, Kaipeng Zhang, Tong He
+**类别**: cs.CV
+**发布日期**: 2025-09-15
+**链接**: http://arxiv.org/abs/2509.12201v1
+
+**论文分析出错**: Insufficient Balance {"error":{"message":"Insufficient Balance","type":"unknown_error","param":null,"code":"invalid_request_error"}} 402 {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}} {'Date': 'Tue, 16 Sep 2025 06:52:03 GMT', 'Content-Type': 'application/json', 'Content-Length': '111', 'Connection': 'keep-alive', 'CF-RAY': '97fe7055b98da9c4-IAD', 'vary': 'origin, access-control-request-method, access-control-request-headers', 'access-control-allow-credentials': 'true', 'x-ds-trace-id': 'f0c6a3b83f854b3b42000134b44bbb23', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains; preload', 'X-Content-Type-Options': 'nosniff', 'cf-cache-status': 'DYNAMIC', 'Server': 'cloudflare'}
+
+---
+
+### 3D Human Pose and Shape Estimation from LiDAR Point Clouds: A Review
+**作者**: Salma Galaaoui, Eduardo Valle, David Picard, Nermin Samet
+**类别**: cs.CV
+**发布日期**: 2025-09-15
+**链接**: http://arxiv.org/abs/2509.12197v1
+
+**论文分析出错**: Insufficient Balance {"error":{"message":"Insufficient Balance","type":"unknown_error","param":null,"code":"invalid_request_error"}} 402 {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}} {'Date': 'Tue, 16 Sep 2025 06:52:06 GMT', 'Content-Type': 'application/json', 'Content-Length': '111', 'Connection': 'keep-alive', 'CF-RAY': '97fe7068d95fa9c4-IAD', 'vary': 'origin, access-control-request-method, access-control-request-headers', 'access-control-allow-credentials': 'true', 'x-ds-trace-id': '9e636421403ca2cbd5d804b1993d5194', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains; preload', 'X-Content-Type-Options': 'nosniff', 'cf-cache-status': 'DYNAMIC', 'Server': 'cloudflare'}
+
+---
+
+### Dynamic Relational Priming Improves Transformer in Multivariate Time Series
+**作者**: Hunjae Lee, Corey Clark
+**类别**: cs.LG, cs.AI
+**发布日期**: 2025-09-15
+**链接**: http://arxiv.org/abs/2509.12196v1
+
+**论文分析出错**: Insufficient Balance {"error":{"message":"Insufficient Balance","type":"unknown_error","param":null,"code":"invalid_request_error"}} 402 {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}} {'Date': 'Tue, 16 Sep 2025 06:52:09 GMT', 'Content-Type': 'application/json', 'Content-Length': '111', 'Connection': 'keep-alive', 'CF-RAY': '97fe707a6dbfa9c4-IAD', 'vary': 'origin, access-control-request-method, access-control-request-headers', 'access-control-allow-credentials': 'true', 'x-ds-trace-id': 'f708a8d175185b8224cb6cb9af29dfe7', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains; preload', 'X-Content-Type-Options': 'nosniff', 'cf-cache-status': 'DYNAMIC', 'Server': 'cloudflare'}
+
+---
+
+### Advancing Medical Artificial Intelligence Using a Century of Cases
+**作者**: Thomas A. Buckley, Riccardo Conci, Peter G. Brodeur, Jason Gusdorf, Sourik Beltrán, Bita Behrouzi, Byron Crowe, Jacob Dockterman, Muzzammil Muhammad, Sarah Ohnigian, Andrew Sanchez, James A. Diao, Aashna P. Shah, Daniel Restrepo, Eric S. Rosenberg, Andrew S. Lea, Marinka Zitnik, Scott H. Podolsky, Zahir Kanjee, Raja-Elie E. Abdulnour, Jacob M. Koshy, Adam Rodman, Arjun K. Manrai
+**类别**: cs.AI, cs.CV
+**发布日期**: 2025-09-15
+**链接**: http://arxiv.org/abs/2509.12194v1
+
+**论文分析出错**: Insufficient Balance {"error":{"message":"Insufficient Balance","type":"unknown_error","param":null,"code":"invalid_request_error"}} 402 {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}} {'Date': 'Tue, 16 Sep 2025 06:52:11 GMT', 'Content-Type': 'application/json', 'Content-Length': '111', 'Connection': 'keep-alive', 'CF-RAY': '97fe708b6880a9c4-IAD', 'vary': 'origin, access-control-request-method, access-control-request-headers', 'access-control-allow-credentials': 'true', 'x-ds-trace-id': '0e6ec3683e0704570acca732e042a84d', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains; preload', 'X-Content-Type-Options': 'nosniff', 'cf-cache-status': 'DYNAMIC', 'Server': 'cloudflare'}
+
+---
+
+### Domain-Adaptive Pretraining Improves Primate Behavior Recognition
+**作者**: Felix B. Mueller, Timo Lueddecke, Richard Vogg, Alexander S. Ecker
+**类别**: cs.CV, I.4.8; I.2.10; I.5
+**发布日期**: 2025-09-15
+**链接**: http://arxiv.org/abs/2509.12193v1
+
+**论文分析出错**: Insufficient Balance {"error":{"message":"Insufficient Balance","type":"unknown_error","param":null,"code":"invalid_request_error"}} 402 {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}} {'Date': 'Tue, 16 Sep 2025 06:52:14 GMT', 'Content-Type': 'application/json', 'Content-Length': '111', 'Connection': 'keep-alive', 'CF-RAY': '97fe709c9966a9c4-IAD', 'vary': 'origin, access-control-request-method, access-control-request-headers', 'access-control-allow-credentials': 'true', 'x-ds-trace-id': 'b6f4feff431f8c1401c4d7297fa6bf54', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains; preload', 'X-Content-Type-Options': 'nosniff', 'cf-cache-status': 'DYNAMIC', 'Server': 'cloudflare'}
+
+---
+
+### Survival at Any Cost? LLMs and the Choice Between Self-Preservation and Human Harm
+**作者**: Alireza Mohamadi, Ali Yavari
+**类别**: cs.CY, cs.AI, cs.CL
+**发布日期**: 2025-09-15
+**链接**: http://arxiv.org/abs/2509.12190v1
+
+**论文分析出错**: Insufficient Balance {"error":{"message":"Insufficient Balance","type":"unknown_error","param":null,"code":"invalid_request_error"}} 402 {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}} {'Date': 'Tue, 16 Sep 2025 06:52:17 GMT', 'Content-Type': 'application/json', 'Content-Length': '111', 'Connection': 'keep-alive', 'CF-RAY': '97fe70ae39d9a9c4-IAD', 'vary': 'origin, access-control-request-method, access-control-request-headers', 'access-control-allow-credentials': 'true', 'x-ds-trace-id': 'd465b830909148498ae6da0901488b09', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains; preload', 'X-Content-Type-Options': 'nosniff', 'cf-cache-status': 'DYNAMIC', 'Server': 'cloudflare'}
+
+---
+
+### Event2Vec: A Geometric Approach to Learning Composable Representations of Event Sequences
+**作者**: Antonin Sulc
+**类别**: cs.LG, cs.CL
+**发布日期**: 2025-09-15
+**链接**: http://arxiv.org/abs/2509.12188v1
+
+**论文分析出错**: Insufficient Balance {"error":{"message":"Insufficient Balance","type":"unknown_error","param":null,"code":"invalid_request_error"}} 402 {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}} {'Date': 'Tue, 16 Sep 2025 06:52:20 GMT', 'Content-Type': 'application/json', 'Content-Length': '111', 'Connection': 'keep-alive', 'CF-RAY': '97fe70bf0dd4a9c4-IAD', 'vary': 'origin, access-control-request-method, access-control-request-headers', 'access-control-allow-credentials': 'true', 'x-ds-trace-id': '49f4b4aa9518c2ad78dfc41abe6cb96c', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains; preload', 'X-Content-Type-Options': 'nosniff', 'cf-cache-status': 'DYNAMIC', 'Server': 'cloudflare'}
+
+---
+
+### HoloGarment: 360° Novel View Synthesis of In-the-Wild Garments
+**作者**: Johanna Karras, Yingwei Li, Yasamin Jafarian, Ira Kemelmacher-Shlizerman
+**类别**: cs.CV, cs.AI, cs.GR, cs.LG
+**发布日期**: 2025-09-15
+**链接**: http://arxiv.org/abs/2509.12187v1
+
+**论文分析出错**: Insufficient Balance {"error":{"message":"Insufficient Balance","type":"unknown_error","param":null,"code":"invalid_request_error"}} 402 {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}} {'Date': 'Tue, 16 Sep 2025 06:52:23 GMT', 'Content-Type': 'application/json', 'Content-Length': '111', 'Connection': 'keep-alive', 'CF-RAY': '97fe70d07b63a9c4-IAD', 'vary': 'origin, access-control-request-method, access-control-request-headers', 'access-control-allow-credentials': 'true', 'x-ds-trace-id': '5f9aec97dfe9638622b6bde663f11d1a', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains; preload', 'X-Content-Type-Options': 'nosniff', 'cf-cache-status': 'DYNAMIC', 'Server': 'cloudflare'}
+
+---
+
+### The Morgan-Pitman Test of Equality of Variances and its Application to Machine Learning Model Evaluation and Selection
+**作者**: Argimiro Arratia, Alejandra Cabaña, Ernesto Mordecki, Gerard Rovira-Parra
+**类别**: stat.ML, cs.LG, math.ST, stat.TH
+**发布日期**: 2025-09-15
+**链接**: http://arxiv.org/abs/2509.12185v1
+
+**论文分析出错**: Insufficient Balance {"error":{"message":"Insufficient Balance","type":"unknown_error","param":null,"code":"invalid_request_error"}} 402 {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}} {'Date': 'Tue, 16 Sep 2025 06:52:25 GMT', 'Content-Type': 'application/json', 'Content-Length': '111', 'Connection': 'keep-alive', 'CF-RAY': '97fe70e20c7fa9c4-IAD', 'vary': 'origin, access-control-request-method, access-control-request-headers', 'access-control-allow-credentials': 'true', 'x-ds-trace-id': '57f12ba5ac32f2b3968c290b6c5dbec6', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains; preload', 'X-Content-Type-Options': 'nosniff', 'cf-cache-status': 'DYNAMIC', 'Server': 'cloudflare'}
+
+---
+
+### LOKI: Proactively Discovering Online Scam Websites by Mining Toxic Search Queries
+**作者**: Pujan Paudel, Gianluca Stringhini
+**类别**: cs.CR
+**发布日期**: 2025-09-15
+**链接**: http://arxiv.org/abs/2509.12181v1
+
+**论文分析出错**: Insufficient Balance {"error":{"message":"Insufficient Balance","type":"unknown_error","param":null,"code":"invalid_request_error"}} 402 {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}} {'Date': 'Tue, 16 Sep 2025 06:52:28 GMT', 'Content-Type': 'application/json', 'Content-Length': '111', 'Connection': 'keep-alive', 'CF-RAY': '97fe70f3cd35a9c4-IAD', 'vary': 'origin, access-control-request-method, access-control-request-headers', 'access-control-allow-credentials': 'true', 'x-ds-trace-id': 'e1cb209515e442876b806d7005791385', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains; preload', 'X-Content-Type-Options': 'nosniff', 'cf-cache-status': 'DYNAMIC', 'Server': 'cloudflare'}
+
+---
+
+### All that structure matches does not glitter
+**作者**: Maya M. Martirossyan, Thomas Egg, Philipp Hoellmer, George Karypis, Mark Transtrum, Adrian Roitberg, Mingjie Liu, Richard G. Hennig, Ellad B. Tadmor, Stefano Martiniani
+**类别**: cs.LG, cond-mat.mtrl-sci
+**发布日期**: 2025-09-15
+**链接**: http://arxiv.org/abs/2509.12178v1
+
+**论文分析出错**: Insufficient Balance {"error":{"message":"Insufficient Balance","type":"unknown_error","param":null,"code":"invalid_request_error"}} 402 {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}} {'Date': 'Tue, 16 Sep 2025 06:52:31 GMT', 'Content-Type': 'application/json', 'Content-Length': '111', 'Connection': 'keep-alive', 'CF-RAY': '97fe71049c74a9c4-IAD', 'vary': 'origin, access-control-request-method, access-control-request-headers', 'access-control-allow-credentials': 'true', 'x-ds-trace-id': '92ebba76594920ee3ca745b831d61b1c', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains; preload', 'X-Content-Type-Options': 'nosniff', 'cf-cache-status': 'DYNAMIC', 'Server': 'cloudflare'}
+
+---
+
+### Co-Alignment: Rethinking Alignment as Bidirectional Human-AI Cognitive Adaptation
+**作者**: Yubo Li, Weiyi Song
+**类别**: cs.AI, cs.MA
+**发布日期**: 2025-09-15
+**链接**: http://arxiv.org/abs/2509.12179v1
+
+**论文分析出错**: Insufficient Balance {"error":{"message":"Insufficient Balance","type":"unknown_error","param":null,"code":"invalid_request_error"}} 402 {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}} {'Date': 'Tue, 16 Sep 2025 06:52:34 GMT', 'Content-Type': 'application/json', 'Content-Length': '111', 'Connection': 'keep-alive', 'CF-RAY': '97fe71150aeca9c4-IAD', 'vary': 'origin, access-control-request-method, access-control-request-headers', 'access-control-allow-credentials': 'true', 'x-ds-trace-id': '48b0143b7b01fb43387741189ae72d89', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains; preload', 'X-Content-Type-Options': 'nosniff', 'cf-cache-status': 'DYNAMIC', 'Server': 'cloudflare'}
+
+---
+
+### From Autoencoders to CycleGAN: Robust Unpaired Face Manipulation via Adversarial Learning
+**作者**: Collin Guo
+**类别**: cs.LG
+**发布日期**: 2025-09-15
+**链接**: http://arxiv.org/abs/2509.12176v1
+
+**论文分析出错**: Insufficient Balance {"error":{"message":"Insufficient Balance","type":"unknown_error","param":null,"code":"invalid_request_error"}} 402 {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}} {'Date': 'Tue, 16 Sep 2025 06:52:36 GMT', 'Content-Type': 'application/json', 'Content-Length': '111', 'Connection': 'keep-alive', 'CF-RAY': '97fe7125c9eda9c4-IAD', 'vary': 'origin, access-control-request-method, access-control-request-headers', 'access-control-allow-credentials': 'true', 'x-ds-trace-id': 'cc7555f416186ce01eae5f1627d3711c', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains; preload', 'X-Content-Type-Options': 'nosniff', 'cf-cache-status': 'DYNAMIC', 'Server': 'cloudflare'}
+
+---
+
+### Preservation of Language Understanding Capabilities in Speech-aware Large Language Models
+**作者**: Marek Kubis, Paweł Skórzewski, Iwona Christop, Mateusz Czyżnikiewicz, Jakub Kubiak, Łukasz Bondaruk, Marcin Lewandowski
+**类别**: cs.CL, cs.AI
+**发布日期**: 2025-09-15
+**链接**: http://arxiv.org/abs/2509.12171v1
+
+**论文分析出错**: Insufficient Balance {"error":{"message":"Insufficient Balance","type":"unknown_error","param":null,"code":"invalid_request_error"}} 402 {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}} {'Date': 'Tue, 16 Sep 2025 06:52:39 GMT', 'Content-Type': 'application/json', 'Content-Length': '111', 'Connection': 'keep-alive', 'CF-RAY': '97fe71362fcea9c4-IAD', 'vary': 'origin, access-control-request-method, access-control-request-headers', 'access-control-allow-credentials': 'true', 'x-ds-trace-id': '93016cebf5482b1bae3e8fc9c27bf430', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains; preload', 'X-Content-Type-Options': 'nosniff', 'cf-cache-status': 'DYNAMIC', 'Server': 'cloudflare'}
+
+---
+
+### Approaches to Analysis and Design of AI-Based Autonomous Vehicles
+**作者**: Tao Yan, Zheyu Zhang, Jingjing Jiang, Wen-Hua Chen
+**类别**: eess.SY, cs.AI, cs.SY
+**发布日期**: 2025-09-15
+**链接**: http://arxiv.org/abs/2509.12169v1
+
+**论文分析出错**: Insufficient Balance {"error":{"message":"Insufficient Balance","type":"unknown_error","param":null,"code":"invalid_request_error"}} 402 {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}} {'Date': 'Tue, 16 Sep 2025 06:52:41 GMT', 'Content-Type': 'application/json', 'Content-Length': '111', 'Connection': 'keep-alive', 'CF-RAY': '97fe7146ac78a9c4-IAD', 'vary': 'origin, access-control-request-method, access-control-request-headers', 'access-control-allow-credentials': 'true', 'x-ds-trace-id': '7c78b134507ee90f76f569843a99b66b', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains; preload', 'X-Content-Type-Options': 'nosniff', 'cf-cache-status': 'DYNAMIC', 'Server': 'cloudflare'}
+
+---
+
+### RAGs to Riches: RAG-like Few-shot Learning for Large Language Model Role-playing
+**作者**: Timothy Rupprecht, Enfu Nan, Arash Akbari, Arman Akbari, Lei Lu, Priyanka Maan, Sean Duffy, Pu Zhao, Yumei He, David Kaeli, Yanzhi Wang
+**类别**: cs.CL, cs.AI
+**发布日期**: 2025-09-15
+**链接**: http://arxiv.org/abs/2509.12168v1
+
+**论文分析出错**: Insufficient Balance {"error":{"message":"Insufficient Balance","type":"unknown_error","param":null,"code":"invalid_request_error"}} 402 {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}} {'Date': 'Tue, 16 Sep 2025 06:52:44 GMT', 'Content-Type': 'application/json', 'Content-Length': '111', 'Connection': 'keep-alive', 'CF-RAY': '97fe71570c1da9c4-IAD', 'vary': 'origin, access-control-request-method, access-control-request-headers', 'access-control-allow-credentials': 'true', 'x-ds-trace-id': '5a65f2c61bc5e3d3fa2a7e71381b1597', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains; preload', 'X-Content-Type-Options': 'nosniff', 'cf-cache-status': 'DYNAMIC', 'Server': 'cloudflare'}
+
+---
+
+### MMM: Clustering Multivariate Longitudinal Mixed-type Data
+**作者**: Francesco Amato, Julien Jacques
+**类别**: stat.ML, cs.LG, stat.ME
+**发布日期**: 2025-09-15
+**链接**: http://arxiv.org/abs/2509.12166v1
+
+**论文分析出错**: Insufficient Balance {"error":{"message":"Insufficient Balance","type":"unknown_error","param":null,"code":"invalid_request_error"}} 402 {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}} {'Date': 'Tue, 16 Sep 2025 06:52:47 GMT', 'Content-Type': 'application/json', 'Content-Length': '111', 'Connection': 'keep-alive', 'CF-RAY': '97fe7167df3aa9c4-IAD', 'vary': 'origin, access-control-request-method, access-control-request-headers', 'access-control-allow-credentials': 'true', 'x-ds-trace-id': '7a4542079d301a48c9024db80d6549ba', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains; preload', 'X-Content-Type-Options': 'nosniff', 'cf-cache-status': 'DYNAMIC', 'Server': 'cloudflare'}
+
+---
+
+### EfficientUICoder: Efficient MLLM-based UI Code Generation via Input and Output Token Compression
+**作者**: Jingyu Xiao, Zhongyi Zhang, Yuxuan Wan, Yintong Huo, Yang Liu, Michael R. Lyu
+**类别**: cs.SE, cs.AI
+**发布日期**: 2025-09-15
+**链接**: http://arxiv.org/abs/2509.12159v1
+
+**论文分析出错**: Insufficient Balance {"error":{"message":"Insufficient Balance","type":"unknown_error","param":null,"code":"invalid_request_error"}} 402 {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}} {'Date': 'Tue, 16 Sep 2025 06:52:50 GMT', 'Content-Type': 'application/json', 'Content-Length': '111', 'Connection': 'keep-alive', 'CF-RAY': '97fe717b58e5a9c4-IAD', 'vary': 'origin, access-control-request-method, access-control-request-headers', 'access-control-allow-credentials': 'true', 'x-ds-trace-id': 'cc38f20340be74ff0b8b29cf5262741a', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains; preload', 'X-Content-Type-Options': 'nosniff', 'cf-cache-status': 'DYNAMIC', 'Server': 'cloudflare'}
+
+---
+
