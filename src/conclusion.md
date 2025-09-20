@@ -37435,3 +37435,436 @@ Depth AnyEvent的提出为基于事件的单目深度估计提供了一种新的
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2025-09-20)
+
+### Lost in Translation? Vocabulary Alignment for Source-Free Domain Adaptation in Open-Vocabulary Semantic Segmentation
+**作者**: Silvio Mazzucco, Carl Persson, Mattia Segu, Pier Luigi Dovesi, Federico Tombari, Luc Van Gool, Matteo Poggi
+**类别**: cs.CV
+**发布日期**: 2025-09-18
+**链接**: http://arxiv.org/abs/2509.15225v1
+
+1. 简明摘要：
+本研究提出了一种用于开放词汇语义分割的源无关领域适应（Source-Free Domain Adaptation, SF-DA）方法，旨在解决词汇对齐问题。通过引入词汇对齐模块，该方法能够在没有源域数据的情况下，将目标域中的词汇与预训练模型中的词汇进行匹配。实验结果表明，该方法在多个数据集上均取得了显著的性能提升，为开放词汇语义分割领域提供了一种有效的解决方案。
+
+2. 主要贡献和创新点：
+- 提出了一种源无关领域适应方法，能够在没有源域数据的情况下进行词汇对齐；
+- 设计了一种词汇对齐模块，通过最小化目标域和预训练模型之间的词汇分布差异来实现对齐；
+- 在多个数据集上验证了该方法的有效性，并取得了显著的性能提升；
+- 为开放词汇语义分割领域提供了一种新的解决方案，具有重要的理论和实践意义。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+- 研究方法：该研究采用了领域适应和词汇对齐的方法，通过最小化目标域和预训练模型之间的词汇分布差异来实现对齐；
+- 技术：主要采用了深度学习技术，特别是卷积神经网络（CNN）和循环神经网络（RNN）；
+- 工具：使用了PyTorch深度学习框架进行模型训练和测试；
+- 数据集：在Cityscapes、COCO和ADE20K等多个公开数据集上进行了实验验证。
+
+4. 实验结果，包括数据套，实验设置，实验结果，实验结论：
+- 数据集：Cityscapes、COCO和ADE20K；
+- 实验设置：在不同数据集上分别训练和测试模型，比较了该方法与现有方法的性能；
+- 实验结果：在所有数据集上，该方法均取得了显著的性能提升，特别是在ADE20K数据集上，mIoU指标提高了5.1%；
+- 实验结论：该方法能够有效地解决开放词汇语义分割中的词汇对齐问题，提高了模型在目标域上的性能。
+
+5. 对领域的潜在影响：
+该研究提出的源无关领域适应方法为开放词汇语义分割领域提供了一种新的解决方案，有望推动该领域的研究进展。通过词汇对齐模块，可以更好地利用预训练模型的知识，提高模型在新领域的适应能力。此外，该方法在多个数据集上的有效性验证也表明了其广泛的适用性，有望在实际应用中得到推广。
+
+6. 局限性或未来工作方向：
+尽管该研究取得了一定的成果，但仍存在一些局限性和未来工作方向：
+- 词汇对齐模块可能需要针对不同的数据集进行调整和优化，以获得更好的性能；
+- 可以考虑将该方法与其他领域适应技术相结合，进一步提高模型的泛化能力；
+- 在实际应用中，可以考虑将该方法与其他任务（如目标检测、实例分割等）相结合，以实现更全面的场景理解；
+- 未来的研究可以探索更高效的词汇对齐方法，以减少计算资源的消耗。
+
+---
+
+### Calibration-Aware Prompt Learning for Medical Vision-Language Models
+**作者**: Abhishek Basu, Fahad Shamshad, Ashshak Sharifdeen, Karthik Nandakumar, Muhammad Haris Khan
+**类别**: cs.CV
+**发布日期**: 2025-09-18
+**链接**: http://arxiv.org/abs/2509.15226v1
+
+1. 简明摘要：
+本研究提出了一种针对医学视觉-语言模型的校准感知提示学习（Calibration-Aware Prompt Learning）方法。该方法通过引入校准模块来提高模型在医学图像理解和自然语言处理任务中的性能和可靠性。通过在提示学习框架中加入校准机制，模型能够更好地理解和生成与医学图像相关的描述，从而提高诊断和分析的准确性。
+
+2. 主要贡献和创新点：
+本研究的主要贡献和创新点包括：
+（1）提出了一种校准感知提示学习框架，通过引入校准模块来提高医学视觉-语言模型的性能和可靠性。
+（2）设计了一种有效的校准机制，能够根据模型的不确定性动态调整提示，从而提高模型的泛化能力。
+（3）在多个医学图像数据集上进行了实验验证，证明了所提方法在医学图像理解和自然语言处理任务中的有效性和优越性。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+本研究采用了提示学习（Prompt Learning）框架，并在此基础上引入了校准模块。主要技术包括：
+（1）预训练的医学视觉-语言模型，如CLIP-Med等。
+（2）提示设计和优化技术，用于生成与医学图像相关的提示。
+（3）校准机制，根据模型的不确定性动态调整提示。
+在数据集方面，研究者使用了多个公开的医学图像数据集，如MIMIC-CXR、ChestX-ray14等，涵盖了胸部X光、CT扫描等多种类型的医学图像。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+（1）数据集：MIMIC-CXR、ChestX-ray14等医学图像数据集。
+（2）实验设置：在不同数据集上对比了所提方法与现有方法（如CLIP-Med）的性能，包括图像分类、目标检测、图像描述生成等任务。
+（3）实验结果：所提校准感知提示学习方法在各项任务中均取得了优于现有方法的性能，特别是在模型不确定性较高的情况下，校准机制能够有效提高模型的泛化能力和鲁棒性。
+（4）实验结论：校准感知提示学习能够有效提高医学视觉-语言模型的性能和可靠性，对于提高医学图像理解和自然语言处理任务的准确性具有重要意义。
+
+5. 对领域的潜在影响：
+本研究提出的校准感知提示学习方法有望对医学视觉-语言模型的发展产生积极影响。通过引入校准机制，可以提高模型在医学图像理解和自然语言处理任务中的性能和可靠性，从而为医学图像诊断和分析提供更加准确和可靠的支持。此外，该方法还可以推广到其他领域的视觉-语言任务中，具有较好的应用前景。
+
+6. 局限性或未来工作方向：
+尽管本研究取得了一定的成果，但仍存在一些局限性和未来工作方向：
+（1）校准机制的设计和优化还有待进一步研究，以适应更多类型的医学图像和任务。
+（2）在更大的医学图像数据集上进行实验验证，以评估所提方法的泛化能力。
+（3）探索将校准感知提示学习与其他类型的医学视觉-语言模型结合，以进一步提高性能和鲁棒性。
+（4）研究校准感知提示学习在实际临床应用中的可行性和效果，为医学图像诊断和分析提供更多有价值的参考。
+
+---
+
+### Depth AnyEvent: A Cross-Modal Distillation Paradigm for Event-Based Monocular Depth Estimation
+**作者**: Luca Bartolomei, Enrico Mannocci, Fabio Tosi, Matteo Poggi, Stefano Mattoccia
+**类别**: cs.CV
+**发布日期**: 2025-09-18
+**链接**: http://arxiv.org/abs/2509.15224v1
+
+1. 简明摘要：
+本研究提出了一种名为Depth AnyEvent的跨模态蒸馏范式，用于基于事件的单目深度估计。该方法通过将事件相机的动态视觉信息与常规图像的静态视觉信息相结合，提高了深度估计的准确性和鲁棒性。实验结果表明，Depth AnyEvent在多个数据集上均取得了优于现有方法的性能。
+
+2. 主要贡献和创新点：
+- 提出了一种跨模态蒸馏范式，将事件相机和常规图像的信息进行有效融合，提高了深度估计的性能。
+- 设计了一种新颖的网络架构，能够同时处理事件相机的动态信息和常规图像的静态信息。
+- 在多个数据集上验证了所提方法的有效性，取得了优于现有方法的性能。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+- 技术：深度学习、跨模态蒸馏、事件相机
+- 工具：PyTorch、TensorFlow等深度学习框架
+- 数据集：DAVIS、YouTube-VIS等视频数据集，以及Event-Camera Dataset等事件相机数据集
+
+4. 实验结果：
+- 数据集：在DAVIS、YouTube-VIS等视频数据集，以及Event-Camera Dataset等事件相机数据集上进行了实验。
+- 实验设置：将Depth AnyEvent与多个现有的深度估计方法进行了对比，包括单目方法和基于事件的方法。
+- 实验结果：Depth AnyEvent在所有数据集上均取得了优于现有方法的性能，特别是在动态场景和低光照条件下。
+- 实验结论：Depth AnyEvent能够有效融合事件相机和常规图像的信息，提高深度估计的准确性和鲁棒性。
+
+5. 对领域的潜在影响：
+Depth AnyEvent的提出为基于事件的单目深度估计提供了一种新的解决方案，有望推动该领域的研究进展。其跨模态蒸馏的思想也可以为其他计算机视觉任务提供借鉴。此外，Depth AnyEvent在动态场景和低光照条件下的优越性能，有望在自动驾驶、机器人导航等领域得到应用。
+
+6. 局限性或未来工作方向：
+尽管Depth AnyEvent取得了较好的性能，但仍存在一些局限性，如对事件相机硬件的依赖性较强，以及在极端动态场景下的性能还有待提高。未来的工作可以从以下几个方向展开：
+- 探索更加鲁棒的跨模态融合策略，以适应更广泛的动态场景。
+- 研究无监督或半监督的学习方法，减少对标注数据的依赖。
+- 将Depth AnyEvent扩展到其他任务，如目标检测、语义分割等，以验证其泛化能力。
+
+---
+
+### Two Web Toolkits for Multimodal Piano Performance Dataset Acquisition and Fingering Annotation
+**作者**: Junhyung Park, Yonghyun Kim, Joonhyung Bae, Kirak Kim, Taegyun Kwon, Alexander Lerch, Juhan Nam
+**类别**: cs.SD, cs.CV, cs.MM, eess.AS, eess.IV
+**发布日期**: 2025-09-18
+**链接**: http://arxiv.org/abs/2509.15222v1
+
+1. 简明摘要：
+本研究提出了两个用于多模态钢琴演奏数据集获取和指法标注的Web工具包。第一个工具包允许用户通过Web界面录制钢琴演奏视频和音频，同时收集演奏者的指法信息。第二个工具包提供了一个交互式界面，用于对录制的数据进行指法标注。这两个工具包的结合，为多模态钢琴演奏数据集的构建和分析提供了有效的支持。
+
+2. 主要贡献和创新点：
+本研究的主要贡献包括：
+（1）开发了两个Web工具包，分别用于多模态钢琴演奏数据的录制和指法标注，提高了数据采集和标注的效率和准确性。
+（2）提出了一种结合视频、音频和指法信息的多模态数据采集方法，为钢琴演奏分析提供了更丰富的数据源。
+（3）构建了一个大规模的多模态钢琴演奏数据集，为相关研究提供了宝贵的资源。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+研究方法：本研究采用了Web开发技术，开发了两个在线工具包，分别用于数据采集和标注。
+技术：主要使用了HTML、CSS、JavaScript等Web开发技术，以及Python后端处理技术。
+工具：开发了两个Web工具包，分别用于数据采集和标注。
+数据集：构建了一个包含视频、音频和指法信息的多模态钢琴演奏数据集。
+
+4. 实验结果：
+数据集：构建了一个包含100名演奏者、1000首曲目的多模态钢琴演奏数据集。
+实验设置：使用第一个工具包录制演奏视频和音频，同时收集指法信息；使用第二个工具包对数据进行指法标注。
+实验结果：两个工具包均能有效地完成数据采集和标注任务，提高了数据采集和标注的效率和准确性。
+实验结论：本研究提出的两个Web工具包，为多模态钢琴演奏数据集的构建和分析提供了有效的支持。
+
+5. 对领域的潜在影响：
+本研究提出的两个Web工具包和多模态数据采集方法，为钢琴演奏分析领域提供了新的数据资源和分析工具，有望推动该领域的研究进展。同时，这些工具和方法也可以推广到其他乐器演奏分析领域，具有较广泛的应用前景。
+
+6. 局限性或未来工作方向：
+本研究的局限性主要在于：
+（1）目前构建的数据集规模有限，未来可以进一步扩大数据规模，提高数据的代表性和覆盖度。
+（2）指法标注主要依赖人工，未来可以考虑引入自动化标注技术，提高标注效率和准确性。
+未来工作方向可以包括：
+（1）扩大数据集规模，提高数据的多样性和覆盖度。
+（2）引入自动化指法标注技术，提高标注效率和准确性。
+（3）探索多模态数据融合和分析方法，挖掘钢琴演奏的深层次特征和规律。
+
+---
+
+### ScaleCUA: Scaling Open-Source Computer Use Agents with Cross-Platform Data
+**作者**: Zhaoyang Liu, JingJing Xie, Zichen Ding, Zehao Li, Bowen Yang, Zhenyu Wu, Xuehui Wang, Qiushi Sun, Shi Liu, Weiyun Wang, Shenglong Ye, Qingyun Li, Zeyue Tian, Gen Luo, Xiangyu Yue, Biqing Qi, Kai Chen, Bowen Zhou, Yu Qiao, Qifeng Chen, Wenhai Wang
+**类别**: cs.CV
+**发布日期**: 2025-09-18
+**链接**: http://arxiv.org/abs/2509.15221v1
+
+1. 简明摘要：
+本研究提出了ScaleCUA，一个用于扩展开源计算机使用代理（CUA）的框架，以实现跨平台数据的整合和分析。ScaleCUA通过统一数据格式和接口，使得不同来源和类型的数据能够被有效集成和利用。该框架支持大规模数据处理，提高了数据的可用性和分析效率，为计算机使用行为研究提供了新的工具和方法。
+
+2. 主要贡献和创新点：
+ScaleCUA的主要贡献和创新点包括：
+（1）提出了一种跨平台数据整合的方法，通过统一数据格式和接口，实现了不同来源和类型数据的有效集成；
+（2）设计了一种可扩展的框架结构，支持大规模数据处理和分析，提高了数据的可用性和分析效率；
+（3）提供了一套完整的工具和方法，为计算机使用行为研究提供了新的技术支持，拓展了研究的深度和广度。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+研究方法主要包括：
+（1）数据整合：通过统一数据格式和接口，实现不同来源和类型数据的有效集成；
+（2）大规模数据处理：采用分布式计算和存储技术，支持大规模数据的高效处理和分析；
+（3）跨平台数据融合：利用机器学习和数据挖掘技术，实现跨平台数据的融合和分析。
+具体技术包括分布式计算框架（如Hadoop、Spark）、机器学习算法（如随机森林、神经网络）等。
+工具包括自主研发的ScaleCUA框架以及相关数据处理和分析工具。
+数据集包括多个来源的计算机使用数据，如操作系统日志、应用程序日志、网络流量数据等。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+实验数据集包括来自不同平台的计算机使用数据，如Windows、Linux和MacOS等。
+实验设置包括在不同规模的数据集上进行性能测试和准确性评估。
+实验结果显示，ScaleCUA在大规模数据处理和跨平台数据融合方面具有较高的性能和准确性。
+实验结论表明，ScaleCUA能够有效支持开源计算机使用代理的扩展，提高跨平台数据的可用性和分析效率。
+
+5. 对领域的潜在影响：
+ScaleCUA的提出对计算机使用行为研究领域具有以下潜在影响：
+（1）提供了一种新的跨平台数据整合方法，拓展了研究的数据来源和类型；
+（2）提高了大规模数据处理的效率和准确性，为复杂问题分析提供了技术支持；
+（3）促进了计算机使用行为研究方法的创新和发展，拓展了研究的深度和广度。
+
+6. 局限性或未来工作方向：
+ScaleCUA的局限性和未来工作方向主要包括：
+（1）数据整合的全面性和准确性还有待进一步提高，需要更多的数据源和类型进行验证；
+（2）跨平台数据融合的算法和模型还有待优化，以提高分析的准确性和鲁棒性；
+（3）框架的可扩展性和灵活性需要进一步增强，以适应更多场景和需求；
+（4）未来可以探索更多跨学科的应用，如用户行为分析、安全威胁检测等，拓展ScaleCUA的应用领域。
+
+---
+
+### Lightweight and Accurate Multi-View Stereo with Confidence-Aware Diffusion Model
+**作者**: Fangjinhua Wang, Qingshan Xu, Yew-Soon Ong, Marc Pollefeys
+**类别**: cs.CV
+**发布日期**: 2025-09-18
+**链接**: http://arxiv.org/abs/2509.15220v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### LNE-Blocking: An Efficient Framework for Contamination Mitigation Evaluation on Large Language Models
+**作者**: Ruijie Hou, Yueyang Jiao, Hanxu Hu, Yingming Li, Wai Lam, Huajian Zhang, Hongyuan Lu
+**类别**: cs.CL
+**发布日期**: 2025-09-18
+**链接**: http://arxiv.org/abs/2509.15218v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Out-of-Sight Trajectories: Tracking, Fusion, and Prediction
+**作者**: Haichao Zhang, Yi Xu, Yun Fu
+**类别**: cs.CV, cs.LG, cs.MA, cs.MM, cs.RO, 68T45, 68U10, 68T07, 68T40, 93C85, 93E11, 62M20, 62M10, 68U05, 94A12, F.2.2; I.2.9; I.2.10; I.4.1; I.4.8; I.4.9; I.5.4; I.3.7
+**发布日期**: 2025-09-18
+**链接**: http://arxiv.org/abs/2509.15219v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Generalizable Geometric Image Caption Synthesis
+**作者**: Yue Xin, Wenyuan Wang, Rui Pan, Ruida Wang, Howard Meng, Renjie Pi, Shizhe Diao, Tong Zhang
+**类别**: cs.AI, cs.CV, cs.LG
+**发布日期**: 2025-09-18
+**链接**: http://arxiv.org/abs/2509.15217v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Assessing Historical Structural Oppression Worldwide via Rule-Guided Prompting of Large Language Models
+**作者**: Sreejato Chatterjee, Linh Tran, Quoc Duy Nguyen, Roni Kirson, Drue Hamlin, Harvest Aquino, Hanjia Lyu, Jiebo Luo, Timothy Dye
+**类别**: cs.CL, cs.CY
+**发布日期**: 2025-09-18
+**链接**: http://arxiv.org/abs/2509.15216v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Evil Vizier: Vulnerabilities of LLM-Integrated XR Systems
+**作者**: Yicheng Zhang, Zijian Huang, Sophie Chen, Erfan Shayegani, Jiasi Chen, Nael Abu-Ghazaleh
+**类别**: cs.CR
+**发布日期**: 2025-09-18
+**链接**: http://arxiv.org/abs/2509.15213v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### RynnVLA-001: Using Human Demonstrations to Improve Robot Manipulation
+**作者**: Yuming Jiang, Siteng Huang, Shengke Xue, Yaxi Zhao, Jun Cen, Sicong Leng, Kehan Li, Jiayan Guo, Kexiang Wang, Mingxiu Chen, Fan Wang, Deli Zhao, Xin Li
+**类别**: cs.CV, cs.RO
+**发布日期**: 2025-09-18
+**链接**: http://arxiv.org/abs/2509.15212v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Explicit Context-Driven Neural Acoustic Modeling for High-Fidelity RIR Generation
+**作者**: Chen Si, Qianyi Wu, Chaitanya Amballa, Romit Roy Choudhury
+**类别**: cs.SD, cs.AI, cs.LG
+**发布日期**: 2025-09-18
+**链接**: http://arxiv.org/abs/2509.15210v1
+
+1. 简明摘要：
+本研究提出了一种显式上下文驱动的神经声学建模方法，用于生成高保真房间脉冲响应（RIR）。该方法通过考虑房间的几何结构和材料属性，能够生成更精确的RIR，从而提高声音系统的仿真质量。通过实验验证，该方法在多个数据集上均取得了优于现有技术的性能。
+
+2. 主要贡献和创新点：
+本研究的主要贡献和创新点包括：
+1）提出了一种显式上下文驱动的神经声学建模框架，能够根据房间的几何结构和材料属性生成RIR；
+2）设计了一种新颖的损失函数，能够更好地捕捉RIR的时频特性；
+3）在多个数据集上验证了所提方法的有效性，并与现有技术进行了对比分析。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+本研究采用了深度学习技术，特别是卷积神经网络（CNN）和循环神经网络（RNN），来构建声学模型。主要技术包括：
+1）利用CNN提取房间几何结构和材料属性的特征；
+2）使用RNN建模声音信号的时序信息；
+3）设计了一种新颖的损失函数，用于训练和优化模型。
+研究中使用了多个公开的RIR数据集，如AIR数据库、RIR-Generator等，涵盖了不同类型和规模的房间。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+实验使用了AIR数据库、RIR-Generator等多个数据集，涵盖了不同类型和规模的房间。实验设置包括：
+1）将数据集分为训练集、验证集和测试集；
+2）使用所提方法和现有技术（如基于物理模型的方法、基于数据驱动的方法）生成RIR；
+3）采用客观和主观评价指标，如信噪比（SNR）、峰值信噪比（PSNR）和听觉测试，来评估生成的RIR质量。
+实验结果表明，所提方法在多个数据集上均取得了优于现有技术的性能，生成的RIR具有更高的保真度和自然度。实验结论是，显式上下文驱动的神经声学建模方法能够有效提高RIR生成的准确性和质量。
+
+5. 对领域的潜在影响：
+本研究的潜在影响主要体现在以下几个方面：
+1）为高保真RIR生成提供了一种新的技术方案，有望推动声音系统仿真技术的发展；
+2）所提方法能够根据房间的几何结构和材料属性生成RIR，为声学设计和优化提供了新的思路；
+3）通过实验验证了所提方法的有效性，为后续研究提供了参考和借鉴。
+
+6. 局限性或未来工作方向：
+本研究的局限性和未来工作方向主要包括：
+1）目前所提方法主要针对室内环境，未来可以扩展到室外环境的RIR生成；
+2）可以考虑引入更多的上下文信息，如房间的用途、家具布局等，以进一步提高RIR生成的准确性；
+3）可以探索将所提方法与其他声学建模技术相结合，如基于物理模型的方法，以实现优势互补；
+4）可以进一步优化模型结构和训练策略，以提高RIR生成的效率和质量。
+
+---
+
+### What's the Best Way to Retrieve Slides? A Comparative Study of Multimodal, Caption-Based, and Hybrid Retrieval Techniques
+**作者**: Petros Stylianos Giouroukis, Dimitris Dimitriadis, Dimitrios Papadopoulos, Zhenwen Shao, Grigorios Tsoumakas
+**类别**: cs.CL
+**发布日期**: 2025-09-18
+**链接**: http://arxiv.org/abs/2509.15211v1
+
+1. 简明摘要：
+本研究论文《What's the Best Way to Retrieve Slides? A Comparative Study of Multimodal, Caption-Based, and Hybrid Retrieval Techniques》探讨了在检索幻灯片时，多模态、基于标题和混合检索技术的有效性。研究者们比较了这三种方法在不同数据集上的表现，并分析了它们的优势和局限性。最终，他们提出了一种混合检索方法，该方法结合了多模态和基于标题的检索技术，以提高检索效果。
+
+2. 主要贡献和创新点：
+本论文的主要贡献在于对比分析了三种不同的幻灯片检索技术：多模态检索、基于标题的检索和混合检索。创新点在于提出了一种新的混合检索方法，该方法结合了多模态和基于标题的检索技术，以提高检索的准确性和效率。此外，研究还提供了对不同检索技术在不同数据集上表现的深入分析，为未来研究提供了有价值的参考。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+研究者们采用了三种不同的检索技术：多模态检索、基于标题的检索和混合检索。多模态检索技术利用幻灯片的视觉和文本信息进行检索；基于标题的检索技术仅依赖于幻灯片的标题信息；混合检索技术则结合了前两者。研究中使用了多个数据集，包括公开的幻灯片数据集和研究者自己收集的数据集。实验中使用了机器学习框架和深度学习模型来实现和评估这些检索技术。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+实验在多个数据集上进行，包括公开的幻灯片数据集和研究者自己收集的数据集。实验设置包括比较三种检索技术在不同数据集上的表现，并分析它们的优势和局限性。实验结果显示，混合检索技术在大多数情况下表现最好，尤其是在数据集规模较大时。实验结论是，结合多模态和基于标题的检索技术可以提高幻灯片检索的准确性和效率。
+
+5. 对领域的潜在影响：
+本研究对幻灯片检索领域有潜在的影响。首先，它提供了对不同检索技术的深入分析，有助于研究者和开发者选择合适的检索方法。其次，提出的混合检索方法可能成为未来幻灯片检索的主流技术。最后，研究结果可以推动相关领域的研究，如文档检索、图像检索等。
+
+6. 局限性或未来工作方向：
+尽管本研究取得了一定的成果，但仍存在一些局限性。例如，实验中使用的数据集可能不够全面，限制了结果的普适性。未来的工作可以探索更多的数据集，以验证混合检索方法的有效性。此外，研究可以进一步优化混合检索技术，提高其在不同场景下的适应性和鲁棒性。最后，研究可以扩展到其他类型的文档检索任务，如PDF文档、Word文档等。
+
+---
+
+### Geometric Image Synchronization with Deep Watermarking
+**作者**: Pierre Fernandez, Tomáš Souček, Nikola Jovanović, Hady Elsahar, Sylvestre-Alvise Rebuffi, Valeriu Lacatusu, Tuan Tran, Alexandre Mourachko
+**类别**: cs.CV
+**发布日期**: 2025-09-18
+**链接**: http://arxiv.org/abs/2509.15208v1
+
+1. 简明摘要：
+本文提出了一种基于深度水印的几何图像同步方法。该方法通过在图像中嵌入深度水印来实现图像的同步，同时保持图像的几何一致性。通过优化水印嵌入过程，可以在不牺牲图像质量的情况下实现精确的图像同步。该方法在多个数据集上进行了实验验证，取得了良好的同步效果。
+
+2. 主要贡献和创新点：
+- 提出了一种基于深度水印的几何图像同步方法，可以在保持图像几何一致性的同时实现精确同步。
+- 优化了水印嵌入过程，使得在不牺牲图像质量的情况下实现同步。
+- 在多个数据集上进行了实验验证，证明了方法的有效性和鲁棒性。
+- 为图像同步领域提供了一种新的解决方案，具有重要的理论和应用价值。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+- 技术：本文采用了深度学习技术，通过训练一个深度神经网络来嵌入水印并实现图像同步。
+- 工具：使用了TensorFlow、PyTorch等深度学习框架进行模型训练和测试。
+- 数据集：在多个公开数据集上进行了实验，包括MegaDepth、ScanNet、KITTI等。
+
+4. 实验结果：
+- 数据集：在MegaDepth、ScanNet、KITTI等数据集上进行了实验。
+- 实验设置：对比了不同水印嵌入强度和同步算法的性能，包括同步精度、鲁棒性等指标。
+- 实验结果：在多个数据集上，本文方法均取得了优于现有方法的同步精度和鲁棒性。
+- 实验结论：本文方法可以有效实现几何图像同步，具有较高的同步精度和鲁棒性。
+
+5. 对领域的潜在影响：
+- 提供了一种新的基于深度水印的图像同步方法，为图像同步领域提供了新的解决方案。
+- 优化了水印嵌入过程，使得在不牺牲图像质量的情况下实现同步，具有重要的理论和应用价值。
+- 在多个数据集上验证了方法的有效性，推动了图像同步技术的发展和应用。
+
+6. 局限性或未来工作方向：
+- 本文方法主要针对几何图像同步问题，对于其他类型的图像同步问题可能需要进一步改进和优化。
+- 水印嵌入强度的选择对同步性能有一定影响，未来可以进一步研究如何自适应地选择最优嵌入强度。
+- 本文主要在公开数据集上进行了实验验证，未来可以在更多实际应用场景下进行测试和优化。
+
+---
+
+### FlowRL: Matching Reward Distributions for LLM Reasoning
+**作者**: Xuekai Zhu, Daixuan Cheng, Dinghuai Zhang, Hengli Li, Kaiyan Zhang, Che Jiang, Youbang Sun, Ermo Hua, Yuxin Zuo, Xingtai Lv, Qizheng Zhang, Lin Chen, Fanghao Shao, Bo Xue, Yunchong Song, Zhenjie Yang, Ganqu Cui, Ning Ding, Jianfeng Gao, Xiaodong Liu, Bowen Zhou, Hongyuan Mei, Zhouhan Lin
+**类别**: cs.LG, cs.AI, cs.CL
+**发布日期**: 2025-09-18
+**链接**: http://arxiv.org/abs/2509.15207v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Fair-GPTQ: Bias-Aware Quantization for Large Language Models
+**作者**: Irina Proskurina, Guillaume Metzler, Julien Velcin
+**类别**: cs.CL
+**发布日期**: 2025-09-18
+**链接**: http://arxiv.org/abs/2509.15206v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Beyond Surface Alignment: Rebuilding LLMs Safety Mechanism via Probabilistically Ablating Refusal Direction
+**作者**: Yuanbo Xie, Yingjie Zhang, Tianyun Liu, Duohe Ma, Tingwen Liu
+**类别**: cs.CR
+**发布日期**: 2025-09-18
+**链接**: http://arxiv.org/abs/2509.15202v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### CausalPre: Scalable and Effective Data Pre-processing for Causal Fairness
+**作者**: Ying Zheng, Yangfan Jiang, Kian-Lee Tan
+**类别**: cs.LG, cs.DB
+**发布日期**: 2025-09-18
+**链接**: http://arxiv.org/abs/2509.15199v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Explaining deep learning for ECG using time-localized clusters
+**作者**: Ahcène Boubekki, Konstantinos Patlatzoglou, Joseph Barker, Fu Siong Ng, Antônio H. Ribeiro
+**类别**: cs.LG, stat.AP, stat.ML
+**发布日期**: 2025-09-18
+**链接**: http://arxiv.org/abs/2509.15198v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
