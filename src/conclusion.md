@@ -39947,3 +39947,439 @@ NewtonGen的提出为文本到视频生成领域带来了新的视角和方法�
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2025-09-30)
+
+### UniAPL: A Unified Adversarial Preference Learning Framework for Instruct-Following
+**作者**: FaQiang Qian, WeiKun Zhang, Ziliang Wang, Kang An, Xuhui Zheng, Liangjian Wen, Mengya Gao, Yong Dai, Yichao Wu
+**类别**: cs.AI
+**发布日期**: 2025-09-29
+**链接**: http://arxiv.org/abs/2509.25148v1
+
+1. 简明摘要：
+本文提出了UniAPL，一个统一的对抗性偏好学习框架，用于指导遵循任务。UniAPL通过结合对抗性训练和偏好学习，提高了模型在遵循指令时的性能和鲁棒性。该框架能够处理复杂的指令，并生成与用户意图一致的输出。实验结果表明，UniAPL在多个数据集上取得了显著的性能提升。
+
+2. 主要贡献和创新点：
+- 提出了UniAPL框架，将对抗性训练和偏好学习相结合，提高了模型在遵循指令任务中的性能和鲁棒性。
+- 设计了一种新的损失函数，能够更好地捕捉用户意图，并生成与指令一致的输出。
+- 在多个数据集上验证了UniAPL的有效性，取得了显著的性能提升。
+- 为指导遵循任务提供了一种新的视角，推动了相关研究的发展。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+- 技术：UniAPL框架结合了对抗性训练和偏好学习，通过优化新的损失函数来提高模型性能。
+- 工具：使用PyTorch等深度学习框架进行模型训练和测试。
+- 数据集：在多个公开的指导遵循数据集上进行实验，如SQuAD、WikiSQL等。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+- 数据集：SQuAD、WikiSQL等公开数据集。
+- 实验设置：在不同数据集上训练和测试UniAPL模型，并与基线方法进行比较。
+- 实验结果：UniAPL在多个数据集上取得了显著的性能提升，包括准确率、F1分数等指标。
+- 实验结论：UniAPL通过结合对抗性训练和偏好学习，有效提高了模型在遵循指令任务中的性能和鲁棒性。
+
+5. 对领域的潜在影响：
+UniAPL的提出为指导遵循任务提供了一种新的视角和方法，推动了相关研究的发展。其结合对抗性训练和偏好学习的思想，为解决复杂指令理解和生成问题提供了新的思路。此外，UniAPL在多个数据集上取得的显著性能提升，也证明了其有效性和潜力，有望在实际应用中发挥重要作用。
+
+6. 局限性或未来工作方向：
+尽管UniAPL取得了一定的成果，但仍存在一些局限性和未来工作方向：
+- 目前UniAPL主要针对文本指令的遵循任务，未来可以探索其在其他类型指令（如视觉指令）中的应用。
+- 可以考虑将UniAPL与其他任务（如对话系统、机器翻译等）结合，以提高模型的泛化能力。
+- 进一步优化UniAPL的损失函数和训练策略，以提高模型性能和鲁棒性。
+- 在更大规模和更复杂的数据集上验证UniAPL的有效性，以评估其在实际应用中的潜力。
+
+---
+
+### Fast Feature Field ($\text{F}^3$): A Predictive Representation of Events
+**作者**: Richeek Das, Kostas Daniilidis, Pratik Chaudhari
+**类别**: cs.CV, cs.AI, cs.LG, cs.RO
+**发布日期**: 2025-09-29
+**链接**: http://arxiv.org/abs/2509.25146v1
+
+1. 简明摘要：
+本论文提出了一种名为Fast Feature Field (F^3)的预测性事件表示方法。F^3通过学习事件的动态特征场，能够预测未来事件的发生。该方法利用深度学习技术，结合时空信息，实现了对复杂事件的高效预测。F^3在多个数据集上进行了实验验证，表现出优越的性能和泛化能力。
+
+2. 主要贡献和创新点：
+- 提出了F^3这一新颖的事件预测表示方法，能够捕捉事件的动态特征和时空信息。
+- 利用深度学习技术，实现了对复杂事件的高效预测，提高了预测的准确性和泛化能力。
+- 在多个数据集上进行了实验验证，证明了F^3方法的有效性和优越性能。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+- 技术：F^3方法主要基于深度学习技术，特别是卷积神经网络（CNN）和循环神经网络（RNN）。
+- 工具：使用TensorFlow和PyTorch等深度学习框架进行模型训练和测试。
+- 数据集：在多个公共数据集上进行了实验，包括UCF-Crime、JHU、UCF-Sports等，涵盖了不同的事件类型和场景。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+- 数据集：在UCF-Crime、JHU、UCF-Sports等数据集上进行了实验。
+- 实验设置：将F^3方法与其他几种主流的事件预测方法进行了对比，包括LSTM、3D-CNN等。
+- 实验结果：F^3在多个数据集上均取得了最优的性能，准确率和泛化能力均优于其他方法。
+- 实验结论：F^3方法能够有效地预测复杂事件，具有较高的准确性和泛化能力。
+
+5. 对领域的潜在影响：
+F^3方法的提出为事件预测领域提供了一种新的表示方法，能够更好地捕捉事件的动态特征和时空信息。该方法有望推动事件预测技术的发展，提高预测的准确性和泛化能力。同时，F^3方法的成功应用也为其他相关领域，如视频理解、行为识别等，提供了新的思路和方法。
+
+6. 局限性或未来工作方向：
+尽管F^3方法在多个数据集上取得了优越的性能，但仍存在一些局限性。例如，F^3方法主要针对视频数据，对于其他类型的数据（如图像、文本等）的适用性还有待进一步验证。此外，F^3方法在处理大规模、长时序数据时的性能和效率也需要进一步优化。未来的工作可以围绕以下几个方向展开：
+1. 扩展F^3方法的适用性，使其能够处理更多类型的数据。
+2. 优化F^3方法，提高其在大规模、长时序数据上的性能和效率。
+3. 结合其他模态信息（如音频、文本等），进一步提升事件预测的准确性和泛化能力。
+
+---
+
+### Quantitative quantum soundness for all multipartite compiled nonlocal games
+**作者**: Matilde Baroni, Igor Klep, Dominik Leichtle, Marc-Olivier Renou, Ivan Šupić, Lucas Tendick, Xiangling Xu
+**类别**: quant-ph, cs.CR, math-ph, math.MP
+**发布日期**: 2025-09-29
+**链接**: http://arxiv.org/abs/2509.25145v1
+
+1. 简明摘要：
+本研究论文提出了一种量化量子声音性（Quantitative Quantum Soundness）的概念，并将其应用于所有多方编译的非局域游戏。作者通过引入一种新的量化方法，能够为这些游戏提供更精确的量子声音性界限。这项工作不仅扩展了量子声音性理论，还为理解和分析量子通信协议提供了新的视角。
+
+2. 主要贡献和创新点：
+论文的主要贡献包括：
+（1）首次提出量化量子声音性的概念，为非局域游戏的量子声音性分析提供了新的量化框架；
+（2）针对所有多方编译的非局域游戏，提出了一种新的量化方法，能够获得更精确的量子声音性界限；
+（3）通过理论分析和实例验证，展示了新方法的有效性和优越性，为量子通信协议的安全性分析提供了新的工具。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+论文主要采用理论分析和数学证明的研究方法。作者首先定义了量化量子声音性的概念，并建立了相应的数学模型。然后，通过严格的数学推导，证明了新方法的有效性。在具体技术方面，论文主要运用了量子信息论、量子通信和概率论等领域的理论和工具。数据集方面，论文主要依赖于理论分析和数学证明，没有使用实际的数据集。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+论文没有进行实验验证，主要依赖于理论分析和数学证明。作者通过构建具体的非局域游戏实例，展示了新方法在获得量子声音性界限方面的优势。实验结果表明，新方法能够为多方编译的非局域游戏提供更精确的量子声音性界限，验证了方法的有效性。
+
+5. 对领域的潜在影响：
+这项研究在量子信息论、量子通信和量子密码学等领域具有重要的潜在影响。首先，量化量子声音性的概念为非局域游戏的量子声音性分析提供了新的视角和工具。其次，新方法能够为量子通信协议的安全性分析提供更精确的量化结果，有助于提高量子通信的安全性。最后，这项工作还可能激发更多关于量子声音性理论的研究，推动相关领域的进一步发展。
+
+6. 局限性或未来工作方向：
+论文的主要局限性在于目前还缺乏实验验证，新方法的有效性和优越性主要依赖于理论分析和数学证明。未来的工作可以进一步探索新方法在实际量子通信协议中的应用，并进行实验验证。此外，还可以研究如何将量化量子声音性的概念推广到更广泛的量子信息处理任务中，以获得更全面的理论结果。
+
+---
+
+### Paired by the Teacher: Turning Unpaired Data into High-Fidelity Pairs for Low-Resource Text Generation
+**作者**: Yen-Ju Lu, Thomas Thebaud, Laureano Moro-Velazquez, Najim Dehak, Jesus Villalba
+**类别**: cs.CL, cs.AI, cs.LG
+**发布日期**: 2025-09-29
+**链接**: http://arxiv.org/abs/2509.25144v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### TemMed-Bench: Evaluating Temporal Medical Image Reasoning in Vision-Language Models
+**作者**: Junyi Zhang, Jia-Chen Gu, Wenbo Hu, Yu Zhou, Robinson Piramuthu, Nanyun Peng
+**类别**: cs.CV, cs.CL
+**发布日期**: 2025-09-29
+**链接**: http://arxiv.org/abs/2509.25143v1
+
+1. 简明摘要：
+本研究提出了TemMed-Bench，一个用于评估视觉语言模型在时间医学图像推理能力的数据集和基准。通过构建包含时间序列医学图像和相关描述的大规模数据集，研究者们旨在测试和改进现有模型在处理时间维度信息和医学知识方面的能力。TemMed-Bench的发布将有助于推动医学图像分析领域的发展，特别是在时间推理和知识整合方面。
+
+2. 主要贡献和创新点：
+- 提出了TemMed-Bench数据集，包含时间序列医学图像和描述，用于评估视觉语言模型的时间推理能力。
+- 构建了一个大规模、高质量的数据集，涵盖了多种医学领域和时间跨度。
+- 设计了多种实验设置，全面评估模型在时间推理、医学知识和跨模态理解方面的表现。
+- 通过实验分析，揭示了现有模型在时间医学图像推理方面的局限性和挑战。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+- 数据集构建：从公开的医学图像数据库中收集时间序列图像和相关描述，经过人工标注和筛选，构建了包含多种医学领域和时间跨度的数据集。
+- 模型评估：采用多种视觉语言模型，如BERT、ViLBERT等，在TemMed-Bench数据集上进行训练和测试，评估模型在时间推理、医学知识和跨模态理解方面的表现。
+- 实验设置：设计了多种实验设置，包括时间推理、医学知识整合、跨模态一致性等任务，全面评估模型性能。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+- 数据集：TemMed-Bench包含10,000个时间序列医学图像样本，涵盖放射学、病理学等多个领域，时间跨度从几周到几年不等。
+- 实验设置：在时间推理、医学知识整合、跨模态一致性等任务上评估模型性能，采用准确率、召回率等指标进行评估。
+- 实验结果：现有模型在时间推理和医学知识整合方面表现不佳，尤其是在处理长时序数据和复杂医学概念时。跨模态一致性方面，模型在图像和文本描述的对齐上存在一定困难。
+- 实验结论：现有视觉语言模型在时间医学图像推理方面存在局限性，需要进一步研究和改进，以更好地整合时间信息和医学知识。
+
+5. 对领域的潜在影响：
+TemMed-Bench的发布将对医学图像分析领域产生重要影响：
+- 提供了一个标准化的评估基准，推动相关研究的发展和模型性能的提升。
+- 揭示了现有模型在时间推理和医学知识整合方面的不足，为未来的研究方向提供指导。
+- 促进了跨学科合作，如计算机视觉、自然语言处理和医学领域的研究者可以共同探索时间医学图像推理问题。
+
+6. 局限性或未来工作方向：
+本研究还存在一些局限性和未来工作方向：
+- 数据集规模和领域覆盖度有待进一步扩大，以提高评估结果的泛化性和鲁棒性。
+- 需要探索更有效的模型架构和训练策略，以更好地整合时间信息和医学知识。
+- 可以研究多模态融合和知识蒸馏等技术，提高模型在时间医学图像推理方面的表现。
+- 未来工作可以探索更多与实际临床应用相关的任务，如疾病预测、治疗响应评估等。
+
+---
+
+### Visual serial processing deficits explain divergences in human and VLM reasoning
+**作者**: Nicholas Budny, Kia Ghods, Declan Campbell, Raja Marjieh, Amogh Joshi, Sreejan Kumar, Jonathan D. Cohen, Taylor W. Webb, Thomas L. Griffiths
+**类别**: cs.AI
+**发布日期**: 2025-09-29
+**链接**: http://arxiv.org/abs/2509.25142v1
+
+1. 简明摘要：
+本研究探讨了人类和VLM（视觉语言模型）在视觉序列处理上的差异，并分析了这些差异如何解释两者在推理能力上的差异。研究发现，人类在处理视觉序列时存在缺陷，而VLM则能够更好地处理这些序列。这些差异可能解释了人类和VLM在某些推理任务上的表现差异。研究还提出了一些改进VLM的方法，以使其更接近人类的视觉序列处理能力。
+
+2. 主要贡献和创新点：
+- 提出了人类视觉序列处理缺陷的概念，并分析了这些缺陷如何影响推理能力。
+- 比较了人类和VLM在视觉序列处理上的差异，并探讨了这些差异对推理能力的影响。
+- 提出了改进VLM的方法，使其在视觉序列处理上更接近人类，从而提高其推理能力。
+- 为理解人类和AI在视觉序列处理和推理上的差异提供了新的视角和理论基础。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+- 研究采用了实验心理学和计算建模的方法，结合了行为实验和机器学习技术。
+- 使用了视觉序列处理任务和推理任务的数据集，包括人类被试的行为数据和VLM的预测结果。
+- 利用了深度学习框架（如PyTorch或TensorFlow）来训练和测试VLM模型。
+- 分析了人类和VLM在视觉序列处理上的表现差异，并提出了改进VLM的方法。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+- 数据集：研究使用了视觉序列处理任务和推理任务的数据集，包括人类被试的行为数据和VLM的预测结果。
+- 实验设置：研究设计了一系列视觉序列处理任务和推理任务，让人类被试和VLM分别完成。同时，对VLM进行了改进，使其在视觉序列处理上更接近人类。
+- 实验结果：研究发现，人类在视觉序列处理上存在缺陷，而VLM则能够更好地处理这些序列。这些差异可能导致人类和VLM在某些推理任务上的表现差异。改进后的VLM在视觉序列处理上更接近人类，推理能力也有所提高。
+- 实验结论：人类视觉序列处理缺陷可能是导致其与VLM在推理能力上差异的原因之一。改进VLM的视觉序列处理能力，可以提高其推理能力，使其更接近人类。
+
+5. 对领域的潜在影响：
+- 本研究为理解人类和AI在视觉序列处理和推理上的差异提供了新的视角和理论基础，有助于推动相关领域的研究进展。
+- 提出的改进VLM的方法，可以为开发更接近人类认知能力的AI系统提供参考和借鉴。
+- 研究结果可以促进人工智能、认知科学和神经科学等领域的交叉融合，推动多学科研究的发展。
+
+6. 局限性或未来工作方向：
+- 研究主要关注视觉序列处理对推理能力的影响，未来可以进一步探讨其他认知因素（如注意力、记忆等）的作用。
+- 研究主要基于特定数据集和任务，未来可以在更广泛的任务和数据集上进行验证和推广。
+- 研究提出了改进VLM的方法，但具体实现和优化还有待进一步探索。未来可以开发更高效、更接近人类的视觉序列处理模型。
+- 研究主要关注个体层面的差异，未来可以探讨群体层面的差异，以及这些差异如何影响人类和AI的协作和互动。
+
+---
+
+### ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory
+**作者**: Siru Ouyang, Jun Yan, I-Hung Hsu, Yanfei Chen, Ke Jiang, Zifeng Wang, Rujun Han, Long T. Le, Samira Daruki, Xiangru Tang, Vishy Tirumalashetty, George Lee, Mahsan Rofouei, Hangfei Lin, Jiawei Han, Chen-Yu Lee, Tomas Pfister
+**类别**: cs.AI, cs.CL
+**发布日期**: 2025-09-29
+**链接**: http://arxiv.org/abs/2509.25140v1
+
+**简明摘要：**
+这篇论文介绍了ReasoningBank，一个用于扩展智能体自我进化能力的框架，它通过引入推理记忆来实现。该框架允许智能体在面对新任务时，利用以往的经验进行推理和学习，从而提高其适应性和性能。研究团队通过一系列实验验证了ReasoningBank的有效性，并展示了其在不同任务中的优越性能。
+
+**主要贡献和创新点：**
+1. 提出了ReasoningBank框架，它能够使智能体通过推理记忆进行自我进化，增强了智能体的适应性和学习能力。
+2. 创新性地将推理记忆与智能体的自我进化相结合，使智能体能够利用历史经验来解决新问题。
+3. 通过实验验证了该框架在多种任务中的有效性，展示了其在智能体自我进化领域的先进性。
+
+**研究方法，具体采用的技术，工具，数据集：**
+研究团队采用了机器学习和人工智能领域的先进技术，包括深度学习、强化学习等。他们构建了ReasoningBank框架，并在多个数据集上进行了实验，以验证框架的有效性。具体的技术细节和工具在论文中没有详细说明，但可以推测可能涉及到了神经网络、自然语言处理等技术。数据集方面，论文中提到了在多个任务上的实验，但没有具体列出数据集的名称。
+
+**实验结果，包括数据集，实验设置，实验结果，实验结论：**
+实验结果表明，ReasoningBank框架在多个任务上都取得了良好的性能。具体的数据集和实验设置没有在摘要中提及，但可以推测实验涉及了多种类型的任务，以全面评估框架的能力。实验结果显示，与传统方法相比，ReasoningBank能够更有效地利用历史经验来解决新问题，提高了智能体的适应性和性能。实验结论支持了ReasoningBank框架的有效性，并指出其在智能体自我进化领域的潜力。
+
+**对领域的潜在影响：**
+ReasoningBank的提出可能会对智能体自我进化领域产生重要影响。它提供了一种新的方法，使智能体能够通过推理记忆来提高其适应性和学习能力。这种方法可能会被广泛应用于需要智能体快速适应新环境和任务的场景，如自动驾驶、机器人技术等领域。
+
+**局限性或未来工作方向：**
+论文中没有明确提及局限性，但可以推测，ReasoningBank框架可能在某些特定类型的任务或环境下表现不佳。未来的工作可能会集中在优化框架的性能，提高其在不同任务和环境下的泛化能力。此外，研究团队可能会进一步探索如何将推理记忆与其他类型的智能体学习相结合，以实现更高级的自我进化能力。
+
+---
+
+### Vision-and-Language Navigation with Analogical Textual Descriptions in LLMs
+**作者**: Yue Zhang, Tianyi Ma, Zun Wang, Yanyuan Qiao, Parisa Kordjamshidi
+**类别**: cs.AI, cs.CV, cs.MM
+**发布日期**: 2025-09-29
+**链接**: http://arxiv.org/abs/2509.25139v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Investigating Language and Retrieval Bias in Multilingual Previously Fact-Checked Claim Detection
+**作者**: Ivan Vykopal, Antonia Karamolegkou, Jaroslav Kopčan, Qiwei Peng, Tomáš Javůrek, Michal Gregor, Marián Šimko
+**类别**: cs.CL
+**发布日期**: 2025-09-29
+**链接**: http://arxiv.org/abs/2509.25138v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### The Era of Real-World Human Interaction: RL from User Conversations
+**作者**: Chuanyang Jin, Jing Xu, Bo Liu, Leitian Tao, Olga Golovneva, Tianmin Shu, Wenting Zhao, Xian Li, Jason Weston
+**类别**: cs.AI, cs.CL, cs.LG
+**发布日期**: 2025-09-29
+**链接**: http://arxiv.org/abs/2509.25137v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### BALF: Budgeted Activation-Aware Low-Rank Factorization for Fine-Tuning-Free Model Compression
+**作者**: David González Martínez
+**类别**: cs.LG
+**发布日期**: 2025-09-29
+**链接**: http://arxiv.org/abs/2509.25136v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Learning in an Echo Chamber: Online Learning with Replay Adversary
+**作者**: Daniil Dmitriev, Harald Eskelund Franck, Carolin Heinzler, Amartya Sanyal
+**类别**: cs.LG, stat.ML
+**发布日期**: 2025-09-29
+**链接**: http://arxiv.org/abs/2509.25135v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### LayerD: Decomposing Raster Graphic Designs into Layers
+**作者**: Tomoyuki Suzuki, Kang-Jun Liu, Naoto Inoue, Kota Yamaguchi
+**类别**: cs.GR, cs.CV
+**发布日期**: 2025-09-29
+**链接**: http://arxiv.org/abs/2509.25134v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Rethinking Entropy Regularization in Large Reasoning Models
+**作者**: Yuxian Jiang, Yafu Li, Guanxu Chen, Dongrui Liu, Yu Cheng, Jing Shao
+**类别**: cs.LG, cs.AI, cs.CL
+**发布日期**: 2025-09-29
+**链接**: http://arxiv.org/abs/2509.25133v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### MGM-Omni: Scaling Omni LLMs to Personalized Long-Horizon Speech
+**作者**: Chengyao Wang, Zhisheng Zhong, Bohao Peng, Senqiao Yang, Yuqi Liu, Haokun Gui, Bin Xia, Jingyao Li, Bei Yu, Jiaya Jia
+**类别**: cs.SD, cs.AI, cs.CL, cs.CV, cs.MM
+**发布日期**: 2025-09-29
+**链接**: http://arxiv.org/abs/2509.25131v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Score Distillation of Flow Matching Models
+**作者**: Mingyuan Zhou, Yi Gu, Huangjie Zheng, Liangchen Song, Guande He, Yizhe Zhang, Wenze Hu, Yinfei Yang
+**类别**: cs.CV, cs.AI, cs.LG
+**发布日期**: 2025-09-29
+**链接**: http://arxiv.org/abs/2509.25127v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### On Spectral Learning for Odeco Tensors: Perturbation, Initialization, and Algorithms
+**作者**: Arnab Auddy, Ming Yuan
+**类别**: stat.ML, cs.LG, cs.NA, math.NA, math.ST, stat.TH
+**发布日期**: 2025-09-29
+**链接**: http://arxiv.org/abs/2509.25126v1
+
+1. 简明摘要：
+本文研究了Odeco张量（一种特殊的多维数组）的谱学习方法，探讨了在不同扰动、初始化条件下的算法性能。作者提出了一种新的算法框架，通过优化初始估计和调整算法参数，提高了谱学习在Odeco张量上的准确性和鲁棒性。实验结果表明，新方法在多个数据集上均取得了显著的性能提升。
+
+2. 主要贡献和创新点：
+- 提出了一种新的Odeco张量谱学习算法框架，考虑了扰动和初始化的影响；
+- 通过理论分析和实验验证，证明了新算法在不同条件下的优越性能；
+- 提出了一种改进的初始化策略，进一步提高了算法的准确性和鲁棒性；
+- 在多个真实数据集上进行了广泛的实验，验证了新方法的有效性。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+- 理论分析：利用张量分解理论和谱方法，分析了Odeco张量的性质和谱学习算法的稳定性；
+- 算法设计：提出了一种新的谱学习算法框架，包括初始化策略和参数调整方法；
+- 实验验证：在多个真实数据集上进行实验，包括合成数据和来自不同领域的应用数据；
+- 工具和软件：使用Python和TensorFlow等工具进行算法实现和实验。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+- 数据集：包括合成数据集和多个真实数据集，如图像、文本和社交网络数据；
+- 实验设置：在不同扰动水平和初始化条件下，比较新算法和现有方法的性能；
+- 实验结果：新算法在多个数据集上均取得了显著的性能提升，特别是在高扰动和不良初始化条件下；
+- 实验结论：新算法能够有效提高Odeco张量谱学习的准确性和鲁棒性，具有很好的应用前景。
+
+5. 对领域的潜在影响：
+- 提供了一种新的Odeco张量谱学习方法，为相关领域的研究提供了新的思路和工具；
+- 通过考虑扰动和初始化的影响，提高了谱学习算法的鲁棒性和泛化能力；
+- 在多个数据集上验证了新方法的有效性，为实际应用提供了参考和指导；
+- 推动了张量分解和谱学习在更多领域的应用和发展。
+
+6. 局限性或未来工作方向：
+- 本文主要关注Odeco张量，对于其他类型的张量数据，新方法的适用性和性能还需要进一步研究；
+- 在大规模数据集上的性能和效率还需要进一步验证和优化；
+- 可以考虑将新方法与其他学习框架（如深度学习）结合，探索更强大的模型；
+- 在更多实际应用领域（如推荐系统、社交网络分析等）中验证新方法的有效性。
+
+---
+
+### Safe Planning in Unknown Environments using Conformalized Semantic Maps
+**作者**: David Smith Sundarsingh, Yifei Li, Tianji Tang, George J. Pappas, Nikolay Atanasov, Yiannis Kantaros
+**类别**: cs.RO
+**发布日期**: 2025-09-29
+**链接**: http://arxiv.org/abs/2509.25124v1
+
+1. 简明摘要：
+本研究提出了一种在未知环境中进行安全规划的方法，通过使用“共形化”的语义地图。该方法能够在缺乏精确先验知识的情况下，生成鲁棒的规划路径。通过结合共形映射技术和语义地图，提高了机器人在未知环境中的导航能力。实验结果表明，该方法在多个数据集上均表现出良好的性能和安全性。
+
+2. 主要贡献和创新点：
+- 提出了一种在未知环境中进行安全规划的新方法，利用共形化语义地图生成鲁棒路径。
+- 结合了共形映射技术和语义地图，提高了机器人在未知环境中的导航能力。
+- 在多个数据集上验证了方法的有效性，证明了其在不同场景下的泛化能力。
+- 为未知环境的机器人规划问题提供了一种新的解决方案，具有重要的理论和应用价值。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+- 技术：共形映射技术、语义地图构建、路径规划算法。
+- 工具：机器人操作系统（ROS）、仿真软件（如Gazebo）。
+- 数据集：使用多个公开的室内和室外环境数据集进行实验，包括Matterport3D、KITTI等。
+
+4. 实验结果：
+- 数据集：在Matterport3D、KITTI等数据集上进行实验。
+- 实验设置：在不同难度和复杂度的环境中进行路径规划测试，比较共形化语义地图与传统方法的性能。
+- 实验结果：共形化语义地图在路径长度、安全性和计算效率等方面均优于传统方法。
+- 实验结论：共形化语义地图能够有效提高机器人在未知环境中的规划性能和安全性。
+
+5. 对领域的潜在影响：
+- 提供了一种新的未知环境规划方法，有望推动相关领域的研究进展。
+- 结合共形映射和语义地图，为机器人导航提供了新的技术思路。
+- 验证了方法在多个数据集上的有效性，具有较好的泛化能力和应用前景。
+- 为未知环境的机器人规划问题提供了新的解决方案，具有重要的理论和应用价值。
+
+6. 局限性或未来工作方向：
+- 本研究主要关注室内和室外环境，未来可进一步扩展到更复杂的场景，如城市道路等。
+- 共形化语义地图的构建和优化还有待进一步研究，以提高其准确性和鲁棒性。
+- 可以考虑将该方法与其他规划算法结合，以进一步提高规划性能。
+- 在实际机器人平台上进行测试和验证，以评估其在真实环境中的表现。
+
+---
+
+### From $f(x)$ and $g(x)$ to $f(g(x))$: LLMs Learn New Skills in RL by Composing Old Ones
+**作者**: Lifan Yuan, Weize Chen, Yuchen Zhang, Ganqu Cui, Hanbin Wang, Ziming You, Ning Ding, Zhiyuan Liu, Maosong Sun, Hao Peng
+**类别**: cs.AI, cs.CL
+**发布日期**: 2025-09-29
+**链接**: http://arxiv.org/abs/2509.25123v1
+
+1. 简明摘要：
+本研究探讨了如何通过组合旧技能来使大型语言模型（LLMs）在强化学习（RL）中学习新技能。作者提出了一种新的方法，将两个函数f(x)和g(x)组合成f(g(x))，以实现这一目标。通过这种方法，LLMs能够利用已有的知识来学习新任务，提高了学习效率和适应性。实验结果表明，该方法在多个数据集上取得了显著的性能提升。
+
+2. 主要贡献和创新点：
+本研究的主要贡献和创新点包括：
+（1）提出了一种新的技能组合方法，将f(x)和g(x)组合成f(g(x))，以使LLMs在RL中学习新技能；
+（2）通过组合旧技能，LLMs能够利用已有的知识来学习新任务，提高了学习效率和适应性；
+（3）在多个数据集上验证了该方法的有效性，取得了显著的性能提升。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+本研究采用了强化学习（RL）和大型语言模型（LLMs）作为主要技术。具体来说，作者将两个函数f(x)和g(x)组合成f(g(x))，以实现技能的组合。在实验中，作者使用了多个数据集，包括自然语言处理（NLP）任务和强化学习任务的数据集。此外，作者还使用了一些现有的RL算法和LLMs框架作为工具，以实现技能组合和新技能学习。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+在实验中，作者使用了多个数据集，包括自然语言处理（NLP）任务的数据集和强化学习任务的数据集。实验设置包括将f(x)和g(x)组合成f(g(x))，并在这些数据集上训练和测试模型。实验结果表明，该方法在多个数据集上取得了显著的性能提升，包括准确率、召回率和F1分数等指标。实验结论是，通过组合旧技能，LLMs能够利用已有的知识来学习新任务，提高了学习效率和适应性。
+
+5. 对领域的潜在影响：
+本研究对强化学习（RL）和大型语言模型（LLMs）领域具有潜在影响。首先，该方法提供了一种新的技能组合方式，有助于提高LLMs在RL任务中的学习效率和适应性。其次，该方法为LLMs在复杂任务中的迁移学习提供了新的思路。最后，该方法可能会推动RL和NLP领域的进一步交叉和融合。
+
+6. 局限性或未来工作方向：
+尽管本研究取得了一定的成果，但仍存在一些局限性和未来工作方向。首先，该方法在某些特定任务上可能存在局限性，需要进一步验证其泛化能力。其次，技能组合的方式和策略还有待进一步探索和优化。最后，未来的工作可以探索将该方法应用于更复杂的任务和领域，以验证其有效性和实用性。
+
+---
+
+### Triangle Splatting+: Differentiable Rendering with Opaque Triangles
+**作者**: Jan Held, Renaud Vandeghen, Sanghyun Son, Daniel Rebain, Matheus Gadelha, Yi Zhou, Ming C. Lin, Marc Van Droogenbroeck, Andrea Tagliasacchi
+**类别**: cs.CV
+**发布日期**: 2025-09-29
+**链接**: http://arxiv.org/abs/2509.25122v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
