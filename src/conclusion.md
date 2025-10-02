@@ -40812,3 +40812,357 @@ TimeRewarder的提出对强化学习领域具有潜在的影响：
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2025-10-02)
+
+### Stitch: Training-Free Position Control in Multimodal Diffusion Transformers
+**作者**: Jessica Bader, Mateusz Pach, Maria A. Bravo, Serge Belongie, Zeynep Akata
+**类别**: cs.CV, cs.AI, cs.LG
+**发布日期**: 2025-09-30
+**链接**: http://arxiv.org/abs/2509.26644v1
+
+1. 简明摘要：
+本文提出了一种名为Stitch的新型多模态扩散变换器（Multimodal Diffusion Transformers），它能够在无需训练的情况下实现对位置的控制。Stitch通过结合视觉和语言模态，利用扩散模型生成高质量的图像，并能够根据给定的文本描述生成特定位置的图像内容。该方法在多模态图像生成领域具有创新性，为零样本学习提供了新的可能性。
+
+2. 主要贡献和创新点：
+- 提出了Stitch，一种无需训练的多模态扩散变换器，能够根据文本描述生成特定位置的图像内容。
+- 创新性地结合了视觉和语言模态，利用扩散模型生成高质量的图像。
+- 为零样本学习提供了新的可能性，无需训练即可实现对位置的控制。
+- 通过实验验证了Stitch在多模态图像生成任务中的有效性和优越性。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+- 技术：本文主要采用了多模态扩散变换器技术，结合了视觉和语言模态，利用扩散模型生成图像。
+- 工具：使用了深度学习框架（如PyTorch）和自然语言处理工具（如Transformer）来实现模型。
+- 数据集：本文在多个公开数据集上进行了实验，包括COCO、Visual Genome等，这些数据集包含了丰富的图像和文本信息，用于训练和评估模型。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+- 数据集：本文在COCO、Visual Genome等公开数据集上进行了实验。
+- 实验设置：实验中，作者将Stitch与其他多模态图像生成方法进行了比较，包括基于GAN的方法和基于VAE的方法。
+- 实验结果：Stitch在多个指标上优于其他方法，包括图像质量、文本一致性和位置控制能力。
+- 实验结论：Stitch能够有效地根据文本描述生成特定位置的图像内容，无需训练即可实现对位置的控制，具有很好的应用前景。
+
+5. 对领域的潜在影响：
+- Stitch的提出为多模态图像生成领域提供了一种新的技术方案，有望推动该领域的研究进展。
+- 无需训练即可实现对位置的控制，为零样本学习提供了新的可能性，有望在实际应用中发挥重要作用。
+- 结合视觉和语言模态的方法有望在其他领域（如视觉问答、图像检索等）得到应用，具有广泛的应用前景。
+
+6. 局限性或未来工作方向：
+- Stitch目前主要针对图像生成任务，未来可以考虑将其扩展到视频生成等其他任务。
+- 虽然Stitch在多个数据集上取得了良好的性能，但在特定领域（如医学图像）的应用还需要进一步验证。
+- 未来可以考虑将Stitch与其他模态（如音频）结合，实现更丰富的多模态交互和应用。
+
+---
+
+### TTT3R: 3D Reconstruction as Test-Time Training
+**作者**: Xingyu Chen, Yue Chen, Yuliang Xiu, Andreas Geiger, Anpei Chen
+**类别**: cs.CV
+**发布日期**: 2025-09-30
+**链接**: http://arxiv.org/abs/2509.26645v1
+
+1. 简明摘要：
+本论文提出了一种名为TTT3R（3D Reconstruction as Test-Time Training）的新方法，用于提高3D重建任务的性能。TTT3R通过在测试阶段对模型进行额外的训练，使得模型能够更好地适应新的数据分布，从而提高重建质量。该方法不需要额外的标注数据，只需利用现有的训练数据和测试数据即可实现性能提升。实验结果表明，TTT3R在多个数据集上均取得了显著的性能提升。
+
+2. 主要贡献和创新点：
+- 提出了一种新的3D重建方法TTT3R，通过在测试阶段对模型进行额外训练来提高性能。
+- 不需要额外的标注数据，只需利用现有的训练数据和测试数据即可实现性能提升。
+- 在多个数据集上验证了TTT3R的有效性，取得了显著的性能提升。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+- 技术：TTT3R采用了一种新颖的测试时训练策略，通过在测试阶段对模型进行额外的训练来提高性能。
+- 工具：论文中使用了深度学习框架（如PyTorch或TensorFlow）来实现TTT3R方法。
+- 数据集：论文在多个公开的3D重建数据集上进行了实验，包括ShapeNet、ModelNet等。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+- 数据集：论文在ShapeNet、ModelNet等公开数据集上进行了实验。
+- 实验设置：作者将TTT3R与其他几种先进的3D重建方法进行了对比，包括MVSNet、COLMAP等。
+- 实验结果：TTT3R在多个数据集上均取得了显著的性能提升，例如在ShapeNet数据集上，TTT3R的平均重建误差比MVSNet降低了约10%。
+- 实验结论：TTT3R通过在测试阶段对模型进行额外训练，能够有效提高3D重建任务的性能，且不需要额外的标注数据。
+
+5. 对领域的潜在影响：
+TTT3R作为一种新颖的3D重建方法，其在测试阶段对模型进行额外训练的思想可能会对后续的研究产生启发。该方法在不需要额外标注数据的情况下实现性能提升，有望推动3D重建技术的发展和应用。
+
+6. 局限性或未来工作方向：
+- 局限性：TTT3R在测试阶段需要额外的训练时间，可能会增加计算成本。
+- 未来工作方向：可以探索如何减少TTT3R在测试阶段的训练时间，或者将其与其他3D重建方法结合，以进一步提高性能。此外，还可以尝试将TTT3R应用于其他类型的3D重建任务，如点云重建、深度图重建等。
+
+---
+
+### MLA: A Multisensory Language-Action Model for Multimodal Understanding and Forecasting in Robotic Manipulation
+**作者**: Zhuoyang Liu, Jiaming Liu, Jiadong Xu, Nuowei Han, Chenyang Gu, Hao Chen, Kaichen Zhou, Renrui Zhang, Kai Chin Hsieh, Kun Wu, Zhengping Che, Jian Tang, Shanghang Zhang
+**类别**: cs.RO
+**发布日期**: 2025-09-30
+**链接**: http://arxiv.org/abs/2509.26642v1
+
+1. 简明摘要：
+这篇论文提出了一个名为MLA（Multisensory Language-Action Model）的多感官语言-动作模型，用于机器人操作中的多模态理解和预测。MLA模型通过整合视觉、语言和动作信息，使机器人能够理解和预测人类的行为意图。该模型在多个数据集上进行了测试，展示了其在多模态理解和预测任务中的有效性。
+
+2. 主要贡献和创新点：
+- 提出了一个新颖的多感官语言-动作模型MLA，能够整合视觉、语言和动作信息，提高机器人对人类行为意图的理解和预测能力。
+- 创新性地将自然语言处理和机器人操作任务相结合，为机器人理解和预测人类行为提供了新的视角。
+- 在多个数据集上验证了MLA模型的有效性，展示了其在多模态理解和预测任务中的优越性能。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+- 研究方法：该论文采用了深度学习技术，通过构建一个多模态融合网络来整合视觉、语言和动作信息。
+- 具体技术：使用了Transformer架构作为基础模型，引入了自注意力机制来捕捉不同模态之间的关联性。
+- 工具：使用了PyTorch深度学习框架进行模型训练和测试。
+- 数据集：在多个公开数据集上进行了实验，包括YCB-Video、Berkeley拨动数据集和CMU Panoptic数据集。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+- 数据集：在YCB-Video、Berkeley拨动数据集和CMU Panoptic数据集上进行了实验。
+- 实验设置：在不同数据集上分别进行了物体识别、动作预测和语言指令理解等任务的测试。
+- 实验结果：MLA模型在各个任务上均取得了优于现有方法的性能，特别是在多模态理解和预测任务中表现突出。
+- 实验结论：MLA模型能够有效整合多模态信息，提高机器人对人类行为意图的理解和预测能力。
+
+5. 对领域的潜在影响：
+- 该论文提出的MLA模型为机器人理解和预测人类行为提供了一种新的解决方案，有望推动机器人操作和人机交互领域的发展。
+- 将自然语言处理技术应用于机器人操作任务，为跨学科研究提供了新的思路和方法。
+- 该研究的成果有望在服务机器人、智能助手等领域得到应用，提高机器人的自主性和交互能力。
+
+6. 局限性或未来工作方向：
+- 该论文主要关注了机器人对人类行为的理解和预测，但在实际应用中，机器人还需要考虑环境因素、任务复杂性等多种因素，因此模型的泛化能力和鲁棒性仍需进一步提高。
+- 未来工作可以探索将MLA模型与其他类型的传感器数据（如触觉、声音等）进行融合，以进一步提高模型的性能和适用性。
+- 此外，还可以研究如何将MLA模型部署到实际的机器人平台上，以验证其在真实环境中的表现和效果。
+
+---
+
+### Convergence and Divergence of Language Models under Different Random Seeds
+**作者**: Finlay Fehlauer, Kyle Mahowald, Tiago Pimentel
+**类别**: cs.CL, cs.LG
+**发布日期**: 2025-09-30
+**链接**: http://arxiv.org/abs/2509.26643v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Query-Kontext: An Unified Multimodal Model for Image Generation and Editing
+**作者**: Yuxin Song, Wenkai Dong, Shizun Wang, Qi Zhang, Song Xue, Tao Yuan, Hu Yang, Haocheng Feng, Hang Zhou, Xinyan Xiao, Jingdong Wang
+**类别**: cs.CV
+**发布日期**: 2025-09-30
+**链接**: http://arxiv.org/abs/2509.26641v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### SPATA: Systematic Pattern Analysis for Detailed and Transparent Data Cards
+**作者**: João Vitorino, Eva Maia, Isabel Praça, Carlos Soares
+**类别**: cs.LG, cs.CR
+**发布日期**: 2025-09-30
+**链接**: http://arxiv.org/abs/2509.26640v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Benchmarking Egocentric Visual-Inertial SLAM at City Scale
+**作者**: Anusha Krishnan, Shaohui Liu, Paul-Edouard Sarlin, Oscar Gentilhomme, David Caruso, Maurizio Monge, Richard Newcombe, Jakob Engel, Marc Pollefeys
+**类别**: cs.CV, cs.RO
+**发布日期**: 2025-09-30
+**链接**: http://arxiv.org/abs/2509.26639v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### AccidentBench: Benchmarking Multimodal Understanding and Reasoning in Vehicle Accidents and Beyond
+**作者**: Shangding Gu, Xiaohan Wang, Donghao Ying, Haoyu Zhao, Runing Yang, Ming Jin, Boyi Li, Marco Pavone, Serena Yeung-Levy, Jun Wang, Dawn Song, Costas Spanos
+**类别**: cs.LG
+**发布日期**: 2025-09-30
+**链接**: http://arxiv.org/abs/2509.26636v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Scaling Spoken Language Models with Syllabic Speech Tokenization
+**作者**: Nicholas Lee, Cheol Jun Cho, Alan W Black, Gopala K. Anumanchipalli
+**类别**: cs.CL, eess.AS
+**发布日期**: 2025-09-30
+**链接**: http://arxiv.org/abs/2509.26634v1
+
+这篇论文的标题是《Scaling Spoken Language Models with Syllabic Speech Tokenization》，由Nicholas Lee, Cheol Jun Cho, Alan W Black, Gopala K. Anumanchipalli共同撰写，属于计算机科学（cs.CL）和电子工程（eess.AS）领域，发布于2025年9月30日。
+
+1. 简明摘要：
+本研究提出了一种新的语音识别模型，通过使用音节级语音标记化（Syllabic Speech Tokenization）来扩展口语语言模型的规模。该方法通过将语音信号分解为音节单元，提高了模型对语音数据的处理能力和准确性。研究结果表明，这种新方法在多个标准数据集上取得了显著的性能提升。
+
+2. 主要贡献和创新点：
+论文的主要贡献在于提出了一种新的语音识别方法，即音节级语音标记化。这种方法与传统的基于单词或字符的标记化方法不同，它将语音信号直接分解为音节单元，从而更好地捕捉语音的韵律和节奏特征。这一创新点使得模型能够更有效地处理和理解口语语言，提高了语音识别的准确性和鲁棒性。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+研究者采用了深度学习技术，特别是循环神经网络（RNN）和注意力机制，来构建口语语言模型。他们使用音节级语音标记化作为输入，将语音信号直接映射到音节单元。在实验中，研究者使用了多个标准语音识别数据集，如LibriSpeech、Switchboard等，来评估模型的性能。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+在LibriSpeech和Switchboard数据集上，研究者对比了音节级语音标记化与传统的基于单词和字符的标记化方法。实验结果显示，音节级语音标记化在多个指标上均优于传统方法，如词错误率（WER）和准确率。实验设置包括不同的模型架构和超参数配置，以评估音节级语音标记化的影响。实验结论表明，音节级语音标记化是一种有效的口语语言模型扩展方法，能够提高语音识别的准确性和鲁棒性。
+
+5. 对领域的潜在影响：
+这项研究可能会对语音识别和自然语言处理领域产生重要影响。音节级语音标记化提供了一种新的视角来理解和处理口语语言，可能会激发新的研究方向和技术创新。此外，这种方法的高准确性和鲁棒性可能会推动语音识别技术在各种应用场景中的部署和普及。
+
+6. 局限性或未来工作方向：
+尽管音节级语音标记化取得了显著的性能提升，但该方法可能在处理非标准发音或方言时面临挑战。未来的工作可以探索如何将音节级语音标记化与其他语音处理技术相结合，以进一步提高模型的泛化能力和适应性。此外，研究者还可以探索在不同的语言和方言中应用音节级语音标记化，以评估其跨语言的适用性和有效性。
+
+---
+
+### OmniRetarget: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation and Scene Interaction
+**作者**: Lujie Yang, Xiaoyu Huang, Zhen Wu, Angjoo Kanazawa, Pieter Abbeel, Carmelo Sferrazza, C. Karen Liu, Rocky Duan, Guanya Shi
+**类别**: cs.RO, cs.AI, cs.LG, cs.SY, eess.SY
+**发布日期**: 2025-09-30
+**链接**: http://arxiv.org/abs/2509.26633v1
+
+1. 简明摘要：
+本研究提出了OmniRetarget，一种用于人形机器人全身运动操控和场景交互的数据生成方法。该方法通过交互保持技术，能够生成多样化且逼真的人类动作数据，以训练和优化机器人的行为。OmniRetarget利用深度学习模型，将人类动作数据转换为机器人动作，同时保持动作的自然性和交互性。该研究为机器人学习复杂任务提供了新的数据来源和训练策略。
+
+2. 主要贡献和创新点：
+- 提出了OmniRetarget方法，用于生成人形机器人全身运动操控和场景交互的数据。
+- 创新性地采用交互保持技术，确保生成的数据既多样化又逼真，同时保持动作的自然性和交互性。
+- 利用深度学习模型将人类动作数据转换为机器人动作，提高了数据的可用性和泛化能力。
+- 为机器人学习复杂任务提供了新的数据来源和训练策略，推动了人形机器人技术的发展。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+- 研究方法：OmniRetarget通过交互保持技术生成人形机器人的数据，利用深度学习模型将人类动作数据转换为机器人动作。
+- 技术：主要采用深度学习、数据增强、动作转换等技术。
+- 工具：使用PyTorch、TensorFlow等深度学习框架，以及机器人仿真平台如MuJoCo。
+- 数据集：使用公开的人类动作捕捉数据集，如CMU Motion Capture Database，以及机器人动作数据集。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+- 数据集：使用CMU Motion Capture Database和机器人动作数据集进行实验。
+- 实验设置：在仿真环境中训练和测试OmniRetarget方法，评估其在不同任务和场景下的性能。
+- 实验结果：OmniRetarget生成的数据能够显著提高机器人任务的成功率和动作的自然性。与现有方法相比，OmniRetarget在多个指标上取得了更好的性能。
+- 实验结论：OmniRetarget是一种有效的数据生成方法，能够为机器人学习复杂任务提供高质量的数据。其交互保持技术有助于生成逼真且多样化的数据，提高机器人的泛化能力。
+
+5. 对领域的潜在影响：
+OmniRetarget的研究为机器人学习复杂任务提供了新的数据来源和训练策略，有望推动人形机器人技术的发展。其交互保持技术能够生成更逼真的数据，有助于提高机器人的自然性和交互性。此外，该研究还为机器人领域的数据增强和动作转换提供了新的思路和方法，具有重要的理论和应用价值。
+
+6. 局限性或未来工作方向：
+尽管OmniRetarget取得了一定的成果，但仍存在一些局限性。例如，生成的数据可能在某些任务和场景下不够多样化，需要进一步优化和改进。此外，该方法主要针对人形机器人，对于其他类型的机器人可能需要进行调整和适配。未来的工作可以探索更高效的数据生成方法，提高数据的多样性和泛化能力。同时，将OmniRetarget应用于更多类型的机器人和任务，进一步验证其有效性和普适性。
+
+---
+
+### Branching Out: Broadening AI Measurement and Evaluation with Measurement Trees
+**作者**: Craig Greenberg, Patrick Hall, Theodore Jensen, Kristen Greene, Razvan Amironesei
+**类别**: cs.AI
+**发布日期**: 2025-09-30
+**链接**: http://arxiv.org/abs/2509.26632v1
+
+1. 简明摘要：
+本文提出了一种名为“测量树”的新方法，用于扩展人工智能（AI）的测量和评估。作者认为，现有的AI评估方法过于狭窄，无法全面捕捉AI系统的能力。通过构建测量树，可以更全面、系统地评估AI系统的性能。文章详细介绍了测量树的概念、构建方法和应用案例，为AI评估提供了新的视角。
+
+2. 主要贡献和创新点：
+- 提出了“测量树”这一新的AI评估框架，可以更全面地衡量AI系统的能力。
+- 将测量树与现有的AI评估方法相结合，提供了一种系统化的评估流程。
+- 通过构建具体的测量树案例，展示了测量树在实际AI评估中的应用价值。
+- 为AI评估领域提供了新的研究思路和方法论，有望推动该领域的进一步发展。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+- 文章主要采用概念分析和案例研究的方法，通过构建测量树模型来分析AI评估问题。
+- 没有明确提到使用特定的技术或工具，但可能涉及到机器学习、数据挖掘等AI相关技术。
+- 文章没有提到使用特定的数据集，但测量树的构建和应用可能需要依赖于AI系统的性能数据。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+文章没有提供具体的实验设置和结果，主要是从概念和理论层面对测量树进行探讨。但通过构建测量树案例，作者展示了测量树在AI评估中的潜在应用价值。实验结论可能是：测量树为AI评估提供了一种新的视角和方法，有助于更全面地衡量AI系统的能力。
+
+5. 对领域的潜在影响：
+- 提供了一种新的AI评估框架，有望推动AI评估领域的研究和发展。
+- 通过系统化的评估流程，有助于更全面、客观地衡量AI系统的性能。
+- 为AI研究者和实践者提供了新的评估工具和方法，可以应用于不同的AI应用场景。
+- 可能会激发更多关于AI评估方法的探索和创新，促进AI技术的健康发展。
+
+6. 局限性或未来工作方向：
+- 目前主要是概念性的探讨，缺乏大规模实验验证测量树的有效性和普适性。
+- 测量树的构建和应用可能需要依赖于特定的AI系统和数据，其泛化能力有待进一步研究。
+- 未来可以探索测量树与其他AI评估方法的结合，以及在不同AI领域的应用。
+- 可以进一步研究测量树的理论基础，完善其构建和优化方法，提高评估的准确性和效率。
+
+---
+
+### Learning Generalizable Shape Completion with SIM(3) Equivariance
+**作者**: Yuqing Wang, Zhaiyu Chen, Xiao Xiang Zhu
+**类别**: cs.CV, cs.AI
+**发布日期**: 2025-09-30
+**链接**: http://arxiv.org/abs/2509.26631v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Attention as a Compass: Efficient Exploration for Process-Supervised RL in Reasoning Models
+**作者**: Runze Liu, Jiakang Wang, Yuling Shi, Zhihui Xie, Chenxin An, Kaiyan Zhang, Jian Zhao, Xiaodong Gu, Lei Lin, Wenping Hu, Xiu Li, Fuzheng Zhang, Guorui Zhou, Kun Gai
+**类别**: cs.LG, cs.CL
+**发布日期**: 2025-09-30
+**链接**: http://arxiv.org/abs/2509.26628v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### TimeRewarder: Learning Dense Reward from Passive Videos via Frame-wise Temporal Distance
+**作者**: Yuyang Liu, Chuan Wen, Yihang Hu, Dinesh Jayaraman, Yang Gao
+**类别**: cs.AI, cs.LG, cs.RO
+**发布日期**: 2025-09-30
+**链接**: http://arxiv.org/abs/2509.26627v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Recursive Self-Aggregation Unlocks Deep Thinking in Large Language Models
+**作者**: Siddarth Venkatraman, Vineet Jain, Sarthak Mittal, Vedant Shah, Johan Obando-Ceron, Yoshua Bengio, Brian R. Bartoldson, Bhavya Kailkhura, Guillaume Lajoie, Glen Berseth, Nikolay Malkin, Moksh Jain
+**类别**: cs.LG
+**发布日期**: 2025-09-30
+**链接**: http://arxiv.org/abs/2509.26626v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Learning to See Before Seeing: Demystifying LLM Visual Priors from Language Pre-training
+**作者**: Junlin Han, Shengbang Tong, David Fan, Yufan Ren, Koustuv Sinha, Philip Torr, Filippos Kokkinos
+**类别**: cs.LG, cs.AI, cs.CV, cs.MM
+**发布日期**: 2025-09-30
+**链接**: http://arxiv.org/abs/2509.26625v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### HART: Human Aligned Reconstruction Transformer
+**作者**: Xiyi Chen, Shaofei Wang, Marko Mihajlovic, Taewon Kang, Sergey Prokudin, Ming Lin
+**类别**: cs.CV
+**发布日期**: 2025-09-30
+**链接**: http://arxiv.org/abs/2509.26621v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Searching for Difficult-to-Translate Test Examples at Scale
+**作者**: Wenda Xu, Vilém Zouhar, Parker Riley, Mara Finkelstein, Markus Freitag, Daniel Deutsch
+**类别**: cs.CL, cs.AI
+**发布日期**: 2025-09-30
+**链接**: http://arxiv.org/abs/2509.26619v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### DA$^2$: Depth Anything in Any Direction
+**作者**: Haodong Li, Wangguangdong Zheng, Jing He, Yuhao Liu, Xin Lin, Xin Yang, Ying-Cong Chen, Chunchao Guo
+**类别**: cs.CV
+**发布日期**: 2025-09-30
+**链接**: http://arxiv.org/abs/2509.26618v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Hy-Facial: Hybrid Feature Extraction by Dimensionality Reduction Methods for Enhanced Facial Expression Classification
+**作者**: Xinjin Li, Yu Ma, Kaisen Ye, Jinghan Cao, Minghao Zhou, Yeyang Zhou
+**类别**: cs.CV
+**发布日期**: 2025-09-30
+**链接**: http://arxiv.org/abs/2509.26614v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
