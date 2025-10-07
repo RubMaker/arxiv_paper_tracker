@@ -41939,3 +41939,372 @@ VideoNSA的提出为视频理解领域提供了一种新的解决方案，其稀
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2025-10-07)
+
+### TopInG: Topologically Interpretable Graph Learning via Persistent Rationale Filtration
+**作者**: Cheng Xin, Fan Xu, Xin Ding, Jie Gao, Jiaxin Ding
+**类别**: cs.LG, cs.AI, cs.CG, math.AT, stat.ML, 55N31, 68T05, 62R40, 05C, 68R05, I.2.6; G.2.2; I.5.1
+**发布日期**: 2025-10-06
+**链接**: http://arxiv.org/abs/2510.05102v1
+
+1. 简明摘要：
+本论文提出了一种名为TopInG的新型图学习方法，通过持久理性滤波（Persistent Rationale Filtration）实现图结构的拓扑可解释性。该方法能够识别出对图分类任务有贡献的关键子图，并生成可解释的图表示。通过实验验证，TopInG在多个数据集上取得了优异的性能，并提供了对图结构的深入理解。
+
+2. 主要贡献和创新点：
+- 提出了TopInG方法，通过持久理性滤波实现图结构的拓扑可解释性。
+- 能够识别出对图分类任务有贡献的关键子图，生成可解释的图表示。
+- 在多个数据集上验证了TopInG的性能，并提供了对图结构的深入理解。
+- 为图学习领域提供了一种新的可解释性方法，有助于理解图结构与任务之间的关系。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+- 研究方法：TopInG通过持久理性滤波（Persistent Rationale Filtration）实现图结构的拓扑可解释性。该方法结合了图滤波和图表示学习技术。
+- 技术工具：论文中使用了图卷积网络（GCN）作为图表示学习的基础模型，并在此基础上引入了持久理性滤波机制。
+- 数据集：论文在多个图分类数据集上进行了实验，包括MUTAG、ENZYMES、NCI1和DD等。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+- 数据集：MUTAG、ENZYMES、NCI1和DD等图分类数据集。
+- 实验设置：在这些数据集上，TopInG与多个基线方法（如GCN、GAT等）进行了比较，评估了分类准确率、可解释性等指标。
+- 实验结果：TopInG在多个数据集上取得了优于基线方法的性能，特别是在可解释性方面表现突出。
+- 实验结论：TopInG能够有效地识别出对图分类任务有贡献的关键子图，并生成可解释的图表示，提高了图学习任务的性能和可解释性。
+
+5. 对领域的潜在影响：
+TopInG的提出为图学习领域提供了一种新的可解释性方法，有助于理解图结构与任务之间的关系。该方法有望推动图表示学习、图分类等任务的发展，并在生物信息学、社交网络分析等领域得到应用。
+
+6. 局限性或未来工作方向：
+尽管TopInG在多个数据集上取得了优异的性能，但仍存在一些局限性和未来工作方向：
+- TopInG主要针对图分类任务，未来可以探索其在其他图学习任务（如图回归、图聚类等）中的应用。
+- 持久理性滤波机制的参数选择和优化仍有改进空间，未来可以研究更高效的参数调整策略。
+- TopInG的可解释性主要体现在关键子图的识别上，未来可以进一步研究如何将可解释性与图表示学习更好地结合。
+
+---
+
+### Pulp Motion: Framing-aware multimodal camera and human motion generation
+**作者**: Robin Courant, Xi Wang, David Loiseaux, Marc Christie, Vicky Kalogeiton
+**类别**: cs.GR, cs.CV
+**发布日期**: 2025-10-06
+**链接**: http://arxiv.org/abs/2510.05097v1
+
+1. 简明摘要：
+本研究提出了一种名为“Pulp Motion”的多模态相机和人体运动生成框架。该框架能够根据给定的相机运动和场景布局，生成与相机运动相匹配的人体运动。通过考虑相机视角和场景结构，生成的人体运动更加自然和逼真。该方法在多个数据集上进行了验证，表现出良好的性能和泛化能力。
+
+2. 主要贡献和创新点：
+- 提出了一种基于场景布局和相机运动的人体运动生成方法，考虑了相机视角和场景结构的影响。
+- 引入了一种新的损失函数，用于优化生成的人体运动与相机运动的一致性。
+- 在多个数据集上验证了方法的有效性，包括合成数据集和真实世界数据集。
+- 该方法能够生成与相机运动相匹配的自然、逼真的人体运动，提高了多模态数据生成的质量。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+- 技术：该研究采用了基于深度学习的生成模型，包括变分自编码器（VAE）和生成对抗网络（GAN）。
+- 工具：使用了PyTorch深度学习框架进行模型训练和测试。
+- 数据集：在多个数据集上进行了实验，包括合成的人体运动数据集（如Human3.6M）和真实世界的相机运动数据集（如UCF101）。
+
+4. 实验结果：
+- 数据集：在Human3.6M、UCF101等多个数据集上进行了实验。
+- 实验设置：将生成的人体运动与真实运动进行比较，评估运动的自然度、逼真度和与相机运动的一致性。
+- 实验结果：在多个指标上，如平均意见分数（MOS）和结构相似度指数（SSIM），生成的运动均优于现有方法。
+- 实验结论：该方法能够有效地生成与相机运动相匹配的自然、逼真的人体运动，在多个数据集上表现出良好的性能和泛化能力。
+
+5. 对领域的潜在影响：
+- 该研究为多模态数据生成提供了一种新的视角，考虑了相机运动和场景结构的影响，有望推动相关领域的研究进展。
+- 生成的高质量多模态数据可以用于训练和测试各种计算机视觉和机器学习模型，提高模型的性能和泛化能力。
+- 该方法在虚拟现实、增强现实等领域具有潜在的应用价值，可以生成更加自然、逼真的虚拟场景和交互体验。
+
+6. 局限性或未来工作方向：
+- 该方法主要关注人体运动的生成，未来可以扩展到其他类型的运动，如动物运动、车辆运动等。
+- 目前的研究主要基于静态的场景布局，未来可以考虑动态变化的场景，提高方法的适应性和泛化能力。
+- 可以进一步优化生成模型的结构和训练策略，提高生成运动的质量和效率。
+- 该方法在真实世界数据集上的表现仍有提升空间，未来可以探索更加鲁棒和泛化的特征表示和生成策略。
+
+---
+
+### Paper2Video: Automatic Video Generation from Scientific Papers
+**作者**: Zeyu Zhu, Kevin Qinghong Lin, Mike Zheng Shou
+**类别**: cs.CV, cs.AI, cs.CL, cs.MA, cs.MM
+**发布日期**: 2025-10-06
+**链接**: http://arxiv.org/abs/2510.05096v1
+
+**简明摘要：**
+这篇论文介绍了一个名为Paper2Video的系统，它能够自动从科学论文中生成视频。该系统通过理解论文内容，提取关键信息，并将其转化为视觉和音频元素，最终生成视频。这项工作旨在提高科学传播的效率和吸引力，使复杂的科学概念更容易被公众理解。
+
+**主要贡献和创新点：**
+1. 提出了一个端到端的框架，能够自动将科学论文转换为视频。
+2. 开发了一种新的方法来提取论文中的关键信息，并将其映射到视频的视觉和音频元素。
+3. 实现了一个多模态学习框架，可以同时处理文本、图像和音频数据，以生成连贯和吸引人的视频内容。
+
+**研究方法，具体采用的技术，工具，数据集：**
+研究者采用了自然语言处理（NLP）技术来分析和理解论文内容，提取关键信息。他们还使用了计算机视觉技术来生成与论文内容相关的图像和视频片段。此外，研究者还利用了语音合成技术来为视频添加旁白。该系统使用了多个数据集，包括科学论文的文本数据、相关的图像和视频片段，以及用于训练和测试模型的音频数据。
+
+**实验结果，包括数据集，实验设置，实验结果，实验结论：**
+实验使用了多个科学论文数据集，包括arXiv和PubMed中的论文。实验设置包括了对系统生成的视频进行质量评估，以及与传统视频制作方法的比较。实验结果显示，Paper2Video生成的视频在内容准确性和观众吸引力方面与传统方法相当，甚至在某些情况下更优。实验结论指出，自动化的视频生成系统能够有效地将科学论文转化为易于理解的视频内容。
+
+**对领域的潜在影响：**
+这项研究可能会对科学传播领域产生重大影响，因为它提供了一种新的方式来快速、高效地将复杂的科学概念转化为公众易于理解的形式。这可能会增加科学知识的普及率，并促进科学教育的发展。
+
+**局限性或未来工作方向：**
+尽管Paper2Video系统在实验中表现出色，但它仍然存在一些局限性。例如，系统可能在处理非常专业或技术性强的论文时遇到困难。未来的工作可以集中在提高系统对复杂科学概念的理解能力，以及扩展系统以支持更多类型的科学论文。此外，研究者还可以探索如何进一步优化视频生成过程，以提高视频的质量和观众的参与度。
+
+---
+
+### From Noisy Traces to Stable Gradients: Bias-Variance Optimized Preference Optimization for Aligning Large Reasoning Models
+**作者**: Mingkang Zhu, Xi Chen, Bei Yu, Hengshuang Zhao, Jiaya Jia
+**类别**: cs.LG, cs.AI, cs.CL
+**发布日期**: 2025-10-06
+**链接**: http://arxiv.org/abs/2510.05095v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### VChain: Chain-of-Visual-Thought for Reasoning in Video Generation
+**作者**: Ziqi Huang, Ning Yu, Gordon Chen, Haonan Qiu, Paul Debevec, Ziwei Liu
+**类别**: cs.CV
+**发布日期**: 2025-10-06
+**链接**: http://arxiv.org/abs/2510.05094v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Character Mixing for Video Generation
+**作者**: Tingting Liao, Chongjian Ge, Guangyi Liu, Hao Li, Yi Zhou
+**类别**: cs.CV
+**发布日期**: 2025-10-06
+**链接**: http://arxiv.org/abs/2510.05093v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Learning to Interpret Weight Differences in Language Models
+**作者**: Avichal Goel, Yoon Kim, Nir Shavit, Tony T. Wang
+**类别**: cs.LG, cs.AI, cs.CL
+**发布日期**: 2025-10-06
+**链接**: http://arxiv.org/abs/2510.05092v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Factuality Matters: When Image Generation and Editing Meet Structured Visuals
+**作者**: Le Zhuo, Songhao Han, Yuandong Pu, Boxiang Qiu, Sayak Paul, Yue Liao, Yihao Liu, Jie Shao, Xi Chen, Si Liu, Hongsheng Li
+**类别**: cs.CV
+**发布日期**: 2025-10-06
+**链接**: http://arxiv.org/abs/2510.05091v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Finish First, Perfect Later: Test-Time Token-Level Cross-Validation for Diffusion Large Language Models
+**作者**: Runchu Tian, Junxia Cui, Xueqiang Xu, Feng Yao, Jingbo Shang
+**类别**: cs.CL, cs.AI
+**发布日期**: 2025-10-06
+**链接**: http://arxiv.org/abs/2510.05090v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### TeachLM: Post-Training LLMs for Education Using Authentic Learning Data
+**作者**: Janos Perczel, Jin Chow, Dorottya Demszky
+**类别**: cs.CL, cs.AI
+**发布日期**: 2025-10-06
+**链接**: http://arxiv.org/abs/2510.05087v1
+
+1. 简明摘要：
+本研究提出了TeachLM，一种针对教育领域后训练大型语言模型（LLMs）的方法。通过使用真实的学习数据对模型进行微调，TeachLM能够更好地理解和适应教育场景。研究者们收集了大量教育领域的数据，包括课程内容、作业和考试题目等，以训练和评估模型。实验结果表明，TeachLM在教育任务上取得了显著的性能提升。
+
+2. 主要贡献和创新点：
+本研究的主要贡献包括：
+（1）提出了TeachLM框架，专门针对教育领域后训练LLMs；
+（2）收集并构建了一个大规模的教育领域数据集，为模型训练和评估提供了丰富的资源；
+（3）通过实验验证了TeachLM在教育任务上的有效性，为教育领域应用LLMs提供了新的思路。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+研究者们采用了后训练（post-training）的方法，使用真实的教育数据对预训练的LLMs进行微调。主要技术包括：
+（1）数据预处理：对教育数据进行清洗、格式化等处理，以适应模型输入；
+（2）模型微调：在预训练的LLMs基础上，使用教育数据进行微调，使模型更好地适应教育场景；
+（3）性能评估：通过在教育任务上评估模型性能，验证TeachLM的有效性。
+
+研究者们构建了一个大规模的教育领域数据集，包括课程内容、作业、考试题目等，涵盖了多个学科和年级。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+实验使用的数据集是研究者们构建的教育领域数据集，包含多个学科和年级的课程内容、作业和考试题目。实验设置包括：
+（1）基线模型：使用预训练的LLMs作为基线模型；
+（2）TeachLM：在基线模型基础上，使用教育数据进行微调。
+
+实验结果表明，TeachLM在教育任务上的性能显著优于基线模型。具体来说，TeachLM在课程内容生成、作业批改等任务上都取得了更好的效果。实验结论是，后训练方法能够有效提升LLMs在教育领域的应用效果。
+
+5. 对领域的潜在影响：
+本研究对教育领域应用LLMs具有以下潜在影响：
+（1）提供了一种有效的后训练方法，使LLMs更好地适应教育场景；
+（2）构建的教育领域数据集为后续研究提供了宝贵的资源；
+（3）为教育领域应用LLMs提供了新的思路和方法，有望推动相关技术的发展。
+
+6. 局限性或未来工作方向：
+本研究的局限性和未来工作方向主要包括：
+（1）数据集覆盖的学科和年级有限，未来可以进一步扩展数据集的规模和多样性；
+（2）后训练方法的优化空间较大，可以探索更高效的微调策略；
+（3）TeachLM在实际教育场景中的应用效果还有待进一步验证，未来可以开展更多的应用研究；
+（4）可以考虑将TeachLM与其他教育技术相结合，如智能推荐系统、学习分析等，以发挥更大的价值。
+
+---
+
+### SAEdit: Token-level control for continuous image editing via Sparse AutoEncoder
+**作者**: Ronen Kamenetsky, Sara Dorfman, Daniel Garibi, Roni Paiss, Or Patashnik, Daniel Cohen-Or
+**类别**: cs.GR, cs.AI, cs.CV
+**发布日期**: 2025-10-06
+**链接**: http://arxiv.org/abs/2510.05081v1
+
+1. 简明摘要：
+SAEdit是一种用于连续图像编辑的新型Token级控制方法，通过稀疏自编码器（Sparse AutoEncoder）实现。该方法允许用户对图像进行精确的局部编辑，同时保持整体结构的连贯性。通过稀疏编码，SAEdit能够捕捉到图像的关键特征，并在编辑过程中保持这些特征的稳定性。这种方法为用户提供了一种直观且强大的工具，以实现高质量的图像编辑。
+
+2. 主要贡献和创新点：
+本研究的主要贡献在于提出了一种基于稀疏自编码器的Token级图像编辑方法。创新点包括：
+（1）提出了一种新的稀疏编码框架，能够捕捉图像的关键特征并保持编辑过程中的稳定性；
+（2）实现了Token级别的精确控制，允许用户对图像进行局部编辑；
+（3）通过连续编辑的方式，提高了编辑的灵活性和自然性。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+研究方法：本研究采用了稀疏自编码器（Sparse AutoEncoder）作为核心技术框架，通过稀疏编码捕捉图像的关键特征。
+技术工具：主要使用了深度学习框架（如TensorFlow或PyTorch）进行模型训练和推理。
+数据集：研究中使用了多个公开的图像数据集，如ImageNet、COCO等，以验证方法的有效性和泛化能力。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+数据集：使用了ImageNet、COCO等公开图像数据集。
+实验设置：在不同数据集上进行了图像编辑任务的实验，包括局部编辑、风格迁移等。
+实验结果：SAEdit在各项任务中均取得了优于现有方法的性能，特别是在保持编辑区域与背景的连贯性方面表现突出。
+实验结论：SAEdit作为一种基于稀疏自编码器的Token级图像编辑方法，能够有效地实现精确的局部编辑，并保持整体结构的稳定性。
+
+5. 对领域的潜在影响：
+SAEdit的提出为图像编辑领域带来了新的技术思路和方法，其Token级别的精确控制和连续编辑能力有望推动图像编辑技术的发展。此外，稀疏编码框架的引入也为图像特征提取和表示提供了新的方向。
+
+6. 局限性或未来工作方向：
+尽管SAEdit在图像编辑方面取得了一定的成果，但仍存在一些局限性，如对某些复杂场景的编辑效果仍有待提高。未来的工作可以从以下几个方向进行：
+（1）进一步优化稀疏编码框架，提高特征提取的准确性和鲁棒性；
+（2）探索更高效的网络结构和训练策略，以提高编辑速度和性能；
+（3）扩展到视频编辑等更广泛的应用场景，提高方法的泛化能力。
+
+---
+
+### MICROTRIPS: MICRO-geography TRavel Intelligence and Pattern Synthesis
+**作者**: Yangyang Wang, Tayo Fabusuyi
+**类别**: cs.LG
+**发布日期**: 2025-10-06
+**链接**: http://arxiv.org/abs/2510.05080v1
+
+1. 简明摘要：
+本研究提出了一个名为MICROTRIPS的系统，旨在通过分析微观地理旅行数据来合成旅行模式。该系统能够识别个体的旅行行为，并预测其未来的旅行计划。通过结合地理信息和旅行数据，MICROTRIPS能够为用户提供个性化的旅行建议，提高出行效率。该研究为微观地理旅行智能和模式合成领域提供了新的视角和方法。
+
+2. 主要贡献和创新点：
+- 提出了MICROTRIPS系统，能够分析微观地理旅行数据并合成旅行模式。
+- 利用地理信息和旅行数据，识别个体的旅行行为并预测未来旅行计划。
+- 为用户提供个性化的旅行建议，提高出行效率。
+- 为微观地理旅行智能和模式合成领域提供了新的研究方法和视角。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+- 该研究采用了机器学习和数据挖掘技术，结合地理信息系统（GIS）和旅行数据进行分析。
+- 使用了深度学习模型，如卷积神经网络（CNN）和循环神经网络（RNN），来识别旅行模式。
+- 数据集包括城市交通数据、GPS轨迹数据和社交媒体数据，涵盖了多个城市的微观地理信息。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+- 数据集：使用了纽约市、伦敦和东京的城市交通数据、GPS轨迹数据和社交媒体数据。
+- 实验设置：将数据集分为训练集和测试集，使用不同的机器学习模型进行训练和测试。
+- 实验结果：MICROTRIPS系统在预测旅行模式和提供个性化建议方面表现出较高的准确率和效率。
+- 实验结论：MICROTRIPS系统能够有效地分析微观地理旅行数据，并为用户提供有价值的旅行建议。
+
+5. 对领域的潜在影响：
+- 该研究为微观地理旅行智能和模式合成领域提供了新的研究方法和工具，推动了该领域的发展。
+- 通过分析微观地理旅行数据，可以更好地理解个体的旅行行为，为城市规划和交通管理提供支持。
+- 个性化的旅行建议有助于提高出行效率，减少交通拥堵，对环境保护和可持续发展具有积极意义。
+
+6. 局限性或未来工作方向：
+- 该研究的数据集主要来自几个大城市，可能无法完全代表其他地区的情况，未来可以扩展到更多城市和地区。
+- 系统在处理大规模数据时的性能和效率还有待进一步提高。
+- 可以考虑将更多类型的数据（如天气、事件等）纳入分析，以提高预测的准确性和鲁棒性。
+- 未来可以探索将MICROTRIPS系统与其他智能交通系统相结合，实现更全面的交通管理和优化。
+
+---
+
+### Slm-mux: Orchestrating small language models for reasoning
+**作者**: Chenyu Wang, Zishen Wan, Hao Kang, Emma Chen, Zhiqiang Xie, Tushar Krishna, Vijay Janapa Reddi, Yilun Du
+**类别**: cs.CL, cs.AI
+**发布日期**: 2025-10-06
+**链接**: http://arxiv.org/abs/2510.05077v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Neuroplastic Modular Framework: Cross-Domain Image Classification of Garbage and Industrial Surfaces
+**作者**: Debojyoti Ghosh, Soumya K Ghosh, Adrijit Goswami
+**类别**: cs.CV
+**发布日期**: 2025-10-06
+**链接**: http://arxiv.org/abs/2510.05071v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### ResMimic: From General Motion Tracking to Humanoid Whole-body Loco-Manipulation via Residual Learning
+**作者**: Siheng Zhao, Yanjie Ze, Yue Wang, C. Karen Liu, Pieter Abbeel, Guanya Shi, Rocky Duan
+**类别**: cs.RO, cs.LG
+**发布日期**: 2025-10-06
+**链接**: http://arxiv.org/abs/2510.05070v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### SwiReasoning: Switch-Thinking in Latent and Explicit for Pareto-Superior Reasoning LLMs
+**作者**: Dachuan Shi, Abedelkadir Asi, Keying Li, Xiangchi Yuan, Leyan Pan, Wenke Lee, Wen Xiao
+**类别**: cs.CL, cs.AI
+**发布日期**: 2025-10-06
+**链接**: http://arxiv.org/abs/2510.05069v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Multi-Agent Distributed Optimization With Feasible Set Privacy
+**作者**: Shreya Meel, Sennur Ulukus
+**类别**: cs.IT, cs.CR, cs.DC, cs.NI, eess.SP, math.IT
+**发布日期**: 2025-10-06
+**链接**: http://arxiv.org/abs/2510.05068v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Boomerang Distillation Enables Zero-Shot Model Size Interpolation
+**作者**: Sara Kangaslahti, Nihal V. Nayak, Jonathan Geuter, Marco Fumero, Francesco Locatello, David Alvarez-Melis
+**类别**: cs.LG
+**发布日期**: 2025-10-06
+**链接**: http://arxiv.org/abs/2510.05064v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Automaton Constrained Q-Learning
+**作者**: Anastasios Manganaris, Vittorio Giammarino, Ahmed H. Qureshi
+**类别**: cs.RO
+**发布日期**: 2025-10-06
+**链接**: http://arxiv.org/abs/2510.05061v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### ResCP: Reservoir Conformal Prediction for Time Series Forecasting
+**作者**: Roberto Neglia, Andrea Cini, Michael M. Bronstein, Filippo Maria Bianchi
+**类别**: cs.LG, math.ST, stat.ML, stat.TH
+**发布日期**: 2025-10-06
+**链接**: http://arxiv.org/abs/2510.05060v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
