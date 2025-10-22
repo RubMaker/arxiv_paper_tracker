@@ -46578,3 +46578,507 @@ SparseVILA的研究可能会对视觉语言模型的部署和应用产生重要�
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2025-10-22)
+
+### Grasp Any Region: Towards Precise, Contextual Pixel Understanding for Multimodal LLMs
+**作者**: Haochen Wang, Yuhao Wang, Tao Zhang, Yikang Zhou, Yanwei Li, Jiacong Wang, Ye Tian, Jiahao Meng, Zilong Huang, Guangcan Mai, Anran Wang, Yunhai Tong, Zhuochen Wang, Xiangtai Li, Zhaoxiang Zhang
+**类别**: cs.CV, cs.AI, cs.CL
+**发布日期**: 2025-10-21
+**链接**: http://arxiv.org/abs/2510.18876v1
+
+1. 简明摘要：
+本研究提出了一种名为“Grasp Any Region”的新方法，旨在为多模态大型语言模型（LLMs）提供精确、上下文相关的像素理解能力。通过这种方法，模型能够更好地理解和处理图像中的任意区域，从而在多模态任务中实现更高的性能。研究团队通过引入上下文信息和像素级别的细节，显著提高了模型对图像内容的理解和处理能力。
+
+2. 主要贡献和创新点：
+本研究的主要贡献和创新点包括：
+- 提出了一种新的多模态LLMs框架，能够精确理解和处理图像中的任意区域；
+- 引入了上下文信息和像素级别的细节，显著提高了模型对图像内容的理解能力；
+- 在多个多模态任务中验证了所提方法的有效性，取得了显著的性能提升；
+- 为多模态LLMs的研究提供了新的思路和方法，推动了该领域的进一步发展。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+本研究采用了以下技术和工具：
+- 多模态大型语言模型（LLMs）作为基础框架；
+- 引入上下文信息和像素级别的细节，增强模型对图像内容的理解能力；
+- 使用注意力机制和变换器（Transformer）结构来处理图像和文本信息；
+- 在多个多模态任务中进行实验验证，包括图像描述、视觉问答等。
+
+研究中使用的数据集包括：
+- COCO图像描述数据集；
+- VQA视觉问答数据集；
+- Flickr30k图像描述数据集。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+实验设置：
+- 在COCO、VQA和Flickr30k数据集上进行实验验证；
+- 与现有的多模态LLMs方法进行对比；
+- 使用BLEU、METEOR、ROUGE等指标评估图像描述任务的性能；
+- 使用准确率、召回率等指标评估视觉问答任务的性能。
+
+实验结果：
+- 在COCO图像描述任务上，所提方法取得了显著的性能提升，BLEU、METEOR、ROUGE等指标均优于现有方法；
+- 在VQA视觉问答任务上，所提方法在准确率和召回率方面也取得了显著提升；
+- 在Flickr30k图像描述任务上，所提方法同样表现出色，各项指标均优于现有方法。
+
+实验结论：
+所提出的“Grasp Any Region”方法能够有效提高多模态LLMs对图像内容的理解能力，在多个多模态任务中取得了显著的性能提升。这表明引入上下文信息和像素级别的细节对于提高模型性能具有重要意义。
+
+5. 对领域的潜在影响：
+本研究对多模态LLMs领域具有以下潜在影响：
+- 提供了一种新的多模态LLMs框架，为后续研究提供了新的思路和方法；
+- 强调了上下文信息和像素级别细节在多模态任务中的重要性，为后续研究提供了新的研究方向；
+- 在多个多模态任务中验证了所提方法的有效性，推动了该领域的进一步发展；
+- 为多模态LLMs在实际应用中的性能提升提供了可能，具有重要的应用价值。
+
+6. 局限性或未来工作方向：
+尽管本研究取得了显著的成果，但仍存在一些局限性和未来工作方向：
+- 所提方法在处理大规模图像数据时的计算效率和实时性有待进一步提高；
+- 在更复杂的多模态任务中验证所提方法的有效性，如视频理解和交互式问答等；
+- 探索更多上下文信息和像素级别细节的融合方式，以进一步提高模型性能；
+- 研究如何将所提方法应用于其他类型的多模态数据，如音频和文本的结合等。
+
+---
+
+### Retaining by Doing: The Role of On-Policy Data in Mitigating Forgetting
+**作者**: Howard Chen, Noam Razin, Karthik Narasimhan, Danqi Chen
+**类别**: cs.LG, cs.CL
+**发布日期**: 2025-10-21
+**链接**: http://arxiv.org/abs/2510.18874v1
+
+1. 简明摘要：
+本研究探讨了在持续学习过程中，如何通过使用在线策略数据来减轻模型的遗忘问题。作者提出了一种新的方法，即通过在训练过程中保留和利用在线策略数据，来减缓模型在面对新任务时对旧任务知识的遗忘。这种方法有助于提高模型在多任务学习中的性能和稳定性。
+
+2. 主要贡献和创新点：
+本研究的主要贡献在于提出了一种新的在线策略数据保留方法，用于缓解模型在持续学习中的遗忘问题。创新点包括：
+1) 提出了在线策略数据保留的概念，并分析了其在减轻遗忘中的作用；
+2) 设计了一种新的训练框架，通过保留和利用在线策略数据来提高模型的多任务学习能力；
+3) 在多个数据集上进行了实验验证，证明了该方法的有效性和优越性。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+本研究采用了以下研究方法和技术：
+1) 提出了在线策略数据保留的概念，并分析了其在减轻遗忘中的作用；
+2) 设计了一种新的训练框架，通过保留和利用在线策略数据来提高模型的多任务学习能力；
+3) 使用了多种机器学习算法和模型，如神经网络、强化学习等；
+4) 在多个自然语言处理和机器学习数据集上进行了实验，如GLUE、SuperGLUE、WikiText等。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+实验在GLUE、SuperGLUE、WikiText等多个数据集上进行。实验设置包括：
+1) 将数据集划分为多个任务，并在这些任务上进行持续学习；
+2) 使用在线策略数据保留方法，并与其他基线方法进行比较；
+3) 评估模型在各个任务上的性能，如准确率、F1分数等。
+实验结果表明，使用在线策略数据保留方法的模型在多个任务上都取得了更好的性能，尤其是在面对新任务时，模型对旧任务知识的遗忘得到了有效缓解。实验结论支持了在线策略数据保留方法在减轻遗忘问题中的有效性。
+
+5. 对领域的潜在影响：
+本研究提出了一种新的在线策略数据保留方法，为解决持续学习中的遗忘问题提供了新的思路和方法。该方法有望在多任务学习、迁移学习等领域得到广泛应用，提高模型的学习能力和稳定性。同时，该研究也为理解在线策略数据在减轻遗忘中的作用提供了新的视角，有助于推动相关领域的研究进展。
+
+6. 局限性或未来工作方向：
+尽管本研究取得了一定的成果，但仍存在一些局限性和未来工作方向：
+1) 本研究主要关注在线策略数据保留方法在自然语言处理领域的应用，未来可以探索其在其他领域的应用潜力；
+2) 本研究提出的训练框架还有进一步优化和改进的空间，如引入更高效的数据选择和利用策略；
+3) 未来可以探索在线策略数据保留方法与其他方法（如正则化、重训练等）的结合，以进一步提高模型的多任务学习能力和稳定性。
+
+---
+
+### DSI-Bench: A Benchmark for Dynamic Spatial Intelligence
+**作者**: Ziang Zhang, Zehan Wang, Guanghao Zhang, Weilong Dai, Yan Xia, Ziang Yan, Minjie Hong, Zhou Zhao
+**类别**: cs.CV
+**发布日期**: 2025-10-21
+**链接**: http://arxiv.org/abs/2510.18873v1
+
+1. 简明摘要：
+本研究提出了DSI-Bench，一个用于评估动态空间智能（Dynamic Spatial Intelligence，DSI）的基准测试。DSI-Bench旨在衡量智能体在复杂环境中的导航、路径规划和空间推理能力。该基准测试包含多种任务和场景，以全面评估智能体在动态环境中的表现。通过DSI-Bench，研究人员可以更好地理解和改进智能体的空间智能。
+
+2. 主要贡献和创新点：
+- 提出了DSI-Bench，一个全面评估动态空间智能的基准测试。
+- 设计了多种任务和场景，以全面测试智能体在复杂环境中的表现。
+- 引入了动态环境和多智能体交互，以模拟现实世界中的复杂情况。
+- 提供了详细的评估指标和分析方法，以量化智能体的空间智能。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+- 研究方法：本研究采用了模拟环境和多任务评估的方法，以全面测试智能体的空间智能。
+- 技术：使用了深度学习和强化学习技术，以训练和评估智能体的行为。
+- 工具：开发了DSI-Bench平台，提供了任务定义、环境模拟和结果分析等功能。
+- 数据集：构建了一个包含多种任务和场景的数据集，以评估智能体在不同情况下的表现。
+
+4. 实验结果：
+- 数据集：DSI-Bench包含10个任务，涉及导航、路径规划和空间推理等方面。
+- 实验设置：在不同的环境和任务中评估了多种智能体算法，包括深度强化学习和传统方法。
+- 实验结果：DSI-Bench能够区分不同算法的性能，显示出算法在不同任务和场景下的优势和局限性。
+- 实验结论：DSI-Bench是一个有效的基准测试，可以全面评估智能体的动态空间智能。
+
+5. 对领域的潜在影响：
+DSI-Bench的提出为动态空间智能的研究提供了一个统一的评估平台，有助于推动该领域的研究进展。通过DSI-Bench，研究人员可以更好地理解智能体在复杂环境中的行为，发现现有算法的不足，并开发出更高效、更智能的空间智能算法。
+
+6. 局限性或未来工作方向：
+尽管DSI-Bench在评估动态空间智能方面取得了一定的成果，但仍存在一些局限性。例如，当前的数据集和任务可能无法完全覆盖所有可能的动态环境和场景。未来的工作可以进一步扩展数据集，增加更多的任务和场景，以提高DSI-Bench的泛化能力。此外，还可以探索新的评估指标和分析方法，以更全面地衡量智能体的空间智能。
+
+---
+
+### How Do LLMs Use Their Depth?
+**作者**: Akshat Gupta, Jay Yeung, Gopala Anumanchipalli, Anna Ivanova
+**类别**: cs.CL, cs.AI
+**发布日期**: 2025-10-21
+**链接**: http://arxiv.org/abs/2510.18871v1
+
+1. 简明摘要：
+本研究论文探讨了大型语言模型（LLMs）如何利用其深度来处理和理解语言。作者通过一系列实验分析了不同深度的LLMs在处理语言任务时的表现和行为。研究发现，随着模型深度的增加，LLMs在某些任务上的性能会提高，但在其他任务上可能没有显著变化。此外，论文还探讨了模型深度对LLMs处理长距离依赖和复杂结构的影响。
+
+2. 主要贡献和创新点：
+本论文的主要贡献和创新点包括：
+（1）系统地分析了不同深度的LLMs在处理语言任务时的表现和行为差异；
+（2）揭示了模型深度对LLMs处理长距离依赖和复杂结构的影响；
+（3）提出了一种新的视角来理解LLMs如何利用其深度，为未来LLMs的设计和优化提供了新的思路。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+本研究采用了以下研究方法和技术：
+（1）实验设计：作者设计了一系列实验来比较不同深度的LLMs在处理语言任务时的表现；
+（2）模型选择：研究中使用了多个不同深度的预训练LLMs，如GPT-2、GPT-3等；
+（3）任务选择：实验涉及多种语言任务，包括文本分类、问答、文本生成等；
+（4）数据集：使用了多个公开的语言数据集，如GLUE、SQuAD、WikiText等。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+实验结果表明：
+（1）数据集：使用了GLUE、SQuAD、WikiText等多个公开数据集；
+（2）实验设置：比较了不同深度的LLMs在各种语言任务上的表现；
+（3）实验结果：随着模型深度的增加，LLMs在某些任务上的性能会提高，但在其他任务上可能没有显著变化；模型深度对LLMs处理长距离依赖和复杂结构有影响；
+（4）实验结论：LLMs利用深度的方式因任务而异，需要根据具体任务来设计和优化模型。
+
+5. 对领域的潜在影响：
+本研究对LLMs领域的潜在影响主要体现在：
+（1）为理解LLMs如何利用深度提供了新的视角和方法；
+（2）揭示了模型深度对LLMs性能的影响，为未来模型设计和优化提供了指导；
+（3）推动了对LLMs处理长距离依赖和复杂结构的研究，有助于提高模型的理解和生成能力。
+
+6. 局限性或未来工作方向：
+本研究的局限性和未来工作方向包括：
+（1）实验主要关注预训练的LLMs，未来可以探索不同训练方法对模型深度利用的影响；
+（2）研究主要关注英文数据集，未来可以扩展到其他语言，分析模型深度在跨语言任务中的作用；
+（3）可以进一步探索模型深度与模型性能之间的关系，为模型压缩和加速提供新的思路。
+
+---
+
+### LightMem: Lightweight and Efficient Memory-Augmented Generation
+**作者**: Jizhan Fang, Xinle Deng, Haoming Xu, Ziyan Jiang, Yuqi Tang, Ziwen Xu, Shumin Deng, Yunzhi Yao, Mengru Wang, Shuofei Qiao, Huajun Chen, Ningyu Zhang
+**类别**: cs.CL, cs.AI, cs.CV, cs.LG, cs.MA
+**发布日期**: 2025-10-21
+**链接**: http://arxiv.org/abs/2510.18866v1
+
+1. 简明摘要：
+LightMem是一种轻量级且高效的基于记忆增强的生成模型。该研究提出了一种新颖的记忆增强机制，通过引入外部记忆模块来提高生成模型的性能和效率。LightMem通过优化记忆存储和访问策略，实现了在保持生成质量的同时显著降低模型复杂度和计算成本。该研究在多个自然语言处理任务上验证了LightMem的有效性。
+
+2. 主要贡献和创新点：
+- 提出了一种新颖的记忆增强机制，通过引入外部记忆模块来提高生成模型的性能和效率。
+- 优化了记忆存储和访问策略，显著降低了模型复杂度和计算成本，同时保持生成质量。
+- 在多个自然语言处理任务上验证了LightMem的有效性，证明了其在不同场景下的泛化能力。
+- 为轻量级生成模型的研究提供了新的思路和方法，推动了相关技术的发展。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+- 研究方法：该研究采用了基于记忆增强的生成模型框架，通过引入外部记忆模块来提高生成性能。
+- 技术：主要采用了深度学习和自然语言处理技术，包括循环神经网络（RNN）、长短期记忆网络（LSTM）和注意力机制等。
+- 工具：使用了PyTorch深度学习框架进行模型的实现和训练。
+- 数据集：在多个自然语言处理任务上进行了实验验证，包括机器翻译、文本摘要和对话生成等任务，使用了相应的公开数据集。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+- 数据集：使用了机器翻译（WMT）、文本摘要（CNN/DailyMail）和对话生成（DailyDialog）等公开数据集。
+- 实验设置：在不同任务上对比了LightMem和其他基线模型（如Seq2Seq、Transformer等）的性能，包括生成质量（BLEU、ROUGE等指标）和计算效率（模型大小、推理时间等）。
+- 实验结果：LightMem在各项任务上均取得了优于或接近基线模型的性能，同时显著降低了模型复杂度和计算成本。
+- 实验结论：LightMem是一种有效的轻量级生成模型，通过引入记忆增强机制，在保持生成质量的同时显著提高了计算效率。
+
+5. 对领域的潜在影响：
+- 为轻量级生成模型的研究提供了新的思路和方法，推动了相关技术的发展。
+- 通过优化记忆存储和访问策略，为生成模型的性能和效率提升提供了新的解决方案。
+- 在多个自然语言处理任务上验证了LightMem的有效性，证明了其在不同场景下的泛化能力，有望在实际应用中得到广泛使用。
+
+6. 局限性或未来工作方向：
+- 虽然在多个任务上验证了LightMem的有效性，但目前的研究还比较初步，未来可以在更多任务和场景下进行探索和验证。
+- 记忆增强机制的设计和优化还有很大的空间，未来可以探索更高效、更灵活的记忆访问策略。
+- 目前的研究主要关注生成模型的性能和效率，未来可以进一步考虑模型的可解释性和安全性等问题。
+
+---
+
+### Every Step Evolves: Scaling Reinforcement Learning for Trillion-Scale Thinking Model
+**作者**: Ling Team, Anqi Shen, Baihui Li, Bin Hu, Bin Jing, Cai Chen, Chao Huang, Chao Zhang, Chaokun Yang, Cheng Lin, Chengyao Wen, Congqi Li, Deng Zhao, Dingbo Yuan, Donghai You, Fagui Mao, Fanzhuang Meng, Feng Xu, Guojie Li, Guowei Wang, Hao Dai, Haonan Zheng, Hong Liu, Jia Guo, Jiaming Liu, Jian Liu, Jianhao Fu, Jiannan Shi, Jianwen Wang, Jianxin Lai, Jin Yang, Jun Mei, Jun Zhou, Junbo Zhao, Junping Zhao, Kuan Xu, Le Su, Lei Chen, Li Tang, Liang Jiang, Liangcheng Fu, Lianhao Xu, Linfeng Shi, Lisha Liao, Longfei Zheng, Meng Li, Mingchun Chen, Qi Zuo, Qiang Cheng, Qianggang Cao, Qitao Shi, Quanrui Guo, Senlin Zhu, Shaofei Wang, Shaomian Zheng, Shuaicheng Li, Shuwei Gu, Siba Chen, Tao Wu, Tao Zhang, Tianyu Zhang, Tianyu Zhou, Tiwei Bie, Tongkai Yang, Wang Hong, Wang Ren, Weihua Chen, Wenbo Yu, Wengang Zheng, Xiangchun Wang, Xiaodong Yan, Xiaopei Wan, Xin Zhao, Xinyu Kong, Xinyu Tang, Xudong Han, Xudong Wang, Xuemin Yang, Xueyu Hu, Yalin Zhang, Yan Sun, Yicheng Shan, Yilong Wang, Yingying Xu, Yongkang Liu, Yongzhen Guo, Yuanyuan Wang, Yuchen Yan, Yuefan Wang, Yuhong Guo, Zehuan Li, Zhankai Xu, Zhe Li, Zhenduo Zhang, Zhengke Gui, Zhenxuan Pan, Zhenyu Huang, Zhenzhong Lan, Zhiqiang Ding, Zhiqiang Zhang, Zhixun Li, Zhizhen Liu, Zihao Wang, Zujie Wen
+**类别**: cs.CL, cs.AI
+**发布日期**: 2025-10-21
+**链接**: http://arxiv.org/abs/2510.18855v1
+
+1. 简明摘要：
+这篇论文《Every Step Evolves: Scaling Reinforcement Learning for Trillion-Scale Thinking Model》由Ling Team等多位作者共同完成，探讨了如何将强化学习扩展到万亿规模的思维模型。研究团队提出了一种新的方法来处理大规模数据和复杂任务，通过逐步进化的方式优化模型。该研究旨在提高强化学习在处理大规模问题时的效率和效果，为人工智能领域的发展提供了新的视角。
+
+2. 主要贡献和创新点：
+该论文的主要贡献在于提出了一种新的强化学习框架，能够处理万亿级别的数据和复杂任务。创新点包括：
+- 提出了一种逐步进化的策略，使得模型能够在每一步中自我优化和调整，以适应不断变化的环境。
+- 开发了一种新的算法，能够有效地处理大规模数据，提高了模型的泛化能力和鲁棒性。
+- 通过实验验证了该方法在多个数据集上的有效性，展示了其在处理大规模问题时的优势。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+研究方法主要包括：
+- 强化学习：利用强化学习算法来训练模型，使其能够在环境中不断学习和进化。
+- 逐步进化策略：通过逐步调整模型参数，使模型能够适应不断变化的环境。
+- 大规模数据处理：开发了新的算法和技术来处理万亿级别的数据。
+技术工具包括：
+- 深度学习框架：如TensorFlow或PyTorch等，用于构建和训练模型。
+- 大数据处理工具：如Hadoop或Spark等，用于处理和分析大规模数据。
+数据集方面，论文中提到了多个数据集，但没有具体说明数据集的名称和来源。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+实验设置：
+- 使用了多个数据集进行实验，但没有具体说明数据集的名称和来源。
+- 实验中对比了新提出的方法与传统强化学习方法的性能。
+实验结果：
+- 新方法在多个数据集上都取得了显著的性能提升，包括准确率、鲁棒性和泛化能力等方面。
+- 与传统方法相比，新方法在处理大规模问题时具有明显的优势。
+实验结论：
+- 新提出的逐步进化策略和算法能够有效地处理万亿级别的数据和复杂任务。
+- 该方法在多个数据集上都表现出了优越的性能，证明了其有效性和实用性。
+
+5. 对领域的潜在影响：
+这篇论文的研究成果对强化学习领域具有重要的潜在影响：
+- 提供了一种新的视角和方法来处理大规模问题，推动了强化学习技术的发展。
+- 通过逐步进化策略和算法的创新，提高了模型的泛化能力和鲁棒性，为解决复杂任务提供了新的思路。
+- 该研究的成果有望在多个领域得到应用，如自动驾驶、机器人控制、自然语言处理等，进一步推动人工智能技术的发展。
+
+6. 局限性或未来工作方向：
+尽管该研究取得了显著的成果，但仍存在一些局限性和未来工作方向：
+- 数据集方面：论文中没有具体说明使用的数据集，这可能会影响结果的可复现性和泛化性。未来的工作可以考虑使用更多的公开数据集进行验证。
+- 算法优化：虽然提出了逐步进化策略，但算法的优化空间仍然很大。未来的研究可以进一步探索更高效的优化方法，以提高模型的性能和效率。
+- 应用领域：目前的研究主要集中在强化学习领域，未来的工作可以考虑将该方法应用到更多的领域，如自然语言处理、计算机视觉等，以验证其广泛的适用性。
+
+---
+
+### Lyapunov-Aware Quantum-Inspired Reinforcement Learning for Continuous-Time Vehicle Control: A Feasibility Study
+**作者**: Nutkritta Kraipatthanapong, Natthaphat Thathong, Pannita Suksawas, Thanunnut Klunklin, Kritin Vongthonglua, Krit Attahakul, Aueaphum Aueawatthanaphisut
+**类别**: quant-ph, cs.AI, cs.LG, cs.SY, eess.SY
+**发布日期**: 2025-10-21
+**链接**: http://arxiv.org/abs/2510.18852v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### DP$^2$O-SR: Direct Perceptual Preference Optimization for Real-World Image Super-Resolution
+**作者**: Rongyuan Wu, Lingchen Sun, Zhengqiang Zhang, Shihao Wang, Tianhe Wu, Qiaosi Yi, Shuai Li, Lei Zhang
+**类别**: cs.CV, cs.AI
+**发布日期**: 2025-10-21
+**链接**: http://arxiv.org/abs/2510.18851v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Towards Faithful and Controllable Personalization via Critique-Post-Edit Reinforcement Learning
+**作者**: Chenghao Zhu, Meiling Tao, Tiannan Wang, Dongyi Ding, Yuchen Eleanor Jiang, Wangchunshu Zhou
+**类别**: cs.CL, cs.AI
+**发布日期**: 2025-10-21
+**链接**: http://arxiv.org/abs/2510.18849v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### MADR: MPC-guided Adversarial DeepReach
+**作者**: Ryan Teoh, Sander Tonkens, William Sharpless, Aijia Yang, Zeyuan Feng, Somil Bansal, Sylvia Herbert
+**类别**: cs.RO, cs.SY, eess.SY
+**发布日期**: 2025-10-21
+**链接**: http://arxiv.org/abs/2510.18845v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### A Hybrid Enumeration Framework for Optimal Counterfactual Generation in Post-Acute COVID-19 Heart Failure
+**作者**: Jingya Cheng, Alaleh Azhir, Jiazi Tian, Hossein Estiri
+**类别**: cs.LG
+**发布日期**: 2025-10-21
+**链接**: http://arxiv.org/abs/2510.18841v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### See the Text: From Tokenization to Visual Reading
+**作者**: Ling Xing, Alex Jinpeng Wang, Rui Yan, Hongyu Qu, Zechao Li, Jinhui Tang
+**类别**: cs.CV, cs.CL
+**发布日期**: 2025-10-21
+**链接**: http://arxiv.org/abs/2510.18840v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### FedDEAP: Adaptive Dual-Prompt Tuning for Multi-Domain Federated Learning
+**作者**: Yubin Zheng, Pak-Hei Yeung, Jing Xia, Tianjie Ju, Peng Tang, Weidong Qiu, Jagath C. Rajapakse
+**类别**: cs.CV
+**发布日期**: 2025-10-21
+**链接**: http://arxiv.org/abs/2510.18837v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### MTraining: Distributed Dynamic Sparse Attention for Efficient Ultra-Long Context Training
+**作者**: Wenxuan Li, Chengruidong Zhang, Huiqiang Jiang, Yucheng Li, Yuqing Yang, Lili Qiu
+**类别**: cs.CL, cs.DC, cs.LG
+**发布日期**: 2025-10-21
+**链接**: http://arxiv.org/abs/2510.18830v1
+
+1. 简明摘要：
+本论文提出了一种名为MTraining的分布式动态稀疏注意力机制，旨在提高超长上下文训练的效率。MTraining通过动态调整注意力分布，减少了计算复杂度，同时保持了模型性能。该方法在大规模文本数据集上进行了验证，显示出显著的性能提升和计算资源的节省。
+
+2. 主要贡献和创新点：
+- 提出了MTraining框架，一种适用于超长上下文训练的分布式动态稀疏注意力机制。
+- 动态调整注意力分布，减少了不必要的计算，提高了训练效率。
+- 在大规模文本数据集上验证了MTraining的有效性，实现了性能提升和资源节省。
+- 为超长上下文训练提供了一种新的解决方案，具有重要的理论和实践价值。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+- 技术：MTraining采用了分布式训练、动态稀疏注意力等技术。
+- 工具：使用了PyTorch、TensorFlow等深度学习框架进行模型训练和评估。
+- 数据集：在多个大规模文本数据集上进行了实验，包括WikiText-103、One Billion Word等。
+
+4. 实验结果：
+- 数据集：WikiText-103、One Billion Word等大规模文本数据集。
+- 实验设置：在不同数据集上训练MTraining模型，并与基线模型进行比较。
+- 实验结果：MTraining在各项指标上均优于基线模型，如准确率、训练速度等。
+- 实验结论：MTraining能有效提高超长上下文训练的效率，具有较好的性能和泛化能力。
+
+5. 对领域的潜在影响：
+MTraining的提出为超长上下文训练提供了一种新的解决方案，有望推动相关领域的研究进展。其动态稀疏注意力机制有望被应用于其他任务和领域，如自然语言处理、计算机视觉等。此外，MTraining的分布式训练策略也为大规模模型训练提供了参考。
+
+6. 局限性或未来工作方向：
+- 局限性：MTraining主要针对文本数据，对其他类型数据的适用性有待进一步验证。
+- 未来工作方向：探索MTraining在其他任务和领域的应用；优化动态稀疏注意力机制，进一步提高训练效率；研究如何更好地平衡模型性能和计算资源消耗。
+
+---
+
+### Actor-Free Continuous Control via Structurally Maximizable Q-Functions
+**作者**: Yigit Korkmaz, Urvi Bhuwania, Ayush Jain, Erdem Bıyık
+**类别**: cs.LG, cs.AI
+**发布日期**: 2025-10-21
+**链接**: http://arxiv.org/abs/2510.18828v1
+
+1. 简明摘要：
+本研究提出了一种无需actor网络的连续控制方法，通过结构化最大化Q函数（SMQ）来实现。该方法通过直接优化Q函数来学习策略，无需显式地学习actor网络。实验表明，SMQ在多个连续控制任务上取得了与现有方法相当或更好的性能。该研究为连续控制领域提供了一种新的视角和解决方案。
+
+2. 主要贡献和创新点：
+- 提出了一种无需actor网络的连续控制方法，通过直接优化Q函数来学习策略。
+- 提出了结构化最大化Q函数（SMQ）的概念，通过结构化的方式最大化Q函数，以提高学习效率和性能。
+- 在多个连续控制任务上验证了SMQ方法的有效性，与现有方法相比取得了相当或更好的性能。
+- 为连续控制领域提供了一种新的视角和解决方案，有望推动相关研究的发展。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+- 研究方法：本研究采用了强化学习中的Q学习框架，通过直接优化Q函数来学习策略，无需显式地学习actor网络。
+- 技术：主要采用了深度学习技术，特别是深度Q网络（DQN）作为Q函数的近似。
+- 工具：使用了PyTorch深度学习框架进行实验。
+- 数据集：在多个连续控制任务上进行了实验，包括Mujoco环境和DeepMind Control Suite环境。
+
+4. 实验结果：
+- 数据集：在Mujoco环境和DeepMind Control Suite环境的多个连续控制任务上进行了实验。
+- 实验设置：将SMQ方法与现有的连续控制方法（如DDPG、TD3等）进行了比较。
+- 实验结果：在多数任务上，SMQ方法取得了与现有方法相当或更好的性能，特别是在需要精确控制的任务上。
+- 实验结论：SMQ方法是一种有效的无需actor网络的连续控制方法，在多个任务上取得了良好的性能。
+
+5. 对领域的潜在影响：
+本研究提出的无需actor网络的连续控制方法，为强化学习领域提供了一种新的视角和解决方案。该方法有望推动相关研究的发展，特别是在需要精确控制的任务上。此外，该方法的提出也可能激发更多关于如何优化Q函数、提高学习效率的探索。
+
+6. 局限性或未来工作方向：
+- 局限性：本研究主要关注连续控制任务，对于离散控制任务的适用性还有待进一步验证。
+- 未来工作方向：可以探索将SMQ方法应用于更复杂的任务和环境，如多智能体系统、部分可观测环境等。此外，还可以研究如何进一步提高SMQ方法的学习效率和性能，以及与其他强化学习方法的结合。
+
+---
+
+### SO(3)-invariant PCA with application to molecular data
+**作者**: Michael Fraiman, Paulina Hoyos, Tamir Bendory, Joe Kileel, Oscar Mickelin, Nir Sharon, Amit Singer
+**类别**: eess.SP, cs.LG
+**发布日期**: 2025-10-21
+**链接**: http://arxiv.org/abs/2510.18827v1
+
+1. 简明摘要：
+本研究提出了一种SO(3)-不变主成分分析（PCA）方法，用于处理分子数据。该方法通过考虑分子的三维旋转对称性，提高了PCA在分子数据分析中的性能。通过将分子数据映射到SO(3)-不变空间，该方法能够捕捉分子的内在结构特征，从而实现更有效的数据降维和特征提取。实验结果表明，该方法在多个分子数据集上均取得了优于传统PCA的性能。
+
+2. 主要贡献和创新点：
+本研究的主要贡献和创新点包括：
+1. 提出了一种SO(3)-不变PCA方法，考虑了分子的三维旋转对称性，提高了PCA在分子数据分析中的性能。
+2. 将分子数据映射到SO(3)-不变空间，捕捉分子的内在结构特征，实现更有效的数据降维和特征提取。
+3. 在多个分子数据集上验证了该方法的有效性，取得了优于传统PCA的性能。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+本研究采用的主要技术包括：
+1. SO(3)-不变PCA：通过将分子数据映射到SO(3)-不变空间，实现数据降维和特征提取。
+2. 张量分解：利用张量分解技术将分子数据表示为低秩张量，以捕捉分子的三维结构信息。
+3. 核方法：利用核方法将分子数据映射到高维特征空间，以提高PCA的性能。
+
+研究中使用的主要工具包括：
+1. 张量分解库：如Tensorly等，用于实现张量分解。
+2. 核方法库：如Scikit-learn等，用于实现核方法。
+
+研究中使用的数据集包括：
+1. PubChem：一个包含大量化合物结构和性质信息的公共数据库。
+2. QM9：一个包含13万个小分子的量子化学数据集。
+3. ZINC：一个包含数百万个小分子的化合物库。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+实验中使用的数据集包括PubChem、QM9和ZINC。实验设置如下：
+1. 将分子数据表示为图结构，利用图卷积网络提取分子特征。
+2. 利用张量分解将分子特征表示为低秩张量，以捕捉分子的三维结构信息。
+3. 利用核方法将分子特征映射到高维特征空间，以提高PCA的性能。
+4. 在多个分子数据集上评估SO(3)-不变PCA与传统PCA的性能，包括降维效果、分类准确率等指标。
+
+实验结果表明，SO(3)-不变PCA在多个分子数据集上均取得了优于传统PCA的性能，包括更好的降维效果和更高的分类准确率。实验结论是，考虑分子的三维旋转对称性可以提高PCA在分子数据分析中的性能。
+
+5. 对领域的潜在影响：
+本研究提出的SO(3)-不变PCA方法有望对分子数据分析领域产生以下潜在影响：
+1. 提供一种新的分子数据分析方法，考虑分子的三维旋转对称性，提高PCA的性能。
+2. 为分子特征提取和数据降维提供一种新的视角，有助于更好地理解分子的内在结构特征。
+3. 推动分子数据分析方法的发展，为相关领域的研究提供新的思路和工具。
+
+6. 局限性或未来工作方向：
+本研究的局限性和未来工作方向主要包括：
+1. SO(3)-不变PCA方法在大规模分子数据集上的性能和可扩展性尚需进一步验证。
+2. 可以考虑将SO(3)-不变PCA与其他分子数据分析方法（如图神经网络）结合，以进一步提高性能。
+3. 探索SO(3)-不变PCA在其他领域的应用，如蛋白质结构预测、药物设计等。
+
+---
+
+### Unifying and Enhancing Graph Transformers via a Hierarchical Mask Framework
+**作者**: Yujie Xing, Xiao Wang, Bin Wu, Hai Huang, Chuan Shi
+**类别**: cs.CV
+**发布日期**: 2025-10-21
+**链接**: http://arxiv.org/abs/2510.18825v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### BO4Mob: Bayesian Optimization Benchmarks for High-Dimensional Urban Mobility Problem
+**作者**: Seunghee Ryu, Donghoon Kwon, Seongjin Choi, Aryan Deshwal, Seungmo Kang, Carolina Osorio
+**类别**: cs.LG
+**发布日期**: 2025-10-21
+**链接**: http://arxiv.org/abs/2510.18824v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### SAM 2++: Tracking Anything at Any Granularity
+**作者**: Jiaming Zhang, Cheng Liang, Yichun Yang, Chenkai Zeng, Yutao Cui, Xinwen Zhang, Xin Zhou, Kai Ma, Gangshan Wu, Limin Wang
+**类别**: cs.CV
+**发布日期**: 2025-10-21
+**链接**: http://arxiv.org/abs/2510.18822v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Search Self-play: Pushing the Frontier of Agent Capability without Supervision
+**作者**: Hongliang Lu, Yuhang Wen, Pengyu Cheng, Ruijin Ding, Haotian Xu, Jiaqi Guo, Chutian Wang, Haonan Chen, Xiaoxi Jiang, Guanjun Jiang
+**类别**: cs.LG
+**发布日期**: 2025-10-21
+**链接**: http://arxiv.org/abs/2510.18821v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
