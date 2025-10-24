@@ -47464,3 +47464,379 @@ OmniMotion-X 的提出为全身运动生成领域带来了新的研究方向和�
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2025-10-24)
+
+### HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video Narratives
+**作者**: Yihao Meng, Hao Ouyang, Yue Yu, Qiuyu Wang, Wen Wang, Ka Leong Cheng, Hanlin Wang, Yixuan Li, Cheng Chen, Yanhong Zeng, Yujun Shen, Huamin Qu
+**类别**: cs.CV
+**发布日期**: 2025-10-23
+**链接**: http://arxiv.org/abs/2510.20822v1
+
+1. 简明摘要：
+本研究提出了HoloCine，一种全新的方法，用于生成具有多镜头和长视频叙事的电影级视频内容。HoloCine通过整合视频生成、场景构建和叙事逻辑，实现了从文本描述到完整视频叙事的端到端生成。该方法能够生成具有连贯性和吸引力的长视频，为电影制作和视频内容创作提供了新的可能性。
+
+2. 主要贡献和创新点：
+HoloCine的主要贡献和创新点包括：
+1) 提出了一种端到端的多镜头长视频叙事生成框架，能够从文本描述生成完整的视频内容。
+2) 引入了场景构建和叙事逻辑模块，使生成的视频具有更强的连贯性和吸引力。
+3) 采用了多模态融合技术，整合了视频、音频和文本信息，提高了生成视频的质量和真实感。
+4) 在多个数据集上进行了实验验证，证明了HoloCine在视频叙事生成任务上的有效性和优越性。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+HoloCine的研究方法主要包括：
+1) 采用Transformer架构作为基础模型，用于处理视频、音频和文本信息的融合。
+2) 设计了场景构建模块，通过分析文本描述生成相应的场景布局和背景。
+3) 设计了叙事逻辑模块，根据文本描述生成连贯的视频叙事结构。
+4) 使用了多模态数据融合技术，整合视频、音频和文本信息，提高生成视频的真实感。
+5) 在多个视频叙事数据集上进行了实验验证，包括MovieQA、TVQA和How2数据集。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+在MovieQA、TVQA和How2数据集上进行了实验验证。实验设置包括：
+1) 将HoloCine与现有的视频生成方法进行对比，包括VideoBERT、VideoCapsule等。
+2) 设计了多个评价指标，包括视频质量、叙事连贯性和用户满意度等。
+实验结果显示：
+1) HoloCine在视频质量、叙事连贯性和用户满意度等指标上均优于现有方法。
+2) HoloCine生成的视频具有更高的真实感和吸引力，更符合电影级视频叙事的要求。
+实验结论：HoloCine是一种有效的多镜头长视频叙事生成方法，能够生成高质量的电影级视频内容。
+
+5. 对领域的潜在影响：
+HoloCine的提出对视频内容生成领域具有重要的潜在影响：
+1) 提供了一种新的端到端视频叙事生成框架，推动了视频生成技术的发展。
+2) 引入了场景构建和叙事逻辑模块，为视频内容创作提供了新的思路和方法。
+3) 采用多模态融合技术，提高了生成视频的真实感和吸引力，拓展了视频应用的领域。
+4) 为电影制作、视频广告、虚拟现实等领域提供了新的技术支持和解决方案。
+
+6. 局限性或未来工作方向：
+尽管HoloCine取得了一定的成果，但仍存在一些局限性和未来工作方向：
+1) 生成的视频长度和复杂度还有待进一步提高，以适应更复杂的叙事需求。
+2) 需要进一步优化模型的计算效率和资源消耗，以实现实时或近实时的视频生成。
+3) 可以考虑引入更多的模态信息，如情感、动作等，以生成更丰富和真实的视频内容。
+4) 在更多类型的数据集和应用场景下进行实验验证，以评估HoloCine的泛化能力和适用性。
+
+---
+
+### LayerComposer: Interactive Personalized T2I via Spatially-Aware Layered Canvas
+**作者**: Guocheng Gordon Qian, Ruihang Zhang, Tsai-Shien Chen, Yusuf Dalva, Anujraaj Argo Goyal, Willi Menapace, Ivan Skorokhodov, Meng Dong, Arpit Sahni, Daniil Ostashev, Ju Hu, Sergey Tulyakov, Kuan-Chieh Jackson Wang
+**类别**: cs.CV
+**发布日期**: 2025-10-23
+**链接**: http://arxiv.org/abs/2510.20820v1
+
+1. 简明摘要：
+本论文介绍了LayerComposer，一个交互式个性化文本到图像（T2I）系统，通过空间感知的分层画布实现。该系统允许用户通过自然语言描述来指导图像的生成过程，同时能够理解和利用空间关系来优化生成结果。LayerComposer通过分层画布的方式，使得用户可以逐步构建和细化图像，提高了生成图像的质量和个性化程度。
+
+2. 主要贡献和创新点：
+- 提出了LayerComposer系统，一个交互式个性化T2I框架，通过空间感知的分层画布实现。
+- 引入了空间感知机制，使得系统能够理解和利用空间关系来优化图像生成。
+- 采用了分层画布的设计，允许用户逐步构建和细化图像，提高了生成图像的质量和个性化程度。
+- 实现了与用户的交互式对话，通过自然语言描述来指导图像生成过程。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+- 技术：该研究采用了深度学习技术，特别是生成对抗网络（GAN）和变分自编码器（VAE）来实现图像生成。
+- 工具：研究中使用了PyTorch框架进行模型训练和推理。
+- 数据集：研究使用了COCO和LSUN数据集进行模型训练和评估。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+- 数据集：使用了COCO和LSUN数据集进行实验。
+- 实验设置：在不同的图像生成任务上评估了LayerComposer的性能，包括图像质量、用户满意度和生成速度等指标。
+- 实验结果：LayerComposer在图像质量、用户满意度等方面均优于现有方法，生成速度也达到了实时水平。
+- 实验结论：LayerComposer通过空间感知的分层画布设计，有效提高了图像生成的质量和个性化程度，具有良好的应用前景。
+
+5. 对领域的潜在影响：
+LayerComposer的提出为交互式个性化T2I领域带来了新的研究方向和方法。其空间感知机制和分层画布设计为图像生成任务提供了新的优化思路。此外，LayerComposer的交互式对话能力也为提高用户体验和生成效果提供了新的可能性。该研究有望推动T2I技术的发展和应用。
+
+6. 局限性或未来工作方向：
+尽管LayerComposer取得了良好的效果，但仍存在一些局限性和未来改进的方向。例如，当前系统对用户输入的依赖性较大，对复杂空间关系的理解和生成能力还有待提高。未来工作可以探索更强大的空间感知模型，提高系统对复杂场景的生成能力。此外，还可以考虑将LayerComposer应用于更广泛的图像生成任务，如视频生成、3D建模等，进一步拓展其应用范围。
+
+---
+
+### Towards General Modality Translation with Contrastive and Predictive Latent Diffusion Bridge
+**作者**: Nimrod Berman, Omkar Joglekar, Eitan Kosman, Dotan Di Castro, Omri Azencot
+**类别**: cs.CV, cs.AI, cs.LG
+**发布日期**: 2025-10-23
+**链接**: http://arxiv.org/abs/2510.20819v1
+
+1. 简明摘要：
+本研究提出了一种新的通用模态翻译方法，通过对比和预测潜在扩散桥（Contrastive and Predictive Latent Diffusion Bridge）来实现不同模态之间的转换。该方法通过构建一个联合潜在空间，使得不同模态的数据能够相互转换，同时保持语义一致性。通过对比学习和预测学习，模型能够学习到不同模态之间的关联性，从而实现高质量的模态翻译。
+
+2. 主要贡献和创新点：
+本研究的主要贡献和创新点包括：
+（1）提出了一种新的通用模态翻译框架，通过构建联合潜在空间来实现不同模态之间的转换；
+（2）引入对比学习和预测学习，使模型能够学习到不同模态之间的关联性；
+（3）通过实验验证了该方法在多个数据集上的有效性和优越性。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+研究方法主要包括对比学习和预测学习。技术方面，使用了深度学习、生成模型和自编码器等。工具方面，主要使用了PyTorch框架进行模型的构建和训练。数据集方面，使用了多个公开的数据集，包括ImageNet、COCO等，涵盖了图像、文本等多种模态。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+实验使用了ImageNet、COCO等多个数据集，涵盖了图像到文本、文本到图像等多种模态转换任务。实验设置包括不同模态转换任务的对比实验，以及不同模型的性能对比。实验结果显示，该方法在多个任务上均取得了优于现有方法的性能，证明了其有效性和优越性。实验结论表明，通过构建联合潜在空间并引入对比学习和预测学习，可以实现高质量的通用模态翻译。
+
+5. 对领域的潜在影响：
+本研究提出的通用模态翻译方法，为不同模态之间的转换提供了一种新的解决方案。其在多个数据集上取得的优越性能，有望推动模态翻译技术的发展和应用。此外，该方法在对比学习和预测学习方面的创新，也为相关领域的研究提供了新的思路和方法。
+
+6. 局限性或未来工作方向：
+尽管本研究取得了一定的成果，但仍存在一些局限性。例如，模型在处理一些复杂模态转换任务时，性能仍有提升空间。未来的工作可以从以下几个方向进行：
+（1）探索更高效的模型结构和训练策略，以进一步提升模型性能；
+（2）扩展模型的应用范围，如视频到文本、音频到图像等更复杂的模态转换任务；
+（3）研究模型的可解释性，以便更好地理解模型的工作原理和潜在局限性。
+
+---
+
+### VAMOS: A Hierarchical Vision-Language-Action Model for Capability-Modulated and Steerable Navigation
+**作者**: Mateo Guaman Castro, Sidharth Rajagopal, Daniel Gorbatov, Matt Schmittle, Rohan Baijal, Octi Zhang, Rosario Scalise, Sidharth Talia, Emma Romig, Celso de Melo, Byron Boots, Abhishek Gupta
+**类别**: cs.RO, cs.AI, cs.LG
+**发布日期**: 2025-10-23
+**链接**: http://arxiv.org/abs/2510.20818v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### KL-Regularized Reinforcement Learning is Designed to Mode Collapse
+**作者**: Anthony GX-Chen, Jatin Prakash, Jeff Guo, Rob Fergus, Rajesh Ranganath
+**类别**: cs.LG
+**发布日期**: 2025-10-23
+**链接**: http://arxiv.org/abs/2510.20817v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### GSWorld: Closed-Loop Photo-Realistic Simulation Suite for Robotic Manipulation
+**作者**: Guangqi Jiang, Haoran Chang, Ri-Zhao Qiu, Yutong Liang, Mazeyu Ji, Jiyue Zhu, Zhao Dong, Xueyan Zou, Xiaolong Wang
+**类别**: cs.RO, cs.AI, cs.CV
+**发布日期**: 2025-10-23
+**链接**: http://arxiv.org/abs/2510.20813v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### SpectraMorph: Structured Latent Learning for Self-Supervised Hyperspectral Super-Resolution
+**作者**: Ritik Shah, Marco F Duarte
+**类别**: cs.CV
+**发布日期**: 2025-10-23
+**链接**: http://arxiv.org/abs/2510.20814v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Small Drafts, Big Verdict: Information-Intensive Visual Reasoning via Speculation
+**作者**: Yuhan Liu, Lianhui Qin, Shengjie Wang
+**类别**: cs.CV, cs.AI, cs.CL
+**发布日期**: 2025-10-23
+**链接**: http://arxiv.org/abs/2510.20812v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### On the Detectability of LLM-Generated Text: What Exactly Is LLM-Generated Text?
+**作者**: Mingmeng Geng, Thierry Poibeau
+**类别**: cs.CL, cs.AI, cs.CY, cs.LG
+**发布日期**: 2025-10-23
+**链接**: http://arxiv.org/abs/2510.20810v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Real Deep Research for AI, Robotics and Beyond
+**作者**: Xueyan Zou, Jianglong Ye, Hao Zhang, Xiaoyu Xiang, Mingyu Ding, Zhaojing Yang, Yong Jae Lee, Zhuowen Tu, Sifei Liu, Xiaolong Wang
+**类别**: cs.AI, cs.CL, cs.CV, cs.LG
+**发布日期**: 2025-10-23
+**链接**: http://arxiv.org/abs/2510.20809v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### The Reality Gap in Robotics: Challenges, Solutions, and Best Practices
+**作者**: Elie Aljalbout, Jiaxu Xing, Angel Romero, Iretiayo Akinola, Caelan Reed Garrett, Eric Heiden, Abhishek Gupta, Tucker Hermans, Yashraj Narang, Dieter Fox, Davide Scaramuzza, Fabio Ramos
+**类别**: cs.RO, cs.AI, cs.LG, stat.ML, I.2.6; I.2.8; I.2.9
+**发布日期**: 2025-10-23
+**链接**: http://arxiv.org/abs/2510.20808v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Video Prediction of Dynamic Physical Simulations With Pixel-Space Spatiotemporal Transformers
+**作者**: Dean L Slack, G Thomas Hudson, Thomas Winterbottom, Noura Al Moubayed
+**类别**: cs.CV, cs.LG
+**发布日期**: 2025-10-23
+**链接**: http://arxiv.org/abs/2510.20807v1
+
+1. 简明摘要：
+本研究提出了一种名为Pixel-Space Spatiotemporal Transformers（PSTT）的视频预测方法，用于动态物理模拟。PSTT通过在像素空间中建模时空关系，能够预测复杂物理场景的未来状态。该方法利用深度学习技术，结合物理模拟的先验知识，提高了视频预测的准确性和鲁棒性。实验结果表明，PSTT在多个数据集上取得了优于现有方法的性能。
+
+2. 主要贡献和创新点：
+- 提出了Pixel-Space Spatiotemporal Transformers（PSTT）框架，用于视频预测中的动态物理模拟。
+- 将时空关系建模从特征空间转移到像素空间，提高了模型对物理场景的理解能力。
+- 结合物理模拟的先验知识，提高了视频预测的准确性和鲁棒性。
+- 在多个数据集上验证了PSTT的性能，取得了优于现有方法的结果。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+- 技术：深度学习，时空关系建模，物理模拟先验知识融合。
+- 工具：PyTorch深度学习框架，CUDA加速计算。
+- 数据集：UCF101动作数据集，KTH动作数据集，MPI Sintel合成数据集。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+- 数据集：UCF101、KTH、MPI Sintel。
+- 实验设置：在不同数据集上，使用PSTT与其他视频预测方法（如LSTM、3D CNN等）进行比较。
+- 实验结果：PSTT在所有数据集上均取得了优于现有方法的性能，特别是在预测精度和鲁棒性方面。
+- 实验结论：PSTT能够有效地预测动态物理模拟中的视频，具有较高的准确性和鲁棒性。
+
+5. 对领域的潜在影响：
+- 为视频预测领域提供了一种新的时空关系建模方法，有助于提高预测准确性。
+- 结合物理模拟先验知识，为动态场景理解提供了新的思路。
+- 推动了深度学习在视频预测领域的应用，有望在自动驾驶、机器人导航等领域产生影响。
+
+6. 局限性或未来工作方向：
+- PSTT在处理更复杂的物理场景时，可能需要更多的计算资源和训练时间。
+- 未来工作可以探索如何将PSTT与其他模态信息（如音频、触觉）融合，以提高预测的全面性。
+- 可以考虑将PSTT应用于更广泛的领域，如医疗影像分析、虚拟现实等。
+
+---
+
+### ARGenSeg: Image Segmentation with Autoregressive Image Generation Model
+**作者**: Xiaolong Wang, Lixiang Ru, Ziyuan Huang, Kaixiang Ji, Dandan Zheng, Jingdong Chen, Jun Zhou
+**类别**: cs.CV
+**发布日期**: 2025-10-23
+**链接**: http://arxiv.org/abs/2510.20803v1
+
+1. 简明摘要：
+本文提出了一种名为ARGenSeg的图像分割方法，该方法基于自回归图像生成模型。通过将图像分割问题转化为像素级的条件图像生成问题，ARGenSeg能够生成高质量的分割结果。该方法利用自回归模型的长距离依赖捕捉能力，有效处理图像中的复杂结构和细节。实验表明，ARGenSeg在多个标准数据集上取得了优异的性能。
+
+2. 主要贡献和创新点：
+- 提出了一种基于自回归图像生成模型的图像分割方法ARGenSeg。
+- 将图像分割问题转化为像素级的条件图像生成问题，利用自回归模型生成高质量的分割结果。
+- 利用自回归模型的长距离依赖捕捉能力，有效处理图像中的复杂结构和细节。
+- 在多个标准数据集上验证了ARGenSeg的性能，取得了优异的结果。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+- 技术：自回归图像生成模型，条件图像生成，像素级分割。
+- 工具：PyTorch深度学习框架。
+- 数据集：PASCAL VOC、Cityscapes、ADE20K等标准图像分割数据集。
+
+4. 实验结果：
+- 数据集：PASCAL VOC、Cityscapes、ADE20K。
+- 实验设置：在不同数据集上评估ARGenSeg的性能，与当前最先进的图像分割方法进行比较。
+- 实验结果：ARGenSeg在各个数据集上均取得了优异的性能，超过了大多数现有的图像分割方法。
+- 实验结论：ARGenSeg是一种有效的图像分割方法，能够生成高质量的分割结果。
+
+5. 对领域的潜在影响：
+ARGenSeg的提出为图像分割领域带来了新的视角，将自回归图像生成模型应用于图像分割问题。其优异的性能表明，自回归模型在处理图像中的复杂结构和细节方面具有潜力。这可能会激发更多研究者探索自回归模型在图像分割领域的应用，推动相关技术的发展。
+
+6. 局限性或未来工作方向：
+尽管ARGenSeg取得了优异的性能，但仍存在一些局限性和未来工作方向：
+- 自回归模型的训练和推理速度较慢，需要进一步优化以提高效率。
+- ARGenSeg主要针对像素级分割任务，未来可以探索其在其他类型的图像分割任务中的应用。
+- 可以考虑将ARGenSeg与其他类型的图像分割方法结合，以进一步提高性能和鲁棒性。
+
+---
+
+### Compress to Impress: Efficient LLM Adaptation Using a Single Gradient Step on 100 Samples
+**作者**: Shiva Sreeram, Alaa Maalouf, Pratyusha Sharma, Daniela Rus
+**类别**: cs.LG, cs.AI, cs.CL, cs.CV
+**发布日期**: 2025-10-23
+**链接**: http://arxiv.org/abs/2510.20800v1
+
+1. 简明摘要：
+本研究提出了一种高效的大型语言模型（LLM）适应方法，通过在100个样本上仅使用一个梯度步骤来实现。该方法通过压缩和微调技术，显著提高了模型的适应性和效率。实验结果表明，该方法在多个任务和数据集上均取得了良好的性能，同时显著减少了计算资源的需求。
+
+2. 主要贡献和创新点：
+本研究的主要贡献和创新点包括：
+（1）提出了一种高效的LLM适应方法，通过在少量样本上使用单个梯度步骤来实现，显著降低了计算成本；
+（2）采用了压缩和微调技术，进一步提高了模型的适应性和效率；
+（3）在多个任务和数据集上验证了该方法的有效性，为LLM的高效适应提供了新的思路。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+本研究采用了以下技术和工具：
+（1）梯度下降：通过在少量样本上计算梯度并更新模型参数，实现模型的微调；
+（2）模型压缩：通过知识蒸馏等技术，将大型模型压缩为小型模型，以减少计算资源需求；
+（3）数据集：研究者使用了多个公开数据集，包括自然语言处理（NLP）任务（如文本分类、问答等）和计算机视觉（CV）任务（如图像分类等）。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+（1）数据集：研究者使用了多个公开数据集，包括GLUE、SQuAD、ImageNet等；
+（2）实验设置：在100个样本上进行单步梯度更新，并与其他基线方法进行比较；
+（3）实验结果：该方法在多个任务和数据集上均取得了良好的性能，与全参数更新方法相比，准确率损失很小，同时显著减少了计算资源的需求；
+（4）实验结论：该方法是一种高效的LLM适应方法，能够在保持性能的同时显著降低计算成本。
+
+5. 对领域的潜在影响：
+本研究提出的高效LLM适应方法，有望对以下领域产生潜在影响：
+（1）资源受限环境：在资源受限的环境下，该方法可以显著降低模型部署和运行的成本；
+（2）模型压缩和加速：该方法为模型压缩和加速提供了新的思路，有助于提高模型的效率；
+（3）跨领域迁移学习：该方法可以促进跨领域迁移学习的发展，提高模型在新领域的适应能力。
+
+6. 局限性或未来工作方向：
+尽管本研究取得了一定的成果，但仍存在一些局限性和未来工作方向：
+（1）样本数量：研究中仅使用了100个样本，未来可以探索在更多样本上进行适应的效果；
+（2）任务类型：研究主要关注NLP和CV任务，未来可以扩展到更多类型的任务；
+（3）模型泛化能力：需要进一步研究该方法在不同领域和任务上的泛化能力；
+（4）计算效率：虽然该方法降低了计算成本，但仍有进一步优化的空间，如探索更高效的优化算法等。
+
+---
+
+### Simple Context Compression: Mean-Pooling and Multi-Ratio Training
+**作者**: Yair Feldman, Yoav Artzi
+**类别**: cs.CL, cs.AI, cs.LG
+**发布日期**: 2025-10-23
+**链接**: http://arxiv.org/abs/2510.20797v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Bayesian Inference of Primordial Magnetic Field Parameters from CMB with Spherical Graph Neural Networks
+**作者**: Juan Alejandro Pinto Castro, Héctor J. Hortúa, Jorge Enrique García-Farieta, Roger Anderson Hurtado
+**类别**: astro-ph.CO, cs.AI, cs.LG
+**发布日期**: 2025-10-23
+**链接**: http://arxiv.org/abs/2510.20795v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Radar-Camera Fused Multi-Object Tracking: Online Calibration and Common Feature
+**作者**: Lei Cheng, Siyang Cao
+**类别**: cs.CV, eess.SP
+**发布日期**: 2025-10-23
+**链接**: http://arxiv.org/abs/2510.20794v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### BadGraph: A Backdoor Attack Against Latent Diffusion Model for Text-Guided Graph Generation
+**作者**: Liang Ye, Shengqin Chen, Jiazhu Dai
+**类别**: cs.LG, cs.CL, q-bio.BM
+**发布日期**: 2025-10-23
+**链接**: http://arxiv.org/abs/2510.20792v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Alleviating Forgetfulness of Linear Attention by Hybrid Sparse Attention and Contextualized Learnable Token Eviction
+**作者**: Mutian He, Philip N. Garner
+**类别**: cs.CL, cs.LG
+**发布日期**: 2025-10-23
+**链接**: http://arxiv.org/abs/2510.20787v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### A Coherence-Based Measure of AGI
+**作者**: Fares Fourati
+**类别**: cs.AI, cs.LG
+**发布日期**: 2025-10-23
+**链接**: http://arxiv.org/abs/2510.20784v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
