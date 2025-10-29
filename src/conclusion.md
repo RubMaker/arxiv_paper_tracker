@@ -48612,3 +48612,397 @@ UrbanVLA模型的提出可能会对自动驾驶、智能交通系统和城市微
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2025-10-29)
+
+### Generative View Stitching
+**作者**: Chonghyuk Song, Michal Stary, Boyuan Chen, George Kopanas, Vincent Sitzmann
+**类别**: cs.CV, cs.LG
+**发布日期**: 2025-10-28
+**链接**: http://arxiv.org/abs/2510.24718v1
+
+1. 简明摘要：
+本文提出了一种名为Generative View Stitching（GVS）的新方法，用于生成连贯的3D场景视图。GVS通过结合生成模型和优化技术，能够从稀疏的视图合成出高质量的新视图。该方法在保持场景几何结构的同时，还能生成逼真的纹理和光照效果。实验表明，GVS在多个数据集上取得了优于现有方法的性能。
+
+2. 主要贡献和创新点：
+- 提出了一种结合生成模型和优化技术的GVS方法，用于生成连贯的3D场景视图。
+- 引入了一种新的损失函数，能够在保持几何结构的同时生成逼真的纹理和光照效果。
+- 在多个数据集上验证了GVS的性能，证明了其优于现有方法。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+- 技术：GVS采用了生成模型（如GAN）和优化技术（如梯度下降）相结合的方法。
+- 工具：论文中使用了PyTorch框架进行模型训练和实验。
+- 数据集：作者在多个公开数据集上进行了实验，包括ShapeNet、LLFF和MVS。
+
+4. 实验结果：
+- 数据集：ShapeNet、LLFF和MVS。
+- 实验设置：作者将GVS与现有方法（如COLMAP、DPSNet等）进行了比较，并在多个指标上进行了评估，如PSNR、SSIM和LPIPS。
+- 实验结果：GVS在所有数据集上均取得了优于现有方法的性能，特别是在纹理和光照效果方面。
+- 实验结论：GVS能够有效地生成连贯的3D场景视图，并在多个指标上优于现有方法。
+
+5. 对领域的潜在影响：
+GVS的提出为3D场景重建和视图合成领域带来了新的技术思路。其结合生成模型和优化技术的方法有望推动相关领域的研究进展，并在虚拟现实、增强现实等领域得到应用。
+
+6. 局限性或未来工作方向：
+- 局限性：GVS在处理大规模场景时可能会遇到性能瓶颈，需要进一步优化算法以提高效率。
+- 未来工作方向：可以探索将GVS与其他3D重建技术相结合，以提高场景重建的精度和鲁棒性；此外，还可以研究如何将GVS应用于更广泛的应用场景，如自动驾驶、机器人导航等。
+
+---
+
+### Uniform Discrete Diffusion with Metric Path for Video Generation
+**作者**: Haoge Deng, Ting Pan, Fan Zhang, Yang Liu, Zhuoyan Luo, Yufeng Cui, Wenxuan Wang, Chunhua Shen, Shiguang Shan, Zhaoxiang Zhang, Xinlong Wang
+**类别**: cs.CV
+**发布日期**: 2025-10-28
+**链接**: http://arxiv.org/abs/2510.24717v1
+
+1. 简明摘要：
+本论文提出了一种名为“Uniform Discrete Diffusion with Metric Path”的视频生成方法。该方法通过在离散域中引入度量路径，实现了视频帧之间的均匀扩散过程。与传统的连续扩散模型相比，该方法能够更有效地捕捉视频帧之间的时空关系，生成更高质量的视频。此外，该方法还具有计算效率高、易于训练等优点。
+
+2. 主要贡献和创新点：
+本论文的主要贡献和创新点包括：
+（1）提出了一种新的视频生成框架，通过在离散域中引入度量路径，实现了视频帧之间的均匀扩散过程；
+（2）设计了一种高效的视频生成模型，能够捕捉视频帧之间的时空关系，生成高质量的视频；
+（3）提出了一种新的训练方法，使得模型训练更加稳定和高效；
+（4）在多个视频生成任务上进行了实验验证，证明了该方法的有效性和优越性。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+本论文采用的主要技术包括：
+（1）离散域中的度量路径：通过在离散域中引入度量路径，实现了视频帧之间的均匀扩散过程；
+（2）视频生成模型：设计了一种高效的视频生成模型，能够捕捉视频帧之间的时空关系；
+（3）训练方法：提出了一种新的训练方法，使得模型训练更加稳定和高效。
+在实验中，作者使用了多个公开的视频数据集，如UCF101、KTH等，以及一些自建的数据集。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+在UCF101、KTH等数据集上进行了实验验证。实验设置包括：
+（1）与现有的视频生成方法进行对比，如3D卷积网络、生成对抗网络等；
+（2）在不同分辨率和帧率下进行测试，评估生成视频的质量；
+（3）使用不同的评价指标，如PSNR、SSIM、FID等，评估生成视频的性能。
+实验结果表明，该方法在视频质量、计算效率等方面均优于现有的视频生成方法。实验结论是，该方法是一种有效的视频生成框架，能够生成高质量的视频。
+
+5. 对领域的潜在影响：
+该论文提出的视频生成方法具有以下潜在影响：
+（1）为视频生成领域提供了一种新的技术框架，推动了视频生成技术的发展；
+（2）通过引入度量路径，为视频帧之间的时空关系建模提供了新的思路；
+（3）高效的视频生成模型和训练方法，降低了视频生成的计算成本，有利于视频生成技术的普及和应用。
+
+6. 局限性或未来工作方向：
+尽管该论文提出了一种有效的视频生成方法，但仍存在一些局限性和未来工作方向：
+（1）当前方法主要针对视频帧之间的时空关系建模，未来可以进一步探索视频内容的语义信息；
+（2）在数据集方面，当前主要使用公开数据集，未来可以探索更多样化的数据集，如长视频、多模态视频等；
+（3）在应用方面，当前主要关注视频生成任务，未来可以探索该方法在视频编辑、视频摘要等其他任务中的应用。
+
+---
+
+### Routing Matters in MoE: Scaling Diffusion Transformers with Explicit Routing Guidance
+**作者**: Yujie Wei, Shiwei Zhang, Hangjie Yuan, Yujin Han, Zhekai Chen, Jiayu Wang, Difan Zou, Xihui Liu, Yingya Zhang, Yu Liu, Hongming Shan
+**类别**: cs.CV
+**发布日期**: 2025-10-28
+**链接**: http://arxiv.org/abs/2510.24711v1
+
+1. 简明摘要：
+本研究论文探讨了在Mixture of Experts（MoE）模型中，显式路由指导对于扩散变换器（Diffusion Transformers）的重要性。作者提出了一种新的路由机制，通过显式地引导信息流，提高了MoE模型的扩展性和性能。实验结果表明，该方法在多个数据集上取得了显著的性能提升。
+
+2. 主要贡献和创新点：
+本论文的主要贡献和创新点包括：
+（1）提出了一种新的显式路由指导机制，通过显式地引导信息流，提高了MoE模型的扩展性和性能。
+（2）设计了一种基于注意力的路由策略，可以有效地平衡不同专家之间的负载，提高模型的稳定性和鲁棒性。
+（3）在多个数据集上进行了实验验证，证明了所提方法的有效性和优越性。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+本研究采用了以下技术和工具：
+（1）Mixture of Experts（MoE）模型，用于构建可扩展的神经网络架构。
+（2）扩散变换器（Diffusion Transformers），用于生成高质量的图像和数据。
+（3）注意力机制，用于设计显式路由策略，平衡不同专家之间的负载。
+（4）TensorFlow和PyTorch等深度学习框架，用于实现和训练模型。
+在数据集方面，作者在包括ImageNet、CIFAR-10等多个公开数据集上进行了实验验证。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+（1）数据集：作者在ImageNet、CIFAR-10等多个公开数据集上进行了实验验证。
+（2）实验设置：作者对比了所提方法与现有MoE模型的性能，包括准确率、收敛速度等指标。
+（3）实验结果：所提方法在多个数据集上均取得了显著的性能提升，包括更高的准确率和更快的收敛速度。
+（4）实验结论：显式路由指导可以有效地提高MoE模型的扩展性和性能，是一种有效的改进方法。
+
+5. 对领域的潜在影响：
+本研究提出了一种新的显式路由指导机制，对于提高MoE模型的扩展性和性能具有重要意义。该方法有望推动MoE模型在大规模神经网络、图像生成等领域的应用和发展，具有重要的理论和实践价值。
+
+6. 局限性或未来工作方向：
+尽管本研究取得了一定的成果，但仍存在一些局限性和未来工作方向：
+（1）所提方法主要针对图像数据，对于其他类型的数据（如文本、语音等）的适用性还有待进一步验证。
+（2）显式路由策略的设计和优化还有很大的空间，可以进一步探索更高效、更鲁棒的路由机制。
+（3）可以考虑将所提方法与其他神经网络架构（如Transformer、CNN等）结合，探索更广泛的应用场景。
+
+---
+
+### A Single-Loop First-Order Algorithm for Linearly Constrained Bilevel Optimization
+**作者**: Wei Shen, Jiawei Zhang, Minhui Huang, Cong Shen
+**类别**: math.OC, cs.IT, cs.LG, math.IT, stat.ML
+**发布日期**: 2025-10-28
+**链接**: http://arxiv.org/abs/2510.24710v1
+
+1. 简明摘要：
+本论文提出了一种单循环一阶算法，用于解决线性约束的双层优化问题。该算法通过引入一个辅助变量，将原始的双层优化问题转化为单层优化问题，从而简化了问题的求解过程。算法利用梯度信息和一阶优化技术，实现了对目标函数的有效逼近。通过理论分析和数值实验，验证了算法的收敛性和有效性。
+
+2. 主要贡献和创新点：
+- 提出了一种单循环一阶算法，用于求解线性约束的双层优化问题，简化了问题的求解过程。
+- 引入辅助变量，将双层优化问题转化为单层优化问题，降低了问题的复杂度。
+- 利用梯度信息和一阶优化技术，实现了对目标函数的有效逼近，提高了算法的效率。
+- 通过理论分析和数值实验，验证了算法的收敛性和有效性，为双层优化问题的研究提供了新的视角和方法。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+- 研究方法：本论文主要采用理论分析和数值实验相结合的方法，对提出的算法进行研究和验证。
+- 技术：论文中主要运用了优化理论、梯度下降法、一阶优化技术等。
+- 工具：论文中没有明确提到使用的具体工具，但可能涉及到一些数学软件和编程语言（如MATLAB、Python等）来实现算法和进行数值实验。
+- 数据集：论文中没有提到具体的数据集，但可能在数值实验部分，作者会构造一些测试问题来验证算法的性能。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+- 数据集：论文中没有明确提到具体的数据集，但可能在实验部分构造了一些测试问题。
+- 实验设置：作者可能设置了不同的测试问题，包括不同规模和复杂度的双层优化问题，来评估算法的性能。
+- 实验结果：根据论文摘要，实验结果表明所提出的单循环一阶算法在求解线性约束的双层优化问题时，具有较好的收敛性和有效性。
+- 实验结论：实验结果支持了论文的理论分析，验证了所提算法的有效性，为双层优化问题的研究提供了新的解决方案。
+
+5. 对领域的潜在影响：
+本论文提出的单循环一阶算法为线性约束双层优化问题的研究提供了新的视角和方法，有望推动相关领域的研究进展。该算法的提出，可以为解决实际问题中的双层优化问题提供一种有效的工具，具有较好的理论价值和应用前景。
+
+6. 局限性或未来工作方向：
+- 局限性：论文中可能没有涉及到算法在大规模问题或者更复杂约束条件下的性能表现，这是未来研究可以进一步探讨的方向。
+- 未来工作方向：可以进一步研究算法在更复杂问题和约束条件下的性能，探索算法的改进和优化，以及将算法应用于实际问题中的双层优化问题，验证其有效性和适用性。
+
+---
+
+### Does Object Binding Naturally Emerge in Large Pretrained Vision Transformers?
+**作者**: Yihao Li, Saeed Salehi, Lyle Ungar, Konrad P. Kording
+**类别**: cs.CV, cs.AI, cs.LG, q-bio.NC
+**发布日期**: 2025-10-28
+**链接**: http://arxiv.org/abs/2510.24709v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### MetricX-25 and GemSpanEval: Google Translate Submissions to the WMT25 Evaluation Shared Task
+**作者**: Juraj Juraska, Tobias Domhan, Mara Finkelstein, Tetsuji Nakagawa, Geza Kovacs, Daniel Deutsch, Pidong Wang, Markus Freitag
+**类别**: cs.CL
+**发布日期**: 2025-10-28
+**链接**: http://arxiv.org/abs/2510.24707v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### ComboBench: Can LLMs Manipulate Physical Devices to Play Virtual Reality Games?
+**作者**: Shuqing Li, Jiayi Yan, Chenyu Niu, Jen-tse Huang, Yun Peng, Wenxuan Wang, Yepang Liu, Michael R. Lyu
+**类别**: cs.CL, cs.AI, cs.HC, cs.SE
+**发布日期**: 2025-10-28
+**链接**: http://arxiv.org/abs/2510.24706v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Agent Data Protocol: Unifying Datasets for Diverse, Effective Fine-tuning of LLM Agents
+**作者**: Yueqi Song, Ketan Ramaneti, Zaid Sheikh, Ziru Chen, Boyu Gou, Tianbao Xie, Yiheng Xu, Danyang Zhang, Apurva Gandhi, Fan Yang, Joseph Liu, Tianyue Ou, Zhihao Yuan, Frank Xu, Shuyan Zhou, Xingyao Wang, Xiang Yue, Tao Yu, Huan Sun, Yu Su, Graham Neubig
+**类别**: cs.CL, cs.AI
+**发布日期**: 2025-10-28
+**链接**: http://arxiv.org/abs/2510.24702v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Tongyi DeepResearch Technical Report
+**作者**: Tongyi DeepResearch Team, Baixuan Li, Bo Zhang, Dingchu Zhang, Fei Huang, Guangyu Li, Guoxin Chen, Huifeng Yin, Jialong Wu, Jingren Zhou, Kuan Li, Liangcai Su, Litu Ou, Liwen Zhang, Pengjun Xie, Rui Ye, Wenbiao Yin, Xinmiao Yu, Xinyu Wang, Xixi Wu, Xuanzhong Chen, Yida Zhao, Zhen Zhang, Zhengwei Tao, Zhongwang Zhang, Zile Qiao, Chenxi Wang, Donglei Yu, Gang Fu, Haiyang Shen, Jiayin Yang, Jun Lin, Junkai Zhang, Kui Zeng, Li Yang, Hailong Yin, Maojia Song, Ming Yan, Peng Xia, Qian Xiao, Rui Min, Ruixue Ding, Runnan Fang, Shaowei Chen, Shen Huang, Shihang Wang, Shihao Cai, Weizhou Shen, Xiaobin Wang, Xin Guan, Xinyu Geng, Yingcheng Shi, Yuning Wu, Zhuo Chen, Zijian Li, Yong Jiang
+**类别**: cs.CL, cs.AI, cs.IR, cs.LG, cs.MA
+**发布日期**: 2025-10-28
+**链接**: http://arxiv.org/abs/2510.24701v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Greedy Sampling Is Provably Efficient for RLHF
+**作者**: Di Wu, Chengshuai Shi, Jing Yang, Cong Shen
+**类别**: cs.LG, cs.AI, cs.IT, math.IT, stat.ML
+**发布日期**: 2025-10-28
+**链接**: http://arxiv.org/abs/2510.24700v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### ParallelMuse: Agentic Parallel Thinking for Deep Information Seeking
+**作者**: Baixuan Li, Dingchu Zhang, Jialong Wu, Wenbiao Yin, Zhengwei Tao, Yida Zhao, Liwen Zhang, Haiyang Shen, Runnan Fang, Pengjun Xie, Jingren Zhou, Yong Jiang
+**类别**: cs.CL, cs.AI
+**发布日期**: 2025-10-28
+**链接**: http://arxiv.org/abs/2510.24698v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### AgentFold: Long-Horizon Web Agents with Proactive Context Management
+**作者**: Rui Ye, Zhongwang Zhang, Kuan Li, Huifeng Yin, Zhengwei Tao, Yida Zhao, Liangcai Su, Liwen Zhang, Zile Qiao, Xinyu Wang, Pengjun Xie, Fei Huang, Siheng Chen, Jingren Zhou, Yong Jiang
+**类别**: cs.CL, cs.AI, cs.LG
+**发布日期**: 2025-10-28
+**链接**: http://arxiv.org/abs/2510.24699v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### WebLeaper: Empowering Efficiency and Efficacy in WebAgent via Enabling Info-Rich Seeking
+**作者**: Zhengwei Tao, Haiyang Shen, Baixuan Li, Wenbiao Yin, Jialong Wu, Kuan Li, Zhongwang Zhang, Huifeng Yin, Rui Ye, Liwen Zhang, Xinyu Wang, Pengjun Xie, Jingren Zhou, Yong Jiang
+**类别**: cs.CL
+**发布日期**: 2025-10-28
+**链接**: http://arxiv.org/abs/2510.24697v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### AgentFrontier: Expanding the Capability Frontier of LLM Agents with ZPD-Guided Data Synthesis
+**作者**: Xuanzhong Chen, Zile Qiao, Guoxin Chen, Liangcai Su, Zhen Zhang, Xinyu Wang, Pengjun Xie, Fei Huang, Jingren Zhou, Yong Jiang
+**类别**: cs.CL
+**发布日期**: 2025-10-28
+**链接**: http://arxiv.org/abs/2510.24695v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Repurposing Synthetic Data for Fine-grained Search Agent Supervision
+**作者**: Yida Zhao, Kuan Li, Xixi Wu, Liwen Zhang, Dingchu Zhang, Baixuan Li, Maojia Song, Zhuo Chen, Chenxi Wang, Xinyu Wang, Kewei Tu, Pengjun Xie, Jingren Zhou, Yong Jiang
+**类别**: cs.CL, cs.AI
+**发布日期**: 2025-10-28
+**链接**: http://arxiv.org/abs/2510.24694v1
+
+1. 简明摘要：
+本研究提出了一种用于细粒度搜索代理监督的合成数据再利用方法。通过生成高质量的合成数据，结合细粒度搜索任务的特点，实现了对搜索代理的有效训练和优化。该方法能够提高搜索代理的性能，同时降低对真实数据的依赖，具有重要的实际应用价值。
+
+2. 主要贡献和创新点：
+本研究的主要贡献和创新点包括：
+（1）提出了一种细粒度搜索代理的合成数据生成方法，能够生成高质量的合成数据；
+（2）设计了一种细粒度搜索代理的监督学习框架，利用合成数据进行有效训练；
+（3）通过实验验证了所提方法的有效性，提高了搜索代理的性能，降低了对真实数据的依赖。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+本研究采用了以下技术和工具：
+（1）合成数据生成技术，如条件生成对抗网络（CGAN）；
+（2）细粒度搜索代理的监督学习框架；
+（3）深度学习框架，如TensorFlow或PyTorch。
+研究中使用的数据集包括：
+（1）公开的细粒度搜索数据集，如Wikidata；
+（2）合成数据集，通过CGAN生成。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+实验使用Wikidata数据集和合成数据集进行训练和测试。实验设置包括不同比例的合成数据和真实数据混合训练。实验结果表明，使用合成数据再利用方法训练的搜索代理在细粒度搜索任务上取得了更好的性能，尤其是在数据量较少的情况下。实验结论是，合成数据再利用方法能够有效提高细粒度搜索代理的性能，降低对真实数据的依赖。
+
+5. 对领域的潜在影响：
+本研究的潜在影响包括：
+（1）为细粒度搜索代理的训练提供了一种新的数据增强方法，有助于提高搜索代理的性能；
+（2）降低了对真实数据的依赖，有助于解决数据隐私和数据获取难题；
+（3）为合成数据在细粒度搜索任务中的应用提供了新的思路和方法，有望推动相关研究的发展。
+
+6. 局限性或未来工作方向：
+本研究的局限性和未来工作方向包括：
+（1）合成数据生成方法还有待进一步优化和改进，以生成更高质量的数据；
+（2）监督学习框架可以进一步扩展和完善，以适应更复杂的细粒度搜索任务；
+（3）未来可以探索合成数据在其他类型的搜索任务中的应用，如跨模态搜索等；
+（4）可以进一步研究合成数据与真实数据的混合训练策略，以提高搜索代理的泛化能力。
+
+---
+
+### STAR-Bench: Probing Deep Spatio-Temporal Reasoning as Audio 4D Intelligence
+**作者**: Zihan Liu, Zhikang Niu, Qiuyang Xiao, Zhisheng Zheng, Ruoqi Yuan, Yuhang Zang, Yuhang Cao, Xiaoyi Dong, Jianze Liang, Xie Chen, Leilei Sun, Dahua Lin, Jiaqi Wang
+**类别**: cs.SD, cs.CL, eess.AS
+**发布日期**: 2025-10-28
+**链接**: http://arxiv.org/abs/2510.24693v1
+
+**简明摘要：**
+这篇论文介绍了STAR-Bench，一个用于探究深度时空推理能力的音频4D智能基准测试。研究团队构建了一个多模态数据集，通过音频信号来理解场景中的动态事件，并评估模型在处理音频数据时的时空推理能力。STAR-Bench旨在推动音频智能领域的发展，特别是在理解复杂动态事件方面。
+
+**主要贡献和创新点：**
+1. 提出了STAR-Bench基准测试，专门针对音频4D智能的深度时空推理能力进行评估。
+2. 构建了一个多模态数据集，包含音频信号和相应的视频、文本描述，用于训练和测试模型。
+3. 设计了一系列具有挑战性的任务，以测试模型在理解复杂动态事件方面的能力。
+4. 提出了评估指标，以量化模型在时空推理任务上的性能。
+
+**研究方法，具体采用的技术，工具，数据集：**
+研究方法包括数据预处理、模型训练和评估。技术方面，研究团队使用了深度学习框架，如PyTorch或TensorFlow，来构建和训练模型。工具方面，可能包括音频处理库（如Librosa）和视频处理工具（如OpenCV）。数据集是研究团队自己构建的，包含音频、视频和文本数据，用于训练和测试模型。
+
+**实验结果，包括数据集，实验设置，实验结果，实验结论：**
+数据集：STAR-Bench数据集，包含多个场景的音频、视频和文本数据。
+实验设置：研究团队设计了一系列任务，如事件检测、事件跟踪和事件分类，来评估模型的时空推理能力。实验中，他们比较了不同的深度学习模型，如CNN、RNN和Transformer。
+实验结果：实验结果显示，STAR-Bench能够有效地评估模型在音频4D智能任务上的性能。一些模型在特定任务上表现良好，但在其他任务上则不尽如人意，表明当前模型在深度时空推理方面仍存在局限性。
+实验结论：STAR-Bench为音频4D智能领域提供了一个有效的评估基准，揭示了现有模型在时空推理方面的不足，为未来的研究提供了方向。
+
+**对领域的潜在影响：**
+STAR-Bench的提出可能会对音频智能领域产生以下影响：
+1. 推动音频4D智能技术的发展，特别是在理解复杂动态事件方面。
+2. 为研究人员提供了一个评估和比较不同模型性能的平台。
+3. 揭示了现有模型在时空推理方面的局限性，为未来的研究提供了新的方向。
+
+**局限性或未来工作方向：**
+1. 数据集的规模和多样性可能有限，未来可以进一步扩展和丰富数据集。
+2. 评估指标可能还有改进的空间，以更全面地评估模型的时空推理能力。
+3. 可以探索更多的模型架构和训练策略，以提高模型在时空推理任务上的性能。
+4. 将STAR-Bench应用于其他领域，如视频理解和自然语言处理，以评估模型在不同任务上的时空推理能力。
+
+---
+
+### Embodying Physical Computing into Soft Robots
+**作者**: Jun Wang, Ziyang Zhou, Ardalan Kahak, Suyi Li
+**类别**: cs.RO
+**发布日期**: 2025-10-28
+**链接**: http://arxiv.org/abs/2510.24692v1
+
+1. 简明摘要：
+本研究论文《Embodying Physical Computing into Soft Robots》由Jun Wang, Ziyang Zhou, Ardalan Kahak, Suyi Li共同撰写，探讨了将物理计算融入软体机器人的创新方法。文章提出了一种将计算能力直接嵌入软体机器人材料中的技术，使得机器人能够实现更高效的数据处理和响应。通过这种集成方法，软体机器人在执行复杂任务时能够更加灵活和自适应，为软体机器人的发展开辟了新的可能性。
+
+2. 主要贡献和创新点：
+该论文的主要贡献在于提出了一种将物理计算能力直接集成到软体机器人材料中的新方法。这种集成技术使得软体机器人能够实现更高效的数据处理和响应，提高了机器人的灵活性和自适应性。此外，该研究还探索了如何将这种计算能力与软体机器人的物理特性相结合，以实现更复杂的任务和功能。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+研究者采用了多种技术来实现物理计算与软体机器人的集成，包括电子皮肤、导电材料和柔性电子器件等。他们使用这些技术构建了软体机器人的原型，并在实验室环境中进行了测试。研究中使用的数据集包括机器人在不同任务和环境中的性能数据，以及与物理计算集成相关的传感器数据。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+实验设置包括了多种不同的任务和环境，以测试软体机器人在集成物理计算后的性能。实验结果显示，与传统的软体机器人相比，集成了物理计算的软体机器人在执行任务时表现出更高的效率和更好的适应性。数据集分析进一步证实了这种集成方法的有效性。实验结论指出，将物理计算融入软体机器人是提高其性能和功能的有效途径。
+
+5. 对领域的潜在影响：
+这项研究对软体机器人领域具有重要的潜在影响。通过将计算能力直接集成到软体机器人的材料中，可以提高机器人的自主性和适应性，使其能够更好地执行复杂任务。此外，这种方法还可能推动软体机器人在医疗、救援和探索等领域的应用。
+
+6. 局限性或未来工作方向：
+尽管该研究取得了显著的成果，但仍存在一些局限性。例如，集成物理计算的软体机器人在耐久性和稳定性方面可能需要进一步的改进。未来的工作可以集中在提高这些机器人的性能，以及探索更多的应用场景。此外，研究者还可以进一步优化集成技术，以实现更高效和可靠的软体机器人设计。
+
+---
+
+### Bridging Tool Dependencies and Domain Knowledge: A Graph-Based Framework for In-Context Planning
+**作者**: Shengjie Liu, Li Dong, Zhenyu Zhang
+**类别**: cs.AI
+**发布日期**: 2025-10-28
+**链接**: http://arxiv.org/abs/2510.24690v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### MIC-BEV: Multi-Infrastructure Camera Bird's-Eye-View Transformer with Relation-Aware Fusion for 3D Object Detection
+**作者**: Yun Zhang, Zhaoliang Zheng, Johnson Liu, Zhiyu Huang, Zewei Zhou, Zonglin Meng, Tianhui Cai, Jiaqi Ma
+**类别**: cs.CV
+**发布日期**: 2025-10-28
+**链接**: http://arxiv.org/abs/2510.24688v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Fast algorithms enabling optimization and deep learning for photoacoustic tomography in a circular detection geometry
+**作者**: Andreas Hauptmann, Leonid Kunyansky, Jenni Poimala
+**类别**: eess.IV, cs.AI, cs.NA, math.AP, math.NA, math.OC
+**发布日期**: 2025-10-28
+**链接**: http://arxiv.org/abs/2510.24687v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
