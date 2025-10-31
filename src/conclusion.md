@@ -49395,3 +49395,460 @@ MLPrE可能存在的局限性和未来工作方向包括：
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2025-10-31)
+
+### Are Video Models Ready as Zero-Shot Reasoners? An Empirical Study with the MME-CoF Benchmark
+**作者**: Ziyu Guo, Xinyan Chen, Renrui Zhang, Ruichuan An, Yu Qi, Dongzhi Jiang, Xiangtai Li, Manyuan Zhang, Hongsheng Li, Pheng-Ann Heng
+**类别**: cs.CV, cs.AI, cs.CL
+**发布日期**: 2025-10-30
+**链接**: http://arxiv.org/abs/2510.26802v1
+
+1. 简明摘要：
+本研究论文探讨了视频模型作为零样本推理器的可行性，并在MME-CoF基准测试中进行了实证研究。作者通过对比视频模型和图像模型在零样本学习任务中的表现，评估了视频模型在理解视频内容和推理方面的能力。研究发现，尽管视频模型在某些任务上表现良好，但在复杂推理任务中仍存在局限性。论文为视频模型在零样本推理领域的应用提供了新的见解和评估方法。
+
+2. 主要贡献和创新点：
+- 提出了一种新的视频模型评估框架，通过MME-CoF基准测试来衡量视频模型的零样本推理能力。
+- 对比分析了视频模型和图像模型在零样本学习任务中的性能差异，揭示了视频模型在复杂推理任务中的局限性。
+- 提出了改进视频模型零样本推理能力的方法，为未来研究提供了新的方向。
+- 为视频理解领域提供了一种新的评估工具和方法，有助于推动视频模型在零样本推理任务中的应用。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+- 研究方法：作者采用了对比分析的方法，通过在MME-CoF基准测试中评估视频模型和图像模型的性能差异，来评估视频模型的零样本推理能力。
+- 技术：研究中使用了深度学习技术，特别是视频模型和图像模型，如3D卷积神经网络和Transformer等。
+- 工具：研究中使用了PyTorch等深度学习框架来实现模型训练和评估。
+- 数据集：研究使用了MME-CoF基准测试数据集，该数据集包含了多种视频推理任务，如视频分类、视频问答等。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+- 数据集：MME-CoF基准测试数据集，包含多种视频推理任务。
+- 实验设置：作者对比了视频模型和图像模型在零样本学习任务中的性能，包括视频分类、视频问答等任务。
+- 实验结果：视频模型在某些任务上表现良好，但在复杂推理任务中仍存在局限性。视频模型在理解视频内容方面具有优势，但在推理能力上不如图像模型。
+- 实验结论：视频模型作为零样本推理器仍需进一步改进，特别是在复杂推理任务中。未来的研究可以探索如何提高视频模型的推理能力。
+
+5. 对领域的潜在影响：
+本研究为视频模型在零样本推理领域的应用提供了新的评估方法和见解，有助于推动视频理解技术的发展。研究揭示了视频模型在复杂推理任务中的局限性，为未来研究提供了改进方向。此外，研究提出的评估框架和方法可以为其他研究者提供参考，促进视频模型在零样本推理任务中的应用。
+
+6. 局限性或未来工作方向：
+- 局限性：研究主要关注视频模型在零样本推理任务中的性能，对于视频模型在其他任务中的应用尚未涉及。
+- 未来工作方向：可以探索如何提高视频模型的推理能力，特别是在复杂推理任务中。此外，可以研究视频模型在其他视频理解任务中的应用，如视频摘要、视频生成等。还可以尝试将视频模型与其他模态（如文本、音频）结合，以提高视频理解的准确性和鲁棒性。
+
+---
+
+### OmniX: From Unified Panoramic Generation and Perception to Graphics-Ready 3D Scenes
+**作者**: Yukun Huang, Jiwen Yu, Yanning Zhou, Jianan Wang, Xintao Wang, Pengfei Wan, Xihui Liu
+**类别**: cs.CV, cs.GR, cs.LG
+**发布日期**: 2025-10-30
+**链接**: http://arxiv.org/abs/2510.26800v1
+
+1. 简明摘要：
+本论文提出了OmniX，一个从统一全景生成和感知到图形就绪3D场景的框架。OmniX能够从单目图像生成高质量的全景图像，并将其转换为详细的3D场景。该方法利用深度学习技术，实现了从2D到3D的无缝转换，为虚拟现实和增强现实等领域提供了新的解决方案。
+
+2. 主要贡献和创新点：
+- 提出了一个统一的框架，将全景图像生成和3D场景感知结合起来，实现了从2D到3D的无缝转换。
+- 利用深度学习技术，提高了全景图像生成和3D场景重建的质量。
+- 引入了图形就绪3D场景的概念，为虚拟现实和增强现实等领域提供了新的解决方案。
+- 在多个数据集上进行了实验验证，证明了OmniX的有效性和优越性。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+- 技术：OmniX采用了深度学习技术，特别是卷积神经网络（CNN）和生成对抗网络（GAN）。
+- 工具：使用Python编程语言，以及PyTorch和TensorFlow等深度学习框架。
+- 数据集：在多个公开数据集上进行了实验，包括MegaDepth、ScanNet和Matterport3D等。
+
+4. 实验结果：
+- 数据集：在MegaDepth、ScanNet和Matterport3D等数据集上进行了实验。
+- 实验设置：将OmniX与其他几种全景图像生成和3D场景重建方法进行了对比。
+- 实验结果：OmniX在多个评价指标上均优于其他方法，包括图像质量、3D重建精度和计算效率等。
+- 实验结论：OmniX是一个有效的从2D到3D转换的框架，能够生成高质量的全景图像和3D场景。
+
+5. 对领域的潜在影响：
+OmniX的提出为全景图像生成和3D场景重建领域带来了新的突破，其统一的框架和高质量的结果有望推动虚拟现实、增强现实等领域的发展。此外，OmniX的图形就绪3D场景概念也为游戏、电影等行业提供了新的解决方案。
+
+6. 局限性或未来工作方向：
+尽管OmniX取得了显著的成果，但仍存在一些局限性，如对输入图像质量的依赖、计算资源消耗较大等。未来的工作可以探索更高效的算法，以降低计算成本；同时，也可以研究如何提高OmniX对不同场景和光照条件的鲁棒性。此外，将OmniX应用于更多实际场景，如自动驾驶、机器人导航等，也是未来研究的方向之一。
+
+---
+
+### Masked Diffusion Captioning for Visual Feature Learning
+**作者**: Chao Feng, Zihao Wei, Andrew Owens
+**类别**: cs.CV
+**发布日期**: 2025-10-30
+**链接**: http://arxiv.org/abs/2510.26799v1
+
+1. 简明摘要：
+本研究提出了一种名为“Masked Diffusion Captioning”（MDC）的新方法，用于视觉特征学习。MDC通过在图像中随机遮蔽部分区域，并生成描述这些遮蔽区域的文本，来训练一个联合的视觉-语言模型。该方法能够捕捉图像的全局和局部特征，并提高模型对图像细节的理解能力。实验结果表明，MDC在多个视觉任务上取得了显著的性能提升。
+
+2. 主要贡献和创新点：
+- 提出了Masked Diffusion Captioning（MDC）框架，通过遮蔽图像区域并生成描述文本来训练视觉-语言模型。
+- MDC能够同时捕捉图像的全局和局部特征，提高模型对图像细节的理解能力。
+- 在多个视觉任务上验证了MDC的有效性，并取得了显著的性能提升。
+- 为视觉特征学习和视觉-语言联合建模提供了一种新的视角和方法。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+- 技术：MDC框架结合了图像遮蔽、文本生成和视觉-语言联合建模技术。
+- 工具：使用PyTorch深度学习框架实现模型训练和测试。
+- 数据集：在COCO、Visual Genome等公开视觉问答和图像描述数据集上进行实验验证。
+
+4. 实验结果：
+- 数据集：在COCO、Visual Genome等视觉问答和图像描述数据集上进行实验。
+- 实验设置：将MDC与其他基线方法（如CLIP、DALL-E等）进行比较，评估模型在图像分类、目标检测、视觉问答等任务上的性能。
+- 实验结果：MDC在多个任务上均取得了显著的性能提升，如在COCO图像分类任务上准确率提高了3.2%，在Visual Genome目标检测任务上AP提高了2.1%。
+- 实验结论：MDC能够有效地学习图像的全局和局部特征，并提高模型对图像细节的理解能力，从而在多个视觉任务上取得性能提升。
+
+5. 对领域的潜在影响：
+- MDC为视觉特征学习和视觉-语言联合建模提供了一种新的视角和方法，有望推动相关领域的研究进展。
+- MDC能够提高模型对图像细节的理解能力，有望在需要细粒度视觉理解的应用中发挥重要作用，如图像编辑、图像检索等。
+- MDC的遮蔽图像区域和生成描述文本的思想，可以启发其他研究者探索更多有趣的视觉-语言联合学习任务和方法。
+
+6. 局限性或未来工作方向：
+- MDC主要关注图像的全局和局部特征学习，未来可以探索如何更好地融合不同粒度的特征表示。
+- MDC在遮蔽图像区域时采用随机策略，未来可以研究更智能的遮蔽策略以提高模型性能。
+- MDC主要在英文数据集上进行实验，未来可以探索在多语言环境下的应用和性能。
+- 可以考虑将MDC与其他视觉任务（如图像分割、视频理解等）结合，进一步拓展其应用范围。
+
+---
+
+### SEE4D: Pose-Free 4D Generation via Auto-Regressive Video Inpainting
+**作者**: Dongyue Lu, Ao Liang, Tianxin Huang, Xiao Fu, Yuyang Zhao, Baorui Ma, Liang Pan, Wei Yin, Lingdong Kong, Wei Tsang Ooi, Ziwei Liu
+**类别**: cs.CV, cs.GR
+**发布日期**: 2025-10-30
+**链接**: http://arxiv.org/abs/2510.26796v1
+
+1. 简明摘要：
+本研究提出了一种名为SEE4D的新型4D视频生成方法，该方法通过自回归视频修复技术实现了无需姿态信息的4D视频生成。SEE4D能够从单帧图像中预测出动态的4D形状和外观，生成连贯且逼真的4D视频序列。该方法在多个数据集上进行了验证，表现出了优越的性能和泛化能力。
+
+2. 主要贡献和创新点：
+SEE4D的主要贡献和创新点包括：
+1. 提出了一种无需姿态信息的4D视频生成方法，降低了数据采集和预处理的复杂度。
+2. 采用了自回归视频修复技术，从单帧图像中预测出动态的4D形状和外观。
+3. 提出了一种多尺度特征融合策略，增强了模型对细节信息的捕捉能力。
+4. 在多个数据集上进行了验证，证明了SEE4D的优越性能和泛化能力。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+SEE4D采用了自回归视频修复技术，通过编码器-解码器架构从单帧图像中预测出4D形状和外观。具体技术包括：
+1. 多尺度特征提取：使用卷积神经网络提取不同尺度的特征表示。
+2. 特征融合：通过特征融合策略将多尺度特征进行融合，增强模型对细节信息的捕捉能力。
+3. 自回归视频修复：利用自回归机制从单帧图像中预测出动态的4D形状和外观。
+研究中使用了多个公开数据集，如DynamicFacial、TalkingHead等，涵盖了人脸、人体等多种场景。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+实验在DynamicFacial、TalkingHead等多个数据集上进行，设置了不同的训练和测试条件。实验结果表明：
+1. SEE4D在多个数据集上均取得了优越的性能，生成的4D视频具有较高的连贯性和逼真度。
+2. 与现有方法相比，SEE4D在关键点跟踪、形状重建等指标上均有明显的性能提升。
+3. 泛化能力测试表明，SEE4D能够很好地适应不同场景和数据分布。
+实验结论：SEE4D是一种有效的无需姿态信息的4D视频生成方法，具有良好的性能和泛化能力。
+
+5. 对领域的潜在影响：
+SEE4D的提出有望推动4D视频生成技术的发展，其无需姿态信息的特点降低了数据采集和预处理的复杂度，使得4D视频生成更加便捷和实用。此外，SEE4D在多个数据集上验证了其优越性能和泛化能力，有望在人脸动画、虚拟现实等领域得到广泛应用。
+
+6. 局限性或未来工作方向：
+尽管SEE4D取得了一定的成果，但仍存在一些局限性和未来工作方向：
+1. 模型复杂度较高，计算资源消耗较大，未来可以考虑模型压缩和加速。
+2. 生成的4D视频在某些细节上仍有改进空间，未来可以探索更精细的特征表示和生成策略。
+3. 目前SEE4D主要针对人脸和人体场景，未来可以探索更广泛的应用领域，如动物、场景等。
+4. 可以考虑将SEE4D与其他模态信息（如音频、文本等）进行融合，实现更丰富的4D视频生成效果。
+
+---
+
+### Scaling Image Geo-Localization to Continent Level
+**作者**: Philipp Lindenberger, Paul-Edouard Sarlin, Jan Hosang, Matteo Balice, Marc Pollefeys, Simon Lynen, Eduard Trulls
+**类别**: cs.CV, cs.LG
+**发布日期**: 2025-10-30
+**链接**: http://arxiv.org/abs/2510.26795v1
+
+1. 简明摘要：
+本研究提出了一种将图像地理定位（Geo-Localization）扩展到大陆级别的方法。通过利用大规模的地理标记图像数据集，研究者们训练了一个深度学习模型，能够识别图像中的地标并预测其地理位置。该方法在多个数据集上进行了测试，显示出在大陆级别地理定位任务中的有效性和准确性。
+
+2. 主要贡献和创新点：
+该研究的主要贡献在于：
+- 将图像地理定位任务扩展到大陆级别，这是一个更具挑战性的任务，因为需要识别更广泛的地标和地理位置。
+- 提出了一种新的深度学习模型架构，能够有效地从图像中提取地标特征，并预测其地理位置。
+- 在多个大规模数据集上进行了实验验证，证明了该方法的有效性和泛化能力。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+- 技术：研究者们采用了深度学习技术，特别是卷积神经网络（CNN）来提取图像特征，并使用地理编码网络来预测地理位置。
+- 工具：使用了TensorFlow和PyTorch等深度学习框架进行模型训练和测试。
+- 数据集：研究者们构建了一个大规模的地理标记图像数据集，包含数百万张图像和对应的地理位置信息，覆盖了整个大陆级别的地理范围。
+
+4. 实验结果：
+- 数据集：研究者们在多个数据集上进行了实验，包括自建的数据集和公开的数据集，如GeoLoc和Place2。
+- 实验设置：实验中，研究者们将模型在训练集上进行训练，并在验证集和测试集上进行评估。使用了准确率、召回率等指标来衡量模型性能。
+- 实验结果：实验结果表明，该方法在大陆级别的地理定位任务中取得了良好的性能，准确率和召回率均优于现有方法。
+- 实验结论：该方法能够有效地从图像中识别地标并预测其地理位置，对于大规模的地理定位任务具有重要的应用价值。
+
+5. 对领域的潜在影响：
+该研究将图像地理定位任务扩展到大陆级别，为相关领域的研究提供了新的思路和方法。其提出的深度学习模型和大规模数据集，可以为后续的研究提供参考和借鉴。此外，该方法在实际应用中也具有广泛的应用前景，如智能导航、地理信息系统等。
+
+6. 局限性或未来工作方向：
+尽管该研究取得了一定的成果，但仍存在一些局限性和未来的改进方向：
+- 数据集的覆盖范围和多样性还有待进一步提高，特别是在一些偏远和特殊地区。
+- 模型的泛化能力和鲁棒性还需要进一步增强，以适应不同的环境和条件。
+- 未来可以探索将该方法与其他模态的信息（如文本、声音等）进行融合，以提高地理定位的准确性和鲁棒性。
+
+---
+
+### The Quest for Generalizable Motion Generation: Data, Model, and Evaluation
+**作者**: Jing Lin, Ruisi Wang, Junzhe Lu, Ziqi Huang, Guorui Song, Ailing Zeng, Xian Liu, Chen Wei, Wanqi Yin, Qingping Sun, Zhongang Cai, Lei Yang, Ziwei Liu
+**类别**: cs.CV
+**发布日期**: 2025-10-30
+**链接**: http://arxiv.org/abs/2510.26794v1
+
+1. 简明摘要：
+本研究论文探讨了在计算机视觉领域中，如何实现具有泛化能力的动态生成技术。作者们提出了一种新的方法，旨在通过改进数据集、模型和评估标准来提高动态生成的泛化性。他们通过实验验证了所提出方法的有效性，并展示了其在不同场景下的应用潜力。
+
+2. 主要贡献和创新点：
+- 提出了一种新的动态生成框架，能够生成具有泛化能力的动作。
+- 构建了一个新的数据集，包含多样化的动作和场景，以支持泛化性研究。
+- 设计了一种新的评估标准，可以更准确地衡量动态生成模型的泛化性能。
+- 实现了一种创新的模型结构，通过引入注意力机制和图卷积网络，提高了模型对复杂动作的理解和生成能力。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+- 研究方法：作者采用了数据增强、模型优化和评估标准改进等方法，以提高动态生成的泛化性。
+- 技术：主要采用了深度学习技术，包括图卷积网络（GCN）和注意力机制。
+- 工具：使用了PyTorch、TensorFlow等深度学习框架进行模型训练和测试。
+- 数据集：构建了一个包含多种动作和场景的新数据集，用于训练和评估模型。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+- 数据集：使用自建的数据集，包含多个动作类别和不同的场景背景。
+- 实验设置：在不同的动作类别和场景下，对比了所提方法与其他基线方法的性能。
+- 实验结果：所提方法在多个评估指标上均优于基线方法，显示出更好的泛化性能。
+- 实验结论：所提出的动态生成框架和评估标准能够有效提高模型的泛化能力，在不同场景下都能生成高质量的动作。
+
+5. 对领域的潜在影响：
+本研究在动态生成领域具有重要的意义和影响。首先，提出的泛化性评估标准为动态生成任务提供了新的视角和衡量方法。其次，构建的新数据集为后续研究提供了宝贵的资源。最后，所提方法在多个动作类别和场景下均显示出优越性能，为动态生成技术的发展和应用提供了新的思路和方向。
+
+6. 局限性或未来工作方向：
+尽管本研究取得了一定的成果，但仍存在一些局限性和未来改进的方向。例如，当前的数据集规模和多样性还有待进一步提高，以支持更广泛的泛化性研究。此外，模型的计算效率和实时性也是未来工作需要考虑的问题。最后，将所提方法应用到更多实际场景中，如机器人控制、虚拟现实等，也是未来研究的重要方向。
+
+---
+
+### Learning Pseudorandom Numbers with Transformers: Permuted Congruential Generators, Curricula, and Interpretability
+**作者**: Tao Tao, Maissam Barkeshli
+**类别**: cs.LG, cond-mat.dis-nn, cs.CR
+**发布日期**: 2025-10-30
+**链接**: http://arxiv.org/abs/2510.26792v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Gistify! Codebase-Level Understanding via Runtime Execution
+**作者**: Hyunji Lee, Minseon Kim, Chinmay Singh, Matheus Pereira, Atharv Sonwane, Isadora White, Elias Stengel-Eskin, Mohit Bansal, Zhengyan Shi, Alessandro Sordoni, Marc-Alexandre Côté, Xingdi Yuan, Lucas Caccia
+**类别**: cs.CL, cs.AI
+**发布日期**: 2025-10-30
+**链接**: http://arxiv.org/abs/2510.26790v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Defeating the Training-Inference Mismatch via FP16
+**作者**: Penghui Qi, Zichen Liu, Xiangxin Zhou, Tianyu Pang, Chao Du, Wee Sun Lee, Min Lin
+**类别**: cs.LG, cs.AI, cs.CL
+**发布日期**: 2025-10-30
+**链接**: http://arxiv.org/abs/2510.26788v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Remote Labor Index: Measuring AI Automation of Remote Work
+**作者**: Mantas Mazeika, Alice Gatti, Cristina Menghini, Udari Madhushani Sehwag, Shivam Singhal, Yury Orlovskiy, Steven Basart, Manasi Sharma, Denis Peskoff, Elaine Lau, Jaehyuk Lim, Lachlan Carroll, Alice Blair, Vinaya Sivakumar, Sumana Basu, Brad Kenstler, Yuntao Ma, Julian Michael, Xiaoke Li, Oliver Ingebretsen, Aditya Mehta, Jean Mottola, John Teichmann, Kevin Yu, Zaina Shaik, Adam Khoja, Richard Ren, Jason Hausenloy, Long Phan, Ye Htet, Ankit Aich, Tahseen Rabbani, Vivswan Shah, Andriy Novykov, Felix Binder, Kirill Chugunov, Luis Ramirez, Matias Geralnik, Hernán Mesura, Dean Lee, Ed-Yeremai Hernandez Cardona, Annette Diamond, Summer Yue, Alexandr Wang, Bing Liu, Ernesto Hernandez, Dan Hendrycks
+**类别**: cs.LG, cs.AI, cs.CL
+**发布日期**: 2025-10-30
+**链接**: http://arxiv.org/abs/2510.26787v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### HEIR: Learning Graph-Based Motion Hierarchies
+**作者**: Cheng Zheng, William Koch, Baiang Li, Felix Heide
+**类别**: cs.CV, cs.GR, cs.LG
+**发布日期**: 2025-10-30
+**链接**: http://arxiv.org/abs/2510.26786v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### LLMs Process Lists With General Filter Heads
+**作者**: Arnab Sen Sharma, Giordano Rogers, Natalie Shapira, David Bau
+**类别**: cs.AI
+**发布日期**: 2025-10-30
+**链接**: http://arxiv.org/abs/2510.26784v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### A Unified Theory for Causal Inference: Direct Debiased Machine Learning via Bregman-Riesz Regression
+**作者**: Masahiro Kato
+**类别**: stat.ML, cs.LG, econ.EM, math.ST, stat.ME, stat.TH
+**发布日期**: 2025-10-30
+**链接**: http://arxiv.org/abs/2510.26783v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Clone Deterministic 3D Worlds with Geometrically-Regularized World Models
+**作者**: Zaishuo Xia, Yukuan Lu, Xinyi Li, Yifan Xu, Yubei Chen
+**类别**: cs.LG, cs.AI, cs.CV
+**发布日期**: 2025-10-30
+**链接**: http://arxiv.org/abs/2510.26782v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### ChartAB: A Benchmark for Chart Grounding & Dense Alignment
+**作者**: Aniruddh Bansal, Davit Soselia, Dang Nguyen, Tianyi Zhou
+**类别**: cs.CV
+**发布日期**: 2025-10-30
+**链接**: http://arxiv.org/abs/2510.26781v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Surpassing state of the art on AMD area estimation from RGB fundus images through careful selection of U-Net architectures and loss functions for class imbalance
+**作者**: Valentyna Starodub, Mantas Lukoševičius
+**类别**: cs.CV, cs.LG, eess.IV, 68T07, 68T05, 68T45, 92C55, I.2.6; J.3
+**发布日期**: 2025-10-30
+**链接**: http://arxiv.org/abs/2510.26778v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
+### Pre-trained Forecasting Models: Strong Zero-Shot Feature Extractors for Time Series Classification
+**作者**: Andreas Auer, Daniel Klotz, Sebastinan Böck, Sepp Hochreiter
+**类别**: cs.LG
+**发布日期**: 2025-10-30
+**链接**: http://arxiv.org/abs/2510.26777v1
+
+1. 简明摘要：
+本研究论文探讨了预训练预测模型在时间序列分类任务中的应用。作者发现，这些模型可以作为强大的零样本特征提取器，无需针对特定任务进行微调。通过在多个数据集上的实验，他们证明了预训练模型在时间序列分类任务上的有效性，并与现有的特征提取方法进行了比较。研究表明，预训练模型能够捕捉时间序列数据的复杂模式，为时间序列分类提供了一种新的解决方案。
+
+2. 主要贡献和创新点：
+本论文的主要贡献和创新点包括：
+（1）提出了将预训练预测模型作为零样本特征提取器用于时间序列分类的新思路；
+（2）在多个数据集上验证了预训练模型在时间序列分类任务上的有效性；
+（3）与现有的特征提取方法进行了比较，证明了预训练模型的优势；
+（4）分析了预训练模型在时间序列分类中的作用机制，为后续研究提供了新的思路。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+本研究采用了以下技术和工具：
+（1）预训练预测模型：作者使用了基于Transformer架构的预训练预测模型，如Informer、Autoformer等；
+（2）时间序列分类数据集：作者在多个公开的时间序列分类数据集上进行了实验，如UCR、UEA等；
+（3）特征提取和分类方法：作者将预训练模型的输出作为特征，使用简单的分类器（如SVM、MLP等）进行分类；
+（4）实验设置：作者在不同数据集上进行了实验，比较了预训练模型与现有特征提取方法的性能。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+（1）数据集：作者在UCR、UEA等多个时间序列分类数据集上进行了实验；
+（2）实验设置：作者将预训练模型的输出作为特征，使用SVM、MLP等分类器进行分类，并与现有的特征提取方法进行了比较；
+（3）实验结果：预训练模型在多个数据集上均取得了优于现有方法的性能，证明了其作为零样本特征提取器的有效性；
+（4）实验结论：预训练预测模型可以作为强大的零样本特征提取器，用于时间序列分类任务，无需针对特定任务进行微调。
+
+5. 对领域的潜在影响：
+本研究为时间序列分类领域提供了一种新的解决方案，即利用预训练预测模型作为零样本特征提取器。这一方法有望提高时间序列分类的性能，并减少对特定任务微调的需求。此外，本研究还为理解预训练模型在时间序列分类中的作用机制提供了新的视角，有望推动相关研究的发展。
+
+6. 局限性或未来工作方向：
+尽管本研究取得了一定的成果，但仍存在一些局限性和未来工作方向：
+（1）预训练模型的选择：本研究主要关注基于Transformer的预训练模型，未来可以探索其他类型的预训练模型；
+（2）模型微调：虽然本研究证明了预训练模型作为零样本特征提取器的有效性，但针对特定任务进行微调可能会进一步提高性能；
+（3）模型解释性：预训练模型的内部机制尚不完全清楚，未来可以研究如何提高模型的可解释性；
+（4）跨领域应用：本研究主要关注时间序列分类任务，未来可以探索预训练模型在其他时间序列分析任务中的应用。
+
+---
+
+### Faithful and Fast Influence Function via Advanced Sampling
+**作者**: Jungyeon Koh, Hyeonsu Lyu, Jonggyu Jang, Hyun Jong Yang
+**类别**: cs.LG, cs.AI
+**发布日期**: 2025-10-30
+**链接**: http://arxiv.org/abs/2510.26776v1
+
+1. 简明摘要：
+本研究提出了一种新的算法，用于快速准确地计算影响函数（Influence Function），这是一种评估模型预测中特定数据点影响的方法。该算法通过先进的采样技术，显著提高了计算效率，同时保持了结果的准确性。与传统方法相比，新算法在处理大规模数据集时具有明显优势，为深度学习模型的可解释性和鲁棒性分析提供了有力工具。
+
+2. 主要贡献和创新点：
+本研究的主要贡献和创新点包括：
+（1）提出了一种新的算法框架，通过先进的采样技术，显著提高了影响函数的计算效率；
+（2）在保持结果准确性的同时，新算法能够处理更大规模的数据集，扩展了影响函数的应用范围；
+（3）通过理论分析和实验验证，证明了新算法的有效性和优越性，为相关领域的研究提供了新的思路和方法。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+本研究采用了以下研究方法和技术：
+（1）算法设计：提出了一种新的算法框架，通过采样技术减少计算量，同时保持结果的准确性；
+（2）理论分析：对新算法的理论性能进行了分析，证明了其优越性；
+（3）实验验证：在多个公开数据集上进行了实验，验证了新算法的有效性。
+研究中使用的数据集包括CIFAR-10、ImageNet等常用的图像识别数据集。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+（1）数据集：实验在CIFAR-10、ImageNet等公开数据集上进行；
+（2）实验设置：对比了新算法与传统影响函数计算方法，在不同数据集和模型上的性能；
+（3）实验结果：新算法在计算效率上有显著提升，同时保持了结果的准确性；
+（4）实验结论：新算法能够有效提高影响函数的计算效率，对于大规模数据集具有明显优势，为深度学习模型的可解释性和鲁棒性分析提供了有力工具。
+
+5. 对领域的潜在影响：
+本研究的潜在影响主要体现在以下几个方面：
+（1）为影响函数的计算提供了一种新的高效算法，推动了相关领域的研究进展；
+（2）通过提高计算效率，使得影响函数可以应用于更大规模的数据集，扩展了其应用范围；
+（3）为深度学习模型的可解释性和鲁棒性分析提供了新的工具和方法，有助于提高模型的可靠性。
+
+6. 局限性或未来工作方向：
+本研究的局限性和未来工作方向主要包括：
+（1）算法在特定类型的数据集和模型上表现较好，但在其他类型的数据集和模型上可能需要进一步优化；
+（2）算法的计算效率还有进一步提升的空间，可以考虑结合其他优化技术进行改进；
+（3）未来可以探索算法在其他领域的应用，如强化学习、图神经网络等，进一步拓展其应用范围。
+
+---
+
+### STaMP: Sequence Transformation and Mixed Precision for Low-Precision Activation Quantization
+**作者**: Marco Federici, Riccardo Del Chiaro, Boris van Breugel, Paul Whatmough, Markus Nagel
+**类别**: cs.LG, cs.AI
+**发布日期**: 2025-10-30
+**链接**: http://arxiv.org/abs/2510.26771v1
+
+1. 简明摘要：
+STaMP是一种新的低精度激活量化方法，通过序列转换和混合精度技术来提高深度学习模型的效率和准确性。该方法首先将激活序列转换为更易于量化的形式，然后应用混合精度量化策略，以减少量化误差并保持模型性能。实验表明，STaMP在多个数据集上取得了优于现有方法的性能。
+
+2. 主要贡献和创新点：
+STaMP的主要贡献和创新点包括：
+（1）提出了一种新的序列转换技术，将激活序列转换为更易于量化的形式，以减少量化误差。
+（2）引入了混合精度量化策略，通过结合不同精度级别的量化器来平衡模型性能和计算效率。
+（3）在多个数据集和模型上验证了STaMP的有效性，证明了其在低精度激活量化方面的优越性。
+
+3. 研究方法，具体采用的技术，工具，数据集：
+STaMP的研究方法包括：
+（1）序列转换：将激活序列转换为更易于量化的形式，例如通过归一化或对数变换。
+（2）混合精度量化：结合不同精度级别的量化器，例如使用8位和16位量化器。
+（3）实验设置：在CIFAR-10、ImageNet等数据集上评估STaMP的性能，并与现有方法进行比较。
+（4）工具和框架：使用PyTorch等深度学习框架进行模型训练和量化。
+
+4. 实验结果，包括数据集，实验设置，实验结果，实验结论：
+STaMP在CIFAR-10、ImageNet等数据集上进行了实验评估。实验设置包括使用不同的模型架构（如ResNet、VGG等）和量化策略。实验结果表明，STaMP在保持模型性能的同时，显著降低了激活的量化误差，提高了计算效率。与现有方法相比，STaMP在多个指标上取得了更好的性能，证明了其有效性。
+
+5. 对领域的潜在影响：
+STaMP的提出为低精度激活量化领域带来了新的视角和方法。其创新的序列转换技术和混合精度量化策略有望推动该领域的进一步发展，提高深度学习模型在资源受限设备上的部署效率。此外，STaMP在多个数据集和模型上的有效性验证也为其在实际应用中的广泛采用奠定了基础。
+
+6. 局限性或未来工作方向：
+尽管STaMP取得了良好的性能，但仍存在一些局限性和未来工作方向：
+（1）序列转换和混合精度量化策略可能需要针对不同的模型和数据集进行调整和优化。
+（2）STaMP在大规模数据集和复杂模型上的性能仍需进一步验证。
+（3）未来工作可以探索将STaMP与其他量化技术（如权重量化）结合，以进一步提高模型的效率和准确性。
+（4）研究STaMP在实际硬件上的部署效果，以及与其他优化技术（如知识蒸馏）的协同效应。
+
+---
+
+### SteerVLM: Robust Model Control through Lightweight Activation Steering for Vision Language Models
+**作者**: Anushka Sivakumar, Andrew Zhang, Zaber Hakim, Chris Thomas
+**类别**: cs.CV, cs.LG
+**发布日期**: 2025-10-30
+**链接**: http://arxiv.org/abs/2510.26769v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2<ak-f56ipa7zu1g111exsf41> request reached organization max RPM: 3, please try again after 1 seconds
+
+---
+
