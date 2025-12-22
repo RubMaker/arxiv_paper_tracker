@@ -37,8 +37,8 @@ EMAIL_TO = [email.strip() for email in os.getenv("EMAIL_TO", "").split(",") if e
 
 PAPERS_DIR = Path("./papers")
 CONCLUSION_FILE = Path("./conclusion.md")
-CATEGORIES = ["cs.CR", "cs.LG", "cs.RO", "cs.AI", "cs.CV", "cs.CL"]
-MAX_PAPERS = 20  # 每天分析25篇论文
+CATEGORIES = ["cs.CR", "cs.LG", "cs.RO", "cs.AI", "cs.CV", "cs.CL", "cs.DC"]
+MAX_PAPERS = 15  # 每天分析15篇论文
 
 # 配置AI API（优先使用Kimi，如果没有则使用DeepSeek）
 if KIMI_API_KEY:
