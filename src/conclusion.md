@@ -132604,3 +132604,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-07-02)
+
+### Measuring the Gap Between Human and LLM Research Ideas
+**作者**: Ziyu Chen, Yilun Zhao, Arman Cohan
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-07-01
+**链接**: http://arxiv.org/abs/2607.01233v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training
+**作者**: Zijian Zhang, Rizhen Hu, Athanasios Glentis, Dawei Li, Chung-Yiu Yau, Hongzhou Lin, Mingyi Hong
+**类别**: cs.LG, cs.CL
+**发布日期**: 2026-07-01
+**链接**: http://arxiv.org/abs/2607.01232v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Language-Critique Imitation Learning from Suboptimal Demonstrations
+**作者**: Chih-Han Yang, Dai-Jie Wu, Yun-Ping Huang, Ping-Chun Hsieh, Kenneth Marino, Shao-Hua Sun
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-07-01
+**链接**: http://arxiv.org/abs/2607.01225v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### AutoMem: Automated Learning of Memory as a Cognitive Skill
+**作者**: Shengguang Wu, Hao Zhu, Yuhui Zhang, Xiaohan Wang, Serena Yeung-Levy
+**类别**: cs.AI, cs.CL, cs.MA
+**发布日期**: 2026-07-01
+**链接**: http://arxiv.org/abs/2607.01224v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Theoria: Rewrite-Acceptability Verification over Informal Reasoning States
+**作者**: Ben Slivinski, Michael Saldivar
+**类别**: cs.AI, cs.CL, cs.LG, cs.LO, cs.SE
+**发布日期**: 2026-07-01
+**链接**: http://arxiv.org/abs/2607.01223v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Ink3D: Sculpting 3D Assets with Extremely Complex Textures via Video Generative Models
+**作者**: Yue Han, Chong Li, Zhening Liu, Cong Huang, Fang Deng, Yong Liu, Fangyun Wei, Yan Lu
+**类别**: cs.CV
+**发布日期**: 2026-07-01
+**链接**: http://arxiv.org/abs/2607.01222v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### The State-Prediction Separation Hypothesis
+**作者**: Giovanni Monea, Nathan Godey, Kianté Brantley, Yoav Artzi
+**类别**: cs.CL, cs.AI, cs.LG
+**发布日期**: 2026-07-01
+**链接**: http://arxiv.org/abs/2607.01218v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### FurnitureVLA: Learning Long-Horizon Bimanual Furniture Assembly with Vision-Language-Action Model
+**作者**: Chenyang Ma, Yue Yang, Radu Corcodel, Siddarth Jain, Andrew Wu, Chiori Hori, Diego Romeres
+**类别**: cs.RO, cs.AI
+**发布日期**: 2026-07-01
+**链接**: http://arxiv.org/abs/2607.01212v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents?
+**作者**: Zhi Chen, Zhensu Sun, Yuling Shi, David Lo, Lingxiao Jiang
+**类别**: cs.SE, cs.AI
+**发布日期**: 2026-07-01
+**链接**: http://arxiv.org/abs/2607.01211v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### All-out Attack: Optimal Block Withholding Under Pay-Per-Share Scheme
+**作者**: Mustafa Doger, Sennur Ulukus
+**类别**: cs.CR, cs.DC, cs.IT, math.PR
+**发布日期**: 2026-07-01
+**链接**: http://arxiv.org/abs/2607.01209v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillation
+**作者**: Shayan Talaei, Abhinav Chinta, Devvrit Khatri, Amin Karbasi, Azalia Mirhoseini, Amin Saberi
+**类别**: cs.CL, cs.AI, cs.LG
+**发布日期**: 2026-07-01
+**链接**: http://arxiv.org/abs/2607.01208v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Linkify: Learning from Interface-Augmented Assembly Graphs
+**作者**: Anushrut Jignasu, Daniele Grandi
+**类别**: cs.CV
+**发布日期**: 2026-07-01
+**链接**: http://arxiv.org/abs/2607.01205v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### TiRex-2: Generalizing TiRex to Multivariate Data and Streaming
+**作者**: Patrick Podest, Marco Pichler, Elias Bürger, Levente Zólyomi, Bernhard Voggenberger, Wilhelm Berghammer, Daniel Klotz, Sebastian Böck, Günter Klambauer, Sepp Hochreiter
+**类别**: cs.LG
+**发布日期**: 2026-07-01
+**链接**: http://arxiv.org/abs/2607.01204v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### GPU-Parallel Linearization Error Bounds for Real-Time Robust Optimal Control of Nonlinear and Neural Network Dynamics
+**作者**: Jeffrey Fang, Keyi Shen, Anutam Srinivasan, Glen Chou
+**类别**: eess.SY, cs.AI, cs.LG, cs.RO, math.OC
+**发布日期**: 2026-07-01
+**链接**: http://arxiv.org/abs/2607.01203v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### World from Motion: Generative Dynamic Gaussian Reconstruction from Monocular Video
+**作者**: Liyuan Zhu, Shengyu Huang, Amrita Mazumdar, Tianye Li, Zan Gojcic, Gordon Wetzstein, Iro Armeni, Shalini De Mello, Alex Trevithick
+**类别**: cs.CV, cs.AI, cs.GR
+**发布日期**: 2026-07-01
+**链接**: http://arxiv.org/abs/2607.01202v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
