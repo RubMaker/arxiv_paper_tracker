@@ -132758,3 +132758,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-07-04)
+
+### WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory
+**作者**: Hanlin Wang, Hao Ouyang, Qiuyu Wang, Wen Wang, Qingyan Bai, Ka Leong Cheng, Yue Yu, Yixuan Li, Yihao Meng, Zichen Liu, Yanhong Zeng, Yujun Shen, Qifeng Chen
+**类别**: cs.CV
+**发布日期**: 2026-07-02
+**链接**: http://arxiv.org/abs/2607.02517v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Alignment Is All You Need For X-to-4D Generation
+**作者**: Qiaowei Miao, Kehan Li, Yawei Luo, Yi Yang
+**类别**: cs.CV
+**发布日期**: 2026-07-02
+**链接**: http://arxiv.org/abs/2607.02516v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation
+**作者**: Haofei Xu, Rundi Wu, Philipp Henzler, Nikolai Kalischek, Michael Oechsle, Fabian Manhardt, Marc Pollefeys, Andreas Geiger, Federico Tombari, Michael Niemeyer
+**类别**: cs.CV
+**发布日期**: 2026-07-02
+**链接**: http://arxiv.org/abs/2607.02515v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Distributed Attacks in Persistent-State AI Control
+**作者**: Josh Hills, Ida Caspary, Asa Cooper Stickland
+**类别**: cs.AI
+**发布日期**: 2026-07-02
+**链接**: http://arxiv.org/abs/2607.02514v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning
+**作者**: Matteo Boglioni, Thibault Rousset, Siva Reddy, Marius Mosbach, Verna Dankers
+**类别**: cs.CL, cs.AI, cs.LG
+**发布日期**: 2026-07-02
+**链接**: http://arxiv.org/abs/2607.02513v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Program-as-Weights: A Programming Paradigm for Fuzzy Functions
+**作者**: Wentao Zhang, Liliana Hotsko, Woojeong Kim, Pengyu Nie, Stuart Shieber, Yuntian Deng
+**类别**: cs.LG, cs.AI, cs.CL
+**发布日期**: 2026-07-02
+**链接**: http://arxiv.org/abs/2607.02512v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Online Safety Monitoring for LLMs
+**作者**: Mona Schirmer, Metod Jazbec, Alexander Timans, Christian Naesseth, Maja Waldron, Eric Nalisnick
+**类别**: cs.AI, cs.CL, cs.LG, stat.AP, stat.ML
+**发布日期**: 2026-07-02
+**链接**: http://arxiv.org/abs/2607.02510v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning
+**作者**: Yanjun Zhao, Ruizhong Qiu, Tianxin Wei, Yuanchen Bei, Zhining Liu, Lingjie Chen, Ismini Lourentzou, Hanghang Tong, Jingrui He
+**类别**: cs.AI
+**发布日期**: 2026-07-02
+**链接**: http://arxiv.org/abs/2607.02509v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### From SRA to Self-Flow: Data Augmentation or Self-Supervision?
+**作者**: Dengyang Jiang, Mengmeng Wang, Harry Yang, Jingdong Wang
+**类别**: cs.CV
+**发布日期**: 2026-07-02
+**链接**: http://arxiv.org/abs/2607.02508v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates
+**作者**: Arman Ghaffarizadeh, Danyal Mohaddes, Aliakbar Izadkhah, Shahriar Noroozizadeh
+**类别**: cs.AI, cs.CL, cs.LG, cs.MA
+**发布日期**: 2026-07-02
+**链接**: http://arxiv.org/abs/2607.02507v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas
+**作者**: Yuxuan Li, Lingxi Xie, Xinyue Huo, Jihao Qiu, Jiacheng Shao, Pengfei Chen, Jiannan Ge, Kaiwen Duan, Qi Tian
+**类别**: cs.CL, cs.AI, cs.CV
+**发布日期**: 2026-07-02
+**链接**: http://arxiv.org/abs/2607.02504v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### VT-WAM: Visual-Tactile World Action Model for Contact-Rich Manipulation
+**作者**: Shuai Tian, Yupeng Zheng, Yuhang Zheng, Songen Gu, Yujie Zang, Yuxing Qin, Weize Li, Haoran Li, Wenchao Ding, Dongbin Zhao
+**类别**: cs.RO
+**发布日期**: 2026-07-02
+**链接**: http://arxiv.org/abs/2607.02503v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### DemoPSD: Disagreement-Modulated Policy Self-Distillation
+**作者**: Yunhe Li, Hao Shi, Wenhao Liu, Mengzhe Ruan, Hanxu Hou, Zhongxiang Dai, Shuang Qiu, Linqi Song
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-07-02
+**链接**: http://arxiv.org/abs/2607.02502v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots
+**作者**: Ling Xu, Chuyu Han, Borui Li, Hao Wu, Shiqi Jiang, Ting Cao, Chuanyou Li, Sheng Zhong, Shuai Wang
+**类别**: cs.RO, cs.CV, cs.OS
+**发布日期**: 2026-07-02
+**链接**: http://arxiv.org/abs/2607.02501v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials
+**作者**: Gil Harari, Yoel Zimmermann, Ola Tangen Kulseng, Laura Zichi, Chuin Wei Tan, Marc L. Descoteaux, Boris Kozinsky
+**类别**: cs.LG, cs.AI, physics.chem-ph, physics.comp-ph
+**发布日期**: 2026-07-02
+**链接**: http://arxiv.org/abs/2607.02499v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
