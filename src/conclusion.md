@@ -132912,3 +132912,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-07-07)
+
+### From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model
+**作者**: Wenhao Li, Xueying Jiang, Quanhao Qian, Deli Zhao, Shijian Lu, Gongjie Zhang, Ran Xu
+**类别**: cs.CV, cs.AI, cs.LG, cs.RO
+**发布日期**: 2026-07-06
+**链接**: http://arxiv.org/abs/2607.05396v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Weak-to-Strong Generalization via Direct On-Policy Distillation
+**作者**: Shiyuan Feng, Huan-ang Gao, Haohan Chi, Hanlin Wu, Zhilong Zhang, Zheng Jiang, Bingxiang He, Wei-Ying Ma, Ya-Qin Zhang, Hao Zhou
+**类别**: cs.LG, cs.AI, cs.CL
+**发布日期**: 2026-07-06
+**链接**: http://arxiv.org/abs/2607.05394v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Interpretable Human-Label-Free Deep Learning for Real-Bogus Classification with Uncertainty Quantification
+**作者**: Raphaël Bonnet-Guerrini, Bruno Sanchez, Dominique Fouchez, Benjamin Racine, Maya Guy, Mariam Sabalbal, Manal Yassine, Vincenzo Piuri
+**类别**: astro-ph.IM, astro-ph.GA, astro-ph.HE, cs.AI, cs.LG
+**发布日期**: 2026-07-06
+**链接**: http://arxiv.org/abs/2607.05393v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### SynCity 3000: Bootstrapping Scene-Scale 3D Diffusion
+**作者**: Paul Engstler, Iro Laina, Christian Rupprecht, Andrea Vedaldi
+**类别**: cs.CV
+**发布日期**: 2026-07-06
+**链接**: http://arxiv.org/abs/2607.05392v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### LLM-as-a-Verifier: A General-Purpose Verification Framework
+**作者**: Jacky Kwok, Shulu Li, Pranav Atreya, Yuejiang Liu, Yixing Jiang, Chelsea Finn, Marco Pavone, Ion Stoica, Azalia Mirhoseini
+**类别**: cs.AI, cs.CL, cs.LG, cs.MA, cs.RO
+**发布日期**: 2026-07-06
+**链接**: http://arxiv.org/abs/2607.05391v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Deform360: A Massive Multi-view Visuotactile Dataset for Deformable World Models
+**作者**: Hongyu Li, Wanjia Fu, Xiaoyan Cong, Zekun Li, Binghao Huang, Hanxiao Jiang, Xintong He, Yiqing Liang, Rao Fu, Tao Lu, Srinath Sridhar, Kevin A. Smith, George Konidaris, Yunzhu Li
+**类别**: cs.RO, cs.CV
+**发布日期**: 2026-07-06
+**链接**: http://arxiv.org/abs/2607.05390v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### InFlux++: Real and Synthetic Data for Estimating Dynamic Camera Intrinsics
+**作者**: Erich Liang, Caleb Kha-Uong, Chinmaya Saran, Sreemanti Dey, David W. Liu, Junhan Ouyang, Benjamin Zhou, Jia Deng
+**类别**: cs.CV
+**发布日期**: 2026-07-06
+**链接**: http://arxiv.org/abs/2607.05389v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### CATs: Secure Blockchain Interoperability with Cross-chain Atomic Transactions
+**作者**: Andreas Penzkofer, Franck Cassez
+**类别**: cs.DC
+**发布日期**: 2026-07-06
+**链接**: http://arxiv.org/abs/2607.05387v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Search Beyond What Can Be Taught: Evolving the Knowledge Boundary in Agentic Visual Generation
+**作者**: Haozhe Wang, Weijia Feng, Jinpeng Yu, Che Liu, Ping Nie, Fangzhen Lin, Jiaming Liu, Ruihua Huang, Jimmy Lin, Wenhu Chen, Cong Wei
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-07-06
+**链接**: http://arxiv.org/abs/2607.05382v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### What Does a Discrete Diffusion Model Learn?
+**作者**: Rodrigo Casado Noguerales, Bernhard Schölkopf, Thomas Hofmann, Aran Raoufi
+**类别**: cs.LG, cs.AI, cs.CL, cs.IT, stat.ML
+**发布日期**: 2026-07-06
+**链接**: http://arxiv.org/abs/2607.05381v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### TabPack: Efficient Hyperparameter Ensembles for Tabular Deep Learning
+**作者**: Yury Gorishniy, Akim Kotelnikov, Ivan Rubachev, Artem Babenko
+**类别**: cs.LG
+**发布日期**: 2026-07-06
+**链接**: http://arxiv.org/abs/2607.05380v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### CompactionRL: Reinforcement Learning with Context Compaction for Long-Horizon Agents
+**作者**: Yujiang Li, Zhenyu Hou, Yi Jing, Jie Tang, Yuxiao Dong
+**类别**: cs.LG
+**发布日期**: 2026-07-06
+**链接**: http://arxiv.org/abs/2607.05378v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation
+**作者**: Jiaqi Peng, Xiqian Yu, Delin Feng, Yuqiang Yang, Wenzhe Cai, Jing Xiong, Ganlin Yang, Jinliang Zheng, Jiafei Cao, Xueyuan Wei, Jiangmiao Pang, Yuan Shen, Tai Wang
+**类别**: cs.RO, cs.AI, cs.CV
+**发布日期**: 2026-07-06
+**链接**: http://arxiv.org/abs/2607.05377v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### MV-Forcing: Long Multi-View Video Generation via 4D-Grounded Spatio-Temporal Self-Forcing
+**作者**: Gal Fiebelman, Hadar Averbuch-Elor, Sagie Benaim
+**类别**: cs.CV, cs.GR
+**发布日期**: 2026-07-06
+**链接**: http://arxiv.org/abs/2607.05376v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Fitted Occupancy-Ratio Evaluation without Bellman Completeness
+**作者**: Lars van der Laan, Nathan Kallus
+**类别**: stat.ML, cs.LG
+**发布日期**: 2026-07-06
+**链接**: http://arxiv.org/abs/2607.05375v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
