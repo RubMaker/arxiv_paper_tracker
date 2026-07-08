@@ -133066,3 +133066,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-07-08)
+
+### ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation
+**作者**: Tianjiao Yu, Xinzhuo Li, Yifan Shen, Onkar Susladkar, Yuanzhe Liu, Xiaona Zhou, Ismini Lourentzou
+**类别**: cs.CV, cs.AI, cs.LG
+**发布日期**: 2026-07-07
+**链接**: http://arxiv.org/abs/2607.06565v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation
+**作者**: Jiaming Liu, Qingpo Wuwu, Nuowei Han, Hao Chen, Zhuoyang Liu, Fan Fei, Yueru Jia, Chenyang Gu, Yandong Guo, Boxin Shi, Shanghang Zhang
+**类别**: cs.RO, cs.CV
+**发布日期**: 2026-07-07
+**链接**: http://arxiv.org/abs/2607.06564v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Embodied Human-Robot Interaction via Acoustics: A MARL Approach with AcoustoBots for Spatial Data Physicalization
+**作者**: Shiqi Liu, Narsimlu Kemsaram, Prateek Mittal, Pengyuan Wei, Sriram Subramanian
+**类别**: cs.RO
+**发布日期**: 2026-07-07
+**链接**: http://arxiv.org/abs/2607.06563v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Vision as Unified Multimodal Generation
+**作者**: Xiaoyang Han, Jianhua Li, Kewang Deng, Zukai Chen, Xuanke Shi, Sihan Wang, Boxuan Li, Linyan Wang, Siyi Xie, Xin You, Jinsheng Quan, Zhongang Cai, Haiwen Diao, Ziwei Liu, Lei Yang, Dahua Lin, Quan Wang
+**类别**: cs.CV
+**发布日期**: 2026-07-07
+**链接**: http://arxiv.org/abs/2607.06560v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation
+**作者**: Haoyu Zhao, Xingyue Zhao, Siteng Huang, Xin Li, Deli Zhao, Zhongyu Li
+**类别**: cs.RO
+**发布日期**: 2026-07-07
+**链接**: http://arxiv.org/abs/2607.06559v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation
+**作者**: Haoyu Zhao, Xingyue Zhao, Hangyu Li, Biao Gong, Kehan Li, Siteng Huang, Xin Li, Deli Zhao, Zhongyu Li
+**类别**: cs.RO
+**发布日期**: 2026-07-07
+**链接**: http://arxiv.org/abs/2607.06558v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### ProxyPose: 6-DoF Pose Tracking via Video-to-Video Translation
+**作者**: Ruihang Zhang, Felix Taubner, Pooja Ravi, Kiriakos N. Kutulakos, David B. Lindell
+**类别**: cs.CV
+**发布日期**: 2026-07-07
+**链接**: http://arxiv.org/abs/2607.06555v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### From RGB Generation to Dense Field Readout: Pixel-Space Dense Prediction with Text-to-Image Models
+**作者**: Zanyi Wang, Xin Lin, Haodong Li, Dengyang Jiang, Yijiang Li, Pengtao Xie
+**类别**: cs.CV
+**发布日期**: 2026-07-07
+**链接**: http://arxiv.org/abs/2607.06553v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### MonoIR-RS: Infrared Remote Sensing Vision-Language Learning with CLIP and VLM Adaptation
+**作者**: Jiaju Han, Ma Yaqi, Yahui Chai, Xuemeng Sun, Xin Li, Qike Zhang, Yingying Zhao, Xiang Chen, Luwei Yang, Chengyin Hu, Jiahuan Long
+**类别**: cs.CV
+**发布日期**: 2026-07-07
+**链接**: http://arxiv.org/abs/2607.06552v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Unsupervised Domain Adaptation for Calcification Classification in Mammography Across Multi-Site Datasets
+**作者**: Xuan Liu, Derek L. Nguyen, Emily C. Barre, Jennifer Thomas, Thomas Lynch, Jeffrey R. Marks, E. Shelley Hwang, Marc D. Ryser, Joseph Y. Lo, Lars J. Grimm
+**类别**: cs.CV
+**发布日期**: 2026-07-07
+**链接**: http://arxiv.org/abs/2607.06549v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Graph Convolutional Attention: A Spectral Perspective on Graph Denoising and Diffusion
+**作者**: Shervin Khalafi, Igor Krawczuk, Sergio Rozada, Charilaos Kanatsoulis, Antonio G Marques, Alejandro Ribeiro
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-07-07
+**链接**: http://arxiv.org/abs/2607.06546v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Rethinking Indic AI from a Lens of Cultural Heritage Preservation
+**作者**: Aparna Madva, Sharath Srivatsa, Srinath Srinivasa, Tulika Saha
+**类别**: cs.AI, cs.CL
+**发布日期**: 2026-07-07
+**链接**: http://arxiv.org/abs/2607.06544v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### On the feasibility of dependency parsing of non-human sequences without a gold standard. Is evaluation possible in other species?
+**作者**: Ramon Ferrer-i-Cancho, Catherine Hobaiter, Thore Bergman, Morgan Gustison
+**类别**: cs.CL
+**发布日期**: 2026-07-07
+**链接**: http://arxiv.org/abs/2607.06542v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Hierarchical Acoustic-Semantic Modeling: Modality Separation and Semantic Coherence for Full-Duplex SLMs
+**作者**: Zhenyu Liu, Yunxin Li, Xuanyu Zhang, Qixun Teng, Shenyuan Jiang, Haolan Chen, Minjun Zhao, Fanbo Meng, Yu Xu, Yancheng He, Baotian Hu, Haizhou Li, Min Zhang
+**类别**: cs.CL
+**发布日期**: 2026-07-07
+**链接**: http://arxiv.org/abs/2607.06540v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### UniLM-Nav: A Unified Framework for Zero-Shot Last-Mile Navigation
+**作者**: Zhuofan Zhang, Tianxu Wang, Guoxi Zhang, Yixiong Lin, Xilin Wang, Hongming Xu, Qing Li, Song-Chun Zhu, Lifeng Fan
+**类别**: cs.RO
+**发布日期**: 2026-07-07
+**链接**: http://arxiv.org/abs/2607.06537v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
