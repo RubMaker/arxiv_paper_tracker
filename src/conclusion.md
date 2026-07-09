@@ -133220,3 +133220,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-07-09)
+
+### Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning
+**作者**: Chen Tang, Yizhou Wang, Jianyu Wu, Lintao Wang, Shixiang Tang, Pengze Li, Encheng Su, Jun Yao, Jiabei Xiao, Yuqi Shi, Jielan Li, Hongxia Hao, Zhangyang Gao, Fang Wu, Ben Fei, Xiangyu Yue, Pan Tan, Bozitao Zhong, Jinouwen Zhang, Aoran Wang, Yan Lu, Jiaheng Liu, Xinzhu Ma, Liang Hong, Mingyue Zheng, Phil Torr, Bowen Zhou, Wanli Ouyang, Lei Bai
+**类别**: cs.CL, cs.AI, cs.CE, cs.LG
+**发布日期**: 2026-07-08
+**链接**: http://arxiv.org/abs/2607.07708v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Co-LMLM: Continuous-Query Limited Memory Language Models
+**作者**: Yair Feldman, Linxi Zhao, Nathan Godey, Dongyoung Go, Yilun Hua, Kilian Q. Weinberger, Jennifer J. Sun, Yoav Artzi
+**类别**: cs.CL, cs.AI, cs.LG
+**发布日期**: 2026-07-08
+**链接**: http://arxiv.org/abs/2607.07707v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### The Key to Going Linear: Analysis-Driven Transformer Linearization
+**作者**: Anna Kuzina, Paul N. Whatmough, Babak Ehteshami Bejnordi
+**类别**: cs.LG
+**发布日期**: 2026-07-08
+**链接**: http://arxiv.org/abs/2607.07706v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### From Noisy Traces to Root Causes: Structural Trajectory Analysis and Causal Extraction for Agent Optimization
+**作者**: Ying Chang, Jiahang Xu, Xuan Feng, Chenyuan Yang, Peng Cheng, Yuqing Yang
+**类别**: cs.CL
+**发布日期**: 2026-07-08
+**链接**: http://arxiv.org/abs/2607.07702v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Breaking Database Lock-in: Agentic Regeneration of High Performance Storage Readers for Database Bypass
+**作者**: Victor Giannakouris, Immanuel Trummer
+**类别**: cs.DB, cs.AI
+**发布日期**: 2026-07-08
+**链接**: http://arxiv.org/abs/2607.07696v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Institutional Red-Teaming: Deployment Rules, Not Just Models, Causally Shape Multi-Agent AI Safety
+**作者**: Yujiao Chen
+**类别**: cs.AI, cs.GT, cs.MA
+**发布日期**: 2026-07-08
+**链接**: http://arxiv.org/abs/2607.07695v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Selective Timestep Weighting and Advantage-Based Replay for Sample-Efficient Diffusion RLHF
+**作者**: Eric Zhu, Abhinav Shrivastava, Soumik Mukhopadhyay
+**类别**: cs.LG, cs.AI, cs.CV
+**发布日期**: 2026-07-08
+**链接**: http://arxiv.org/abs/2607.07693v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Agon: Competitive Cross-Model RL with Implicit Rival Grading of Reasoning
+**作者**: Vladislav Beliaev
+**类别**: cs.LG, cs.AI, cs.CL
+**发布日期**: 2026-07-08
+**链接**: http://arxiv.org/abs/2607.07690v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Scaling WaterLily.jl with MPI and an improved geometric multigrid solver
+**作者**: Bernat Font, Marin Lauber, Tzu-Yao Huang, Gabriel D. Weymouth
+**类别**: physics.comp-ph, cs.DC, physics.flu-dyn
+**发布日期**: 2026-07-08
+**链接**: http://arxiv.org/abs/2607.07687v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### ECGLight: Compute-Light Framework For Paper ECG Digitization and Myocardial Infarction Screening
+**作者**: Shreyasvi Natraj, Cyrus Achtari, Felice Gragnano, Andrea Milzi, Marco Valgimigli, Diego Paez-Granados
+**类别**: cs.LG
+**发布日期**: 2026-07-08
+**链接**: http://arxiv.org/abs/2607.07683v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Neural Operator-enabled Topology-informed Evolutionary Strategy for PDE-Constrained Optimization
+**作者**: Xiangming Huang, Guannan Zhang, Lu Lu, Raphaël Pestourie
+**类别**: cs.LG
+**发布日期**: 2026-07-08
+**链接**: http://arxiv.org/abs/2607.07682v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Any-Dimensional Learning by Sampling
+**作者**: Eitan Levin, Venkat Chandrasekaran
+**类别**: math.ST, cs.LG, math.PR
+**发布日期**: 2026-07-08
+**链接**: http://arxiv.org/abs/2607.07680v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### How Data Shapes RoPE Frequency Usage: From Positional Scale Matching to Length Generalization
+**作者**: Xinyi Wu, Siyuan Liu, Ali Jadbabaie
+**类别**: cs.LG
+**发布日期**: 2026-07-08
+**链接**: http://arxiv.org/abs/2607.07678v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### SkillCenter: A Large-Scale Source-Grounded Skill Library for Autonomous AI Agents
+**作者**: Tianming Sha, Yue Zhao, Lichao Sun, Yushun Dong
+**类别**: cs.AI
+**发布日期**: 2026-07-08
+**链接**: http://arxiv.org/abs/2607.07676v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence
+**作者**: Shuailei Ma, Jiaqi Liao, Xinyang Wang, Jingjing Wang, Chaoran Feng, Zijing Hu, Chong Bao, Zichen Xi, Yuqi Gan, Weisen Wang, Yanhong Zeng, Qin Zhao, Zifan Shi, Wei Wu, Hao Ouyang, Qiuyu Wang, Shangzhan Zhang, Jiahao Shao, Yipengjing Sun, Liangxiao Hu, Lunke Pan, Nan Xue, Kecheng Zheng, Yinghao Xu, Xing Zhu, Yujun Shen, Ka Leong Cheng
+**类别**: cs.CV
+**发布日期**: 2026-07-08
+**链接**: http://arxiv.org/abs/2607.07675v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
