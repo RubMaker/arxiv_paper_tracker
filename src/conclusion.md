@@ -133528,3 +133528,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-07-11)
+
+### Wat3R: Underwater 3D Geometry Learning without Annotations
+**作者**: Jiangwei Ren, Xingyu Jiang, Zijie Song, Wei Xu, Hongkai Lin, Dingkang Liang, Xiang Bai
+**类别**: cs.CV
+**发布日期**: 2026-07-09
+**链接**: http://arxiv.org/abs/2607.08772v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device
+**作者**: Fabio Tosi, Luca Bartolomei, Matteo Poggi, Stefano Mattoccia
+**类别**: cs.CV
+**发布日期**: 2026-07-09
+**链接**: http://arxiv.org/abs/2607.08771v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models
+**作者**: Cheng-De Fan, Chun-Wei Tuan Mu, Chen-Wei Chang, Chin-Yang Lin, Kun-Ru Wu, Yu-Chee Tseng, Yu-Lun Liu
+**类别**: cs.CV
+**发布日期**: 2026-07-09
+**链接**: http://arxiv.org/abs/2607.08770v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction
+**作者**: Weijian Chen, Weibo Yao, Yuhang Zhang, Xiaolin Tang, Guo Wang, Weijun Zhang, Xitong Gao, Yihao Chen, Hongde Qin, Lu Qi
+**类别**: cs.CV
+**发布日期**: 2026-07-09
+**链接**: http://arxiv.org/abs/2607.08769v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks
+**作者**: Zhekai Chen, Chengqi Duan, Kaiyue Sun, Bohao Li, Yuqing Wang, Manyuan Zhang, Xihui Liu
+**类别**: cs.CL
+**发布日期**: 2026-07-09
+**链接**: http://arxiv.org/abs/2607.08768v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators
+**作者**: Hongyu Liu, Chun Wang, Feng Gao, Xuanhua He, Yue Ma, Ziyu Wan, Yong Zhang, Xiaoming Wei, Qifeng Chen
+**类别**: cs.CV
+**发布日期**: 2026-07-09
+**链接**: http://arxiv.org/abs/2607.08766v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Enhancing In-context Panoramic Generation via Geometric-aware Pretraining
+**作者**: Haoran Feng, Ruiyang Zhang, Longyi Zhang, Dizhe Zhang, Lu Qi
+**类别**: cs.CV
+**发布日期**: 2026-07-09
+**链接**: http://arxiv.org/abs/2607.08765v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### OpenCoF: Learning to Reason Through Video Generation
+**作者**: Xinyan Chen, Ziyu Guo, Renrui Zhang, Dongzhi Jiang, Hongsheng Li
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-07-09
+**链接**: http://arxiv.org/abs/2607.08763v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation
+**作者**: Yifan Zhou, Qihao Yang, Yan Li, Donggang Li, Xiru Hu, Hokin Deng, Ziyang Gong, Xuanyi Zhou, Huacan Wang, Xiangchao Yan, Wanghan Xu, Wenlong Zhang, Shaofeng Zhang, Yue Zhou, Yifan Yang, Zhihang Zhong, Xue Yang
+**类别**: cs.AI
+**发布日期**: 2026-07-09
+**链接**: http://arxiv.org/abs/2607.08758v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability in Diffusion Sampling
+**作者**: Yiwei Zhou
+**类别**: stat.ML, cs.LG, math.NA, math.PR
+**发布日期**: 2026-07-09
+**链接**: http://arxiv.org/abs/2607.08757v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### MulTTiPop: A Multitrack Transcription Dataset for Pop Music
+**作者**: Nathan Pruyne, Benjamin Stoler, William Chen, Chien-yu Huang, Shinji Watanabe, Chris Donahue
+**类别**: cs.SD, cs.LG
+**发布日期**: 2026-07-09
+**链接**: http://arxiv.org/abs/2607.08756v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### SLORR: Simple and Efficient In-Training Low-Rank Regularization
+**作者**: David González-Martínez, Shiwei Liu
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-07-09
+**链接**: http://arxiv.org/abs/2607.08754v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### DexVerse: A Modular Benchmark for Multi-Task, Multi-Embodiment Dexterous Manipulation
+**作者**: Yunchao Yao, Zhuxiu Xu, Tianqi Zhang, Zixian Liu, Sikai Li, Zhenyu Wei, Feng Chen, Dihong Huang, Kechang Wan, Chenyang Ma, Shuqi Zhao, Shenghua Gao, Masayoshi Tomizuka, Yi Ma, Mingyu Ding
+**类别**: cs.RO
+**发布日期**: 2026-07-09
+**链接**: http://arxiv.org/abs/2607.08751v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis
+**作者**: Kristina Schaaff, Quintus Stierstorfer, Valerie Heckel
+**类别**: cs.AI, cs.HC
+**发布日期**: 2026-07-09
+**链接**: http://arxiv.org/abs/2607.08748v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Dimensionality Reduction Meets Network Science: Sensemaking on UMAP's kNN Graph
+**作者**: Duen Horng Chau, Donghao Ren, Fred Hohman, Dominik Moritz
+**类别**: cs.LG, cs.AI, cs.DS, cs.HC
+**发布日期**: 2026-07-09
+**链接**: http://arxiv.org/abs/2607.08746v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
