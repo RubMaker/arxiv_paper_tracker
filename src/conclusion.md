@@ -133682,3 +133682,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-07-14)
+
+### Read It Back: Pretrained MLLMs Are Zero-Shot Reward Models for Text-to-Image Generation
+**作者**: Runhui Huang, Qihui Zhang, Zhe Liu, Yu Gao, Jie Wu, Hengshuang Zhao
+**类别**: cs.CV
+**发布日期**: 2026-07-13
+**链接**: http://arxiv.org/abs/2607.11886v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Latent-Identity Tuning in Text-to-Image Personalization Models
+**作者**: Daniel Garibi, Ronen Kamenetsky, Hadar Averbuch-Elor, Daniel Cohen-Or, Or Patashnik
+**类别**: cs.CV, cs.GR
+**发布日期**: 2026-07-13
+**链接**: http://arxiv.org/abs/2607.11885v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Mixture of Frames Policy: Multi-Frame Action Denoising for Bimanual Mobile Manipulation
+**作者**: Dian Wang, Jisang Park, Xiaomeng Xu, Han Zhang, Shuran Song, Jeannette Bohg
+**类别**: cs.RO
+**发布日期**: 2026-07-13
+**链接**: http://arxiv.org/abs/2607.11884v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data
+**作者**: Shikai Qiu, Marc Finzi, Yujia Zheng, Kun Zhang, Andrew Gordon Wilson
+**类别**: cs.LG
+**发布日期**: 2026-07-13
+**链接**: http://arxiv.org/abs/2607.11883v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Metacognition in LLMs: Foundations, Progress, and Opportunities
+**作者**: Gabrielle Kaili-May Liu, Areeb Gani, Jacqueline Lu, Jordan Thomas, Mark Steyvers, Arman Cohan
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-07-13
+**链接**: http://arxiv.org/abs/2607.11881v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks
+**作者**: Tiberiu Musat, Tiago Pimentel, Nicholas Zucchet, Thomas Hofmann
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-07-13
+**链接**: http://arxiv.org/abs/2607.11875v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation
+**作者**: Yunhai Feng, Natalie Leung, Jiaxuan Wang, Lujie Yang, Haozhi Qi, Preston Culbertson
+**类别**: cs.RO, cs.AI, cs.LG
+**发布日期**: 2026-07-13
+**链接**: http://arxiv.org/abs/2607.11874v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol
+**作者**: Esteban U. Vega Barajas
+**类别**: cs.CL, cs.LG
+**发布日期**: 2026-07-13
+**链接**: http://arxiv.org/abs/2607.11873v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Inside the Unfair Judge: A Mechanistic Interpretability Account of LLM-as-Judge Bias
+**作者**: Zixiang Xu, Sixian Li, Huaxing Liu, Xiang Wang, Shuai Li, Zirui Song, Xiuying Chen
+**类别**: cs.LG, cs.AI, cs.CL
+**发布日期**: 2026-07-13
+**链接**: http://arxiv.org/abs/2607.11871v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Evidence-Backed Video Question Answering
+**作者**: Shijie Wang, Honglu Zhou, Ziyang Wang, Ran Xu, Caiming Xiong, Silvio Savarese, Chen Sun, Juan Carlos Niebles
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-07-13
+**链接**: http://arxiv.org/abs/2607.11862v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Robust bipedal locomotion on flowable slopes via foot-driven terrain manipulation
+**作者**: Deniz Kerimoglu, Junnosuke Kamohara, Jiyeon Maeng, Ziwon Yoon, Seth Hutchinson, Ye Zhao, Daniel I. Goldman
+**类别**: cs.RO
+**发布日期**: 2026-07-13
+**链接**: http://arxiv.org/abs/2607.11855v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### AdvancedMathBench: A Benchmark Suite for Advanced Mathematical Proof Generation and Verification
+**作者**: Lingkai Kong, Zijian Wu, Yuzhe Gu, Haiteng Zhao, Wenyong Huang, Shuang Sun, Zhicheng Xiong, Xiaotian Zhang, Shuya Zhao, Yan Wang, Disheng Xu, Wenwei Zhang, Kai Chen
+**类别**: cs.CL
+**发布日期**: 2026-07-13
+**链接**: http://arxiv.org/abs/2607.11849v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Beyond the Single Camera: Agentic Multi-View Reasoning in Sports Video Understanding
+**作者**: Kerui Chen, Jinglu Wang, Xiaoyi Zhang, Yan Lu
+**类别**: cs.CV
+**发布日期**: 2026-07-13
+**链接**: http://arxiv.org/abs/2607.11844v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Input-Aware Dynamic Backdoor Attack Against Quantum Neural Networks
+**作者**: Junrui Zhang, Zemin Chen, Lusi Li, Mohammad Ghasemigol, Daniel Takabi, Rui Ning
+**类别**: quant-ph, cs.LG
+**发布日期**: 2026-07-13
+**链接**: http://arxiv.org/abs/2607.11843v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### LoRA-Based Cascaded Multimodal Fusion for Action Recognition in Medical Training Environments
+**作者**: Divya Mereddy, Jeevan Beedareddy
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-07-13
+**链接**: http://arxiv.org/abs/2607.11839v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
