@@ -133836,3 +133836,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-07-15)
+
+### Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution
+**作者**: Junjie Yin, Xinyu Feng
+**类别**: cs.AI, cs.CL, cs.SE, eess.SY
+**发布日期**: 2026-07-14
+**链接**: http://arxiv.org/abs/2607.13034v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### DenseReward: Dense Reward Learning via Failure Synthesis for Robotic Manipulation
+**作者**: Yu Fang, Wanxi Dong, Jiaqi Liu, Yue Yang, Mingxiao Huo, Yao Mu, Huaxiu Yao, Li Erran Li, Daniel Szafir, Mingyu Ding
+**类别**: cs.RO
+**发布日期**: 2026-07-14
+**链接**: http://arxiv.org/abs/2607.13033v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### The Seriality Gap in Video Diffusion Models
+**作者**: Jorge Diaz Chao, Konpat Preechakul, Yuxi Liu, Yutong Bai
+**类别**: cs.LG, cs.CV
+**发布日期**: 2026-07-14
+**链接**: http://arxiv.org/abs/2607.13031v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale
+**作者**: Zhouchonghao Wu, Akshay Rangesh, Weixin Li, Wei-Jer Chang, Zachary Lee, Tim Wang, Wei Zhan
+**类别**: cs.LG, cs.AI, cs.RO
+**发布日期**: 2026-07-14
+**链接**: http://arxiv.org/abs/2607.13028v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### PalmClaw: A Native On-Device Agent Framework for Mobile Phones
+**作者**: Hongru Cai, Yongqi Li, Ran Wei, Wenjie Li
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-07-14
+**链接**: http://arxiv.org/abs/2607.13027v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### A Shortcut to Statistically Steady-State Turbulence with Flow Matching
+**作者**: Gianluca Galletti, Gerald Gutenbrunner, William Hornsby, Lorenzo Zanisi, Naomi Carey, Stanislas Pamela, Johannes Brandstetter, Fabian Paischer
+**类别**: physics.plasm-ph, cs.LG
+**发布日期**: 2026-07-14
+**链接**: http://arxiv.org/abs/2607.13022v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### FlowWAM: Optical Flow as a Unified Action Representation for World Action Models
+**作者**: Yixiang Chen, Peiyan Li, Yuan Xu, Qisen Ma, Jiabing Yang, Kai Wang, Jianhua Yang, Dong An, He Guan, Gaoteng Liu, Jianlou Si, Jun Huang, Jing Liu, Nianfeng Liu, Yan Huang, Liang Wang
+**类别**: cs.RO, cs.CV
+**发布日期**: 2026-07-14
+**链接**: http://arxiv.org/abs/2607.13017v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Privacy Attacks on Stable Marriage
+**作者**: Stephan A. Fahrenkrog-Petersen, Aleksander Figiel, Darya Melnyk, Tijana Milentijević, Stefan Schmid
+**类别**: cs.DS, cs.DC, cs.MA
+**发布日期**: 2026-07-14
+**链接**: http://arxiv.org/abs/2607.13015v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Audio-Native Speech Recognition with a Frozen Discrete-Diffusion Language Model
+**作者**: Harsha Vardhan Khurdula, Abhinav Kumar Singh, Yoeven D Khemlani, Vineet Agarwal
+**类别**: cs.AI, cs.SD
+**发布日期**: 2026-07-14
+**链接**: http://arxiv.org/abs/2607.13013v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### DermDepth: Toward Monocular Metric Scale 3D Reconstruction Models for Dermatology
+**作者**: Héctor Carrión, Narges Norouzi
+**类别**: cs.CV
+**发布日期**: 2026-07-14
+**链接**: http://arxiv.org/abs/2607.13010v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Dynamic Resource Allocation for Ensemble Determinization MCTS
+**作者**: Jakub Kowalski, Adam Ciężkowski, Artur Krzyżyński, Mark H. M. Winands
+**类别**: cs.AI
+**发布日期**: 2026-07-14
+**链接**: http://arxiv.org/abs/2607.13007v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### The Spectrum Is Not Enough: When Context Helps Time-Series Forecasting
+**作者**: Mert Onur Cakiroglu, Mehmet Dalkilic, Hasan Kurban
+**类别**: cs.LG
+**发布日期**: 2026-07-14
+**链接**: http://arxiv.org/abs/2607.13006v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Watermark Forensics for Generative Models: An Information-Theoretic Perspective
+**作者**: Xiaoyu Li, Zheng Gao, Xiaoyan Feng, Jiaojiao Jiang, Yulei Sui, Jiankun Hu
+**类别**: cs.CR, cs.IT, cs.LG
+**发布日期**: 2026-07-14
+**链接**: http://arxiv.org/abs/2607.13003v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### X-Lens: Real-Time Metric Depth Estimation with Heterogeneous Cameras
+**作者**: Heng Zhou, Shuhong Liu, Yonghao He, Bohao Zhang, Fa Fu, Chenhui Hou, Xianbao Hou, Lijun Han, Wei Sui
+**类别**: cs.CV
+**发布日期**: 2026-07-14
+**链接**: http://arxiv.org/abs/2607.12993v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### ChunkFlow: Towards Continuity-Consistent Chunked Policy Learning
+**作者**: Zhao Yang, Yinan Shi, Mingyuan Yao, Wenyao Xue, Yawei Jueluo, Longjun Liu
+**类别**: cs.RO
+**发布日期**: 2026-07-14
+**链接**: http://arxiv.org/abs/2607.12992v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
