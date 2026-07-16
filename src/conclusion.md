@@ -133990,3 +133990,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-07-16)
+
+### VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders
+**作者**: Zhihao Xie, Junfeng Wu, Xinting Hu, Junchao Huang, Li Jiang
+**类别**: cs.CV
+**发布日期**: 2026-07-15
+**链接**: http://arxiv.org/abs/2607.14088v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Leveraging unlabelled data for generalizable neural population decoding
+**作者**: Ximeng Mao, Nanda H. Krishna, Avery Hee-Woon Ryoo, Matthew G. Perich, Guillaume Lajoie
+**类别**: cs.LG, q-bio.NC
+**发布日期**: 2026-07-15
+**链接**: http://arxiv.org/abs/2607.14086v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Linear Independent Component Analysis via Optimal Transport
+**作者**: Ashutosh Jha, Michel Besserve, Simon Buchholz
+**类别**: cs.LG, stat.ML
+**发布日期**: 2026-07-15
+**链接**: http://arxiv.org/abs/2607.14081v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### From Pixels to States: Rethinking Interactive World Models as Game Engines
+**作者**: Zhen Li, Zian Meng, Shuwei Shi, Mingliang Zhai, Jiaming Tan, Chuanhao Li, Kaipeng Zhang
+**类别**: cs.CV
+**发布日期**: 2026-07-15
+**链接**: http://arxiv.org/abs/2607.14076v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### MetaPerch: Learning from metadata for bioacoustics foundation models
+**作者**: Mustafa Chasmai, Vincent Dumoulin, Jenny Hamer
+**类别**: cs.LG, cs.SD
+**发布日期**: 2026-07-15
+**链接**: http://arxiv.org/abs/2607.14072v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Screening of Biosecurity Features in Metagenomic Data with Evo 2 Probes
+**作者**: Jeremy Guntoro, Alexander Dack, Dylan Danno, Michaela Jančovičová, Križan Jurinović, Vanessa Smilansky
+**类别**: q-bio.GN, cs.LG
+**发布日期**: 2026-07-15
+**链接**: http://arxiv.org/abs/2607.14070v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Hindcast: Replaying Prediction Markets to Evaluate LLM Forecasters
+**作者**: Xiao Ye, Jacob Dineen, Evan Zhu, Shijie Lu, Kevin Song, Ben Zhou
+**类别**: cs.CL
+**发布日期**: 2026-07-15
+**链接**: http://arxiv.org/abs/2607.14051v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Deep Interaction: An Efficient Human-AI Interaction Method for Large Reasoning Models
+**作者**: Hefeng Zhou, Jinxuan Zhang, Jiong Lou, Yuxin Liu, Chaochao Lu, Jingjing Qu, Jie Li
+**类别**: cs.AI
+**发布日期**: 2026-07-15
+**链接**: http://arxiv.org/abs/2607.14049v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### PhysClaw-0: A Symbiotic Agentic System for Robot Autonomy via Language Corrections
+**作者**: Boyuan Wang, Zhenyuan Zhang, Zhiqin Yang, Peijun Gu, Shuya Wang, Xiaofeng Wang, Xianghui Ze, Yifan Chang, Guosheng Zhao, Jiangnan Shao, Guan Huang, Hengyu Liu, Yonggang Zhang, Wei Xue, Chunyuan Guan, Chenglin Pu, Yike Guo, Xingang Wang, Zheng Zhu
+**类别**: cs.RO, cs.HC, eess.SY
+**发布日期**: 2026-07-15
+**链接**: http://arxiv.org/abs/2607.14047v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Earthquaker-AI: A Retrieval-Augmented Generation Framework with Rubric-Based Assessment for Primary School Earthquake Education
+**作者**: Xanthi Kokkinou, Chaido Mizeli, Nafsika Koulaxidou, Marina Delianidi, Konstantinos Diamantaras
+**类别**: cs.AI
+**发布日期**: 2026-07-15
+**链接**: http://arxiv.org/abs/2607.14046v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### AI-accelerated End-to-End Framework for Rapid Professional Upskilling
+**作者**: Tam Nguyen, Hung Nguyen, Robert Ogburn
+**类别**: cs.AI
+**发布日期**: 2026-07-15
+**链接**: http://arxiv.org/abs/2607.14044v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Multi-Expert Routing for Multi-Domain Low-Resource OCR: A Manchu Case Study
+**作者**: Zhan Chen, Jiqiao Ma, Chih-wen Kuo
+**类别**: cs.CV, cs.AI, cs.LG
+**发布日期**: 2026-07-15
+**链接**: http://arxiv.org/abs/2607.14041v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Can an Old Dog Be Taught New Tricks? Taking LLMs Beyond Sentence Level Translation
+**作者**: Alaina Brandt
+**类别**: cs.CL
+**发布日期**: 2026-07-15
+**链接**: http://arxiv.org/abs/2607.14040v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Early Adoption of Agentic Coding Tools by GitHub Projects
+**作者**: Maliha Noushin Raida, Daqing Hou
+**类别**: cs.SE, cs.AI, cs.CY, cs.LG
+**发布日期**: 2026-07-15
+**链接**: http://arxiv.org/abs/2607.14037v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Improving Wind and Solar Power Prediction with Efficient Wrapper-based Feature Selection: An Empirical Study
+**作者**: Daniel Grillmeyer, Marius Hadry, Michael Stenger, Vanessa Borst, Veronika Lesch, Samuel Kounev
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-07-15
+**链接**: http://arxiv.org/abs/2607.14024v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
