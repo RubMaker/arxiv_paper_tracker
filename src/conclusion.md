@@ -134144,3 +134144,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-07-17)
+
+### Hierarchical Denoising For Multi-Step Visual Reasoning
+**作者**: Zezhong Qian, Xiaowei Chi, Chak-Wing Mak, Tianze Zhou, Ruibin Yuan, Yuhan Rui, Hengzhe Sun, Zhuoqun Wu, Yuming Li, Siyuan Qian, Sirui Han, Shanghang Zhang
+**类别**: cs.CV
+**发布日期**: 2026-07-16
+**链接**: http://arxiv.org/abs/2607.15278v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models
+**作者**: Patrik Wolf, Thomas Kleine Buening, Andreas Krause, Celestine Mendler-Dünner
+**类别**: cs.CL
+**发布日期**: 2026-07-16
+**链接**: http://arxiv.org/abs/2607.15277v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### RoboTTT: Context Scaling for Robot Policies
+**作者**: Yunfan Jiang, Yevgen Chebotar, Ruijie Zheng, Fengyuan Hu, Yunhao Ge, Jimmy Wu, Tianyuan Dai, Scott Reed, Li Fei-Fei, Yuke Zhu, Linxi "Jim" Fan
+**类别**: cs.RO, cs.AI, cs.LG
+**发布日期**: 2026-07-16
+**链接**: http://arxiv.org/abs/2607.15275v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators
+**作者**: Yushi Huang, Xiangxin Zhou, Jun Zhang, Liefeng Bo, Tianyu Pang
+**类别**: cs.CV, cs.LG
+**发布日期**: 2026-07-16
+**链接**: http://arxiv.org/abs/2607.15273v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### SciDiagramEdit: Learning to Edit Scientific Diagrams from Paper Revisions
+**作者**: Yasheng Sun, Zezi Zeng, Yifan Yang, Chong Luo, Wenyi Wang, Ziwei Liu, Jürgen Schmidhuber
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-07-16
+**链接**: http://arxiv.org/abs/2607.15272v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Online Neural Space Time Memory for Dynamic Novel View Synthesis
+**作者**: Baback Elmieh, Lynn Tsai, Zeman Li, Srinivas Kaza, Tiancheng Sun, Gabor Csapo, Ali Behrouz, Yuan Deng, Stephen Lombardi, Steven M. Seitz, Xuan Luo
+**类别**: cs.CV, cs.GR, cs.LG
+**发布日期**: 2026-07-16
+**链接**: http://arxiv.org/abs/2607.15271v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Motion-Conditioned Multi-View Fusion for Myocardial Infarction Localization from Echocardiography
+**作者**: Guang Yang, Wentian Xu, Siyu Wang, Betty Raman, Lei Li, Vicente Grau
+**类别**: cs.CV
+**发布日期**: 2026-07-16
+**链接**: http://arxiv.org/abs/2607.15268v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Pretraining Data Can Be Poisoned through Computational Propaganda
+**作者**: Victoria Graf, Hannaneh Hajishirzi, Noah A. Smith, David Kohlbrenner, Kyle Lo
+**类别**: cs.AI, cs.CL
+**发布日期**: 2026-07-16
+**链接**: http://arxiv.org/abs/2607.15267v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### SceneBind: Binding What and Where Across Vision, Audio and Language
+**作者**: Mingfei Chen, Zijun Cui, Ruoke Zhang, Hyeonggon Ryu, Eli Shlizerman
+**类别**: cs.CV, cs.AI, cs.MM, cs.SD
+**发布日期**: 2026-07-16
+**链接**: http://arxiv.org/abs/2607.15265v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents
+**作者**: Paul Kassianik, Blaine Nelson, Yaron Singer
+**类别**: cs.CR, cs.AI
+**发布日期**: 2026-07-16
+**链接**: http://arxiv.org/abs/2607.15263v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Decoding Market Emotion from Blockchain Activity: A Data-Driven Sentiment Classifier
+**作者**: Arthur G. Bubolz, Abreu Quevedo, Giancarlo Lucca, Rafael A. Berri, Eduardo Borges, Bruno L. Dalmazo
+**类别**: cs.LG, cs.CE
+**发布日期**: 2026-07-16
+**链接**: http://arxiv.org/abs/2607.15258v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration
+**作者**: Yuyao Zhang, Junjie Gao, Zhengxian Wu, Jiaming Fan, Jin Zhang, Shihan Ma, Yao Yao, Weiran Qi, Chuyan Jin, Guiyu Ma, Xingzhong Xu, Kai Yang, Ji-Rong Wen, Zhicheng Dou
+**类别**: cs.AI, cs.IR
+**发布日期**: 2026-07-16
+**链接**: http://arxiv.org/abs/2607.15257v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### HoloGeo: Mitigating Landmark Bias in Geo-localization via Evidence-Driven Reasoning
+**作者**: Pengcheng Zhou, Xuanyu Liu, Yanchen Yin, Bobo Li, Shengqiong Wu, Mong-Li Lee, Wynne Hsu
+**类别**: cs.CV
+**发布日期**: 2026-07-16
+**链接**: http://arxiv.org/abs/2607.15255v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### teLLMe Why (Ain't Nothing but a Jam): Exploratory Causal Analysis of Urban Driving Data
+**作者**: Qiwei Li, Jorge Ortiz
+**类别**: cs.AI, cs.HC
+**发布日期**: 2026-07-16
+**链接**: http://arxiv.org/abs/2607.15254v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Bridge Evidence: Static Retrieval Utility Does Not Predict Causal Utility in Multi-Step Agentic Search
+**作者**: Debayan Mukhopadhyay, Utshab Kumar Ghosh, Shubham Chatterjee
+**类别**: cs.IR, cs.CL
+**发布日期**: 2026-07-16
+**链接**: http://arxiv.org/abs/2607.15253v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
