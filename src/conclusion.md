@@ -134452,3 +134452,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-07-21)
+
+### The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric
+**作者**: Sheng-Yu Wang, Yotam Nitzan, Aaron Hertzmann, Jun-Yan Zhu, Eli Shechtman, Alexei A. Efros, Richard Zhang
+**类别**: cs.CV, cs.LG
+**发布日期**: 2026-07-20
+**链接**: http://arxiv.org/abs/2607.18237v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Patch Policy: Efficient Embodied Control via Dense Visual Representations
+**作者**: Gaoyue Zhou, Zichen Jeff Cui, Ada Langford, Bowen Tan, Yann LeCun, Lerrel Pinto
+**类别**: cs.RO, cs.LG
+**发布日期**: 2026-07-20
+**链接**: http://arxiv.org/abs/2607.18236v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Automated Discovery Has No Universally Superior Harness
+**作者**: Akshat Gupta, Jermaine Lei, Alexander Lu, Gopala Anumanchipalli, Leshem Choshen
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-07-20
+**链接**: http://arxiv.org/abs/2607.18235v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief
+**作者**: Kevin Du, Clara Kümpel, Michelle Wastl, Alex Warstadt
+**类别**: cs.CL
+**发布日期**: 2026-07-20
+**链接**: http://arxiv.org/abs/2607.18232v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### FM-VLA: Force-based Memory for Vision-Language-Action Models in Contact-Rich Manipulation
+**作者**: Ruicheng Li, Qixiu Li, Ruichun Ma, Yu Deng, Lin Luo, Zhiying Du, Jianfeng Xiang, Huizhi Liang, Ruicheng Wang, Jiaolong Yang, Baining Guo
+**类别**: cs.RO
+**发布日期**: 2026-07-20
+**链接**: http://arxiv.org/abs/2607.18231v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs
+**作者**: Yi Tang, Xinyi Shang, Jiacheng Cui, Sondos Mahmoud Bsharat, Jiacheng Liu, Xiaohan Zhao, Tran Dinh Tien, Ahmed Elhagry, Salwa K. Al Khatib, Tianjun Yao, Yonina C. Eldar, Jing-Hao Xue, Hao Li, Salman Khan, Zhiqiang Shen
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-07-20
+**链接**: http://arxiv.org/abs/2607.18230v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Logical Judgments Under Pressure: Diagnosing Syllogistic Stability with Learned Soft Prefixes
+**作者**: Brian K Chen
+**类别**: cs.AI, cs.CL
+**发布日期**: 2026-07-20
+**链接**: http://arxiv.org/abs/2607.18228v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### FlowMimic: Mask-free Visual Editing and Generation with Pixel-pair Warped Flow Field for Online Video Editing Data Generation and Modality Mimicry
+**作者**: Dingyun Zhang, Lixue Gong, Wei Liu
+**类别**: cs.CV
+**发布日期**: 2026-07-20
+**链接**: http://arxiv.org/abs/2607.18227v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Causal Discovery on Irregular Time Series
+**作者**: Martim Penim, Ricardo Ribeiro Pereira, Jacopo Bono, Hugo Ferreira, Mário A. T. Figueiredo, Pedro Bizarro
+**类别**: cs.LG, stat.ME
+**发布日期**: 2026-07-20
+**链接**: http://arxiv.org/abs/2607.18226v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Vector Search As Nearest Neighbor Matching: RAG-based Policy Learning in Causal Inference
+**作者**: Masahiro Kato, Taka Kato
+**类别**: econ.EM, cs.LG, math.ST, stat.ME, stat.ML
+**发布日期**: 2026-07-20
+**链接**: http://arxiv.org/abs/2607.18225v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### GigaPath-Flash and GigaTIME-Flash: Efficient Pathology Foundation Models for Whole-Slide and Tumor Microenvironment Analysis
+**作者**: Naoto Usuyama, Jeya Maria Jose Valanarasu, Sicong Yao, Hanwen Xu, Jaspreet Bagga, Guanghui Qin, Robert E. Kramer, Cliff Wong, Soohee Lee, Hao Qiu, Theodore Zhengde Zhao, Racheli Ben Shimol, Angela Crabtree, Kevin Matlock, Eduardo Alejandro Lozano Garcia, Naiteek Sangani, Alberto Santamaria-Pang, Jason Entenmann, Alexandra Q. Bartlett, Bill J. Wright, Bernard A. Fox, Brian Piening, Sheng Zhang, Sheng Wang, Tristan Naumann, Carlo Bifulco, Hoifung Poon
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-07-20
+**链接**: http://arxiv.org/abs/2607.18218v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### HOMIE: Human-object Centric Video Personalization via Multimodal Intelligent Enchancement
+**作者**: Yiyang Cai, Nan Chen, Rongchang Xie, Junwen Pan, Chunyang Jiang, Cheng Chen, Wen Zhou, Zhenbang Sun, Wei Xue, Wenhan Luo, Yike Guo
+**类别**: cs.CV
+**发布日期**: 2026-07-20
+**链接**: http://arxiv.org/abs/2607.18217v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### SWE-Pruner Pro: The Coder LLM Already Knows What to Prune
+**作者**: Yuhang Wang, Yuling Shi, Shaoqiu Zhang, Jialiang Liang, Shilin He, Siyu Ye, Yuting Chen, Kai Cai, Xiaodong Gu
+**类别**: cs.CL, cs.SE
+**发布日期**: 2026-07-20
+**链接**: http://arxiv.org/abs/2607.18213v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Optimization of sim-to-real transfer in the humanoid robot NICO
+**作者**: Juraj Gavura, Igor Farkaš
+**类别**: cs.RO
+**发布日期**: 2026-07-20
+**链接**: http://arxiv.org/abs/2607.18210v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Unveiling Invariant and Transferable Latent Factors Across Heterogeneous Environments via ATLAS
+**作者**: Yihong Gu, Katherine Liao, Tianxi Cai
+**类别**: math.ST, cs.LG, stat.ME, stat.ML
+**发布日期**: 2026-07-20
+**链接**: http://arxiv.org/abs/2607.18209v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
