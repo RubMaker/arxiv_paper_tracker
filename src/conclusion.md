@@ -134606,3 +134606,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-07-22)
+
+### Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning
+**作者**: Lizhe Fang, Weizhou Shen, Tianyi Tang, Yisen Wang
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-07-21
+**链接**: http://arxiv.org/abs/2607.19345v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Appearance Pointers -- Multimodal Region Control of Diffusion Transformers
+**作者**: Rahul Sajnani, Yulia Gryaditskaya, Radomír Měch, Srinath Sridhar, Matheus Gadelha
+**类别**: cs.CV, cs.AI, cs.GR
+**发布日期**: 2026-07-21
+**链接**: http://arxiv.org/abs/2607.19344v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Masked Visual Actions for Unified World Modeling
+**作者**: Hadi Alzayer, Wenlong Huang, Haonan Chen, Christopher Luey, Lvmin Zhang, Maneesh Agrawala, Gordon Wetzstein, Li Fei-Fei, Yilun Du, Jiajun Wu, Jia-Bin Huang
+**类别**: cs.CV, cs.RO
+**发布日期**: 2026-07-21
+**链接**: http://arxiv.org/abs/2607.19343v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### ExpertVerse: A General-Purpose Benchmark for Expert-Level Reasoning in Knowledge-Intensive Visual Synthesis
+**作者**: Yuan Wang, Yongchao Du, Mengting Chen, Jinsong Lan, Xuetao Feng, Xiaoyong Zhu
+**类别**: cs.CV
+**发布日期**: 2026-07-21
+**链接**: http://arxiv.org/abs/2607.19341v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### OmniReasoner: Thinking with Long Audio-Video via Native Tool Use
+**作者**: Yu Chen, Caorui Li, Ziyu Xiong, Yidong Wang, Mingqi Gao, Shuman Liu, Biao Liu, Chunfeng Yang, Anxiang Zeng, Haibo Zhang, Chaofan Chen
+**类别**: cs.CV
+**发布日期**: 2026-07-21
+**链接**: http://arxiv.org/abs/2607.19339v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### CodeRescue: Budget-Calibrated Recovery Routing for Coding Agents
+**作者**: Qijia He, Jiayi Cheng, Chenqian Le, Rui Wang, Xunmei Liu, Yixian Chen, Jie Mei, Zhihao Wang, Xupeng Chen, Yuhuan Chen, Tao Wang
+**类别**: cs.AI
+**发布日期**: 2026-07-21
+**链接**: http://arxiv.org/abs/2607.19338v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Agents in the Wild: Where Research Meets Deployment
+**作者**: Grace Hui Yang, Pranav N. Venkit, Hooman Sedghamiz, Enrico Santus, Victor Dibia, Ioana Baldini
+**类别**: cs.AI, cs.CL
+**发布日期**: 2026-07-21
+**链接**: http://arxiv.org/abs/2607.19336v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### 1-Lipschitz Neural Networks on Hadamard Manifolds
+**作者**: Davide Murari, Marta Ghirardelli, Ben Adcock, Elena Celledoni, Brynjulf Owren, Carola-Bibiane Schönlieb
+**类别**: math.NA, cs.LG
+**发布日期**: 2026-07-21
+**链接**: http://arxiv.org/abs/2607.19335v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Fundamental limits of distributed multiclass classification from simple binary decisions
+**作者**: Ioannis Papageorgiou, Srinivas Nomula, Ayalvadi Ganesh, Sidharth Jaggi, Parimal Parag
+**类别**: stat.ML, cs.IT, cs.LG, math.ST
+**发布日期**: 2026-07-21
+**链接**: http://arxiv.org/abs/2607.19334v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Provable diffusion-based posterior sampling for linear inverse problems via DDIM
+**作者**: Yuchen Jiao, Na Li, Changxiao Cai, Yuxin Chen, Gen Li
+**类别**: cs.LG, cs.AI, stat.ML
+**发布日期**: 2026-07-21
+**链接**: http://arxiv.org/abs/2607.19333v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### ROMS-IMLE: A Minimalist Approach to Competitive Single-Step Generative Modelling
+**作者**: Chirag Vashist, Ke Li
+**类别**: cs.LG, cs.CV
+**发布日期**: 2026-07-21
+**链接**: http://arxiv.org/abs/2607.19332v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### ISO: An RLVR-Native Optimization Stack
+**作者**: Hanqing Zhu, Wenyan Cong, Zhizhou Sha, Sagnik Mukherjee, Xinyuan Song, David González-Martínez, Xiaoxia Wu, Yuandong Tian, Shiwei Liu, David Z. Pan, Zhangyang "Atlas" Wang
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-07-21
+**链接**: http://arxiv.org/abs/2607.19331v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Associative Emotional Learning in Convolutional Neural Networks
+**作者**: Seowung Leem, Andreas Keil, Mingzhou Ding, Ruogu Fang
+**类别**: cs.AI
+**发布日期**: 2026-07-21
+**链接**: http://arxiv.org/abs/2607.19327v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Selective State-Space Adaptation and Retrieval for Language Model Reasoning
+**作者**: Atahan Dokme, Larry Heck
+**类别**: cs.CL
+**发布日期**: 2026-07-21
+**链接**: http://arxiv.org/abs/2607.19326v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### InstructMixup: Instruction-Guided Salient Patch Editing for Robust Data Augmentation
+**作者**: Khawar Islam, Arif Mahmood, Xin Jin, Naveed Akhtar
+**类别**: cs.CV
+**发布日期**: 2026-07-21
+**链接**: http://arxiv.org/abs/2607.19324v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
