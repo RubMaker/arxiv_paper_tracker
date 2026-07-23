@@ -134760,3 +134760,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-07-23)
+
+### Pure-DP Statistical Query Release at the Conjectured Square-Root Rate
+**作者**: Jack Fitzsimons
+**类别**: cs.DS, cs.CR
+**发布日期**: 2026-07-22
+**链接**: http://arxiv.org/abs/2607.20418v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### ATSplat: Compact Feed-forward 3D Gaussian Splatting with Adaptive Token Expansion
+**作者**: Cho In, Jeonghwan Cho, Mijin Yoo, Gim Hee Lee, Seon Joo Kim
+**类别**: cs.CV
+**发布日期**: 2026-07-22
+**链接**: http://arxiv.org/abs/2607.20417v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Lipschitzian SLLNs for random functions
+**作者**: Lai Tian, Johannes O. Royset
+**类别**: math.OC, cs.LG, math.ST
+**发布日期**: 2026-07-22
+**链接**: http://arxiv.org/abs/2607.20411v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### LKValues: Aligning Large Language Models with Sri Lankan Societal Values
+**作者**: Nethmi Muthugala, Supryadi, Surangika Ranathunga, Nisansa de Silva, Ruijie Tao, Ovindu Gunatunga, Pengyun Zhu, Shaowei Zhang, Jingting Zheng, Deyi Xiong
+**类别**: cs.CL
+**发布日期**: 2026-07-22
+**链接**: http://arxiv.org/abs/2607.20410v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### SoftReason: A Fully Differentiable Neuro-Soft-Symbolic Deductive Reasoning Architecture over High-Dimensional Perceptual Data
+**作者**: Wael AbdAlmageed
+**类别**: cs.AI
+**发布日期**: 2026-07-22
+**链接**: http://arxiv.org/abs/2607.20402v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Towards Miniature Humanoid Tele-Loco-Manipulation Using Virtual Reality and Reinforcement Learning
+**作者**: Nicolas Kosanovic, Jordan Dowdy, Jean Chagas Vaz
+**类别**: cs.RO, cs.HC, cs.LG
+**发布日期**: 2026-07-22
+**链接**: http://arxiv.org/abs/2607.20399v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Distributed Acoustic Localization Array Deployed Using a Soft Everting Vine Robot
+**作者**: Sebastian Lorca Godoy, Ciera McFarland, Michael Val, Antonio Alvarez Valdivia, Nathaniel Hanson, Margaret McGuinness
+**类别**: cs.RO
+**发布日期**: 2026-07-22
+**链接**: http://arxiv.org/abs/2607.20392v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### PercepCap: Video Captioner with Structured Spatio-Temporal Perception
+**作者**: Yifan Xu, Zihao Wang, Zhixiao Wang, Jiaming Zhang, Yichun Yang, Desen Meng, Yuanxing Zhang, Pengfei Wan, Limin Wang
+**类别**: cs.CV
+**发布日期**: 2026-07-22
+**链接**: http://arxiv.org/abs/2607.20389v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Persian Pixel: A large-scale synthetic OCR dataset for Persian language
+**作者**: Pouria Mahdi, Haq Nawaz Malik
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-07-22
+**链接**: http://arxiv.org/abs/2607.20385v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### FMRP-LEAN: A HIPAA-Compliant AI-Augmented LIMS Architecture for End-to-End Clinical Assay Workflow Optimization
+**作者**: Eva McCord, Ernest Pedapati, Zag ElSayed
+**类别**: cs.HC, cs.AI, cs.ET, physics.med-ph, q-bio.NC
+**发布日期**: 2026-07-22
+**链接**: http://arxiv.org/abs/2607.20382v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Train the Model, Not the Reader: Decodability Supervision for Verifiable Activation Explanations
+**作者**: Hiskias Dingeto
+**类别**: cs.AI, cs.CL
+**发布日期**: 2026-07-22
+**链接**: http://arxiv.org/abs/2607.20379v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### PG-KINN: A Physics-Informed Petrov-Galerkin Kolmogorov-Arnold Network for Solving Forward and Inverse PDEs
+**作者**: Amirhossein Sadr, Nima Soltani, Vahideh Moghtadaiee, Aida Pakniyat, Dara Rahmati, Saeid Gorgin
+**类别**: cs.LG, math.NA
+**发布日期**: 2026-07-22
+**链接**: http://arxiv.org/abs/2607.20378v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Statevector-Referenced Geometry Survival of a Four-Qubit ZZ Quantum Kernel on IBM Quantum Hardware: A Fixed-Subset Diagnostic Across Three Execution Configurations
+**作者**: Rostyslav Sipakov
+**类别**: quant-ph, cs.LG
+**发布日期**: 2026-07-22
+**链接**: http://arxiv.org/abs/2607.20377v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Online Variance Reduction for Domain Adaptation on Streaming Data
+**作者**: Andrea Napoli
+**类别**: cs.LG
+**发布日期**: 2026-07-22
+**链接**: http://arxiv.org/abs/2607.20374v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Notes to Self: Can LLMs Benefit from Experiential Abstractions?
+**作者**: Chang Liu, Xinyu Li, Artur Dubrawski
+**类别**: cs.CL
+**发布日期**: 2026-07-22
+**链接**: http://arxiv.org/abs/2607.20372v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
