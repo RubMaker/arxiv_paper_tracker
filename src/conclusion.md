@@ -135068,3 +135068,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-07-25)
+
+### 3D-Aware VLMs with Implicit and Explicit Geometries
+**作者**: Wenhao Li, Xueying Jiang, Quanhao Qian, Deli Zhao, Ran Xu, Shijian Lu, Gongjie Zhang
+**类别**: cs.CV, cs.AI, cs.LG
+**发布日期**: 2026-07-23
+**链接**: http://arxiv.org/abs/2607.21595v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers
+**作者**: Sicheng Mo, Yuheng Li, Ziyang Leng, Krishna Kumar Singh, Bolei Zhou
+**类别**: cs.CV
+**发布日期**: 2026-07-23
+**链接**: http://arxiv.org/abs/2607.21594v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Unified Video Dense Prediction from Disjoint Data
+**作者**: Yihong Sun, Seoung Wug Oh, Jiahui Huang, Bharath Hariharan, Joon-Young Lee
+**类别**: cs.CV
+**发布日期**: 2026-07-23
+**链接**: http://arxiv.org/abs/2607.21592v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Inference-Time Scaling of Diffusion Models via Progressive Seed Pruning
+**作者**: Rogerio Guimaraes, Pietro Perona
+**类别**: cs.CV
+**发布日期**: 2026-07-23
+**链接**: http://arxiv.org/abs/2607.21591v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation
+**作者**: Mengfei Zhao, Dihong Huang, Yikai Tang, Peihao Li, Mingxuan Yan, Ruiqi Zhuang, Yanjia Huang, Jie Wang, Hai Zhai, Tony Zhou, Rui Zhang, Zhexi Luo, Yuchen Huang, Jianfei Yang, Jiachen Li
+**类别**: cs.RO
+**发布日期**: 2026-07-23
+**链接**: http://arxiv.org/abs/2607.21588v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Expanding Flow Maps
+**作者**: Sophia Tang, Pranam Chatterjee
+**类别**: cs.LG
+**发布日期**: 2026-07-23
+**链接**: http://arxiv.org/abs/2607.21585v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Scale Up Strategically: Learning Compositional Generalization via Bias-Aware Evaluation and Data Collection for Robotic Manipulation
+**作者**: Yu Qi, Zhang Ye, Xinyi Xu, Yuxuan Lu, Amitoj Sandhu, Boce Hu, Haojie Huang, Jonathan Tremblay, Lawson L. S. Wong
+**类别**: cs.RO, cs.CV
+**发布日期**: 2026-07-23
+**链接**: http://arxiv.org/abs/2607.21582v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### GraphVid: Interactive Graph-Controllable Video Generation
+**作者**: Vedant Shah, Onkar Susladkar, Tushar Prakash, Kiet Nguyen, Tianjio Yu, Adheesh Juvekar, Muntasir Waheed, Ismini Lourentzou
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-07-23
+**链接**: http://arxiv.org/abs/2607.21580v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Barzilai-Borwein Fails Superlinear Convergence on an Open Set of Quadratics for Every Dimension $n\geq 4$
+**作者**: Dawei Li, Xiaotian Jiang, Mingyi Hong
+**类别**: math.OC, cs.AI, cs.LG
+**发布日期**: 2026-07-23
+**链接**: http://arxiv.org/abs/2607.21579v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Synthetic data generation framework for quality control automation in gravure printing
+**作者**: Korota Arsène Coulibaly, Mohamed Hamlich, Khalid Hmali, Andrea Trombin
+**类别**: cs.CV, cs.AI, cs.LG, eess.IV
+**发布日期**: 2026-07-23
+**链接**: http://arxiv.org/abs/2607.21577v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Self-Supervised Learning of Structured Dynamics from Videos
+**作者**: Lukas Knobel, Andrew Zisserman, Yuki M. Asano
+**类别**: cs.CV
+**发布日期**: 2026-07-23
+**链接**: http://arxiv.org/abs/2607.21576v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Surprisal Theory is Tautological (without Rational Grounding)
+**作者**: Ryan Cotterell
+**类别**: cs.CL
+**发布日期**: 2026-07-23
+**链接**: http://arxiv.org/abs/2607.21574v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Beyond Sufficiency: Time Series Explanation with Counterfactual Necessity
+**作者**: Hongnan Ma, Yiwei Shi, Mengyue Yang, Weiru Liu
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-07-23
+**链接**: http://arxiv.org/abs/2607.21573v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Beyond Episodic Evaluation: Memory Architectural Bottlenecks in Sequential Embodied Question Answering
+**作者**: Zikui Cai, Kaushal Janga, Tan Dat Dao, Seungjae Lee, Shivin Dass, Mingyo Seo, Kaiyu Yue, Mintong Kang, Nandhu Pillai, Monte Hoover, Aadi Palnitkar, Ruchit Rawal, Ruijie Zheng, Bo Li, Yuke Zhu, Roberto Martín-Martín, Tom Goldstein, Furong Huang
+**类别**: cs.RO
+**发布日期**: 2026-07-23
+**链接**: http://arxiv.org/abs/2607.21571v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education
+**作者**: Qian Wu, Xinrong Zhou, Zizhan Ma, Kai Chen, Zheyao Gao, Xun Lin, Hongqiu Wu, Longfei Gou, Yixiao Liu, Ann Sin Nga Lau, Qi Dou
+**类别**: cs.CL, cs.HC
+**发布日期**: 2026-07-23
+**链接**: http://arxiv.org/abs/2607.21570v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
