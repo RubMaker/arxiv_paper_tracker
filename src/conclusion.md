@@ -135222,3 +135222,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-07-28)
+
+### Data Pyramid for Embodied Manipulation
+**作者**: Yifan Ye, Yankai Fu, Yaoxu Lv, Bohan Hou, Jun Cen, Lingdong Kong, Duo Zheng, Tianxing Chen, Jiaming Liu, Ziang Cao, Yunfan Lou, Wei Chow, Xian Sun, Yingshuo Wang, Kuangzhi Ge, Xiaowei Chi, Xidong Zhang, Zhibo Pang, Yiwu Zhong, Sirui Han, Zhihe Lu, Weihao Yuan, Qifeng Chen, Michael Yu Wang, Yao Mu, Ziwei Liu, Jianfei Yang, Ping Luo, Shanghang Zhang
+**类别**: cs.RO, cs.CV
+**发布日期**: 2026-07-27
+**链接**: http://arxiv.org/abs/2607.24744v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding
+**作者**: Hangjie Yuan, Yichen Qian, Zhiwei Tang, Xianzhe Xu, Lirong Wu, Sicheng Yang, Jinwang Wang, Pengju Wang, Zhitao Zeng, Yizeng Han, Yan Xing, Shengxuan Luo, Tao Feng, Qing Xie, Weigen Yao, Yi Yang, Zuozhu Liu, Jiasheng Tang, Shaocheng Wang, Jitao Wang, Jiahong Dong, Weihua Chen, Feng Xu, Fan Wang
+**类别**: cs.CV, cs.AI, cs.CL
+**发布日期**: 2026-07-27
+**链接**: http://arxiv.org/abs/2607.24743v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Certified Parallel-in-Time Sinkhorn for Dynamic Entropic Optimal Transport
+**作者**: Xinyang Wen
+**类别**: cs.DC, cs.LG
+**发布日期**: 2026-07-27
+**链接**: http://arxiv.org/abs/2607.24741v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Learning Distributions from Multiple Data Providers
+**作者**: Jon Kleinberg, Amin Saberi, Xizhi Tan, Grigoris Velegkas
+**类别**: cs.DS, cs.GT, cs.LG, stat.ML
+**发布日期**: 2026-07-27
+**链接**: http://arxiv.org/abs/2607.24732v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Rethinking Classifier-Free Guidance in On-Policy Diffusion Distillation
+**作者**: Bingnan Li, Haozhe Wang, Haozhong Xiong, Fangtai Wu, Jinpeng Yu, Yang Shi, Jiaming Liu, Ruihua Huang
+**类别**: cs.CV, cs.AI, cs.LG
+**发布日期**: 2026-07-27
+**链接**: http://arxiv.org/abs/2607.24731v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability
+**作者**: Krithi Shailya, Ananya Lakshmi Ravi, Venkatanathan K. V., Sowmya S. Sundaram, Gokul S. Krishnan, Aditi Anand, Balaraman Ravindran
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-07-27
+**链接**: http://arxiv.org/abs/2607.24730v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### MicroZoom: Structure-Preserving Detail Synthesis at Extreme Scale
+**作者**: Huy Huynh, Jingwei Ma, Brian Curless, Ira Kemelmacher-Shlizerman, Steven M. Seitz
+**类别**: cs.CV
+**发布日期**: 2026-07-27
+**链接**: http://arxiv.org/abs/2607.24729v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Infrared Imaging Empowered by Artificial Intelligence for Pediatric Skeletal Triage: A Narrative Review and Future Perspectives
+**作者**: Sajad Amiri, Pardis Afshar, Elham Anjomshoa
+**类别**: cs.CV
+**发布日期**: 2026-07-27
+**链接**: http://arxiv.org/abs/2607.24727v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Global Convergence of DGM and PINN Algorithms for Solving Nonlinear PDEs
+**作者**: Justin Sirignano, Konstantinos Spiliopoulos, Samuel Cohen
+**类别**: cs.LG, math.NA
+**发布日期**: 2026-07-27
+**链接**: http://arxiv.org/abs/2607.24726v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### DreamStyle3D: Efficient 3D Stylized Asset Generation via Dual-Attention Disentanglement
+**作者**: Kai Wang, Ziheng Ouyang, Xuying Zhang, Ming-Ming Cheng, Qibin Hou
+**类别**: cs.CV
+**发布日期**: 2026-07-27
+**链接**: http://arxiv.org/abs/2607.24721v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation
+**作者**: Tianyi Men, Zhuoran Jin, Kang Liu, Jun Zhao
+**类别**: cs.CL, cs.AI, cs.LG
+**发布日期**: 2026-07-27
+**链接**: http://arxiv.org/abs/2607.24720v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### DataOrchestra: Learning to Orchestrate Per-Example Curation of Pretraining Data
+**作者**: Zhen Huang, Yikun Wang, Shijie Xia, Pengfei Liu
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-07-27
+**链接**: http://arxiv.org/abs/2607.24717v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Efficient LLM-Generated Shuttling Compilers for Complex Trapped-Ion Architectures
+**作者**: Fabian Kreppel, Reza Salkhordeh, Ferdinand Schmidt-Kaler, André Brinkmann
+**类别**: quant-ph, cs.AI, cs.ET
+**发布日期**: 2026-07-27
+**链接**: http://arxiv.org/abs/2607.24714v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### ERUnderstand: Evaluating Vision-Language Models on Structured ER Diagrams
+**作者**: Ali Ansari, Yasmin Mohammadi, Farnoush Nili, Parsa Esmaeilkhani, Longin Jan Latecki, Eduard Dragut
+**类别**: cs.AI, cs.CV, cs.DB
+**发布日期**: 2026-07-27
+**链接**: http://arxiv.org/abs/2607.24707v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### SADe: Sparse-Atom Support Decontamination for Few-Shot Segmentation with Weak Support Annotations
+**作者**: Hang Xing, Guangjun Liu, Yan Xia, Xueming Ding
+**类别**: cs.CV
+**发布日期**: 2026-07-27
+**链接**: http://arxiv.org/abs/2607.24706v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
