@@ -135376,3 +135376,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-07-29)
+
+### Pass the Baton: Trajectory-Relayed On-Policy Distillation
+**作者**: Haolei Xu, Xiaowen Xu, Haiwen Hong, Zixuan Ni, Hongxing Li, Yiwen Qiu, Weiming Lu, Yongliang Shen
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-07-28
+**链接**: http://arxiv.org/abs/2607.26057v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### INTACT: Isomorphic Intent-to-Action Learning for Search-Free World Models
+**作者**: Junhan Sun, Hao Zhao, Guofeng Zhang
+**类别**: cs.RO
+**发布日期**: 2026-07-28
+**链接**: http://arxiv.org/abs/2607.26056v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### $π\mathbf{R}^2$: Reactive Real-time Flow Policies
+**作者**: Sungjae Park, Shubham Tulsiani
+**类别**: cs.RO, cs.AI, cs.LG
+**发布日期**: 2026-07-28
+**链接**: http://arxiv.org/abs/2607.26055v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Spend Experts Where You Are Unsure: Confidence-Adaptive Routing for Mixture-of-Experts LoRA
+**作者**: Tom Saliencro, Rohan Desai, Priya Nair, Maya Lindqvist, Daniel Whitmore
+**类别**: cs.LG
+**发布日期**: 2026-07-28
+**链接**: http://arxiv.org/abs/2607.26052v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### S2A2: Audio-Visual Imitation Learning for Manipulation Tasks Using Acoustic Spatial Information
+**作者**: Kaneyoshi Hiratsuka, Benjamin Yen, Ryosuke Kojima
+**类别**: cs.RO
+**发布日期**: 2026-07-28
+**链接**: http://arxiv.org/abs/2607.26047v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Re-thinking Mammography Transfer Learning: The Dataset-Informed Transfer Learning (DITL) Framework for Breast Cancer Screening and Lesion Diagnosis
+**作者**: Adarsh Bhandary Panambur, Siming Bayer, Andreas Maier
+**类别**: cs.LG
+**发布日期**: 2026-07-28
+**链接**: http://arxiv.org/abs/2607.26043v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### VetClaw: An Edge-Cloud Multimodal Agentic System for Veterinary Disease Screening
+**作者**: Syed Mhamudul Hasan, Anas AlSobeh, Hussein Zangoti, Abdur R. Shahid
+**类别**: cs.CV, cs.LG
+**发布日期**: 2026-07-28
+**链接**: http://arxiv.org/abs/2607.26042v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Desktop-Delta Bench: Do Computer-Use Models Understand Desktop GUI Transitions?
+**作者**: Abhishek Pillai, Samir Kumar Nayak, Yuan Chen
+**类别**: cs.AI, cs.CV
+**发布日期**: 2026-07-28
+**链接**: http://arxiv.org/abs/2607.26041v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Reinformed Dreamer: An Asymmetric World Model Efficiently Trained through Latent Guidance
+**作者**: Gaspard Lambrechts, Adrien Bolland, Daniel Ebi, Damien Ernst
+**类别**: cs.LG, stat.ML
+**发布日期**: 2026-07-28
+**链接**: http://arxiv.org/abs/2607.26040v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Collaborative System Failure Prognostics via Federated Longitudinal-Survival Modeling
+**作者**: Fan Yang, Madelyn Weller, Dimuthu Fernando, Hila Livneh, Yuxin Wen
+**类别**: cs.LG
+**发布日期**: 2026-07-28
+**链接**: http://arxiv.org/abs/2607.26038v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Wonder: Video World Model Done Better
+**作者**: Jiacong Xu, Hanwen Jiang, Zhixin Shu, Kalyan Sunkavalli, Vishal M. Patel, Yiqun Mei
+**类别**: cs.CV, cs.GR
+**发布日期**: 2026-07-28
+**链接**: http://arxiv.org/abs/2607.26037v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Falling Behind Drives Unsafe Development in an Idealised AI Race Experiment
+**作者**: Elias Fernández Domingos, The Anh Han
+**类别**: cs.AI, cs.CY, cs.GT, econ.GN
+**发布日期**: 2026-07-28
+**链接**: http://arxiv.org/abs/2607.26034v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### CHARM: A Multimodal Graph Foundation Model with Hierarchical Context Modeling for Zero-Shot Transfer
+**作者**: Ankang Yang, Jitao Zhao, Di Jin, Yuxiao Huang, Dongxiao He
+**类别**: cs.AI
+**发布日期**: 2026-07-28
+**链接**: http://arxiv.org/abs/2607.26023v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### UniMem: Complementary Episodic-to-Parametric Memory for Boundary-Agnostic Task Streams
+**作者**: Siyu Xia, Chenheng Zhang, Yanting Wu, Haoxuan Li, Jiajun Chai, Xiaohan Wang, Guojun Yin, Wei Lin, Zhouchen Lin, Haifeng Zhang, Jun Wang
+**类别**: cs.CL
+**发布日期**: 2026-07-28
+**链接**: http://arxiv.org/abs/2607.26017v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### MDTransformer: A Hardware-Software Co-Design of Mode-Division Photonic Transformer Accelerator with Inverse-Designed Coherent Crossbar
+**作者**: Solomon Micheal Serunjogi, Rachmad Vidya Wicaksana Putra, Ayat Taha, Muhammad Shafique, Mahmoud Rasras
+**类别**: cs.AR, cs.AI, cs.DC
+**发布日期**: 2026-07-28
+**链接**: http://arxiv.org/abs/2607.26016v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
