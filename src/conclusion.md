@@ -135530,3 +135530,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-07-30)
+
+### TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM
+**作者**: Hengyi Xie, Chenfei Yao, Xianjin Wu, Xuanyang Xi, Yiping Tang, Di Xu, Yingying Zhu, Dingkang Liang, Xiang Bai, Han Ding
+**类别**: cs.CV, cs.RO
+**发布日期**: 2026-07-29
+**链接**: http://arxiv.org/abs/2607.27205v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Do You Really Need to Pretrain Q-Functions for Online RL Fine-Tuning?
+**作者**: Perry Dong, Ron Polonsky, Dorsa Sadigh, Chelsea Fin
+**类别**: cs.LG
+**发布日期**: 2026-07-29
+**链接**: http://arxiv.org/abs/2607.27203v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Mental World Modeling
+**作者**: Hao Fei, Yiran Zhao
+**类别**: cs.CL
+**发布日期**: 2026-07-29
+**链接**: http://arxiv.org/abs/2607.27201v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### From Classification to Regression: Using a Fruitfly to Solve Equations
+**作者**: Shady E. Ahmed, Panos Stinis
+**类别**: cs.LG, math.NA
+**发布日期**: 2026-07-29
+**链接**: http://arxiv.org/abs/2607.27196v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### VidMap: Exploiting Temporal Structure for Video-Based Structure-from-Motion
+**作者**: Zador Pataki, Paul-Edouard Sarlin, Marc Pollefeys
+**类别**: cs.CV, cs.RO
+**发布日期**: 2026-07-29
+**链接**: http://arxiv.org/abs/2607.27194v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Can AI agents conduct open-ended AI research? Early evidence from two case studies
+**作者**: Peter Kirgis, Sayash Kapoor, Andrew Schwartz, Stephan Rabanser, David Africa, Konstantinos Voudouris, Viet Nguyen, Toby Pilditch, Magda Dubois, Harry Coppock, Cozmin Ududec, Nitya Nadgir, Matilda Orona, Tilman Bayer, Derrick Chan-Sew, Yue Ling, Abhishek Shetty, Helen Toner, Gillian Hadfield, Seth Lazar, Steve Newman, Shoshannah Tekofsky, Rishi Bommasani, Arvind Narayanan
+**类别**: cs.AI, cs.CY, cs.LG
+**发布日期**: 2026-07-29
+**链接**: http://arxiv.org/abs/2607.27191v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### APEX-Accounting
+**作者**: Julien Benchek, Austin Bennett, Jasmin Kern, Ryan Stevens, Rene Sultan, Charis Ching, Hayley Popiel, Vaibhav Mittal, Felix Mercier, Brendan Foody, Bertie Vidgen
+**类别**: cs.CL, cs.AI, cs.HC
+**发布日期**: 2026-07-29
+**链接**: http://arxiv.org/abs/2607.27189v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Inverse Learning of Latent Risk-Neutral Densities from Irregular Option Quotes
+**作者**: Lennon J. Shikhman, Michael Galarnyk, Aadi Dash, Nicholas A. Welsh
+**类别**: cs.LG, q-fin.CP, q-fin.PR, q-fin.ST
+**发布日期**: 2026-07-29
+**链接**: http://arxiv.org/abs/2607.27188v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Pangram 4 Technical Report
+**作者**: Ben Glickenhaus, Katherine Thai, Jenna Russell, Elyas Masrour, Yue Han, Max Spero, Bradley Emi
+**类别**: cs.CL
+**发布日期**: 2026-07-29
+**链接**: http://arxiv.org/abs/2607.27183v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### HumanCLAW: Can Vision-Language Models Act Through a Body?
+**作者**: Siyao Li, Jiawei Gu, Shuai Liu, Kairui Hu, Zekun Li, Linjie Li, Chengcheng Tang, Po-Chen Wu, Ivan Shugurov, Lingni Ma, Michael Zollhoefer, Sizhe An, Abhay Mittal, Amy Zhao, Ranjay Krishna, Manling Li, Ziwei Liu, Chuan Guo
+**类别**: cs.CV, cs.RO
+**发布日期**: 2026-07-29
+**链接**: http://arxiv.org/abs/2607.27180v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### The Social Cost of an AI Teammate: How an Artificial Teammate Reshapes Human-Human Communication in Small-Team Decision-Making
+**作者**: Nia Nixon, Jaeyoon Choi, Pedro Martins De Bastos, Mohammad Amin Samadi, Luise Mehner, Seehee Park, Spencer JaQuay
+**类别**: cs.HC, cs.AI, cs.CY
+**发布日期**: 2026-07-29
+**链接**: http://arxiv.org/abs/2607.27179v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### DenseOn with the LateOn: Fully Open Dense and Late-Interaction Models for Multilingual, Long-Context, and Code Search
+**作者**: Raphaël Sourty, Antoine Chaffin, Paulo Roberto Moura Junior, Amélie Chatelain
+**类别**: cs.CL, cs.IR
+**发布日期**: 2026-07-29
+**链接**: http://arxiv.org/abs/2607.27178v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Partner Capability Estimation for Task-Agnostic Adaptation in Ad-Hoc Teamwork
+**作者**: Peter Tisnikar, Maja Swieczkowska, Benteng Ma, Gerard Canal, Matteo Leonetti
+**类别**: cs.AI, cs.HC, cs.MA
+**发布日期**: 2026-07-29
+**链接**: http://arxiv.org/abs/2607.27177v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Improving Item Discoverability in e-Commerce Search via Related Intent Generation
+**作者**: Ji Xin, Xiao Xiao, Ishan Bhatt, Vinesh Gudla, Trace Levinson, Raochuan Fan, Shishir Kumar Prasad, Prakash Putta, Tejaswi Tenneti
+**类别**: cs.IR, cs.AI
+**发布日期**: 2026-07-29
+**链接**: http://arxiv.org/abs/2607.27172v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### When Do Learned Diffusion Proposals Help Constraint Solving? A Controlled Study on Continuous Algebraic Systems
+**作者**: Quang Bui, Sparsh Roy, Akash Gundimeda, Davin Yin
+**类别**: cs.LG
+**发布日期**: 2026-07-29
+**链接**: http://arxiv.org/abs/2607.27169v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
