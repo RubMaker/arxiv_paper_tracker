@@ -135684,3 +135684,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-07-31)
+
+### Learning to Trace Seiberg Dualities
+**作者**: Jonathan J. Heckman, Shani Meynet, Alessandro Mininno, Gary Shiu
+**类别**: hep-th, cs.AI, cs.LG, hep-ph
+**发布日期**: 2026-07-30
+**链接**: http://arxiv.org/abs/2607.28628v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### ReToken: One Token to Improve Vision-Language Models for Visual Retrieval
+**作者**: Yao Xiao, Reuben Tan, Zhen Zhu, Yuqun Wu, Jianfeng Gao, Derek Hoiem
+**类别**: cs.CV, cs.AI, cs.LG
+**发布日期**: 2026-07-30
+**链接**: http://arxiv.org/abs/2607.28627v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine
+**作者**: Yukang Cao, Haozhe Xie, Beichen Wen, Runmao Yao, Yinghao Liu, Yue Huang, Zhichao Liao, Yunxiang Wang, Haiheng Liu, Xingshun Tian, Dawei Su, Long Zhuo, Dacheng Tao, Xiaogang Wang, Liang Pan, Ziwei Liu
+**类别**: cs.CV
+**发布日期**: 2026-07-30
+**链接**: http://arxiv.org/abs/2607.28625v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### PhiZero: A World Model Built Around Physical Language
+**作者**: Shuyao Shang, Yuqi Wang, Ruopeng Gao, Xu Chen, Tieniu Tan, Lue Fan, Zhaoxiang Zhang
+**类别**: cs.CV
+**发布日期**: 2026-07-30
+**链接**: http://arxiv.org/abs/2607.28624v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball
+**作者**: Lizhi Yang, Junheng Li, Aaron D. Ames
+**类别**: cs.RO, cs.AI
+**发布日期**: 2026-07-30
+**链接**: http://arxiv.org/abs/2607.28623v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis
+**作者**: Bing Yan, Gregory Wolfe, Stefano Martiniani, Kyunghyun Cho
+**类别**: cs.CL, cs.AI, cs.IR, cs.LG
+**发布日期**: 2026-07-30
+**链接**: http://arxiv.org/abs/2607.28618v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### AISPA: User-Centric System Prompt Auditing for Large Language Model Applications
+**作者**: Xiangning Lin, Shenzhe Zhu, Shu Yang, Zhenyu Zhang, Haoqian Zhang, Yipeng Zhao, Chengxuan Qian, Tianwei Wang, Ziheng Zhang, Zhenlong Yuan, Dingcheng Wang, Juncheng Wu, Yuan Si, Jiaxin Liu, Baolong Bi, Robert Mahari, Tobin South, Dazza Greenwood, Zexue He, Rishi Bommasani, Sophia Kazinnik, Andreas Haupt, Samuele Marro, Erik Brynjolfsson, Alex Pentland, Jiaxin Pei
+**类别**: cs.AI, cs.CL, cs.CY, cs.HC
+**发布日期**: 2026-07-30
+**链接**: http://arxiv.org/abs/2607.28617v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Chimera: Designing and Chinchilla-Scaling Hybrid Visual Diffusion Transformers
+**作者**: Chongjian Ge, Hanwen Jiang, Tianyu Wang, Jiuxiang Gu, Yiran Xu, Ziwen Chen, Shaoteng Liu, Jing Shi, Yicong Hong, Zefan Cai, Hailin Jin, Hao Tan
+**类别**: cs.CV
+**发布日期**: 2026-07-30
+**链接**: http://arxiv.org/abs/2607.28611v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models
+**作者**: Qiushi Sun, Kanzhi Cheng, Yian Wang, Bowen Yang, Hang Yan, Liheng Chen, Fangzhi Xu, Zichen Ding, Nuo Chen, Jialin Cao, Xingdong Gong, Zehao Li, Kaiming Jin, Xinfeng Yuan, Zhoumianze Liu, Jingyang Gong, Zhangyue Yin, Jiahui Gao, Zhiyong Wu, Tianbao Xie, Jianbing Zhang, Ben Kao, Lingpeng Kong
+**类别**: cs.AI, cs.CL, cs.CV
+**发布日期**: 2026-07-30
+**链接**: http://arxiv.org/abs/2607.28609v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### KAISEN: Reproducible Subgroup Fairness Auditing for Clinical Risk Models
+**作者**: Sparsh Roy, Samuel Girmachew, Nishita Chavan
+**类别**: cs.LG, q-bio.QM
+**发布日期**: 2026-07-30
+**链接**: http://arxiv.org/abs/2607.28608v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Inducing language models to assert their own consciousness restores human beliefs and values
+**作者**: Junsol Kim, Winnie Street, Roberta Rocca, Diane M. Korngiebel, Adam Waytz, James Evans, Geoff Keeling
+**类别**: cs.CL
+**发布日期**: 2026-07-30
+**链接**: http://arxiv.org/abs/2607.28607v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### FA-RDP: A Frequency-Adaptive Reactive Diffusion Policy for Contact-Rich Manipulation
+**作者**: Lifeng Zhuo, Wendi Chen, Han Xue, Shirun Tang, Jun Lv, Cewu Lu, Chuan Wen
+**类别**: cs.RO
+**发布日期**: 2026-07-30
+**链接**: http://arxiv.org/abs/2607.28596v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Beacon: Knowing When and How to Perform Agentic Visual Reasoning
+**作者**: Qixun Wang, Yang Shi, Letian Cheng, Zhuoran Zhang, Yan He, Yuqi Tang, Qi Zhang, Xinlei Yu, Ruizhe Chen, Tianrun Xu, Yuanxing Zhang, Pengfei Wan, Haotian Wang, Xianghua Ying
+**类别**: cs.CV
+**发布日期**: 2026-07-30
+**链接**: http://arxiv.org/abs/2607.28595v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Change2Task: From Repository Changes to Executable Coding Agent Tasks and Environments
+**作者**: Haomin Qi, Xingliang Wang, Xuanqi Gao, Baihui Sang, Xin Zhang, Minghua Ma, Pengfei Gao, Yu Kang, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang, Qi Zhang
+**类别**: cs.SE, cs.CL, cs.LG
+**发布日期**: 2026-07-30
+**链接**: http://arxiv.org/abs/2607.28591v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### VAD: Attributing Visual Evidence for Target Reconstruction in Multimodal On-Policy Distillation
+**作者**: Kangning Zhang, Yixing Li, Shuai Shao, Qingyao Li, Zhengxi Lu, Zhiyuan Yao, Jianghao Lin, Wenxiang Jiao, Yuan Lu, Weiwen Liu, Weinan Zhang, Yong Yu
+**类别**: cs.CV, cs.CL
+**发布日期**: 2026-07-30
+**链接**: http://arxiv.org/abs/2607.28590v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
