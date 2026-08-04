@@ -135992,3 +135992,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-08-04)
+
+### WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity
+**作者**: Yuxue Yang, Shuyao Shang, Jiahe Wang, Zitong Zhou, Liang Tan, Junhan Zeng, Ruizhi Li, Junyan Li, Yu Liu, Xiao Yang, Yong Li, Jun Zhu, Hongsheng Li, Tieniu Tan, Lue Fan, Zhaoxiang Zhang
+**类别**: cs.CV
+**发布日期**: 2026-08-03
+**链接**: http://arxiv.org/abs/2608.02603v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling
+**作者**: Jiajun Liang, Yucheng Liao, Yukang Cao, Jiazhe Wei, Ken Li, Wende Tan, Jiankun Zhang, ZY Cui, Jingkang Yang, Liucheng Guo, Shiqi Yang, B. Yang, Caifeng Shan, Ziwei Liu, Chenyang Si
+**类别**: cs.CL
+**发布日期**: 2026-08-03
+**链接**: http://arxiv.org/abs/2608.02602v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework
+**作者**: Junjie Yin, Buxin She, Xinyu Feng, Fangxing, Li
+**类别**: eess.SY, cs.AI
+**发布日期**: 2026-08-03
+**链接**: http://arxiv.org/abs/2608.02599v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### VR3D: View-Robust 3D Representation Learning for Aerial-Ground Person Re-Identification
+**作者**: Chao Ji, Shiyu Xuan, Zechao Li
+**类别**: cs.CV
+**发布日期**: 2026-08-03
+**链接**: http://arxiv.org/abs/2608.02598v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### onepot-Bench 0: towards lab-aware in silico chemistry benchmarks
+**作者**: Brandon Wang, Andrei S. Tyrin, Daniil A. Boiko
+**类别**: cs.LG
+**发布日期**: 2026-08-03
+**链接**: http://arxiv.org/abs/2608.02595v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### CAPEval: A Decoupled Caption Evaluation across Understanding and Generation
+**作者**: Zhipeng Liu, Haochen Wang, Zhaoxiang Zhang
+**类别**: cs.CV
+**发布日期**: 2026-08-03
+**链接**: http://arxiv.org/abs/2608.02589v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### The Condition-Number Barrier in Sparse Least Squares
+**作者**: Honghao Lin, Vahab Mirrokni, David P. Woodruff
+**类别**: cs.DS, cs.LG
+**发布日期**: 2026-08-03
+**链接**: http://arxiv.org/abs/2608.02588v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### GradCuit: Credit-Assigned Gradient Flow Enables Robust and Interpretable Test-Time Latent Reasoning
+**作者**: Zhaoxin Yu, Qi Shen, Hengli Li, Zhaowei Zhang, Song-Chun Zhu, Chi Zhang, Zilong Zheng
+**类别**: cs.LG, cs.CL
+**发布日期**: 2026-08-03
+**链接**: http://arxiv.org/abs/2608.02585v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### UEmbed: Unified Sparse and Dense Multimodal Embeddings
+**作者**: Tingyu Song, Mingxin Li, Yanzhao Zhang, Dingkun Long, Pengjun Xie, Zhijie Nie, Yilun Zhao, Shu Wu
+**类别**: cs.CV, cs.AI, cs.CL, cs.IR
+**发布日期**: 2026-08-03
+**链接**: http://arxiv.org/abs/2608.02583v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Ego2Robot: Scalable Robot Data Synthesis from Egocentric Human Data
+**作者**: Ye Wang, Pei Lin, Xiong-Hui Chen, Haoqi Yuan, Zhixuan Liang, Yiyang Huang, Anzhe Chen, Zixing Lei, Jie Zhang, Tao Zhang, Haoyang Li, Tong Zhang, Chenxi Xiao, Ziyuan Jiao, Qin Jin
+**类别**: cs.RO
+**发布日期**: 2026-08-03
+**链接**: http://arxiv.org/abs/2608.02580v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### CoWAM: Coordination Contracts for Selective Policy Intervention with WAMs
+**作者**: Shuaijun Liu, Qifu Wen, Shuyang Hao, Qi Luo, Chenglong Zhang, Feiyang You, Chengyu Wu, Ningxin Su
+**类别**: cs.RO, cs.AI, cs.LG
+**发布日期**: 2026-08-03
+**链接**: http://arxiv.org/abs/2608.02578v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Smooth Reparameterizations of Functions on Simplicial Product Spaces: Applications to Probabilistic Tensor Decomposition and Functional Data Registration
+**作者**: Shashwat Kumar, Arafat Rahman, Anuj Srivastava, P. -A. Absil
+**类别**: cs.LG
+**发布日期**: 2026-08-03
+**链接**: http://arxiv.org/abs/2608.02576v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Pseudorandom Streams within Diffusion Models Act as Learnable Inputs That Affect Generation Quality
+**作者**: Shengzhi Deng, Chenqi Ye, Yanze Guo
+**类别**: cs.LG, stat.ML
+**发布日期**: 2026-08-03
+**链接**: http://arxiv.org/abs/2608.02575v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Situation Aware Frontier Prioritization for Quadruped Search and Rescue
+**作者**: Kevin Farias, Santiago Martin, Barbara Flores, Vinicio Melgar, Igor Nunes, Hiago Sodre, Pablo Moraes, Ricardo B. Grando
+**类别**: cs.RO
+**发布日期**: 2026-08-03
+**链接**: http://arxiv.org/abs/2608.02571v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### AtumAI: A Principled Framework for Agentic Generation of Datacenter Control-Plane Policies
+**作者**: Qiushi Lin, Chaojie Zhang, Íñigo Goiri, Aditya Akella, Ricardo Bianchini, Jovan Stojkovic
+**类别**: cs.AI, cs.DC, cs.OS
+**发布日期**: 2026-08-03
+**链接**: http://arxiv.org/abs/2608.02569v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
