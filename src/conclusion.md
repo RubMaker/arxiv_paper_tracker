@@ -136146,3 +136146,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-08-05)
+
+### ParVL: Parallel Scaling and Expandable Compute Allocation for Multimodal LLMs
+**作者**: Yang Yang, Qinyu Zhao, Mouxiang Chen, Xiaohui Li, Lixin Gu, Wenhai Wang, Hongjie Zhang, Wenwei Zhang
+**类别**: cs.CV, cs.CL
+**发布日期**: 2026-08-04
+**链接**: http://arxiv.org/abs/2608.04010v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### SocietyBench: Forecasting Counterfactual Social-World Evolution
+**作者**: Zhenran Wang, Zhonghan Bian, Jinsong Li, Zhangyang Qi
+**类别**: cs.CL
+**发布日期**: 2026-08-04
+**链接**: http://arxiv.org/abs/2608.04009v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### WorldCup Arena: Prospective, Leakage-Free Evaluation of Frontier LLMs on a Live Tournament
+**作者**: Zhenran Wang, Zhonghan Bian, Jinsong Li, Zhangyang Qi
+**类别**: cs.CL
+**发布日期**: 2026-08-04
+**链接**: http://arxiv.org/abs/2608.04008v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning
+**作者**: Changle Qu, Sunhao Dai, Hengyi Cai, Yuqi Zhou, Xinran Chen, Simon, Jun Xu
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-08-04
+**链接**: http://arxiv.org/abs/2608.04007v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### PAST-Bench: Benchmarking the Foundations of Recursive Self-Improvement in Personal Agents
+**作者**: Shuhan Xue, Zixin Ding, Yichen Shen, Yinjie Wang, Zhenfei Yin, Yingcheng Wu, Yuxin Chen, Mengdi Wang, Ling Yang
+**类别**: cs.CL
+**发布日期**: 2026-08-04
+**链接**: http://arxiv.org/abs/2608.04003v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility
+**作者**: Mohsen Hariri, Weicong Chen, Nahal Shahini, Vikash Singh, Kai Ye, Amirhossein Samandar, Debargha Ganguly, Sreehari Sankar, Yanyan Zhang, Shouren Wang, Jerry Peng, Biyao Zhang, Michael Hinczewski, Vipin Chaudhary
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-08-04
+**链接**: http://arxiv.org/abs/2608.04001v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Agogic: Performance-Timed Music Tokens for LLM-Native Text-to-Symbolic-Music Generation
+**作者**: Junhao Chen, Mingjin Chen, Jingjia Mao, Lin Chen, Saining Zhang, Minglin Chen, Ruocheng Wu, Liaoyuan Fan, Wenyi Li, Mingju Gao, Henghaofan Zhang, Zhihao Li, Hao Zhao, Yufei Wang, Ruqi Huang
+**类别**: cs.SD, cs.CL
+**发布日期**: 2026-08-04
+**链接**: http://arxiv.org/abs/2608.03999v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### When Attention Goes Blind: Numerical Failure in ALiBi Positional Encodings
+**作者**: Christopher Schröder, Lukas Gienapp, Ferdinand Schlatt, Martin Potthast, Gerhard Heyer
+**类别**: cs.CL
+**发布日期**: 2026-08-04
+**链接**: http://arxiv.org/abs/2608.03994v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Perceptual Anchoring: Prototype-Guided Text Calibration for Training-free Open-Vocabulary Semantic Segmentation
+**作者**: Wanli Ma, Jiangwen Lu, Qinmu Peng, Xinge You
+**类别**: cs.CV
+**发布日期**: 2026-08-04
+**链接**: http://arxiv.org/abs/2608.03991v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Assessment of Conditional Diffusion Model for Synthetic Histopathology Image Generation
+**作者**: Seyed Kahaki, Shijie Li, Weijie Chen, Nicholas Petrick
+**类别**: cs.LG
+**发布日期**: 2026-08-04
+**链接**: http://arxiv.org/abs/2608.03990v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### string2string Studio: An Interactive, In-Browser Platform for String-to-String Algorithms
+**作者**: Mirac Suzgun, James Zou, Stuart M. Shieber, Dan Jurafsky
+**类别**: cs.CL
+**发布日期**: 2026-08-04
+**链接**: http://arxiv.org/abs/2608.03984v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Can Large Language Models Recover Semantic Optimization Opportunities That Compilers Miss?
+**作者**: Hailong Jiang, Feng Yu, Emran Hossain, Jianfeng Zhu, Mengfei Ren, Qiang Guan, Chunwei Xia
+**类别**: cs.PL, cs.AI
+**发布日期**: 2026-08-04
+**链接**: http://arxiv.org/abs/2608.03983v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent
+**作者**: Zhen Fang, Yu Zeng, Wenxuan Huang, Yiming Zhao, Shiting Huang, Tianfei Ren, Qi Lu, Qingnan Ren, Qisheng Su, Lionel Z. Wang, Qingyu Yin, Shuang Chen, Zehui Chen, Lin Chen, Zhenfei Yin, Yao Hu, Shaohui Lin, Wanli Ouyang, Shaosheng Cao, Feng Zhao
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-08-04
+**链接**: http://arxiv.org/abs/2608.03979v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Stochastic Multiple Shooting Trajectory Optimization via Sequential Local Policy Evaluation
+**作者**: Ashwin Gupta, Joseph Moore
+**类别**: cs.RO
+**发布日期**: 2026-08-04
+**链接**: http://arxiv.org/abs/2608.03978v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion
+**作者**: Yicheng Xiao, Wenxun Dai, Xinran Qin, Lin Song, Maoquan Zhang, Hang Xu, Yukang Chen, Yitong Li, Guohui Zhang, Yuan Zhang, Xuying Zhang, Tommy Zhang, Jianlong Yuan, Peihao Li, Shuai Lu, Siming Fu, Chuyang Zhao, Xin Han, Jie Huang, Wenbo Li, Guoqing Ma, Wei Huang, Xiaojuan Qi, Haoyang Huang, Nan Duan
+**类别**: cs.CV
+**发布日期**: 2026-08-04
+**链接**: http://arxiv.org/abs/2608.03974v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
