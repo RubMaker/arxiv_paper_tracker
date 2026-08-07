@@ -136454,3 +136454,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-08-07)
+
+### Learning When to Trust via Selective Context Preference Optimization
+**作者**: Xian Sun, Wei Chow, Yingshuo Wang, Junhao Liu, Wei Gao, Qing Wu, Lingdong Kong
+**类别**: cs.CL, cs.AI, cs.LG
+**发布日期**: 2026-08-06
+**链接**: http://arxiv.org/abs/2608.06377v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### $ω$-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation
+**作者**: Zhe Li, Zhenzhe Zhang, Yangyang Wei, Wenjie Zhang, Xichen Yuan, Peiyuan Zhi, Gen Li, Xinying Guo, Fengjie Gao, Jianfei Yang, Shanghang Zhang
+**类别**: cs.RO
+**发布日期**: 2026-08-06
+**链接**: http://arxiv.org/abs/2608.06375v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation
+**作者**: Junfeng Li, Junjie He, Zhide Zhong, Yangyang Zheng, Pingyue Sheng, Jiayu Dong, Ruixin Li, Haodong Yan, Jiaguan Zhu, Tianran Zhang, Runze Yu, Wen Chen, Liuqing Yang, Yuxiang Gao, Haoang Li
+**类别**: cs.RO
+**发布日期**: 2026-08-06
+**链接**: http://arxiv.org/abs/2608.06374v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### The Bitter Lesson of Tool Calling
+**作者**: Ishan Patel, Sahil Sen, Elias Lumer, Vamse Kumar Subbiah
+**类别**: cs.CL
+**发布日期**: 2026-08-06
+**链接**: http://arxiv.org/abs/2608.06370v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering
+**作者**: Soorya Ram Shimgekar, Michelle Hu, Dorisa Shehi, Daniel Kang, Roy Ka-Wei Lee, Koustuv Saha, Christian Poellabauer, Christopher Lee, Sajeev Singh, Piyum Zonooz, Navin Kumar, Zeeshan Ahmed, Priyadarshini Kachroo
+**类别**: cs.AI, cs.LG
+**发布日期**: 2026-08-06
+**链接**: http://arxiv.org/abs/2608.06366v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Investigating Artificial Intelligence Digital Sovereignty in Mobile Shopping Apps: A Case Study of Nigeria
+**作者**: George Grispos, Sajda Qureshi
+**类别**: cs.CY, cs.AI
+**发布日期**: 2026-08-06
+**链接**: http://arxiv.org/abs/2608.06364v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### An Optimal Agnostic PAC Algorithm
+**作者**: Markus Engelund Mathiasen, Jian Qian, Nikita Zhivotovskiy
+**类别**: cs.LG, cs.AI, cs.DS, math.ST
+**发布日期**: 2026-08-06
+**链接**: http://arxiv.org/abs/2608.06363v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games
+**作者**: Boning Li, Yu Chen, Longbo Huang
+**类别**: cs.GT, cs.AI, cs.CL, cs.LG, cs.MA
+**发布日期**: 2026-08-06
+**链接**: http://arxiv.org/abs/2608.06362v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### The Low Frequency Trap: Video Language Models Fail at Simple Event Bookkeeping
+**作者**: Sarvesh Baskar, Zikui Cai, Shayan Shabihi, Anirudh Satheesh, Muhammad R. Islam, Udari Madhushani Sehwag, Tom Goldstein, Furong Huang
+**类别**: cs.AI
+**发布日期**: 2026-08-06
+**链接**: http://arxiv.org/abs/2608.06361v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### A Master-Salve Robot Manipulator for Needle-Based Teleoperation in MRI Chamber
+**作者**: Omar Curiel, Jing-Yuan Huang, Po-Chih Chen, Ji Ma, Qing Dai, Wenqi Zhou, David Lu, Holden H. Wu, Tsu-Chin Tsao
+**类别**: cs.RO
+**发布日期**: 2026-08-06
+**链接**: http://arxiv.org/abs/2608.06354v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Resourced Authority A Mechanism-Design Model for Participatory Governance of Deployed AI Agents
+**作者**: Praphul Chandra, Sujit Gujar, Ganesh Ghalme
+**类别**: cs.GT, cs.AI, cs.MA
+**发布日期**: 2026-08-06
+**链接**: http://arxiv.org/abs/2608.06353v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks
+**作者**: Fanzhe Meng, Guoxin Chen, Jiale Zhao, Shuang Sun, Zhiyu Lin, Wayne Xin Zhao, Ruihua Song, Ji-Rong Wen, Kai Jia
+**类别**: cs.LG, cs.CL
+**发布日期**: 2026-08-06
+**链接**: http://arxiv.org/abs/2608.06352v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Challenges in Evaluating Explanation Methods for Static and Evolving Data
+**作者**: Jerzy Stefanowski
+**类别**: cs.AI
+**发布日期**: 2026-08-06
+**链接**: http://arxiv.org/abs/2608.06351v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### RP-OPSD: Reasoning-Pivot-Guided On-Policy Self-Distillation for Multilingual Reasoning Transfer
+**作者**: Xinye Wang, Junxiao Liu, Shujian Huang
+**类别**: cs.CL
+**发布日期**: 2026-08-06
+**链接**: http://arxiv.org/abs/2608.06347v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### TRAJDEBUG: Tracing Error Lifecycle to Identify Critical Failures in Long-Horizon Agent Trajectories
+**作者**: Yunjia Qi, Zehua Yin, Xintong Shi, Hao Peng, Songyuanyi Lu, Yixian Liu, Richeng Xuan, Yuhong Liu, Zhichao Hu, Xiaozhi Wang, Lei Hou, Bin Xu, Juanzi Li
+**类别**: cs.AI
+**发布日期**: 2026-08-06
+**链接**: http://arxiv.org/abs/2608.06346v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
