@@ -136300,3 +136300,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-08-07)
+
+### CoCo-IR: Contextual Composed Image Retrieval
+**作者**: Shengcao Cao, Tanmaya Shekhar Dabral, Zhongli Ding, Madhuri Shanbhogue, Kaifeng Chen, Zhe Li, Mojtaba Seyedhosseini, Yu-Xiong Wang, Liang-Yan Gui
+**类别**: cs.CV
+**发布日期**: 2026-08-05
+**链接**: http://arxiv.org/abs/2608.05149v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Reasoning Core: Designing Broad Procedural Data for Completion-Supervised Reasoning Training
+**作者**: Damien Sileo, Valentin Lacombe, Dimitri Kachler
+**类别**: cs.CL
+**发布日期**: 2026-08-05
+**链接**: http://arxiv.org/abs/2608.05148v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Objects as Audio-Visual Modal Sound Fields
+**作者**: Zisen Shao, Zihao Wei, Derong Jin, Ruohan Gao
+**类别**: cs.CV
+**发布日期**: 2026-08-05
+**链接**: http://arxiv.org/abs/2608.05145v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning
+**作者**: Boxiu Li, Zimo Wen, Yijia Fan, Junxiang Lei, Sufeng Guo, Jiaao Wu, Ruize Tang, Mukai Li, Yifei Shen, Xiaoyu Chen, Wanbo Zhang, Runjing Gu, Yifei Gao, Yuheng Wu, Xuyao Huang, Zelong Zhao, Jiachen Zhang, Shibo Hu, Hangxi Guo, Yilin Chen, Yuzhe Zhang, Fan Yang, Chuan Wen, Xian Zhang, Xuanhe Zhou, Zhijie Deng
+**类别**: cs.AI
+**发布日期**: 2026-08-05
+**链接**: http://arxiv.org/abs/2608.05144v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling
+**作者**: Indraneil Paul, Falko Helm, Goran Glavaš, Iryna Gurevych
+**类别**: cs.AI, cs.LG, cs.SE
+**发布日期**: 2026-08-05
+**链接**: http://arxiv.org/abs/2608.05141v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Toward Skill-Native LLMs: Skill Entropy for Benchmarking and Training Long-Horizon Reasoning
+**作者**: Yinghui He, Ling Yang, Jiarui Liu, Yongjin Yang, Lechen Zhang, Yingcheng Wu, Zhenfei Yin, Mengdi Wang, Sanjeev Arora
+**类别**: cs.CL, cs.LG
+**发布日期**: 2026-08-05
+**链接**: http://arxiv.org/abs/2608.05139v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Teaching Nemotron Greek: Mining a Corpus, Adapting Retrieval, and Grounding Generation for Modern Greek across Specialist Domains
+**作者**: Ayoub Kirouane, Christos Petrocheilos
+**类别**: eess.AS, cs.AI, cs.CL
+**发布日期**: 2026-08-05
+**链接**: http://arxiv.org/abs/2608.05138v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### SmartMage: Dynamic Modality Orchestration for 3D Scene Understanding
+**作者**: Yue Zhang, Yingzhao Jian, Yunqiu Xu, Xiaoxiao Sun, Hehe Fan
+**类别**: cs.CV
+**发布日期**: 2026-08-05
+**链接**: http://arxiv.org/abs/2608.05137v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### The Loss Does Not See the Basis, but Adam Does
+**作者**: Devender Singh
+**类别**: cs.LG
+**发布日期**: 2026-08-05
+**链接**: http://arxiv.org/abs/2608.05136v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Predicting Brain Morphometry with MT-GNN: Mesh Evolution in Continuous Time with Graph-Based Metric Tensor Embeddings
+**作者**: Hao Ding, Daniel Semchin, Paul M. Thompson, Boris Gutman
+**类别**: cs.CV, cs.LG
+**发布日期**: 2026-08-05
+**链接**: http://arxiv.org/abs/2608.05132v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### OPD-V: Visual On-Policy Self-Distillation with Modality Balance
+**作者**: Aniri, Jinhe Bi, Peng Liao, Zengjie Jin, Volker Tresp, Fei Shen, Yunpu Ma, Tat-Seng Chua
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-08-05
+**链接**: http://arxiv.org/abs/2608.05131v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### SSTQ:Privacy-Preserving Vector Quantization via Subsampled Stochastic TurboQuant
+**作者**: Adel Javanmard, David P. Woodruff, Vahab Mirrokni
+**类别**: cs.LG, cs.AI, stat.ML
+**发布日期**: 2026-08-05
+**链接**: http://arxiv.org/abs/2608.05127v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Spoken Function Calling: A New Perspective on Spoken Language Understanding for Large Audio Language Models
+**作者**: Yuezhang Peng, Yuxin Liu, Changfeng Gao, Zhifu Gao, Xiangang Li, Xie Chen
+**类别**: cs.CL, cs.MM
+**发布日期**: 2026-08-05
+**链接**: http://arxiv.org/abs/2608.05126v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Chained Recursive Language Models for Multi-Iteration Reasoning
+**作者**: Purbesh Mitra, Sennur Ulukus
+**类别**: cs.CL, cs.AI, cs.IT, cs.LG, eess.SP
+**发布日期**: 2026-08-05
+**链接**: http://arxiv.org/abs/2608.05124v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### IRIS: A Visual Cortex-Inspired Framework for Analyzing Orientation Selectivity in Vision Transformers
+**作者**: Vaishnavi B Mohan, Vijayakrishna Naganoor, Yashas Annadani, Shashank Hegde
+**类别**: cs.CV
+**发布日期**: 2026-08-05
+**链接**: http://arxiv.org/abs/2608.05122v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
