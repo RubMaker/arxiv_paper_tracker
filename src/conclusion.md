@@ -136762,3 +136762,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-08-11)
+
+### Perception Before Supervision: Self-Contained Visual Distillation from Counterfactual Blind Spots
+**作者**: Shravan Venkatraman, Omkar Thawakar, Ritesh Thawkar, Abdelrahman Shaker, Rao Muhammad Anwer
+**类别**: cs.CV
+**发布日期**: 2026-08-10
+**链接**: http://arxiv.org/abs/2608.09931v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Beyond Naturalness: Probing Automated Text-To-Speech Evaluators on Linguistically Grounded Dimensions
+**作者**: Oluwanifemi Bamgbose, Simon Rosen, Jash Shah, Lindsay Devon Brin, Hoang H Nguyen, Anke Koelzer, Rachel Hansen, Tara Bogavelli, Fanny Riols
+**类别**: cs.SD, cs.AI, cs.CL
+**发布日期**: 2026-08-10
+**链接**: http://arxiv.org/abs/2608.09930v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Multimodal Model Diffing for Feature Discovery and Control
+**作者**: Hunar Batra, Lachin Naghashyar, Ashkan Khakzar, Philip Torr, Christian Schroeder de Witt, Constantin Venhoff, Ronald Clark
+**类别**: cs.CV, cs.AI, cs.CL, cs.LG
+**发布日期**: 2026-08-10
+**链接**: http://arxiv.org/abs/2608.09928v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Learning How the World Evolves: Extrapolative Video World Models via Latent Dynamics Reasoning
+**作者**: Haodong Li, Shaoteng Liu, Tianyu Wang, Chongjian Ge, Sihui Ji, Jiahan Zhang, Xin Lin, Haolin Lu, Zhe Lin, Manmohan Chandraker
+**类别**: cs.CV
+**发布日期**: 2026-08-10
+**链接**: http://arxiv.org/abs/2608.09926v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch
+**作者**: Laurens Samson, Iva Gornishka, Gossa Lô, Yuki M. Asano, Sennay Ghebreab
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-08-10
+**链接**: http://arxiv.org/abs/2608.09925v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### GENCO - A Unified Neural Solver Embedded in a Development Framework for Steady-State Grid Analysis
+**作者**: Alban Puech, Matteo Mazzonelli, Tamara R. Govindasamy, Mangaliso Mngomezulu, Héctor Maeso-García, Thomas Tolhurst, Javad Bayazi, Ali Moeini, Naomi Simumba, Celia Cintas, David Nelischer, Romeo Kienzler, Jonas Weiss, Anna Varbella, Florian Dörfler, Gabriela Hug, Martin Mevissen, Juan Bernabé-Moreno, François Mirallès, Hendrik F. Hamann, Etienne Vos, Thomas Brunschwiler
+**类别**: cs.AI
+**发布日期**: 2026-08-10
+**链接**: http://arxiv.org/abs/2608.09921v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Overcoming Data Scarcity and Confidentiality in Hardware Assurance via Synthetic Generation
+**作者**: Gijung Lee, Ronald Wilson, Damon L. Woodard, Domenic Forte
+**类别**: cs.CR, cs.CV
+**发布日期**: 2026-08-10
+**链接**: http://arxiv.org/abs/2608.09914v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Beyond Hazard Resemblance: Contrastive Event Adjudication for Training-Free Video Anomaly Detection
+**作者**: Wenti Yin, Xiang Wang, Huaxin Zhang, Hanqing Wang, Hongbo Shao, Changxin Gao, Nong Sang
+**类别**: cs.CV
+**发布日期**: 2026-08-10
+**链接**: http://arxiv.org/abs/2608.09908v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### DistMoE: Private-data Rehearsal-free Routing in Mixture-of-Experts for Distributed Instruction Tuning
+**作者**: Mainak Singha, Niccolò Biondi, Elisa Ricci, Subhankar Roy
+**类别**: cs.CV
+**发布日期**: 2026-08-10
+**链接**: http://arxiv.org/abs/2608.09907v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### DSLE: A Learning Environment for Dark Souls Boss Encounters
+**作者**: Derin Gezgin, Jim O'Connor, Tanner Goodwin, Gary B. Parker
+**类别**: cs.AI, cs.NE
+**发布日期**: 2026-08-10
+**链接**: http://arxiv.org/abs/2608.09902v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Decoding-Level Taboo: A Diagnostic Stress Test for LLM Robustness
+**作者**: Tadanobu Chuyo Kamijo, Ori Rottenstreich, Javier Conde, Gonzalo Martínez, Pedro Reviriego
+**类别**: cs.CL
+**发布日期**: 2026-08-10
+**链接**: http://arxiv.org/abs/2608.09900v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Fairness in Link Prediction Beyond Demographic Parity: A Reproducibility Study
+**作者**: Valentijn Oldenburg, Floris de Kam, Stef de Wildt, Jarno Nilson Balk
+**类别**: cs.LG, cs.SI
+**发布日期**: 2026-08-10
+**链接**: http://arxiv.org/abs/2608.09899v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Consilience for Verifier-Free Test-Time Scaling
+**作者**: Lecheng Kong, Like Hui, Haitao Mao, Jun Huan
+**类别**: cs.CL, cs.LG
+**发布日期**: 2026-08-10
+**链接**: http://arxiv.org/abs/2608.09898v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Fusion Training for Mathematical Generalization in Large Language Models
+**作者**: Congfeng Cao, Pengyu Zhang, Jelke Bloem
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-08-10
+**链接**: http://arxiv.org/abs/2608.09893v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### XPolicyLab: A Unified Standard and Open Ecosystem for Robot Policy Evaluation and Deployment
+**作者**: XPolicyLab Community, Tianxing Chen, Yue Chen, Tian Nian, Zijian Cai, Guangyu Chen, Wenwei Lin, Qiwei Liang, Peicheng Xiang, Kailun Su, Zixuan Li, Junyuan Tang, Yan Qin, Qiangyu Chen, Shaolong Zhu, Xiang Li, Jiahao Zhang, Weijie Wan, Baijun Chen, Honghao Su, Kehe Ye, Shujia Liu, Kaixuan Wang, Haotian Liang, Yunze Liu, Mingleyang Li, Yuran Wang, Boyu Chen, Hongzhe Bi, Shuhe Huang, Hengkai Tan, Jisong Cai, Yao Mu, Jun Guo, Xiaofeng Wang, Zheng Zhu, Weijie Ke, Hengtao Li, Yuhang Tang, Xiaofan Li, Ganlin Yang, Zhangzheng Tu, Shuai Yang, Wenxuan Song, Pengxiang Ding, Kaidong Zhang, Yu Sun, Junliang Guo, Tong Zhang, Yixing Chen, Rongxu Cui, Zongzheng Zhang, Haoxiang Ma, Junhao Cai, Haoyu Zhang, Senqiao Yang, Jinhui Ye, Pengguang Chen, Shu Liu, Xiu Su, Wenhan Fang, Wenhao Li, Yichao Cao, Chengyao Wang, Qiang Chen, Ping Luo, Wenbo Ding
+**类别**: cs.RO
+**发布日期**: 2026-08-10
+**链接**: http://arxiv.org/abs/2608.09892v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
