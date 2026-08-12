@@ -136916,3 +136916,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-08-12)
+
+### AdvFD: Boosting Visual Generation via Adversarial Fr'echet Distance Loss
+**作者**: Mingju Gao, Jingkai Zhou, Kun Gai, Changqian Yu, Hao Tang
+**类别**: cs.CV
+**发布日期**: 2026-08-11
+**链接**: http://arxiv.org/abs/2608.11205v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning
+**作者**: Wenrui Bao, Tianyun Jiang, Zhiben Chen, Ser-Nam Lim, Peter D. Peng, Yuzhang Shang
+**类别**: cs.RO, cs.AI, cs.CV
+**发布日期**: 2026-08-11
+**链接**: http://arxiv.org/abs/2608.11204v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Capturing Uncertainty in Human Motion for Representation Learning in Soccer
+**作者**: Yizhou Xu, Lars Bretzner, Tiesheng Wang, Atsuto Maki
+**类别**: cs.CV
+**发布日期**: 2026-08-11
+**链接**: http://arxiv.org/abs/2608.11203v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### VidForensics-M1: Meta-Detection Reinforcement Learning with Verifiable Temporal Grounding for AI-Generated Video Forensics
+**作者**: Bowei Liu, Zheng Lu, Yuhan Bian, Xinchen Zhang, Xingming Shui, Yuesheng Huang, Xuhuan Li, Zihao Liu, Yifan Yang, Jun Zhou, Xiu Li
+**类别**: cs.CV
+**发布日期**: 2026-08-11
+**链接**: http://arxiv.org/abs/2608.11201v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls
+**作者**: Chen Lyu, Xingwei Tan, Simon Cullen, Shelley Wilson, Lois Arthurs, Arshad Jhumka, Gabriele Pergola
+**类别**: cs.CL, cs.AI, cs.LG
+**发布日期**: 2026-08-11
+**链接**: http://arxiv.org/abs/2608.11200v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders
+**作者**: Nikolai Bolik, Lennart Stöpler, Artur Andrzejak
+**类别**: cs.LG, cs.CL
+**发布日期**: 2026-08-11
+**链接**: http://arxiv.org/abs/2608.11197v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Long-Horizon AI Research for Grothendieck Constant: A Case Study in Human-AI Mathematical Collaboration
+**作者**: Alan Li, Rahul Saha, Anton Xue, Swarat Chaudhuri, Adam Klivans, Pravesh K Kothari, Raghu Meka
+**类别**: cs.AI, cs.CC, cs.HC, math.FA
+**发布日期**: 2026-08-11
+**链接**: http://arxiv.org/abs/2608.11195v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation
+**作者**: Shiyu Xuan, Zechao Li
+**类别**: cs.CV, cs.AI, cs.CL
+**发布日期**: 2026-08-11
+**链接**: http://arxiv.org/abs/2608.11191v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Statistically-Secure Bit Commitment and Coin Flipping Protocols Based on Quantum Hardware Assumptions
+**作者**: Roo Dunnill, Mina Doosti
+**类别**: quant-ph, cs.CR
+**发布日期**: 2026-08-11
+**链接**: http://arxiv.org/abs/2608.11187v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### How to Verify Consistency of Probabilistic Claims
+**作者**: Orr Paradise, Oliver Richardson, Yoshua Bengio, Shafi Goldwasser
+**类别**: cs.CC, cs.AI, cs.LG
+**发布日期**: 2026-08-11
+**链接**: http://arxiv.org/abs/2608.11181v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Risk-Aware Kinodynamic Motion Planning Under Uncertainty For Safe Navigation on Planetary Environments
+**作者**: Sachin Sunil Kelkar, Tanmay Dokania, Yashwanth Kumar Nakka
+**类别**: cs.RO, eess.SY
+**发布日期**: 2026-08-11
+**链接**: http://arxiv.org/abs/2608.11175v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### VIScore: Diagnosing Planning-Relevant Quality in Latent World Models
+**作者**: Haiyu Wu, Randall Balestriero, Morgan Levine
+**类别**: cs.RO
+**发布日期**: 2026-08-11
+**链接**: http://arxiv.org/abs/2608.11174v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### A Quantum Roadmap for Softmax Attention: Exact Born-Rule Analogs for Softmax Attention on the Probability Simplex
+**作者**: Eric A. F. Reinhardt, Adam J. Hauser
+**类别**: quant-ph, cs.LG
+**发布日期**: 2026-08-11
+**链接**: http://arxiv.org/abs/2608.11173v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### From Interpretability to Control: Insights from Six Years of the TrustNLP Workshop
+**作者**: Rahul Gupta, Abhinav Mohanty, Anaelia Ovalle, Anil Ramakrishna, Anubrata Das, Apurv Verma, Jwala Dhamala, Ninareh Mehrabi, Tharindu Kumarage, Yada Pruksachatkun, Yang Trista Cao, Kai-Wei Chang, Aram Galstyan
+**类别**: cs.CL, cs.AI, cs.CY
+**发布日期**: 2026-08-11
+**链接**: http://arxiv.org/abs/2608.11171v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### MultiModal Code-Switching: Interleaving Visual Objects into Language for Explicit Object-Level Alignment
+**作者**: Changhao Xiang, Shangyu Xing, Zhen Wu, Jianbing Zhang, Xinyu Dai
+**类别**: cs.CV, cs.CL, cs.LG
+**发布日期**: 2026-08-11
+**链接**: http://arxiv.org/abs/2608.11167v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
