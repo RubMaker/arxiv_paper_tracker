@@ -137070,3 +137070,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-08-13)
+
+### StateFlow: Building, Evolving, and Accessing 3D World States for Previsualization
+**作者**: Yuyang Yin, Zixiang Li, Longxuan Deng, Hongkai Li, Shifang Zhao, Junnan Liu, Weirong Huang, Mengyu Wang, Tianxiao Fu, Yikai Wang, Peng-Shuai Wang, Xiaojie Jin, Yao Zhao, Yunchao Wei
+**类别**: cs.CV
+**发布日期**: 2026-08-12
+**链接**: http://arxiv.org/abs/2608.12314v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### AVA-Encoder: Towards Agent-Native Video Representation Learning
+**作者**: Chuyue Li, Jinpeng Yu, Haozhe Wang, Tian Xueyun, Zhijing Zhang, Bingnan Li, Shuqi Gu, Kan Ren, Jiaming Liu, Ruihua Hua
+**类别**: cs.CV, cs.CL
+**发布日期**: 2026-08-12
+**链接**: http://arxiv.org/abs/2608.12313v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation
+**作者**: Yan Deng, Fei Xu
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-08-12
+**链接**: http://arxiv.org/abs/2608.12308v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses
+**作者**: Cheng Qian, Wenting Zhao, Liangwei Yang, Heng Wang, Jielin Qiu, Heng Ji, Silvio Savarese, Huan Wang, Shelby Heinecke
+**类别**: cs.LG, cs.AI, cs.CL
+**发布日期**: 2026-08-12
+**链接**: http://arxiv.org/abs/2608.12307v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Redistribution-based Cost Inference Improves Sparse Safe Offline RL
+**作者**: Ebenezer Gelo, Geraud Nangue Tasse, Steven James, Benjamin Rosman
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-08-12
+**链接**: http://arxiv.org/abs/2608.12306v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Constructing Dynamic Master Logic Models as Knowledge Graphs for Complex System Diagnostics Using Retrieval-Augmented Large Language Models
+**作者**: Saman Marandi, Yu-Shu Hu, Mohammad Modarres
+**类别**: cs.AI
+**发布日期**: 2026-08-12
+**链接**: http://arxiv.org/abs/2608.12304v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### A Framework for Designing Reward Functions: From Objectives to Features to Human-Aligned Reward Functions
+**作者**: Di Yang Shi, W. Bradley Knox
+**类别**: cs.LG
+**发布日期**: 2026-08-12
+**链接**: http://arxiv.org/abs/2608.12302v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Class Activation Mapping in Explainable Computer Vision: A Method-Centered Review of CNN, Transformer, and Foundation-Model-Era Visual Explanations
+**作者**: AmirHossein Eshghi, Hamid Saadatfar, Seyyed Ali Hoseini, AmirMohsen Eshghi, Siavash Arjomand Bigdel
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-08-12
+**链接**: http://arxiv.org/abs/2608.12299v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Beyond Trial-and-Error: Agentic Optimization for Image-to-Video Adherence
+**作者**: Aman Tyagi, Hemanth Boinpally, Jonathan Chen, Douglas Gebert, Steven Hickson
+**类别**: cs.CV, cs.AI, cs.MM
+**发布日期**: 2026-08-12
+**链接**: http://arxiv.org/abs/2608.12290v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Large Language Model-Driven Small-Capitalization Trading: Integrating Financial News Sentiment, Macroeconomic Indicators, and Technical Signals
+**作者**: Alireza Kargarzadeh, Nariman Khaledian, Navid Parvini, Arman Khaledian
+**类别**: q-fin.PM, cs.CL
+**发布日期**: 2026-08-12
+**链接**: http://arxiv.org/abs/2608.12283v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### VAKRA: Evaluating Multi-Hop Reasoning Across APIs and Retrieval Under Tool-Use Policies
+**作者**: Ankita Rajaram Naik, Anupama Murthi, Benjamin Elder, Siyu Huo, Raavi Gupta, Abhinav Jain, Praveen Venkateswaran, Abdulhamid Adebayo, Danish Contractor
+**类别**: cs.AI
+**发布日期**: 2026-08-12
+**链接**: http://arxiv.org/abs/2608.12282v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Curvature-Aware Zeroth-Order Optimization for Memory-Efficient Test-Time Adaptation
+**作者**: Junming Zhang, Shuyu Yin, Peilin Liu, Rendong Ying, Fei Wen
+**类别**: cs.CV
+**发布日期**: 2026-08-12
+**链接**: http://arxiv.org/abs/2608.12279v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Structural Silence: When AI Infrastructure Fails Speakers of Underrepresented Languages
+**作者**: Avijit Roy, Proma Roy
+**类别**: cs.CL, cs.AI, cs.CY
+**发布日期**: 2026-08-12
+**链接**: http://arxiv.org/abs/2608.12278v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### XYZFlow:Scaling Multi dimensional Shortcut Flows for Efficient Generative Modeling
+**作者**: Jinxiu Liu, Xuanming Liu, Kangfu Mei, Yandong Wen, Weiyang Liu
+**类别**: cs.CV
+**发布日期**: 2026-08-12
+**链接**: http://arxiv.org/abs/2608.12276v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### A Neighborhood Attention Transformer Network for Enhanced 3D Segmentation of the Left Anterior Descending Artery
+**作者**: Rafi Ibn Sultan, Chengyin Li, Yiannos Demetriou, Ahmed I. Ghanem, Joshua P. Kim, Justine Cunningham, Hassan Bagher-Ebadian, Dongxiao Zhu, Kundan S. Thind
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-08-12
+**链接**: http://arxiv.org/abs/2608.12274v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
