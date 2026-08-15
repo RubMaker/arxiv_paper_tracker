@@ -137378,3 +137378,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-08-15)
+
+### AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design
+**作者**: Yaxin Luo, Haobin Jiang, Jialv Zou, Xu Huang, Wenhao Yan, Haodong Li, Zhengrong Yue, Jing Li, Xiaofu Chen, Xiaohan Zhao, Jiacheng Liu, Jiacheng Cui, Zhiqiang Shen, Xiaotong Li
+**类别**: cs.CV, cs.AI, cs.CL
+**发布日期**: 2026-08-13
+**链接**: http://arxiv.org/abs/2608.13560v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### OmniScientist: An Omni-Modal Omni-Discipline AI Scientist
+**作者**: Bobo Li, Hao Fei, Tianjie Ju, Mong-Li Lee, Wynne Hsu
+**类别**: cs.AI, cs.CL
+**发布日期**: 2026-08-13
+**链接**: http://arxiv.org/abs/2608.13558v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### V-RAE: Rethinking Video Latent Spaces for Generation
+**作者**: Minghui Guo, Shengqiong Wu, Hao Fei
+**类别**: cs.CV
+**发布日期**: 2026-08-13
+**链接**: http://arxiv.org/abs/2608.13556v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark
+**作者**: Dairu Liu, Zekun Qi, Jiayu Zeng, Ruixi Yu, Yu Guan, Yintianrun Zhang, Xuchuan Chen, Sikai Liang, Zekai Li, Chenghuai Lin, Xinqiang Yu, Wenyao Zhang, He Wang, Li Yi
+**类别**: cs.RO, cs.AI, cs.CV
+**发布日期**: 2026-08-13
+**链接**: http://arxiv.org/abs/2608.13555v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Defensive Boosting for Online Probabilistic Forecasting
+**作者**: Georgy Noarov, Aaron Roth
+**类别**: cs.LG, cs.CC, cs.DS, stat.ML
+**发布日期**: 2026-08-13
+**链接**: http://arxiv.org/abs/2608.13554v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives
+**作者**: Kaixin Ding, Xi Chen, Minghong Cai, Zhiyuan Xu, Yiyang Wang, Yuxiang Lu, Junyi Li, Shuyang Chen, Yuan Gao, Xin Tao, Pengfei Wan, Hengshuang Zhao
+**类别**: cs.CV
+**发布日期**: 2026-08-13
+**链接**: http://arxiv.org/abs/2608.13552v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Exponential Convex Calibration Dimension for the Multi-Label Jaccard Measure
+**作者**: Mingyuan Zhang
+**类别**: cs.LG, stat.ML
+**发布日期**: 2026-08-13
+**链接**: http://arxiv.org/abs/2608.13549v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### QuoteBench: How Matched Scores Can Hide Command-Path Failures
+**作者**: Shangao Li, Yao Zhang, Volker Tresp, Yuanyuan Yang
+**类别**: cs.AI, cs.SE
+**发布日期**: 2026-08-13
+**链接**: http://arxiv.org/abs/2608.13547v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Alaya-EVOKE: From Linear-Scaling Supervision to Endless World
+**作者**: Yuanyang Yin, Gongxuan Wang, Yifan Zhan, Chuanhao Li, Kaipeng Zhang, Feng Zhao
+**类别**: cs.CV
+**发布日期**: 2026-08-13
+**链接**: http://arxiv.org/abs/2608.13546v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure
+**作者**: Fanfei Li, Jana Zeller, Manuel Prada-Corral, Thaddäus Wiedemer, Prasanna Mayilvahanan, Ryan Cotterell, Wieland Brendel
+**类别**: cs.CL, cs.AI, cs.LG
+**发布日期**: 2026-08-13
+**链接**: http://arxiv.org/abs/2608.13545v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### SCULPT: Subtractive Composition for 3D Part Generation
+**作者**: Sikuang Li, Chen Yang, Jiemin Fang, Jiazhong Cen, Yuhe Wei, Jichen Pang, Wei Shen, Qi Tian
+**类别**: cs.CV, cs.GR
+**发布日期**: 2026-08-13
+**链接**: http://arxiv.org/abs/2608.13541v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### SAEVerbalizer: Generating Explanations for Sparse Autoencoder Features via Representation Verbalization
+**作者**: Weihan Meng, Hongzhu Guo, Yi Jing, Dewen Liu, Zijun Yao, Xiaozhi Wang, Lei Hou, Juanzi Li
+**类别**: cs.CL
+**发布日期**: 2026-08-13
+**链接**: http://arxiv.org/abs/2608.13538v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### DARTree: Speculative Diffusion Decoding with Autoregressive Draft Trees
+**作者**: Tianyi Li, Yaxin Luo, Xinyi Shang, Zhiqiang Shen
+**类别**: cs.LG
+**发布日期**: 2026-08-13
+**链接**: http://arxiv.org/abs/2608.13524v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Vero: Can AI Agents Build Formally Verified Software Repositories?
+**作者**: Zhe Ye, Hantao Lou, Yuechun Sun, Peiyang Song, Zhengxu Yan, Timothe Kasriel, Qingyang Zhang, Kaiyu Yang, Soonho Kong, Jingxuan He, Dawn Song
+**类别**: cs.LG, cs.AI, cs.LO, cs.PL, cs.SE
+**发布日期**: 2026-08-13
+**链接**: http://arxiv.org/abs/2608.13522v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Exponential quantum advantage for learning signals with a single qubit
+**作者**: Ishaan Kannan, Sridhar Prabhu, Saeed A. Khan, Mandar M. Sohoni, Xingrui Song, Saswata Roy, Alen Senanian, Valla Fatemi, Peter L. McMahon, Jordan Cotler
+**类别**: quant-ph, cs.IT, cs.LG
+**发布日期**: 2026-08-13
+**链接**: http://arxiv.org/abs/2608.13521v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
