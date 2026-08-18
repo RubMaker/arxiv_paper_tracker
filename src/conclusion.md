@@ -137532,3 +137532,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-08-18)
+
+### Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory
+**作者**: Bingxin Xu, Yuzhang Shang, Emilio Ferrara
+**类别**: cs.RO, cs.AI, cs.CV
+**发布日期**: 2026-08-17
+**链接**: http://arxiv.org/abs/2608.16889v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Q-based Variational Inverse Reinforcement Learning
+**作者**: Ondrej Bajgar, Peter Tisnikar, Alessandro Abate, Konstantinos Gatsis, Maike Osborne
+**类别**: cs.LG
+**发布日期**: 2026-08-17
+**链接**: http://arxiv.org/abs/2608.16888v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### An Empirical Study of Training Pixel-Space Text-to-Image Diffusion Models
+**作者**: Dengyang Jiang, Ruoyi Du, Zhennan Chen, Dongyang Liu, Zanyi Wang, Mingzhe Zheng, Xiangpeng Yang, Huanqia Cai, Aiming Hao, Yuming Jiang, Peng Gao, Harry Yang, Steven Hoi
+**类别**: cs.CV
+**发布日期**: 2026-08-17
+**链接**: http://arxiv.org/abs/2608.16887v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### $τ_0$-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation
+**作者**: Xiaowei Cai, Yunuo Cai, Bingao Chen, Jingxiao Chen, Zhi Chen, Siyuan Feng, Tengyu Hou, Jingshun Huang, Han Jiang, Runkun Ju, Dong Li, Mingxiang Li, Shaowei Li, Xinchen Li, Yifan Li, Yi Liu, Zhongyuan Liu, Jianlan Luo, Junwen Miao, Ruiqi Ni, Buqing Nie, Mingjie Pan, Xinlin Ren, Jianheng Song, Jiaxu Wang, Peiqi Wang, Sen Wang, Xiaoyan Wang, Dafeng Wei, Dongming Wu, Pengwei Xie, Pu Yang, Hangjian Ye, Xiangyu Yue, Jinyu Zhang, Qinglin Zhang, Xueyong Zhao, Pengfei Zhou, Yue Zhou
+**类别**: cs.RO
+**发布日期**: 2026-08-17
+**链接**: http://arxiv.org/abs/2608.16885v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Improving the matrix multiplication exponent with modern optimization and AlphaEvolve
+**作者**: Emilien Dupont, Marvin Eisenberger, Borislav Kozlovskii, Abbas Mehrabian, Francisco J. R. Ruiz, Abigail See, Renfei Zhou, Josh Alman, Virginia Vassilevska Williams, Matej Balog
+**类别**: cs.DS, cs.AI, cs.CC, cs.LG
+**发布日期**: 2026-08-17
+**链接**: http://arxiv.org/abs/2608.16884v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Spectral Gaps of Hit-and-Run and Coordinate Hit-and-Run
+**作者**: Yunbum Kook, Santosh S. Vempala
+**类别**: cs.DS, cs.LG, math.PR, math.ST
+**发布日期**: 2026-08-17
+**链接**: http://arxiv.org/abs/2608.16878v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### AutoSR: Automatic Symbolic Regression by Searching Research States
+**作者**: Kejia Zhang, Youran Sun, Xinyu Ren, Chugang Yi, Haizhao Yang
+**类别**: cs.SC, cs.AI, cs.LG, math.NA
+**发布日期**: 2026-08-17
+**链接**: http://arxiv.org/abs/2608.16876v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### An Analytical-Prior Framework for Data-Efficient Prediction of Sound-Reduction Frequencies in Rectangular Side-Branch Helmholtz Resonators
+**作者**: Jiaming Li
+**类别**: cs.LG
+**发布日期**: 2026-08-17
+**链接**: http://arxiv.org/abs/2608.16873v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Data-Efficient and Interpretable Classification of Circulating Tumor Cell Phenotypes in Microfluidic Devices via Deep Learning
+**作者**: Serena Su, Yifan Wang, Senwei Liang
+**类别**: cs.LG
+**发布日期**: 2026-08-17
+**链接**: http://arxiv.org/abs/2608.16870v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Towards Computational Provenance: Carrying Causal-State Evidence in Generated Text
+**作者**: Benjamin Belay
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-08-17
+**链接**: http://arxiv.org/abs/2608.16868v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Non-Crossing Deep Quantile Regression for Distributional Survival Prediction
+**作者**: Shuai Huang, Zhe Qu, Zhaowei Hua, Guohao Shen, Rui Tang, Hongtu Zhu
+**类别**: stat.ML, cs.LG, stat.AP
+**发布日期**: 2026-08-17
+**链接**: http://arxiv.org/abs/2608.16864v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### SplatGuide: Geometric Priors from 3D Gaussians for Pose-Free Novel View Synthesis
+**作者**: Yejun Zhang, Zihan Wang, Xu Ji, Yihao Wang, Yuxin Hou, Junyuan Fang, Juho-Matti Kilpeläinen, Arno Solin, Hamed Rezazadegan Tavakoli, Esa Rahtu, Juho Kannala
+**类别**: cs.CV
+**发布日期**: 2026-08-17
+**链接**: http://arxiv.org/abs/2608.16863v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### The canonical facets of multi-separator polytopes
+**作者**: Bjoern Andres, Silvia Di Gregorio, Jannik Irmai, Lucas Fabian Naumann, Shengxian Zhao
+**类别**: cs.DM, cs.LG, math.CO
+**发布日期**: 2026-08-17
+**链接**: http://arxiv.org/abs/2608.16861v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### HarnessEval-W: Agentifying the Evaluation of Visual Worlds
+**作者**: Weiliang Chen, Haowen Sun, Jun Gao, Jiawei Chi, Hanyang Wang, Qiyu Dai, Yihao Li, Hao Li, Jingnan Gao, Yi-Hsin Hung, Xingzhuo Guo, Shangchen Miao, Zhiyuan Shi, Xiang Li, Fengrui Tian, Weihua Du, Ziqi Huang, Shenyuan Gao, Siqiao Huang, Mingyu Liu, Yifei Li, Shizun Wang, Xi Wang, Tianqi Zhang, Xue Luo, Xiyin Ren, Jinshan Ren, Xiaoyang Shen, Xiaobo Hu, Zhiyang Dou, Mingyu Ding, Yichao Yan, Xinchao Wang, Yizhou Wang, Shilong Liu, Wenzhao Zheng, Yueqi Duan, Yuan Gong, Ziwei Liu, Ming-Yu Liu, Jialong Wu, Jiangran Lyu, Fangfu Liu
+**类别**: cs.CV
+**发布日期**: 2026-08-17
+**链接**: http://arxiv.org/abs/2608.16859v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### ECO-ID: Event-Camera based Optical System for Secure Multi-User Ultra-Low Latency Identification
+**作者**: Subham Sabud, Chengling Xu, Feng Ye
+**类别**: eess.SP, cs.CR, cs.IT, cs.NI, eess.SY
+**发布日期**: 2026-08-17
+**链接**: http://arxiv.org/abs/2608.16858v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
