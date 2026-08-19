@@ -137686,3 +137686,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-08-19)
+
+### Hydra-0: Action Flow for Generalist World Modeling and Control
+**作者**: Hongyu Li, Bowen Wen, Xinghao Zhu, Yixuan Wang, Yilun Du, Yunzhu Li, George Konidaris, Stan Birchfield, Soha Pouya, Chenran Li, Yan Chang
+**类别**: cs.RO
+**发布日期**: 2026-08-18
+**链接**: http://arxiv.org/abs/2608.18077v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation
+**作者**: Xingjian Wang, Zhao Wang, Taihang Hu, Jun Zheng, Qing Jin, Qinye Zhou, Zhengtao Wu, Yongchao Du, Zuan Gao, Chao Lin, Yefeng Shen, Xiaoli Xu, Zhengze Xu, Hao Yan, Yuhang Yu, Mingzhou Zhang, Mengting Chen
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-08-18
+**链接**: http://arxiv.org/abs/2608.18076v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Multi-Agent AI System for Radiology Report Structuring and Quality Assurance with Independent Radiologist Evaluation
+**作者**: Iryna Hartsock, Cesar Lam, Christopher Otteni, Aliya Qayyum, Robert Gatenby, Cyrillo Araujo, Ghulam Rasool
+**类别**: cs.CL
+**发布日期**: 2026-08-18
+**链接**: http://arxiv.org/abs/2608.18072v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification
+**作者**: Qinyuan Ye, Yu Li, Yada Pruksachatkun, Jiaxin Zhang, Chien-Sheng Wu
+**类别**: cs.AI, cs.CL, cs.LG
+**发布日期**: 2026-08-18
+**链接**: http://arxiv.org/abs/2608.18066v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### EDITBRIDGE: Towards Faithful and Efficient Ultra-High-Resolution Image Editing
+**作者**: Jiayi Song, Shijie Huang, Fangtai Wu, Yubo Huang, Zhenxiong Tan, Songhua Liu, Jiaming Liu, Ruihua Huang
+**类别**: cs.CV
+**发布日期**: 2026-08-18
+**链接**: http://arxiv.org/abs/2608.18063v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### TokEval: A Tokenizer Evaluation Suite
+**作者**: Clara Meister
+**类别**: cs.CL, cs.LG
+**发布日期**: 2026-08-18
+**链接**: http://arxiv.org/abs/2608.18062v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### The concentration game: Bayesian updating, regret, and information
+**作者**: Akshay Balsubramani
+**类别**: cs.LG, cs.GT, math.PR, math.ST
+**发布日期**: 2026-08-18
+**链接**: http://arxiv.org/abs/2608.18061v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Delegation Asymmetry in Agentic Recommender Systems: Measuring Two-Sided Receptivity in Online Dating
+**作者**: Daria Leshchikova, Valentina V. Kuskova, Dmitry Zaytsev, Valerii Klimov
+**类别**: cs.AI
+**发布日期**: 2026-08-18
+**链接**: http://arxiv.org/abs/2608.18058v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### HLSR: Hybrid Live Forecast Selective Dynamic Vehicle Rerouting for Real-Time Congestion Avoidance
+**作者**: Xiao Wang, Shun Ren Yang, Hui Nien Hung
+**类别**: cs.AI
+**发布日期**: 2026-08-18
+**链接**: http://arxiv.org/abs/2608.18056v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Primitive Representation Learning for Unsupervised Dynamic Contrast Enhanced MRI Reconstruction
+**作者**: Veronika Spieker, Wenqi Huang, Cemre Ariyurek, Liam Timms, Daniel Rueckert, Onur Afacan, Julia A. Schnabel, Sila Kurugol
+**类别**: eess.IV, cs.CV, cs.LG, eess.SP, physics.med-ph
+**发布日期**: 2026-08-18
+**链接**: http://arxiv.org/abs/2608.18055v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### StagedWorkspace: A Versioned Workspace for Knowledge-Work Agents
+**作者**: Yining Hua, Hongbin Na, Yifan Zhou, Akshay Kalose, Cyrus Ayubcha, Levi Lian
+**类别**: cs.AI
+**发布日期**: 2026-08-18
+**链接**: http://arxiv.org/abs/2608.18050v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Language Has Two Parameters: Narrative-Induced Semantic Plasticity and Phase-Sensitive Interpretation
+**作者**: Hollis Robbins
+**类别**: cs.CL
+**发布日期**: 2026-08-18
+**链接**: http://arxiv.org/abs/2608.18041v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Optimize Your Sampling: Tuned Diffusion Sampling with Bayesian Optimization
+**作者**: Travis Zhang, Christian Belardi, Justin Lovelace, Jin Peng Zhou, Saebyeol Shin, Carla P. Gomes, Kilian Q. Weinberger
+**类别**: cs.LG, cs.CV
+**发布日期**: 2026-08-18
+**链接**: http://arxiv.org/abs/2608.18040v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Harnessing Magnitude-Only and Complex Measurements for Improved Dynamic MRI Reconstruction with Learned Priors
+**作者**: Mahdi Saberi, Yaşar Utku Alçalar, Merve Gülle, Chetan Shenoy, Mehmet Akçakaya
+**类别**: eess.IV, cs.AI, cs.CV, cs.LG, physics.med-ph
+**发布日期**: 2026-08-18
+**链接**: http://arxiv.org/abs/2608.18036v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Plug-and-Play Traffic Element Awareness for End-to-End Autonomous Driving
+**作者**: Zongzheng Zhang, Jijun Wang, Saining Zhang, Shuo Wang, Yiru Wang, Hai Yang, Yang Chen, Yuwen Heng, Hao Sun, Anqing Jiang, Hao Zhao
+**类别**: cs.CV
+**发布日期**: 2026-08-18
+**链接**: http://arxiv.org/abs/2608.18035v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
