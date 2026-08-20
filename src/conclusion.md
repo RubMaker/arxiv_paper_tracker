@@ -137840,3 +137840,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-08-20)
+
+### SPADE: Self-Play in Adaptive Synthetic Executable Environments
+**作者**: Bo Liu, Simon Yu, Yiding Jiang, Ao Qu, Andrew Zhao, Zichen Liu, Junsu Kim, Zijian Zhou, Seungone Kim, Tongzheng Ren, Mickel Liu, Hanfei Yu, Zhaorun Chen, Weiyan Shi, Paul Pu Liang, Luke Zettlemoyer, Yejin Choi, Natasha Jaques
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-08-19
+**链接**: http://arxiv.org/abs/2608.19197v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### The Structured Totient Preimage Problem: Reconstruction, Collisions, and Cryptographic Implications
+**作者**: Luis Adrián Lizama-Pérez
+**类别**: cs.CR
+**发布日期**: 2026-08-19
+**链接**: http://arxiv.org/abs/2608.19191v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### SiNMULI: Novel Signed Network Approach for Malicious URL Identification
+**作者**: Avijit Gayen, Sayan Mondal, Angshuman Jana
+**类别**: cs.CR, cs.NI, cs.SE, cs.SI, eess.SY
+**发布日期**: 2026-08-19
+**链接**: http://arxiv.org/abs/2608.19190v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### PartialBiGrasp: Inferring Hidden Local Geometry for Bimanual Grasping from Partial Views
+**作者**: Ayush Kaura, Vignesh Vembar, Md Faizal Karim, Keshab Patra, K Madhava Krishna
+**类别**: cs.RO
+**发布日期**: 2026-08-19
+**链接**: http://arxiv.org/abs/2608.19188v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### A Fast Deterministic Algorithm for $(Δ+1)$-edge coloring in CONGEST
+**作者**: Sebastian Brandt, Ananth Narayanan, Alexandre Nolin
+**类别**: cs.DC
+**发布日期**: 2026-08-19
+**链接**: http://arxiv.org/abs/2608.19184v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### ADEPT: Accelerating Dexterity via Pre-Training and Post-Training using Reinforcement Learning
+**作者**: Jayjun Lee, Jessica Yin, Asif Rana, Nicholas Blauch, Sam Mady, Mohak Bhardwaj, Nima Fazeli, Nathan Ratliff, Karl Van Wyk, Ankur Handa
+**类别**: cs.RO, cs.AI
+**发布日期**: 2026-08-19
+**链接**: http://arxiv.org/abs/2608.19182v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Beyond Teacher Likelihood: Group-Calibrated On-Policy Distillation for Long-Context Reasoning
+**作者**: Zhu Zhang, Jixun Wang, Xiaoang Xu, Xiaorong Wang, Zihan Zhou, Zhiyuan Wang, Shuo Wang, Chaojun Xiao, Yuezhi Zhou
+**类别**: cs.LG, cs.AI, cs.CL
+**发布日期**: 2026-08-19
+**链接**: http://arxiv.org/abs/2608.19181v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Image-Guided Pavement Defect Recognition in GPR Data with novel 3D Deep Learning Architecture
+**作者**: Yuandong Pan, Linjun Lu, Mudan Wang, Florian Noichl, Fan Xue, Brian Sheil, Lavindra de Silva, André Borrmann, Ioannis Brilakis
+**类别**: cs.CV
+**发布日期**: 2026-08-19
+**链接**: http://arxiv.org/abs/2608.19177v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Finetuning Strategies for Querying Sounds by Vocal Imitation
+**作者**: Aditya Bhattacharjee, Christos Plachouras, Sungkyun Chang, Emmanouil Benetos
+**类别**: cs.SD, cs.AI, cs.IR
+**发布日期**: 2026-08-19
+**链接**: http://arxiv.org/abs/2608.19174v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Lévy Attention: Single-Pass Predictive Uncertainty for Continuous-Time Attention
+**作者**: Sotirios P. Chatzis, Loukas Papadoulas
+**类别**: cs.LG
+**发布日期**: 2026-08-19
+**链接**: http://arxiv.org/abs/2608.19171v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Learned, Then Lost: A Measured Single-Example Counterfactual in Pre-training
+**作者**: Zachary Speck, Asa Shepard
+**类别**: cs.LG
+**发布日期**: 2026-08-19
+**链接**: http://arxiv.org/abs/2608.19168v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Upper and Lower Bounds on the Space Complexity of Multi-word Single-Writer Registers
+**作者**: Yuanhao Wei, Yousof Yavari
+**类别**: cs.DC
+**发布日期**: 2026-08-19
+**链接**: http://arxiv.org/abs/2608.19167v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### ChildSafeAds Shared Task 2026: Commercial Content in Child-Facing YouTube Videos
+**作者**: Thales Bertaglia, Catalina Goanta, Gerasimos Spanakis, Gunes Acar
+**类别**: cs.CL, cs.CY
+**发布日期**: 2026-08-19
+**链接**: http://arxiv.org/abs/2608.19165v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Interpretable AI predicts a 2026 summer dry anomaly in central China
+**作者**: Anran Wang, Wen Shi, Yong Luo, Jianbin Huang, Lijuan Chen, Junhu Zhao, Weixin Jin, Huihui Yuan
+**类别**: physics.ao-ph, cs.AI
+**发布日期**: 2026-08-19
+**链接**: http://arxiv.org/abs/2608.19163v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Beyond the Transcript: Detecting Covert Co ordination in Latent Multi-Agent Communication
+**作者**: Ramneet Kaur, Pradyumna Chari, Ramesh Raskar, Jugad Singh, Sumit Kumar Jha, Anirban Roy
+**类别**: cs.AI, cs.CR
+**发布日期**: 2026-08-19
+**链接**: http://arxiv.org/abs/2608.19161v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
