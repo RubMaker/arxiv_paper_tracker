@@ -138148,3 +138148,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-08-22)
+
+### Information on trajectories: martingales and random times
+**作者**: Akshay Balsubramani
+**类别**: math.PR, cs.IT, cs.LG, math.ST
+**发布日期**: 2026-08-20
+**链接**: http://arxiv.org/abs/2608.20337v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models
+**作者**: Sahil Kale, Ian Harris
+**类别**: cs.CL
+**发布日期**: 2026-08-20
+**链接**: http://arxiv.org/abs/2608.20338v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### 4DAnyone: Create Anyone in 4D from a Casual Monocular Video
+**作者**: Yudong Jin, Tao Xie, Qihang Zhang, Zehong Shen, Zhen Xu, Yujun Shen, Hujun Bao, Xiaowei Zhou, Yinghao Xu
+**类别**: cs.CV
+**发布日期**: 2026-08-20
+**链接**: http://arxiv.org/abs/2608.20335v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### WithEveryone: Unified Planning and Identity Grounding for Group Image Generation
+**作者**: Hengyuan Xu, Qixun Wang, Yiji Cheng, Miles Yang, Zhao Zhong, Wei Cheng, Xingjun Ma, Yu-gang Jiang
+**类别**: cs.CV
+**发布日期**: 2026-08-20
+**链接**: http://arxiv.org/abs/2608.20336v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Swift-Image: Exploring the Performance Frontier of Compact Unified Image Generation Models
+**作者**: Taihang Hu, Zhao Wang, Zuan Gao, Tao Liu, Hao Yan, Zhengze Xu, Yuhang Yu, Yongchao Du, Xingjian Wang, Jun Zheng, Qinye Zhou, Zhengrui Chen, Chao Lin, Yefeng Shen, Zhengtao Wu, Ge Wu, Xiaoli Xu, Denghui Yang, Huayu Zhang, Mingzhou Zhang, Mengting Chen
+**类别**: cs.CV
+**发布日期**: 2026-08-20
+**链接**: http://arxiv.org/abs/2608.20334v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation
+**作者**: Shiao Xie, Siyu Chen, Jianwei Lv, Bo Yuan, Yujin Wang, Xiandong Li
+**类别**: cs.CL, cs.AI, cs.CV
+**发布日期**: 2026-08-20
+**链接**: http://arxiv.org/abs/2608.20331v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### $TCP_α$: Margin-Controlled Confidence estimation for reliable Music Information Retrieval
+**作者**: Parampreet Singh, Anushka Singh, Sumit Kumar, Vipul Arora
+**类别**: eess.AS, cs.LG
+**发布日期**: 2026-08-20
+**链接**: http://arxiv.org/abs/2608.20326v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### A comparison between ceiling-mounted FMCW, IR-UWB and Wi-Fi radar for in-bedroom human activity monitoring and sleep interruption detection
+**作者**: Anton Lambrecht, Reda El Hail, Xianjun Jiao, Pieter Crombez, Dominique Schreurs, Peter Karsmakers, Adnan Shahid, Eli De Poorter
+**类别**: cs.LG
+**发布日期**: 2026-08-20
+**链接**: http://arxiv.org/abs/2608.20322v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction
+**作者**: Narges Ahmadi, Yubo Jiao, Jônatas Augusto Manzolli, Jiangbo Yu, Luis Miranda-Moreno
+**类别**: cs.AI, cs.CL
+**发布日期**: 2026-08-20
+**链接**: http://arxiv.org/abs/2608.20320v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Inducing Task Models from Computer-Use Traces
+**作者**: Yucheng Jiang, Zora Zhiruo Wang, Ruishi Chen, Diyi Yang
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-08-20
+**链接**: http://arxiv.org/abs/2608.20319v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement
+**作者**: Yizhe Chi, Wenyi Li, Deyao Hong, Xiaoqiu Wang, Mingju Gao, Kaisen Yang, Bingxiang He, Youjie Zheng, Calvin Xiao, Qinhuai Na
+**类别**: cs.AI, cs.CL, cs.LG
+**发布日期**: 2026-08-20
+**链接**: http://arxiv.org/abs/2608.20318v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Pandora's AI Model Routing Box: Efficient Allocation with Costly Value Estimation
+**作者**: Adam Fisch, Shubhendu Trivedi, Fantine Huot, William W. Cohen, Michael Kaisers, Mirella Lapata, Kate Larson, Jacob Eisenstein
+**类别**: cs.AI
+**发布日期**: 2026-08-20
+**链接**: http://arxiv.org/abs/2608.20316v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Explainable Transformer Models for Clinical Prediction Tasks on Structured Electronic Health Records
+**作者**: Jun Ni Du, Lukas Adamek, Maxim Kryukov, Flavio Dormont, Ziv Bar-Joseph, Sven Jager, Brandon Rufino
+**类别**: cs.LG
+**发布日期**: 2026-08-20
+**链接**: http://arxiv.org/abs/2608.20315v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### MidTool: Mid-training Data Synthesis for Agentic Tool Use
+**作者**: Fengqing Jiang, Yite Wang, Boyi Liu, Zhaoyang Wang, Canwen Xu, Zhewei Yao, Radha Poovendran, Yuxiong He
+**类别**: cs.AI
+**发布日期**: 2026-08-20
+**链接**: http://arxiv.org/abs/2608.20314v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Inter-X++: A Comprehensive Benchmark for Multimodal Human-Human Interaction Analysis
+**作者**: Liang Xu, Chengqun Yang, Zili Lin, Xintao Lv, Yichao Yan, Xin Jin, Zhibo Chen, Xiaokang Yang, Wenjun Zeng
+**类别**: cs.CV
+**发布日期**: 2026-08-20
+**链接**: http://arxiv.org/abs/2608.20312v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
