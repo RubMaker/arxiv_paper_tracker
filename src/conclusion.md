@@ -138302,3 +138302,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-08-25)
+
+### How to Train a Critic Stably and Efficiently
+**作者**: Penghui Qi, Xiangxin Zhou, Wee Sun Lee
+**类别**: cs.LG, cs.AI, cs.CL
+**发布日期**: 2026-08-24
+**链接**: http://arxiv.org/abs/2608.23566v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### ReWorld: An Interactive World Model with Long-Horizon Memory
+**作者**: Zhifei Chen, Luozhou Wang, Guibao Shen, Dongyu Yan, Shuai Yang, Tianshuo Xu, Yihua Du, Wei Wang, Tianyi Gui, Lianghua Huang, Yingcong Chen
+**类别**: cs.AI
+**发布日期**: 2026-08-24
+**链接**: http://arxiv.org/abs/2608.23565v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?
+**作者**: Deyao Hong, Yizhe Chi, Wenyi Li, Xiaoqiu Wang, Mingju Gao, Kaisen Yang, Bingxiang He, Youjie Zheng, Calvin Xiao, Qinhuai Na
+**类别**: cs.CL, cs.AI, cs.SE
+**发布日期**: 2026-08-24
+**链接**: http://arxiv.org/abs/2608.23564v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings
+**作者**: Md Thamed Bin Zaman Chowdhury, Moazzem Hossain
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-08-24
+**链接**: http://arxiv.org/abs/2608.23563v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Physics-Constrained Deep Learning Model for Contactless Blood Pressure Monitoring from Triaxial Bodyseismography
+**作者**: Yuanyuan Zhang, Yida Zhang, Jiahui Li, Yuyan Wu, Fei Dou, Xiao Yin, Zhenlin An, Hae Young Noh, Wenzhan Song
+**类别**: eess.SP, cs.AI, physics.bio-ph
+**发布日期**: 2026-08-24
+**链接**: http://arxiv.org/abs/2608.23562v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Provably adaptive sampling with uniform and remasking discrete diffusion models
+**作者**: Daniil Dmitriev, Zhihan Huang, Yuting Wei
+**类别**: cs.LG, cs.IT, math.ST, stat.ML
+**发布日期**: 2026-08-24
+**链接**: http://arxiv.org/abs/2608.23554v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Prime Agent: A Self-Improving RLM Harness
+**作者**: Seth Karten, Alex L. Zhang, Kevin Thomas, Sebastian Müller, Elie Bakouch, Daniel Auras, Mika Senghaas, Fares Obeid, Konstantin Dunas, Johannes Hagemann, Sami Jaghouar
+**类别**: cs.AI, cs.CL, cs.SE
+**发布日期**: 2026-08-24
+**链接**: http://arxiv.org/abs/2608.23552v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### ConvergeFlow: Language Flow with Provable Convergence to Token Embeddings
+**作者**: Na Li, Yuchen Jiao, Changxiao Cai, Gen Li
+**类别**: cs.CL, cs.AI, cs.LG, stat.ML
+**发布日期**: 2026-08-24
+**链接**: http://arxiv.org/abs/2608.23551v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### When "Do Not" Is Not Deny: Security Rules in CLAUDE.md vs Built-In Controls
+**作者**: Ting Yan
+**类别**: cs.HC, cs.CR
+**发布日期**: 2026-08-24
+**链接**: http://arxiv.org/abs/2608.23550v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### FixAnything: 3D-Consistent Rendering Refinement via Video Generative Priors
+**作者**: Khiem Vuong, Deva Ramanan, Srinivasa Narasimhan
+**类别**: cs.CV
+**发布日期**: 2026-08-24
+**链接**: http://arxiv.org/abs/2608.23549v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Robustness of Anomaly Detection Models for Industrial Control Systems under Training-Time Data Contamination
+**作者**: Mustafa Umut Ozbek, Taiwo Ojo, Pooria Madani, Khalil El-Khatib, Li Yang
+**类别**: cs.CR, cs.LG
+**发布日期**: 2026-08-24
+**链接**: http://arxiv.org/abs/2608.23547v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Inertial Manifold Neural Operator for Dissipative Time-Dependent Partial Differential Equations
+**作者**: Xiaoyang Xie, Clarence W. Rowley
+**类别**: math.NA, cs.LG, math.DS
+**发布日期**: 2026-08-24
+**链接**: http://arxiv.org/abs/2608.23546v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### How AI Assistance Affects Human Skill Development: A Study of Learning with Logic Puzzles
+**作者**: Shang Wu, Catarina G Belem, Shuyuan Fu, Mark Steyvers, Padhraic Smyth
+**类别**: cs.AI
+**发布日期**: 2026-08-24
+**链接**: http://arxiv.org/abs/2608.23543v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### The Interaction Tax: When Communication Erases Diversity in Multi-Agent Teams
+**作者**: Summer Eunhyung Ann, Haokun Liu, Chenhao Tan
+**类别**: cs.MA, cs.AI
+**发布日期**: 2026-08-24
+**链接**: http://arxiv.org/abs/2608.23541v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Interpretable AI with Local Distillation
+**作者**: Erin Craig, Yiling Huang, Snigdha Panigrahi
+**类别**: stat.ME, cs.LG, stat.ML
+**发布日期**: 2026-08-24
+**链接**: http://arxiv.org/abs/2608.23538v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
