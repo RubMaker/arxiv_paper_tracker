@@ -138456,3 +138456,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-08-26)
+
+### Do Robotic World Models Really Follow Actions? Diagnosing and Aligning Action-Conditioned Generation for Policy Learning
+**作者**: Sixiang Chen, Jiaming Liu, Jixian Wu, Yichen Guo, Tinghao Wang, Siyuan Qian, Hao Chen, Jiajun Cao, Jian Tang, Shanghang Zhang
+**类别**: cs.RO, cs.CV
+**发布日期**: 2026-08-25
+**链接**: http://arxiv.org/abs/2608.24885v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Latent Action as Intention Enables Efficient Future Imagination for World Action Models
+**作者**: Xiang Li, Yupeng Zheng, Songen Gu, Huailiang Ma, Feng Yu, Xian Nie, Shanshuai Yuan, Yujie Zang, Weize Li, Shuai Tian, Moyang Liu, Ya-Qin Zhang, Wenchao Ding
+**类别**: cs.RO
+**发布日期**: 2026-08-25
+**链接**: http://arxiv.org/abs/2608.24882v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### What FID Hides: Detecting, Ranking, and Diagnosing Deviations in Generative Evaluation
+**作者**: Hao Chen
+**类别**: stat.ML, cs.LG
+**发布日期**: 2026-08-25
+**链接**: http://arxiv.org/abs/2608.24881v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### From Seeing to Acting: Smart Glasses as First-Person Intelligence Platforms
+**作者**: Jiangning Zhang, Haojun Chen, Yong Liu
+**类别**: cs.CV
+**发布日期**: 2026-08-25
+**链接**: http://arxiv.org/abs/2608.24877v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses
+**作者**: Zhaochen Yu, Yingcheng Wu, Zhenfei Yin, Kaiyuan Chen, Zhe Zhao, Mengdi Wang, Shuicheng Yan, Ling Yang
+**类别**: cs.AI, cs.CL
+**发布日期**: 2026-08-25
+**链接**: http://arxiv.org/abs/2608.24876v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### SPO++: Stream-Aligned Policy Optimization for Asynchronous Agentic RL
+**作者**: Kai Ruan, Jinghao Lin, Qianshan Wei, Ziqi Zhou, Zihe Huang
+**类别**: cs.AI
+**发布日期**: 2026-08-25
+**链接**: http://arxiv.org/abs/2608.24870v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Parameterized Complexity of $L_p$-Lipschitz Constants for Input Convex Neural Networks and $L_p$-Norm Maximization over Zonotopes
+**作者**: Aritra Das, Vincent Froese, Moritz Grillo, Debayan Gupta, Christoph Hertrich, Tharrshann Jayan Logarajah, Georg Loho, Mihir More, Moritz Stargalla
+**类别**: cs.CC, cs.DM, cs.LG, cs.NE
+**发布日期**: 2026-08-25
+**链接**: http://arxiv.org/abs/2608.24865v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Improving Cross-Problem Vehicle Routing with Locally Augmented Preferences and Representation Disentanglement
+**作者**: Arthur Corrêa, Paulo Nascimento, Samuel Moniz
+**类别**: cs.LG
+**发布日期**: 2026-08-25
+**链接**: http://arxiv.org/abs/2608.24859v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Bellman Calibration for Marginalized Importance Weighting in Offline Reinforcement Learning
+**作者**: Lars van der Laan, Nathan Kallus
+**类别**: cs.LG, stat.ML
+**发布日期**: 2026-08-25
+**链接**: http://arxiv.org/abs/2608.24858v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Prompt Structure Redistributes, Not Reduces: An Empirical Analysis of Security-Weaknesses in LLM-Generated Python Code
+**作者**: Maitreyee Das Urmi, Jessica Pourleyli, Fabio Santos, Glaucia Melo
+**类别**: cs.CR, cs.SE
+**发布日期**: 2026-08-25
+**链接**: http://arxiv.org/abs/2608.24857v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### LeFlow: Generative Latent Flow Planning for World Models
+**作者**: Hsiang-Wei Huang, Jianxu Shangguan, Junbin Lu, Jenq-Neng Hwang
+**类别**: cs.CV
+**发布日期**: 2026-08-25
+**链接**: http://arxiv.org/abs/2608.24855v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Research Methodologies for Cybersecurity in Enterprise Environments: A Narrative Review, Synthesis and Executable Guide
+**作者**: Tran Duc Le
+**类别**: cs.CR
+**发布日期**: 2026-08-25
+**链接**: http://arxiv.org/abs/2608.24850v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### BrowserForge: Scaling Web Episode via Parallel Browser Sandboxes
+**作者**: Fei Tang, Huawen Shen, Zhiqiong Lu, Zhengxi Lu, Pengyuan Lyu, Chengquan Zhang, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen
+**类别**: cs.CL
+**发布日期**: 2026-08-25
+**链接**: http://arxiv.org/abs/2608.24848v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### FedV-KGQA: Multi-Hop Question Answering over Vertically Partitioned Knowledge Graphs
+**作者**: Md Saikat Islam Khan Bappy, Oshani Seneviratne
+**类别**: cs.AI
+**发布日期**: 2026-08-25
+**链接**: http://arxiv.org/abs/2608.24846v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### LAION-BVD: A 10-Million-Hour Open Video Dataset for Multimodal Pre-training
+**作者**: Andreas Hochlehnert, Marianna Nezhurina, Mehdi Cherti, Andrej Radonjic, Thaddäus Wiedemer, Christoph Schuhmann, Romain Beaumont, Wieland Brendel, Bernhard Schölkopf, A. Sophia Koepke, Jenia Jitsev, Matthias Bethge
+**类别**: cs.CV, cs.AI, cs.LG
+**发布日期**: 2026-08-25
+**链接**: http://arxiv.org/abs/2608.24845v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
