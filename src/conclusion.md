@@ -138610,3 +138610,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-08-28)
+
+### UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City
+**作者**: Tianjie Ju, Zheng Wu, Yueqing Sun, Yuhan Cui, Bobo Li, Shengqiong Wu, Pengzhou Cheng, Haodong Zhao, Zongru Wu, Xinbei Ma, Doris Zhang, Kunling Li, Mong-Li Lee, Wynne Hsu, Hao Fei, Qi Gu, Gongshen Liu, Zhuosheng Zhang
+**类别**: cs.CV
+**发布日期**: 2026-08-27
+**链接**: http://arxiv.org/abs/2608.27456v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes
+**作者**: Yufan Wu, Yinghui He, Zhengyi Hu, Lang Wei, Ruichen Li, Qifan Yang, Ting Zhu
+**类别**: cs.CL
+**发布日期**: 2026-08-27
+**链接**: http://arxiv.org/abs/2608.27455v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution
+**作者**: Liyan Tang, Cyrus Rashtchian, Chun-Sung Ferng, Andrew Tomkins, Da-Cheng Juan, Tu Vu
+**类别**: cs.AI, cs.CL
+**发布日期**: 2026-08-27
+**链接**: http://arxiv.org/abs/2608.27454v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### SWE-Prime: Fewer Trajectories, Better Performance
+**作者**: Dewu Zheng, Ruizhe Ye, Yanlin Wang, Yang Ye, Hongyu Zhang, Ensheng Shi, Xilin Liu, Yuchi Ma, Jianxing Yu, Zibin Zheng
+**类别**: cs.SE, cs.AI, cs.CL
+**发布日期**: 2026-08-27
+**链接**: http://arxiv.org/abs/2608.27449v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### TTPO: Test-Time Policy Optimization
+**作者**: Aozhe Wang, Zhengxi Lu, Jianze Wang, Shangke Lv, Ying Liu, Weiming Lu, Jun Xiao, Yueting Zhuang, Hua Yang, Qianglong Chen, Yongliang Shen
+**类别**: cs.CL
+**发布日期**: 2026-08-27
+**链接**: http://arxiv.org/abs/2608.27448v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Do User-Authored Permission Policies Improve Protection Against AI Agent Overreach?
+**作者**: Ting Yan
+**类别**: cs.HC, cs.CR
+**发布日期**: 2026-08-27
+**链接**: http://arxiv.org/abs/2608.27443v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench
+**作者**: Dewu Zheng, Yanlin Wang, Xiwen Wang, Kefeng Duan, Hongyu Zhang, Xilin Liu, Yuchi Ma, Zibin Zheng
+**类别**: cs.SE, cs.AI, cs.CL
+**发布日期**: 2026-08-27
+**链接**: http://arxiv.org/abs/2608.27442v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution
+**作者**: Junjie Zhang, Hui Liu, Kecheng Chen, Xianbo Mo, Changsheng Chen, Haoliang Li
+**类别**: cs.CR, cs.AI
+**发布日期**: 2026-08-27
+**链接**: http://arxiv.org/abs/2608.27439v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation
+**作者**: Nguyen Xuan-Vu, Octavian Susanu, Daniel Armstrong, Philippe Schwaller
+**类别**: cs.AI
+**发布日期**: 2026-08-27
+**链接**: http://arxiv.org/abs/2608.27429v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Stochastic Estimation of Transduced Language Models
+**作者**: Vésteinn Snæbjarnarson, Samuel Kiegeland, Manuel de Prada Corral, Ryan Cotterell, Tim Vieira
+**类别**: cs.CL
+**发布日期**: 2026-08-27
+**链接**: http://arxiv.org/abs/2608.27428v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Persona-Execution Separation: An Architecture Pattern for Evolving LLM Agents under Execution Audit
+**作者**: Yisen Xi
+**类别**: cs.SE, cs.AI
+**发布日期**: 2026-08-27
+**链接**: http://arxiv.org/abs/2608.27427v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Beyond F1: Evaluating Coverage and Failure Recovery in AI Model Security Scanners
+**作者**: Qianlong Lan, Vinothini Pandurangan, Anuj Kaul, Indranil Sanyal
+**类别**: cs.CR, cs.AI
+**发布日期**: 2026-08-27
+**链接**: http://arxiv.org/abs/2608.27424v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Learning a Continuous Sepsis Severity Score Without Hour-by-Hour Supervision: A Two-Site Retrospective Study
+**作者**: Kevin Zhu, Ryan Zhang, Baraa Abed, Tilendra Choudhary, Malvern Madondo, Mehak Arora, Yixuan Yang, Alasdair Gent, Aditya Nagori, Omer T. Inan, Krista L. Haines, Patrick Georgoff, Suresh M. Agarwal, Vijay Krishnamoorthy, Tetsu Ohnuma, Mihai V. Podgoreanu, Michael R. Pinsky, Gilles Clermont, Craig M. Coopersmith, Craig S. Jabaley, Rishikesan Kamaleswaran
+**类别**: cs.AI, cs.LG
+**发布日期**: 2026-08-27
+**链接**: http://arxiv.org/abs/2608.27421v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Boosting LLM Exploration via Weak-Model Guidance in RLVR
+**作者**: Xingyu Shen, Huishuai Zhang, Peng Li, Yinchun Wang, Dongyan Zhao
+**类别**: cs.CL
+**发布日期**: 2026-08-27
+**链接**: http://arxiv.org/abs/2608.27420v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Retrieval Heads Meet Vision: Uncovering How VLMs Locate and Extract Visual Information
+**作者**: Chanho Park, Daehyeon Choi, Jihyun Lee, Minhyuk Sung
+**类别**: cs.CV
+**发布日期**: 2026-08-27
+**链接**: http://arxiv.org/abs/2608.27417v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
