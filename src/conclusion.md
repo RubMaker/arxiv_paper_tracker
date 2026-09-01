@@ -139072,3 +139072,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-09-01)
+
+### Context-Aware Interleaved Batching for WhisperX
+**作者**: Carlos Bain, Max Bain
+**类别**: cs.CL
+**发布日期**: 2026-08-31
+**链接**: http://arxiv.org/abs/2608.31170v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Constant Individual Regret in General Games
+**作者**: Mingyang Liu, Gabriele Farina, Asuman Ozdaglar
+**类别**: cs.LG, cs.GT
+**发布日期**: 2026-08-31
+**链接**: http://arxiv.org/abs/2608.31166v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### SUN: Persistent Programs For Language-Grounded Control-to-Learning-to-Real Policies
+**作者**: Weiqi Wang, Zhi Li, Yudong Lei, David Martinez, Xiaofeng Gao, Yuxin Jiang, Chenfanfu Jiang, Yingnian Wu, Demetri Terzopoulos, Ran Gong
+**类别**: cs.RO, cs.AI
+**发布日期**: 2026-08-31
+**链接**: http://arxiv.org/abs/2608.31167v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### BRF-GS: Hyperspectral Bidirectional Reflectance Factor Modeling and Image Generation Based on 3D Gaussian Splatting
+**作者**: Yiling Yao, Wenjuan Zhang, Bowen Wang, Bocheng Li, Wentao Song, Bing Zhang
+**类别**: cs.CV
+**发布日期**: 2026-08-31
+**链接**: http://arxiv.org/abs/2608.31159v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Sharp Approximation Rates for Neural Networks with Affine Latent Parameterizations
+**作者**: Shijun Zhang
+**类别**: cs.LG, stat.ML
+**发布日期**: 2026-08-31
+**链接**: http://arxiv.org/abs/2608.31157v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Local Private Information Retrieval for Graph-Based Replicated Systems
+**作者**: Shreya Meel, Mohamed Nomeir, Sennur Ulukus
+**类别**: cs.IT, cs.CR, cs.DB, cs.NI, eess.SP
+**发布日期**: 2026-08-31
+**链接**: http://arxiv.org/abs/2608.31150v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Auditing Anonymous AI Models: A Four-Stage Protocol for Black-Box Identity Verification
+**作者**: Yisen Xi
+**类别**: cs.SE, cs.AI, cs.CR
+**发布日期**: 2026-08-31
+**链接**: http://arxiv.org/abs/2608.31142v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Configurable Semantic Chunking for Biomedical Information Extraction in Retrieval-Augmented Generation
+**作者**: Riya Ahuja, Tim Kacprowski, Roya Shiasi Sardoabi
+**类别**: cs.CL, cs.IR
+**发布日期**: 2026-08-31
+**链接**: http://arxiv.org/abs/2608.31139v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### OntoAligner-Ensemble: Voting-Based Fusion across Heterogeneous Ontology Alignment Techniques
+**作者**: Hamed Babaei Giglou, Sören Auer, Peio Popov, Mahsa Sanaei, Jennifer D'Souza
+**类别**: cs.AI
+**发布日期**: 2026-08-31
+**链接**: http://arxiv.org/abs/2608.31137v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Implementing neural network mixed-effects models in Template Model Builder (TMB)
+**作者**: Nan Zheng, Hoi Yiu Cheung, Vibhu Sharma, James T. Thorson, Noel G. Cadigan
+**类别**: stat.ML, cs.LG
+**发布日期**: 2026-08-31
+**链接**: http://arxiv.org/abs/2608.31133v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### DIASENTINEL: An Auditable Multi-Agent System for Guideline-Grounded Diabetes Risk Screening
+**作者**: Yung Wei Shueh, Zhi-Jie Chen, Chia-Hsuan Hsu, Hsin-Ling Hsu, Donghua Zhang, Chenwei Wu, Jun-En Ding, Tongze Zhang, Shihao Yang, Pengfei Hu, Fang-Ming Hung, Feng Liu
+**类别**: cs.CL
+**发布日期**: 2026-08-31
+**链接**: http://arxiv.org/abs/2608.31128v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### On the Complexity of the Compatibility Problem for Succinctly Encoded Conditional Distributions
+**作者**: Guy Emerson
+**类别**: cs.LG, cs.CC, math.PR
+**发布日期**: 2026-08-31
+**链接**: http://arxiv.org/abs/2608.31120v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### PaperGym: Rubric-Centered Evolution for Research-Plan Generation
+**作者**: Yuhan Wang, Zhengxi Lu, Yuchen Yan, Kaitao Song, Wenqi Zhang, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen
+**类别**: cs.CL
+**发布日期**: 2026-08-31
+**链接**: http://arxiv.org/abs/2608.31119v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### When Does Bigger Help? A Controlled Study of LLM Scale for Ontology Learning
+**作者**: Hamed Babaei Giglou, Sören Auer, Jennifer D'Souza
+**类别**: cs.AI
+**发布日期**: 2026-08-31
+**链接**: http://arxiv.org/abs/2608.31118v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### "Train classical, deploy quantum" requires rethinking generalization
+**作者**: Snehal Raj, Natansh Mathur, Alejandro Perdomo-Ortiz
+**类别**: quant-ph, cs.LG
+**发布日期**: 2026-08-31
+**链接**: http://arxiv.org/abs/2608.31117v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
