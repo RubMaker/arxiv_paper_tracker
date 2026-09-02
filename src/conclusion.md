@@ -139226,3 +139226,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-09-02)
+
+### Uncovering Understanding-Generation Synergy in Native Unified Multimodal Models: From Representation, Task to System
+**作者**: Penghao Wu, Haiwen Diao, Weichen Fan, Lewei Lu, Dahua Lin, Ziwei Liu
+**类别**: cs.CV
+**发布日期**: 2026-09-01
+**链接**: http://arxiv.org/abs/2609.01607v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation
+**作者**: Himil Vasava, Ming Jiang
+**类别**: cs.CL, cs.LG
+**发布日期**: 2026-09-01
+**链接**: http://arxiv.org/abs/2609.01604v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Efficient SWE Agent Benchmarking via Trajectory-Aware Evaluation
+**作者**: Kefeng Duan, Dewu Zheng, Yanlin Wang, Xiwen Wang, Ensheng Shi, Xilin Liu, Yuchi Ma, Jiachi Chen, Mingwei Liu, Zibin Zheng
+**类别**: cs.SE, cs.AI, cs.CL
+**发布日期**: 2026-09-01
+**链接**: http://arxiv.org/abs/2609.01603v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Adaptive Critical Token-Aware Retrieval for Repository-Level Code Generation
+**作者**: Kefeng Duan, Dewu Zheng, Yanlin Wang, Terry Yue Zhuo, Mingwei Liu, Jianxing Yu, Jiachi Chen, Ensheng Shi, Xilin Liu, Yuchi Ma, Zibin Zheng
+**类别**: cs.SE, cs.AI, cs.CL
+**发布日期**: 2026-09-01
+**链接**: http://arxiv.org/abs/2609.01601v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### CordisBench: Can Language Models Reason About Component Lifecycles in Dynamic Agent Harnesses?
+**作者**: Damien Sileo, Dimitri Kachler
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-09-01
+**链接**: http://arxiv.org/abs/2609.01600v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### UI-VISA: U-Net Initialized Vascular Image Segmentation Architecture
+**作者**: Asees Kaur, Suzanne S. Sindi, Erica M. Rutter
+**类别**: cs.CV
+**发布日期**: 2026-09-01
+**链接**: http://arxiv.org/abs/2609.01598v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### The Rise of Verbal Reinforcement Learning
+**作者**: Kshitij Tayal, Arun Sharma, Genta Indra Winata, Anirban Das, Sambit Sahu
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-09-01
+**链接**: http://arxiv.org/abs/2609.01597v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Facet-0: A Robotic Foundation Model for Contact-Rich Precise Manipulation
+**作者**: Haoyuan Deng, Haichao Liu, Wenkai Guo, Yuan Ling, Zaijia Yang, Yuanjiang Xue, Haosheng Sun, Liangzi Wang, Ziwei Wang
+**类别**: cs.RO, cs.LG
+**发布日期**: 2026-09-01
+**链接**: http://arxiv.org/abs/2609.01596v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Mechanism Design for Alignment and Control
+**作者**: Dirk Bergemann, Andrew Koh, Stephen Morris
+**类别**: econ.TH, cs.AI, cs.GT
+**发布日期**: 2026-09-01
+**链接**: http://arxiv.org/abs/2609.01595v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### StudentSim: Training LLM-based Student Simulators
+**作者**: Ke Yang, Chenglong Wang, Michel Galley, Chandan Singh, Jeevana Priya Inala, ChengXiang Zhai, Jianfeng Gao
+**类别**: cs.CL
+**发布日期**: 2026-09-01
+**链接**: http://arxiv.org/abs/2609.01591v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Designing Proactive Thought Partners for Writing
+**作者**: Chao Zhang, Abe Davis, Chih-Wei Chen, Chin-Chia Hsu
+**类别**: cs.HC, cs.AI, cs.CL
+**发布日期**: 2026-09-01
+**链接**: http://arxiv.org/abs/2609.01588v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### The Structure of Quantization Damage in LLMs: Why the Next Bit Should Be Spent Globally
+**作者**: Jundong Hu, Shekar Ramachandran
+**类别**: cs.LG, cs.CL
+**发布日期**: 2026-09-01
+**链接**: http://arxiv.org/abs/2609.01587v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### A Benchmark for Vehicle Attribute Classification in Cross-Domain Surveillance Scenarios
+**作者**: Sergio M. Silva, Otavio T. Remer, Gabriel E. Lima, Lucas Wojcik, Rayson Laroca, David Menotti
+**类别**: cs.CV
+**发布日期**: 2026-09-01
+**链接**: http://arxiv.org/abs/2609.01584v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### SpatialGuard: Harness-Guided Verifiable Spatial Reasoning for Text-to-Image Generation
+**作者**: Ziyun Qian, Zizhi Chen, Yizhou Liu, Mingyang Sun, Dingkang Yang, Lihua Zhang
+**类别**: cs.CV
+**发布日期**: 2026-09-01
+**链接**: http://arxiv.org/abs/2609.01582v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### SG-AMP: Scene-Graph-Guided Active Perception and Semantics-Aware Motion Planning for Pepper Plants
+**作者**: Rohit Menon, Shiva Rudra Lolla, Niklas Mueller-Goldingen, Gokul Chenchani, Ribana Roscher, Maren Bennewitz
+**类别**: cs.RO
+**发布日期**: 2026-09-01
+**链接**: http://arxiv.org/abs/2609.01579v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
