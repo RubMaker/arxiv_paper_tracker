@@ -139380,3 +139380,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-09-03)
+
+### A Common Measure of Communication for Speech Brain-Computer Interfaces
+**作者**: Dulhan Jayalath, Benjamin Ballyk, Oiwi Parker Jones
+**类别**: cs.LG, q-bio.NC
+**发布日期**: 2026-09-02
+**链接**: http://arxiv.org/abs/2609.02887v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models
+**作者**: Junchao Huang, Guian Fang, Shengju Qian, Xianghao Kong, Zhuoran Zhao, Wei Huang, Yihua Du, Zixin Zhang, Justin Cui, Yuchao Gu, Yukang Chen, Xinting Hu, Tianyu He, Shaoshuai Shi, Zhuotao Tian, Xin Wang, Mike Zheng Shou, Li Jiang
+**类别**: cs.CV
+**发布日期**: 2026-09-02
+**链接**: http://arxiv.org/abs/2609.02886v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Discriminative World Models for Web Agents
+**作者**: Kelvin Li, Dhruv Pendharkar, Anish Pahilajani, Chuyi Shang, Leon Oks, Leonid Karlinsky, Rogerio Feris, Trevor Darrell, Roei Herzig
+**类别**: cs.AI, cs.LG
+**发布日期**: 2026-09-02
+**链接**: http://arxiv.org/abs/2609.02885v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Graph Machine: Towards Better Pretraining via Edges
+**作者**: Lintai Hou
+**类别**: cs.LG
+**发布日期**: 2026-09-02
+**链接**: http://arxiv.org/abs/2609.02881v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Overcoming the Randomness-Utility Trade-off in Answering Differentially Private Linear Queries
+**作者**: Surendra Ghentiyala, Pritish Kamath, Ravi Kumar, Pasin Manurangsi
+**类别**: cs.CR, cs.CC
+**发布日期**: 2026-09-02
+**链接**: http://arxiv.org/abs/2609.02880v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### GRADSOLVE: fast exact gradients for ODE ensembles on GPUs
+**作者**: Alessio Spurio Mancini
+**类别**: cs.MS, cs.DC, cs.LG, math.NA
+**发布日期**: 2026-09-02
+**链接**: http://arxiv.org/abs/2609.02876v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### When Does Authorization End? Effect Closure at Provider Boundaries
+**作者**: Igor Santos-Grueiro
+**类别**: cs.CR, cs.DC
+**发布日期**: 2026-09-02
+**链接**: http://arxiv.org/abs/2609.02866v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Thinking in Pictures: A Systematic Benchmark for Reasoning-driven Image Generation
+**作者**: Yutong Liu, Nan Huang, Xu Cao, James M. Rehg
+**类别**: cs.CV
+**发布日期**: 2026-09-02
+**链接**: http://arxiv.org/abs/2609.02864v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Towards Trustworthy Autonomous Robots: An Explainable AI-Based Decision Framework
+**作者**: Cagri Temel
+**类别**: cs.RO, cs.AI
+**发布日期**: 2026-09-02
+**链接**: http://arxiv.org/abs/2609.02861v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### PlantC2USeg: Cross-Scale Consistent Pre-Training for Few-Shot Unified Plant Point Cloud Segmentation
+**作者**: Yu Tian, Xintong Jiang, Jan Franklin Adamowski, Shiv O. Prasher, Shangpeng Sun
+**类别**: cs.CV
+**发布日期**: 2026-09-02
+**链接**: http://arxiv.org/abs/2609.02860v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### User Feedback Provides a Unique Signal that LLMs Can not Detect
+**作者**: Shachar Don-Yehiya, Leshem Choshen, Omri Abend
+**类别**: cs.CL
+**发布日期**: 2026-09-02
+**链接**: http://arxiv.org/abs/2609.02859v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Improved Gradient Descent Lower Bounds Beyond Nesterov
+**作者**: Yuhan Ye, Kaizhao Liu
+**类别**: math.OC, cs.LG, stat.ML
+**发布日期**: 2026-09-02
+**链接**: http://arxiv.org/abs/2609.02855v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### MuyBridge: Mobile Human Center-of-Mass Estimation from Monocular Video via Sparse Fusion
+**作者**: Aidan Bradshaw, Marco Giordano, David Rode, Andreas Habersack, Elif Basokur, Annika Kruse, Markus Tilp, Michele Magno, Peter Wolf, Luca Benini, Christoph Leitner
+**类别**: cs.CV
+**发布日期**: 2026-09-02
+**链接**: http://arxiv.org/abs/2609.02854v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### The Implications of Linguistic Illegibility for LLM Security
+**作者**: James Mickens
+**类别**: cs.LG, cs.CR
+**发布日期**: 2026-09-02
+**链接**: http://arxiv.org/abs/2609.02852v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Post-Training Language Models for Gold-Medal Performance in Coding Competitions
+**作者**: Aleksander Ficek, Sean Narenthiran, Mehrzad Samadi, Somshubra Majumdar, Boris Ginsburg
+**类别**: cs.LG, cs.AI, cs.CL, cs.MA, cs.SE
+**发布日期**: 2026-09-02
+**链接**: http://arxiv.org/abs/2609.02849v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
