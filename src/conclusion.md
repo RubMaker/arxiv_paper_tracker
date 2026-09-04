@@ -139534,3 +139534,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-09-04)
+
+### Temporal Self-Distillation: Learning Visual State Tracking in Videos Without Supervision
+**作者**: Shravan Venkatraman, Wenshuai Zhao, Mohammad Hassan Vali, Arno Solin
+**类别**: cs.CV
+**发布日期**: 2026-09-03
+**链接**: http://arxiv.org/abs/2609.04203v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### TokenMatch: 3D Mesh Correspondence Transformer with Curvature-Guided Tokenisation
+**作者**: Adeela Islam, Zorah Lähner, Vittorio Murino, Vladislav Golyanik
+**类别**: cs.CV
+**发布日期**: 2026-09-03
+**链接**: http://arxiv.org/abs/2609.04202v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction
+**作者**: Chin-Yang Lin, Yang-Che Sun, Cheng Sun, Fu-En Yang, Min-Hung Chen, Yen-Yu Lin, Wei-Chen Chiu, Yu-Lun Liu
+**类别**: cs.CV
+**发布日期**: 2026-09-03
+**链接**: http://arxiv.org/abs/2609.04201v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Principia: Relational Physics Tests for Video Models
+**作者**: Varun Varma Thozhiyoor, Shivam Tripathi, Venkatesh Babu Radhakrishnan, Anand Bhattad
+**类别**: cs.CV
+**发布日期**: 2026-09-03
+**链接**: http://arxiv.org/abs/2609.04200v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Compile by Training: Turning Natural-Language Specifications into Local Neural Functions
+**作者**: Yuntian Deng, Pengyu Nie, Stuart Shieber
+**类别**: cs.CL, cs.AI, cs.LG
+**发布日期**: 2026-09-03
+**链接**: http://arxiv.org/abs/2609.04199v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints
+**作者**: Haoyaun Zhu, Jie Zhang
+**类别**: cs.AI, cs.LG
+**发布日期**: 2026-09-03
+**链接**: http://arxiv.org/abs/2609.04198v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize
+**作者**: Lihao Liu, Peng Tang, Kunwar Yashraj Singh, Shabnam Ghadar
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-09-03
+**链接**: http://arxiv.org/abs/2609.04197v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States
+**作者**: Kang Liao, Yihang Luo, Xiao-Ming Wu, Linyi Jin, Size Wu, Chunyu Lin, Yao Zhao, Fei Wang, Wei Li, Chen Change Loy
+**类别**: cs.CV
+**发布日期**: 2026-09-03
+**链接**: http://arxiv.org/abs/2609.04196v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning
+**作者**: Kevin Du, Alexander Hoyle, Laura Ruis, Acyr Locatelli
+**类别**: cs.CL, cs.LG
+**发布日期**: 2026-09-03
+**链接**: http://arxiv.org/abs/2609.04194v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### GIFT: Guided Intermediate Feature Training via Action-Oriented Structural Supervision for Robotic Manipulation
+**作者**: Yupeng Zheng, Xiang Li, Songen Gu, Yuhang Zheng, Shuai Tian, Weize Li, Linbo Wang, Chaoyue Li, Qichao Zhang, Haoran Li, Zhongpu Xia, Ya-Qin Zhang, Shuicheng Yan, Dongbin Zhao
+**类别**: cs.RO
+**发布日期**: 2026-09-03
+**链接**: http://arxiv.org/abs/2609.04193v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### One Editor, Many Edits: A Unified Training-Free Framework for Diverse Video Editing
+**作者**: Adheesh Sunil Juvekar, Onkar Kishor Susladkar, Kiet A. Nguyen, Muntasir Wahed, Nabeel Bashir, Xiaona Zhou, Tianjiao Yu, Vedant Shah, Ismini Lourentzou
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-09-03
+**链接**: http://arxiv.org/abs/2609.04190v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Robust PAC Learning of Concurrent Stochastic Games
+**作者**: Angel Y. He, David Parker
+**类别**: cs.LG, cs.GT, cs.LO, cs.MA
+**发布日期**: 2026-09-03
+**链接**: http://arxiv.org/abs/2609.04189v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Seeing Before Synthesizing: VLM-Guided Transition Event Discovery for Weakly-Supervised Dense Video Captioning
+**作者**: Ye-Chan Kim, Seunghee Choi, SeungJu Cha, Si-Woo Kim, Hwiseon Kim, Hyungee Kim, Dong-Jin Kim
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-09-03
+**链接**: http://arxiv.org/abs/2609.04183v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views
+**作者**: Joseph Lee, Yidi Huang, Dokyoon Kim, Shu Yang, Li Shen
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-09-03
+**链接**: http://arxiv.org/abs/2609.04180v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### A Computationally Feasible Framework for Causal Probabilistic Explanation
+**作者**: Rafal Urbaniak, Sam Witty, Daniel Waxman, Andy Zane, Poorva Garg, Emily Bunnapradist, Sankaran Vaidyanathan, Jack Feser, Drew Lehe, Eli Bingham
+**类别**: cs.AI
+**发布日期**: 2026-09-03
+**链接**: http://arxiv.org/abs/2609.04177v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
