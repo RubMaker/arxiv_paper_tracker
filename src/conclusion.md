@@ -139842,3 +139842,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-09-09)
+
+### TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model
+**作者**: Anqi Li, Yuxin Chen, Zhaobo Li, Zhuo Cao, Junli Ren, Masayoshi Tomizuka, Dhruv Shah
+**类别**: cs.RO, cs.AI
+**发布日期**: 2026-09-08
+**链接**: http://arxiv.org/abs/2609.09158v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Learning Length-Extrapolatable Recurrent Models
+**作者**: Hanwen Jiang
+**类别**: cs.LG, cs.CL
+**发布日期**: 2026-09-08
+**链接**: http://arxiv.org/abs/2609.09157v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### ReCite: Agentic Reasoning for Faithful Citation
+**作者**: Yuyang Huang, Bobo Li, Jiajia Song, Yuzhe Ding, Chong Teng, Fei Li, Donghong Ji
+**类别**: cs.CL
+**发布日期**: 2026-09-08
+**链接**: http://arxiv.org/abs/2609.09156v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators
+**作者**: Yuncong Yang, Zhengtao Han, Furkan Ozyurt, Zeyuan Yang, Han Yang, Junyi Cao, Haoyu Zhen, Yilun Du, Chuang Gan
+**类别**: cs.CV
+**发布日期**: 2026-09-08
+**链接**: http://arxiv.org/abs/2609.09155v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Procedural Graphs: Self-Evolving Execution Structures for LLM Agents
+**作者**: Yuxing Lu, Yicheng Chen, Shanchan Wu, Sercan Ö. Arık
+**类别**: cs.AI, cs.CL, cs.MA
+**发布日期**: 2026-09-08
+**链接**: http://arxiv.org/abs/2609.09153v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Silver Rate Is (Almost) Optimal for Gradient Descent Acceleration
+**作者**: Yuhan Ye, Kaizhao Liu
+**类别**: math.OC, cs.LG
+**发布日期**: 2026-09-08
+**链接**: http://arxiv.org/abs/2609.09152v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Copying explains the collective behavior of AI agents in the wild
+**作者**: Giordano De Marzo, Nicola Alboré, David Garcia
+**类别**: cs.MA, cond-mat.stat-mech, cs.CL
+**发布日期**: 2026-09-08
+**链接**: http://arxiv.org/abs/2609.09150v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Proxy Policy Steering
+**作者**: Chuanruo Ning, Tianrui Wang, Wei-Chiu Ma, Kuan Fang
+**类别**: cs.RO
+**发布日期**: 2026-09-08
+**链接**: http://arxiv.org/abs/2609.09148v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Point4D: Long-range 4D Motion Reconstruction
+**作者**: Minsik Jeon, Jay Karhade, Deva Ramanan, Shubham Tulsiani
+**类别**: cs.CV
+**发布日期**: 2026-09-08
+**链接**: http://arxiv.org/abs/2609.09145v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Studying Image Tokenizers as Visual Languages in Unified Multimodal Models
+**作者**: Siting Li, Zhengyang Wang, Simon Shaolei Du, Xi Chen, Yang Liu
+**类别**: cs.CV, cs.CL
+**发布日期**: 2026-09-08
+**链接**: http://arxiv.org/abs/2609.09143v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### NOAH: Learning the Full Patient Journey. A Longitudinal Multimodal Time-Aware Model for Representation and Forecasting
+**作者**: Tobias Susetzky, Raphael Rehms, Dmitrii Seletkov, Özgün Turgut, Michelle Espranita Liman, Lisa Steinhelfer, Rickmer Braren, Daniel Rueckert
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-09-08
+**链接**: http://arxiv.org/abs/2609.09140v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### A Data-Driven Framework for Identifying and Prioritizing RPA Opportunities in Healthcare Processes
+**作者**: Maria Alejandra Gomez, Juan Manuel Castillo
+**类别**: cs.AI, cs.CL
+**发布日期**: 2026-09-08
+**链接**: http://arxiv.org/abs/2609.09137v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Entropy-Regularized Rank-Masked Policy Optimization for Test-Time Reinforcement Learning in Code Generation
+**作者**: Jiacheng Xu, Feng Chen, Xiuneng Xu, Bo An
+**类别**: cs.LG, cs.CL
+**发布日期**: 2026-09-08
+**链接**: http://arxiv.org/abs/2609.09135v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Co-Evolving Harnesses and Models: On-Policy Correction Helps Weaker Models Catch Up Where Imitation Fails
+**作者**: Zhou Yu, Bin Bi, Shiva Kumar Pentyala, Shubham Mehrotra, Sougata Chaudhuri, Shilpa Bhagavath, Zeyuan Chen, Ran Xu, Phil Mui, James Zhu, Sitaram Asur
+**类别**: cs.AI
+**发布日期**: 2026-09-08
+**链接**: http://arxiv.org/abs/2609.09134v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### ExecCritic: Learn to Test, Test to Improve for Coding Agents
+**作者**: Leitian Tao, Baolin Peng, Haorui Wang, Hang Wang, Hao Cheng, Wenlin Yao, Qianhui Wu, Tao Ge, Sharon Li, Jianfeng Gao
+**类别**: cs.AI, cs.CL, cs.SE
+**发布日期**: 2026-09-08
+**链接**: http://arxiv.org/abs/2609.09133v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
