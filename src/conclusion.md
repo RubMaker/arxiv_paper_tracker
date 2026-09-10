@@ -139996,3 +139996,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-09-10)
+
+### Programmable World Model
+**作者**: Zheng-Hui Huang, Guixu Lin, Jiacheng Lin, Yi-Chuan Huang, Ruihan Yu, Muyao Niu, Siqi Yang, Yu-Lun Liu, Yung-Yu Chuang, Kaipeng Zhang, Zhixiang Wang
+**类别**: cs.CV
+**发布日期**: 2026-09-09
+**链接**: http://arxiv.org/abs/2609.10540v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### IdeaAMBIG: Benchmarking Implementation-Critical Gaps in Research-Idea Specifications
+**作者**: Yiling Ma, Yilun Zhao, Sihong Wu, Manasi Patwardhan, Arman Cohan
+**类别**: cs.CL
+**发布日期**: 2026-09-09
+**链接**: http://arxiv.org/abs/2609.10539v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Towards Tackling Application Logic Flaws through Autonomous Formal-Logic Modeling and Automated Reasoning
+**作者**: Yiwei Fang, Yichen Liu, Ze Jin, Haoqiang Wang, Qixu Liu, Luyi Xing
+**类别**: cs.CR
+**发布日期**: 2026-09-09
+**链接**: http://arxiv.org/abs/2609.10537v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Likelihood-free inference with nuisance parameters through normalizing flows
+**作者**: Phil Assheton
+**类别**: stat.ME, cs.LG, stat.ML
+**发布日期**: 2026-09-09
+**链接**: http://arxiv.org/abs/2609.10534v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Guiding Image-to-3D Generation with Test-Time Partial Observations
+**作者**: Jerred Chen, Simon Weber, Ronald Clark
+**类别**: cs.CV
+**发布日期**: 2026-09-09
+**链接**: http://arxiv.org/abs/2609.10531v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### A positive resolution of the gap-entropy conjecture
+**作者**: P. M. Aronow, Nathan Kallus, Patrick Lopatto
+**类别**: cs.LG, stat.ML
+**发布日期**: 2026-09-09
+**链接**: http://arxiv.org/abs/2609.10529v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Characterizing Language Generation in the Limit: Finite Witnesses and a Separation-Width Hierarch
+**作者**: Xiaoyu Li, Andi Han, Jiaojiao Jiang, Junbin Gao
+**类别**: cs.FL, cs.LG
+**发布日期**: 2026-09-09
+**链接**: http://arxiv.org/abs/2609.10525v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Precision in Rice Variety Classification using Stacking-Based Ensemble Learning
+**作者**: Md. Masudul Islam, Galib Muhammad Shahriar Himel, Md. Golam Moazzam, Mohammad Shorif Uddin
+**类别**: cs.CV
+**发布日期**: 2026-09-09
+**链接**: http://arxiv.org/abs/2609.10524v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Show-Harness: Just a VLM Agent Can Play Robots
+**作者**: Yanzhe Chen, Zechen Bai, Zhijun Cao, Wenzheng Zeng, Kevin Qinghong Lin, Yiqi Lin, Guoqiang Liang, Kevin Yuchen Ma, Qiming Huang, Mike Zheng Shou
+**类别**: cs.RO, cs.AI, cs.CV, cs.MM
+**发布日期**: 2026-09-09
+**链接**: http://arxiv.org/abs/2609.10522v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### BrainTaskonomy: Learning How to Pretrain and What to Transfer in fMRI Foundation Models
+**作者**: Junfeng Xia, Wenhao Ye, Junxiang Zhang, Jiayu Zuo, Mo Wang, Quanying Liu
+**类别**: cs.CV, q-bio.NC
+**发布日期**: 2026-09-09
+**链接**: http://arxiv.org/abs/2609.10518v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### PASCAL: A Phase-Aware Shared-Cache Model for Parallel Scans
+**作者**: Zhongchun Zhou, Chengtao Lai, Songtao Mao
+**类别**: cs.PF, cs.AR, cs.DC
+**发布日期**: 2026-09-09
+**链接**: http://arxiv.org/abs/2609.10515v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Optimal Low-Rank Quantum State Tomography with Bounded-Sample Joint Measurements
+**作者**: Ashwin Nayak, Xingyu Zhou
+**类别**: quant-ph, cs.DS, cs.IT, cs.LG
+**发布日期**: 2026-09-09
+**链接**: http://arxiv.org/abs/2609.10514v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Avatar: Toward Autonomous End-to-End Orchestration of Scientific Workflows using LLMs
+**作者**: Suman Raj, Hai Duc Nguyen, Haochen Pan, Ryan Chard, Kyle Chard, Ian Foster
+**类别**: cs.DC, cs.MA
+**发布日期**: 2026-09-09
+**链接**: http://arxiv.org/abs/2609.10509v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### DUET-DINO: Simultaneous Cross-View World Modeling for Latent Planning in Robot Manipulation
+**作者**: Nisarga Nilavadi, Ralf Römer, Moritz Reuss, Michael Krawez, Tobias Jülg, Angela P. Schoellig, Rudolf Lioutikov, Wolfram Burgard
+**类别**: cs.RO, cs.CV
+**发布日期**: 2026-09-09
+**链接**: http://arxiv.org/abs/2609.10506v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Quantum Feature Engineering for Credit Default Prediction: When and Why IQP Circuits Help Linear Classifiers
+**作者**: Menachem Finkelstein, Diana Legziel Levy, Zohar Yakhini, Sarel Cohen
+**类别**: cs.LG, quant-ph
+**发布日期**: 2026-09-09
+**链接**: http://arxiv.org/abs/2609.10505v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
