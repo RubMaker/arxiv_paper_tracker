@@ -140458,3 +140458,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-09-15)
+
+### Corrupt Plans, Clean Traces: Evading Chain-of-Thought Monitoring with Plan Injection
+**作者**: Keertana Chidambaram, Andrew Ilyas, Vasilis Syrgkanis
+**类别**: cs.AI
+**发布日期**: 2026-09-14
+**链接**: http://arxiv.org/abs/2609.15989v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### ResSafe: Learning Safety Filtering with Residual Reinforcement Learning for Humanoids
+**作者**: Gechen Qu, Tong Zhang, Bike Zhang, Yen-Jen Wang, Koushil Sreenath, Claire Tomlin, Jason Jangho Choi
+**类别**: cs.RO
+**发布日期**: 2026-09-14
+**链接**: http://arxiv.org/abs/2609.15988v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Bellman Policy Optimization
+**作者**: Zhuoqing Song, Haotian Xu, Xikun Zhang, Lidong Bing
+**类别**: cs.LG, cs.CL, math.OC
+**发布日期**: 2026-09-14
+**链接**: http://arxiv.org/abs/2609.15987v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Stellar Colosseum: A Many-Agent Harness for Long-Horizon Research in Mathematics and Theoretical Computer Science
+**作者**: Honghao Lin, David P. Woodruff, Yuan Deng, Jieming Mao, Song Zuo, Vahab Mirrokni
+**类别**: cs.AI, cs.CL, cs.LG
+**发布日期**: 2026-09-14
+**链接**: http://arxiv.org/abs/2609.15983v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### The Router Within: Eliciting Native Skill Routing from a Frozen LLM
+**作者**: Ruishuo Chen, Xun Wang, Yu Chen, Zhuoran Li, Longbo Huang
+**类别**: cs.LG, cs.AI, cs.CL
+**发布日期**: 2026-09-14
+**链接**: http://arxiv.org/abs/2609.15982v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### A Chosen Future Can Still Be Rewritten: Causal Writability in Video Models
+**作者**: Xingyun Wang, Haomin Zheng, Man Yuan, Leqian Yang, Ziming Liu
+**类别**: cs.LG, cs.CV
+**发布日期**: 2026-09-14
+**链接**: http://arxiv.org/abs/2609.15980v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### MessyMem: Learning-from-Doing Memory for Mobile Manipulation
+**作者**: Anuva Banwasi, William Muckelroy, Priya Sundaresan, Linfeng Zhao, Jeannette Bohg, Cherie Ho
+**类别**: cs.RO
+**发布日期**: 2026-09-14
+**链接**: http://arxiv.org/abs/2609.15976v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Disentangling Representation Evolution in Transformers through Directional Decomposition
+**作者**: Shwai He, Haichao Zhang, Shen Yan
+**类别**: cs.CL, cs.LG
+**发布日期**: 2026-09-14
+**链接**: http://arxiv.org/abs/2609.15975v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Discovery Foundation Models: Toward Open-Ended Discovery Intelligence
+**作者**: Ling Yang, Zhenfei Yin, Yingcheng Wu
+**类别**: cs.CL
+**发布日期**: 2026-09-14
+**链接**: http://arxiv.org/abs/2609.15973v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Mind2Dialogue: Training Human-Aware Language Models by Simulating User Mental States
+**作者**: Zixuan Wang, Yufan Zhou, Jinzhou Tang, Xinle Yu, Chengjun Wu, Lyumanshan Ye, Zhaoxiang Feng, Letian Peng, Adyasha Patra, Fan Bai, Enze Ma, Zhengding Hu, Jianyang Gu, Zhao Wang, Yufei Ding, Jingbo Shang, Tianmin Shu, Zhiting Hu, Zhen Wang
+**类别**: cs.CL, cs.LG
+**发布日期**: 2026-09-14
+**链接**: http://arxiv.org/abs/2609.15972v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Verifiable by Construction: Claim-Level Evaluation of Verbatim Citation in Clinical Question Answering
+**作者**: Jiashuo Zhang, Yuling Chen, Yvonne Commodore-Mensah, Michael Oberst
+**类别**: cs.CL
+**发布日期**: 2026-09-14
+**链接**: http://arxiv.org/abs/2609.15964v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Adversarial Testing of Automated Program Repair Agents for Security Vulnerabilities
+**作者**: Fares Trad, Simin Chen, Hung Viet Pham, Gias Uddin, Baishakhi Ray
+**类别**: cs.CR, cs.SE
+**发布日期**: 2026-09-14
+**链接**: http://arxiv.org/abs/2609.15963v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Privacy-Aligned Personalized Federated Learning with Compact Adaptation and Variable-Length Gaussian Communication
+**作者**: Yilin Xu, Chun Hei Michael Shiu, Chih Wei Ling, Linqi Song
+**类别**: cs.LG
+**发布日期**: 2026-09-14
+**链接**: http://arxiv.org/abs/2609.15950v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Beyond Single-Axis Testing: Paired Evaluation of Compound Robustness in Vision-Language-Action Policies
+**作者**: Hiroki Sawada, Shunichi Kasahara
+**类别**: cs.RO
+**发布日期**: 2026-09-14
+**链接**: http://arxiv.org/abs/2609.15940v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Vulnerability Localization Benchmark: Measuring Agentic Security Analysis at Repository Scale
+**作者**: Aman Priyanshu, Supriti Vijay, Kimia Majd, Xuhong He, Fraser Burch, Takahiro Matsumoto, Jianliang He, Baturay Saglam, Arthur Goldblatt, Zhuoran Yang, Amin Karbasi
+**类别**: cs.CR, cs.AI
+**发布日期**: 2026-09-14
+**链接**: http://arxiv.org/abs/2609.15939v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
