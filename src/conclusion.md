@@ -140612,3 +140612,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-09-16)
+
+### Agentic Societies Need a Social Harness
+**作者**: Tapan Chugh, Vidushi Singh, Krish Jain, Arvind Krishnamurthy, Ratul Mahajan
+**类别**: cs.MA, cs.AI, cs.NI
+**发布日期**: 2026-09-15
+**链接**: http://arxiv.org/abs/2609.17527v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### You Shall Not Pass into Ring-0! A User Privacy-Friendly Anti-Cheat Architecture for Personal Computers
+**作者**: Santosh Gokul Narayanan, Giovanni Paladino, Chuqi Zhang, Sangho Lee, Zhenkai Liang, Adil Ahmad
+**类别**: cs.CR
+**发布日期**: 2026-09-15
+**链接**: http://arxiv.org/abs/2609.17525v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Modality-Autoregressive World-Action Models
+**作者**: Adam Hung, Bardienus P. Duisterhof, Deva Ramanan, Jeffrey Ichnowski
+**类别**: cs.RO
+**发布日期**: 2026-09-15
+**链接**: http://arxiv.org/abs/2609.17524v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents
+**作者**: Shuhan Xue, Jianyuan Zhong, Ziyuan Nan, Wenbin Li, Zhaochen Yu, Jinchao Ding, Qiang Gao, Pengyu Zhan, Yuntong Zhang, Tian Cheng, Zhenfei Yin, Yingcheng Wu, Ling Yang
+**类别**: cs.AI, cs.CL
+**发布日期**: 2026-09-15
+**链接**: http://arxiv.org/abs/2609.17523v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control
+**作者**: Chuhao Chen, Peter Wonka, Chaoyang Wang, Chen Wang, Qiao Feng, Sergey Tulyakov, Lingjie Liu
+**类别**: cs.CV, cs.AI, cs.GR
+**发布日期**: 2026-09-15
+**链接**: http://arxiv.org/abs/2609.17521v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control
+**作者**: Ali Şenol
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-09-15
+**链接**: http://arxiv.org/abs/2609.17516v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### What Breaks Under Pruning in Smart Homes, and When? Evaluating LLM Degradation Across Architectures and Task Complexity
+**作者**: Congjing Zhang, Vashishtha Patil, Henning Lange, Usman Aleem
+**类别**: cs.CL
+**发布日期**: 2026-09-15
+**链接**: http://arxiv.org/abs/2609.17515v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs
+**作者**: Thanapat Trachu, Samuele Cornell, William Chen, Shinji Watanabe
+**类别**: cs.SD, cs.AI, cs.CL
+**发布日期**: 2026-09-15
+**链接**: http://arxiv.org/abs/2609.17509v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### ENCP: Episode-Normalized Conformal Prediction for Vision-and-Language Navigation
+**作者**: Vicky Feliren, A. Taufiq Asyhari, Muhamad Risqi U. Saputra
+**类别**: cs.LG, cs.AI, cs.RO
+**发布日期**: 2026-09-15
+**链接**: http://arxiv.org/abs/2609.17499v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Verifiable Social Reasoning for LLM Assistants
+**作者**: Amir Taubenfeld, Zorik Gekhman, Avigail Grinstein-Dabush, Itay Laish, Ariel Goldstein, Marian Croak, Avinatan Hassidim, Yossi Matias, Amir Feder
+**类别**: cs.AI, cs.CL
+**发布日期**: 2026-09-15
+**链接**: http://arxiv.org/abs/2609.17496v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### FreqSpaNet: Frequency and Spatial Learning of SFPF for Physical Layer Hardware Integrity Detection
+**作者**: Xiaoxuan Huang, Jinlong Xu, YiZhe Wang, Meng Zhang, Xian Li, Yuying Bian
+**类别**: cs.LG
+**发布日期**: 2026-09-15
+**链接**: http://arxiv.org/abs/2609.17491v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence
+**作者**: Xingxuan Zhang, Gang Ren, Hao Yuan, Hao Zou, Hongze Tan, Hui Wang, Jianhao Song, Jiansheng Li, Jiayao Zhang, Jinghan Zhang, Kaifang Li, Lang Mo, Li Mao, Mingchao Hao, Nuo Xu, Rui Ding, Ruiji Zhang, Shuyang Li, Siyu Mei, Tianyang Zhang, Weiyang Mu, Yancheng Dong, Yongxian Wei, Yuan Xue, Yuanrui Wang, Yue He, Zijia Yang, Ziyun Li, Dongzhe Li, Fuqiang Wang, Jiandong Liu, Jiawei Chen, Jiaxin Du, Kaijie Cheng, Kehan Li, Lei Sun, Linjun Zhou, Ningbo Dai, Qi Wang, Renzhe Xu, Shaoxing Du, Shumeng Yang, Wang Lu, Wenjing Chu, Xiannan Huang, Xiaoyu Lin, Xing Ai, Xinyan Han, Xuanyue Li, Xuanyue Su, Xukun Zhang, Yan Lu, Yaxin Zhang, Yi Qin, Yifei Huang, Yihan Xu, Yongle Lv, Yuanyuan Jiang, Yushan Han, Peng Cui
+**类别**: cs.AI
+**发布日期**: 2026-09-15
+**链接**: http://arxiv.org/abs/2609.17488v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Dissecting Motion-Prior Regularization for Data-Scarce Robotic Insertion
+**作者**: Ning Hu, Shuai Li, Jindong Tan
+**类别**: cs.RO
+**发布日期**: 2026-09-15
+**链接**: http://arxiv.org/abs/2609.17484v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Bridging the Gap Between Homogeneous and Heterogeneous Asynchronous Optimization Is Surprisingly Difficult
+**作者**: Alexander Tyurin
+**类别**: math.OC, cs.LG
+**发布日期**: 2026-09-15
+**链接**: http://arxiv.org/abs/2609.17483v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Det-LIME: Detector-Aware, Multi-Instance Local Interpretable Model-Agnostic Explanations for Automated Marine Mammal Detection
+**作者**: Jiayi Zhou, David W. Johnston, Brinnae Bent
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-09-15
+**链接**: http://arxiv.org/abs/2609.17479v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
