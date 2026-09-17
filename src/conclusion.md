@@ -140766,3 +140766,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-09-17)
+
+### Objective vs. Search: Decomposing What Makes a Good Tokeniser
+**作者**: Ahmetcan Yavuz, Clara Meister, Tiago Pimentel
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-09-16
+**链接**: http://arxiv.org/abs/2609.19145v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### A Zeroth-Order Paradigm for LLM Preference Alignment
+**作者**: Peter Chen, Xi Chen, Wotao Yin, Tianyi Lin
+**类别**: cs.CL, cs.AI, cs.LG
+**发布日期**: 2026-09-16
+**链接**: http://arxiv.org/abs/2609.19144v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection
+**作者**: Sara Pieri, Evangelos Kazakos, Shizhe Chen, Josef Sivic, Cordelia Schmid
+**类别**: cs.CV, cs.CL
+**发布日期**: 2026-09-16
+**链接**: http://arxiv.org/abs/2609.19143v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### PointZero: 3D Point Track Completion for Learning Transferable 3D Dynamics
+**作者**: Bardienus P. Duisterhof, Kaifeng Zhang, Adam Hung, Bowen Wen, Stan Birchfield, Yunzhu Li, Deva Ramanan, Jeffrey Ichnowski
+**类别**: cs.CV, cs.RO
+**发布日期**: 2026-09-16
+**链接**: http://arxiv.org/abs/2609.19142v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### AgentLSD: Evaluating AI Security Agents Under Adversarial Task Contamination
+**作者**: Matteo Golinelli, Idilio Drago, Matteo Boffa, Francesco Bergadano, Bruno Crispo
+**类别**: cs.CR
+**发布日期**: 2026-09-16
+**链接**: http://arxiv.org/abs/2609.19140v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### In-Context Robot Learning with VLM Agents
+**作者**: Dongzhou Cheng, Taoran Yi, Ye Fang, Xingwu Zhang, Fan Feng, Yixuan Li, Gengxiong Zhuang, Rongze Wang, Shuai Yang, Wei Song, Weizhi Xue, Minyan Wu, Jie Gui, Jiaqi Wang, Tong Wu
+**类别**: cs.CV, cs.RO
+**发布日期**: 2026-09-16
+**链接**: http://arxiv.org/abs/2609.19138v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Dreaming the Sound of Contact: Leveraging Video and Audio Generation for Zero-Shot Force-Aware Manipulation and Data Generation
+**作者**: Guanhua Ji, Tianyu Li, Dayoon Suh, Yuqian Zhang, Boyan Zhang, Nadia Figueroa
+**类别**: cs.RO, cs.AI
+**发布日期**: 2026-09-16
+**链接**: http://arxiv.org/abs/2609.19137v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Exponential Hardness of Off-Policy Evaluation under History-Dependent Logging
+**作者**: Pranaya Jajoo
+**类别**: cs.LG
+**发布日期**: 2026-09-16
+**链接**: http://arxiv.org/abs/2609.19135v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments
+**作者**: Hejia Geng, Zesen Huang, Haoyang Li, Wenbin Li, Koutian Wu, Zihan Zhou, Yuanbo Pang, Weihao Liu, Zigong Xu, Zhiping Li, Zongzheng Zhang, Chuanfei Dong, Jiankai Sun, Tianzhe Zheng, Fengyu Xie, Yue Ma, Yueheng Shi, Tong Xie, Zonglin Di, Xianrong Liu, Qucheng Gao, Yimin Liu, Jiaming Pan, Sheng Huang, Xiao-Han Ma, Lanqing Yuan, Zhenlin Zhu, Ziang Liu, Ziyang Xu, Junkai Wang, Kangkai Liang, Jiayi Xian, Zehong Zhao, Liuwei Xu, Jingxu Xie, Peijin Zhang, Qiang Gao, Chengyi Xing, Zhe Zhao, Xi Wang, Yaopeng Xing, Xing Meng, Zhenfei Yin, Yingcheng Wu, Ling Yang
+**类别**: cs.CL, cs.CY
+**发布日期**: 2026-09-16
+**链接**: http://arxiv.org/abs/2609.19134v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Cognitive Extensions for Dual-Process Language Agents: Memory and Self-Reflection in Interactive Environments
+**作者**: João Meneses dos Santos, Arlindo L. Oliveira
+**类别**: cs.AI, cs.LG, cs.MA
+**发布日期**: 2026-09-16
+**链接**: http://arxiv.org/abs/2609.19128v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Affora: A Design System for Agent-Friendly Interfaces
+**作者**: Jin Gao
+**类别**: cs.HC, cs.AI, cs.SE
+**发布日期**: 2026-09-16
+**链接**: http://arxiv.org/abs/2609.19125v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Flag Game: A Toy Model for Mechanistic Swarm Interpretability
+**作者**: Elizabeth Pavlova, Hidenori Tanaka
+**类别**: cs.AI, cond-mat.dis-nn, cond-mat.stat-mech, cs.MA, physics.soc-ph
+**发布日期**: 2026-09-16
+**链接**: http://arxiv.org/abs/2609.19124v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Adaptive Convolutional Sparse Coding via Information Bottleneck for Robust Visual Signal Representation
+**作者**: Meng'en Qin, Yinchen Liu, Mingxuan Cui, Youlu Xing
+**类别**: cs.CV
+**发布日期**: 2026-09-16
+**链接**: http://arxiv.org/abs/2609.19122v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Track, Articulate, Act: Generating Articulation from Casual Human Videos
+**作者**: Jiaming Zhang, Homanga Bharadhwaj
+**类别**: cs.CV
+**发布日期**: 2026-09-16
+**链接**: http://arxiv.org/abs/2609.19119v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Playing log(N)-Questions over Wikipedia Abstracts: Communication Efficiency Between Paired Frontier Models
+**作者**: Peter Potash
+**类别**: cs.CL
+**发布日期**: 2026-09-16
+**链接**: http://arxiv.org/abs/2609.19113v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
