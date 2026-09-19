@@ -141074,3 +141074,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-09-19)
+
+### Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation
+**作者**: Bingxin Xu, Yuzhang Shang, Zhen Dong, Emilio Ferrara
+**类别**: cs.RO, cs.AI, cs.CL, cs.CV
+**发布日期**: 2026-09-17
+**链接**: http://arxiv.org/abs/2609.20822v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Embedding Models Measure in Peculiar Ways
+**作者**: Juri Opitz, Andrianos Michail
+**类别**: cs.CL, cs.LG
+**发布日期**: 2026-09-17
+**链接**: http://arxiv.org/abs/2609.20821v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision
+**作者**: Nitish Dashora, Douglas Chen, Idan Shenfeld, John Marangola, Pulkit Agrawal, Max Simchowitz
+**类别**: cs.RO, cs.AI
+**发布日期**: 2026-09-17
+**链接**: http://arxiv.org/abs/2609.20820v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Can 4D Foundation Models Remember?
+**作者**: Guangzhao He, Hadar Averbuch-Elor, Wei-Chiu Ma
+**类别**: cs.CV
+**发布日期**: 2026-09-17
+**链接**: http://arxiv.org/abs/2609.20819v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos
+**作者**: Peiyu Liu, Dingxi Zhang, Federico Tombari, Marc Pollefeys, Christina Tsalicoglou, Daniel Barath
+**类别**: cs.CV, cs.GR
+**发布日期**: 2026-09-17
+**链接**: http://arxiv.org/abs/2609.20818v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations
+**作者**: Kevin Qu, Tao Sun, Massimiliano Viola, Liyuan Zhu, Zhizhuo Zhou, Sayan Deb Sarkar, Konrad Schindler, Iro Armeni
+**类别**: cs.CV, cs.AI, cs.RO
+**发布日期**: 2026-09-17
+**链接**: http://arxiv.org/abs/2609.20817v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Paint-Anything: Unified Any-Color Control for Image Generation and Editing
+**作者**: Ji Xie, Dewei Zhou, Xinyu Huang, Zhennan Chen, Xun Wang
+**类别**: cs.CV, cs.AI, cs.LG
+**发布日期**: 2026-09-17
+**链接**: http://arxiv.org/abs/2609.20816v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### ERCPMP-Gx: Endoscopic Image and Video Dataset for Morphological, Histopathological, and Genomic Characterization of Colorectal Polyposis
+**作者**: Zahra Ghaffari, Massih Bahar, Mojgan Forootan, Ali Darvishi, Hamidreza Bolhasani
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-09-17
+**链接**: http://arxiv.org/abs/2609.20815v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### How Does Distribution Shift Shape Pretraining Gains in Neural PDE Surrogates?
+**作者**: Pochinapeddi Sai Bhargav, Nithin Somasekharan, Rohit Sunil Kanchi, Sicheng He, Shaowu Pan
+**类别**: physics.comp-ph, cs.LG, physics.flu-dyn
+**发布日期**: 2026-09-17
+**链接**: http://arxiv.org/abs/2609.20814v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Quantifying Overclaiming Propensity in Frontier LLM Agents
+**作者**: Nolan Smyth, Yorguin-Jose Mantilla-Ramos, Pascal Jr Tikeng Notsawo, Saskia Helbling, Alberto Tosato, Mohamed Amine Merzouk, Nouha Dziri, Gauthier Gidel, Tommaso Tosato
+**类别**: cs.SE, cs.AI, cs.LG
+**发布日期**: 2026-09-17
+**链接**: http://arxiv.org/abs/2609.20812v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Unifying Models of Intergroup Hostility in Online Discourse
+**作者**: Patrick Gerard, Julia Mendelsohn, Kristina Lerman
+**类别**: cs.CL, cs.SI
+**发布日期**: 2026-09-17
+**链接**: http://arxiv.org/abs/2609.20808v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Score Centering Stabilizes Off-policy Reinforcement Learning
+**作者**: Martin Marek, Max Ryabinin
+**类别**: cs.LG
+**发布日期**: 2026-09-17
+**链接**: http://arxiv.org/abs/2609.20807v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### An Empirical Study of Harness Design for Coding Agents
+**作者**: Run-Ze Fan, Zihao Zhang, Simin Ma, Yebowen Hu, Shouju Wang, Kaiqiang Song, Fei Liu, Hamed Zamani, Xiaoyang Wang
+**类别**: cs.AI, cs.CL, cs.LG, cs.SE
+**发布日期**: 2026-09-17
+**链接**: http://arxiv.org/abs/2609.20804v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### JEPA-Anything: Learning Predictive Models across Different Worlds
+**作者**: Taoyong Cui, Zhongyao Wang, Xinyue Xu, Weiyang Liu, Zhaochen Yu, Yuying Zhang, Qiang Gao, Mengyue Yang, Wanli Ouyang, Pheng Ann Heng, Yingcheng Wu, Zhenfei Yin, Ling Yang
+**类别**: cs.CL
+**发布日期**: 2026-09-17
+**链接**: http://arxiv.org/abs/2609.20800v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### PosteriorBench: From Point Estimates to Posterior Matching in Evaluating Generative Inverse Solvers
+**作者**: Jiachen Yao, Zi-Siang Hsu, Xi Deng, Aditi Gupta, Xin Ju, Sally M Benson, Gege Wen, Anima Anandkumar
+**类别**: cs.LG, cs.CE
+**发布日期**: 2026-09-17
+**链接**: http://arxiv.org/abs/2609.20794v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
