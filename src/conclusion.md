@@ -141228,3 +141228,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-09-22)
+
+### GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay
+**作者**: Yiran Wang, Xingyilang Yin, Junfu Pu, Guangzhi Wang, Kaifeng Li, Mingyu Ouyang, Huiqiang Sun, Lingen Li, Cheng Cheng, Wangbo Yu, Honghao Chen, Xiaodong Cun, Chi-Man Pun, Zhiguo Cao, Ying Shan
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-09-21
+**链接**: http://arxiv.org/abs/2609.25001v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### VideoGen-Agent: Reinforcing Video Generation Agents
+**作者**: Binxu Li, Haoyi Duan, Yuhui Zhang, Yaohui Zhang, Zihao Lin, Kaituo Feng, Suozhi Huang, Xiangyi Li, Yu Li, Chunyuan Li, Shilong Liu, Mengdi Wang
+**类别**: cs.CV
+**发布日期**: 2026-09-21
+**链接**: http://arxiv.org/abs/2609.24997v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Learning Beyond What Humans Can Demonstrate
+**作者**: Yuchen Song, Aditya Mittal, Unnat Jain
+**类别**: cs.RO
+**发布日期**: 2026-09-21
+**链接**: http://arxiv.org/abs/2609.24996v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### MIGU: Multimodal Instruction Grounding under Uncertainty for Manipulation Planning
+**作者**: Mingke Lu, Anxing Xiao, David Hsu
+**类别**: cs.RO
+**发布日期**: 2026-09-21
+**链接**: http://arxiv.org/abs/2609.24995v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Feedback Coding Enables Inference-Time Covert Agentic Communication
+**作者**: Sidong Guo, Sajani Vithana, Atefeh Gilani, Lalitha Sankar, Oliver Kosut, Flavio P. Calmon
+**类别**: cs.IT, cs.CR
+**发布日期**: 2026-09-21
+**链接**: http://arxiv.org/abs/2609.24994v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Who Pays for the KV Cache? Attributing Shared AI Inference Spend Across Kubernetes and LLM Provider Bills
+**作者**: Timothy Urista
+**类别**: cs.DC, cs.PF
+**发布日期**: 2026-09-21
+**链接**: http://arxiv.org/abs/2609.24991v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Critical-State RL: Diagnosing Trainable States for Multi-Turn Tool Use
+**作者**: Zixiang Chen, Wenting Zhao, Zhepeng Cen, Akshara Prabhakar, Jielin Qiu, Jianguo Zhang, Zhiwei Liu, Tulika Manoj Awalgaonkar, Liangwei Yang, Shelby Heinecke, Silvio Savarese, Huan Wang
+**类别**: cs.LG, cs.CL
+**发布日期**: 2026-09-21
+**链接**: http://arxiv.org/abs/2609.24985v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory
+**作者**: Wangbo Yu, Kunhao Liu, Wenbo Hu, Shenghai Yuan, Chaoran Feng, Haiyang Zhou, Yukun Huang, Yiran Wang, Wang Zhao, Yingmin Luo, Ying Shan
+**类别**: cs.CV, cs.AI, cs.GR
+**发布日期**: 2026-09-21
+**链接**: http://arxiv.org/abs/2609.24984v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction
+**作者**: Lei Yang, Mengyin Liu, Jia Wang, Hangyu Guo, Liang Zhao, Zheng Ge, Kang An, Binxing Jiao, Qi Han, Daxin Jiang, Siqi Shen, Xiangyu Zhang
+**类别**: cs.CL, cs.HC, cs.LG
+**发布日期**: 2026-09-21
+**链接**: http://arxiv.org/abs/2609.24983v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation
+**作者**: Jiahao Lu, Minghao Yin, Wenbo Hu, Hengyu Liu, Wang Zhao, Sai-Kit Yeung, Ying Shan, Yuan Liu
+**类别**: cs.CV
+**发布日期**: 2026-09-21
+**链接**: http://arxiv.org/abs/2609.24981v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Residual Community Prototypes Under-Reject Held-Out Malware Families in FCG-MFD
+**作者**: Junru Zhu, Yixin Yang, Xiaoqing Ding, Ruoyu Qi
+**类别**: cs.CR
+**发布日期**: 2026-09-21
+**链接**: http://arxiv.org/abs/2609.24980v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### LoRA-generating hypernetworks for efficient on-device LLM generative personalization
+**作者**: Sean Augenstein, Li Ding, Jihwan Lee, Keith Rush, Andrey Zhmoginov
+**类别**: cs.LG
+**发布日期**: 2026-09-21
+**链接**: http://arxiv.org/abs/2609.24979v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### DexTacWAM: A Visuo-Tactile World-Action Model for Dexterous Manipulation
+**作者**: Haoran Yuan, Zekai Wang, Boning Shao, Haoran Lu, Trevor Darrell, Ismini Lourentzou, Wei Zhan
+**类别**: cs.RO, cs.AI, cs.CV
+**发布日期**: 2026-09-21
+**链接**: http://arxiv.org/abs/2609.24976v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Harness-Zero: Harness Distillation via Agent-as-Harness
+**作者**: Haoran Ye, Yuxing Lu, Haonan Dong, Zhaochen Su, Guojie Song
+**类别**: cs.AI, cs.CL, cs.NE
+**发布日期**: 2026-09-21
+**链接**: http://arxiv.org/abs/2609.24974v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### RRSI: Regularized Recursive Self-Improvement of Agent Harnesses
+**作者**: Peng Xia, Rujun Han, Zifeng Wang, Yanfei Chen, Yufan Zhang, Yoonho Lee, Chengsong Huang, Han Yu, Zhongying CuiZhu, Yifei Ming, Huaxiu Yao, Burak Gokturk, Tomas Pfister, Chen-Yu Lee
+**类别**: cs.LG, cs.AI, cs.CL
+**发布日期**: 2026-09-21
+**链接**: http://arxiv.org/abs/2609.24972v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
