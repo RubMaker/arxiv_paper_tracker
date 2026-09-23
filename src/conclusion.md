@@ -141382,3 +141382,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-09-23)
+
+### Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs
+**作者**: Quan Nguyen-Tri, Mukul Ranjan, Zhiqiang Shen
+**类别**: cs.CL
+**发布日期**: 2026-09-22
+**链接**: http://arxiv.org/abs/2609.26796v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### φ-RIE: From Photorealistic Reconstruction to Interactive Environments
+**作者**: Runyi Yang, Deheng Zhang, Xiaoye Wang, Kanzhi Wu, Lei Sun, Ajad Chhatkuli, Kunyu Peng, Luc Van Gool, Danda Pani Paudel
+**类别**: cs.RO, cs.CV, cs.GR
+**发布日期**: 2026-09-22
+**链接**: http://arxiv.org/abs/2609.26795v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### HARMONY: Hierarchical Agentic Reasoning for MONocular Image-to-Scene Synthesis
+**作者**: Shufan Sun, Chen Wang, Enxin Song, Jiatao Gu, Lingjie Liu
+**类别**: cs.CV
+**发布日期**: 2026-09-22
+**链接**: http://arxiv.org/abs/2609.26793v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### DreamStream: Towards Policy-Oriented Generative Simulation for End-to-End Driving
+**作者**: Ziyang Leng, Sicheng Mo, Seth Z. Zhao, Haoyuan Cai, Yu Zeng, Rowan McAllister, Bolei Zhou
+**类别**: cs.RO, cs.CV
+**发布日期**: 2026-09-22
+**链接**: http://arxiv.org/abs/2609.26792v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Quantum Advantage for Distributed Symmetry Breaking
+**作者**: Maxime Flin, Longcheng Li, Jukka Suomela
+**类别**: quant-ph, cs.DC
+**发布日期**: 2026-09-22
+**链接**: http://arxiv.org/abs/2609.26788v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### A Decentralized Partially Observable Team Decision Methodology with Delayed Information Sharing
+**作者**: Xiaoxing Ren, Thomas Parisini, Andreas A. Malikopoulos
+**类别**: math.OC, cs.LG, eess.SY, stat.ML
+**发布日期**: 2026-09-22
+**链接**: http://arxiv.org/abs/2609.26783v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Agensh: Scaling Organizational Intelligence to 1,024 Agents
+**作者**: Zhihao Zhan, Ting Song, Li Dong, Shaohan Huang, Jianxun Lian, Yan Xia, Furu Wei
+**类别**: cs.CL, cs.MA
+**发布日期**: 2026-09-22
+**链接**: http://arxiv.org/abs/2609.26781v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue
+**作者**: Haobo Zheng, Tan Tang, Yan Chen, Weijie Wang, Yingcai Wu
+**类别**: cs.CL, cs.AI, cs.IR, cs.LG
+**发布日期**: 2026-09-22
+**链接**: http://arxiv.org/abs/2609.26780v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### CliffCompaction: Cost-Efficient Compaction for Long-Horizon Coding Agents
+**作者**: Trang Nguyen, Eulrang Cho, Bingqing Chen, Tim Dettmers
+**类别**: cs.AI, cs.LG, cs.SE
+**发布日期**: 2026-09-22
+**链接**: http://arxiv.org/abs/2609.26779v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### SWE-Serve: Benchmarking Agentic Engineering For Production Inference Serving
+**作者**: Jennifer Williams, Dave Farris, Jeff Farris, Jiantao Jiao
+**类别**: cs.AI, cs.SE
+**发布日期**: 2026-09-22
+**链接**: http://arxiv.org/abs/2609.26777v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### StableVQ: Practical Guidelines for Stable Vector-Quantized Tokenizer Training
+**作者**: Bao Tang, Jiahao Guo, Haoxiang Cao, Wenyu Liu, Changqian Yu, Kun Gai, Xinggang Wang
+**类别**: cs.CV
+**发布日期**: 2026-09-22
+**链接**: http://arxiv.org/abs/2609.26774v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### TM-APR: Thermal Temporal-Memory Localization via Analytic Online Adaptation
+**作者**: Yanshuo Bai, Kanji Tanaka
+**类别**: cs.RO
+**发布日期**: 2026-09-22
+**链接**: http://arxiv.org/abs/2609.26766v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### SARA: SLO-Aware Resource Allocation for Disaggregated Agentic LLM Services
+**作者**: Shicong Liu, Xianghao Yu, Zhen Gao, Jun Zhang
+**类别**: cs.PF, cs.DC
+**发布日期**: 2026-09-22
+**链接**: http://arxiv.org/abs/2609.26763v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### A2M: Trace-Optimized Agent Hijacking in the MCP Ecosystem
+**作者**: Laizhen Li, Xuan Wang, Peicheng Zhao, Juanjuan Zhao, Kejiang Ye, Cheng-zhong Xu, Xitong Gao
+**类别**: cs.CR, cs.AI
+**发布日期**: 2026-09-22
+**链接**: http://arxiv.org/abs/2609.26761v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Grow the Harness, Not the Context: From Strategy-Free Scaffolds to Reusable Specialist Agents
+**作者**: Laizhen Li, Jiarui Li, Juanjuan Zhao, Kejiang Ye, Ye Li, Cheng-zhong Xu, Xitong Gao
+**类别**: cs.AI, cs.SE
+**发布日期**: 2026-09-22
+**链接**: http://arxiv.org/abs/2609.26760v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
