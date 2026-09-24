@@ -141536,3 +141536,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-09-24)
+
+### On the Diffusibility of High-Dimensional Latents
+**作者**: Chao Feng, Zhiyang Xu, Bowei Chen, Yuanjun Xiong, Xiyao Wang, Jui-Hsien Wang, Richard Zhang, Zhe Lin, Andrew Owens, Yijun Li
+**类别**: cs.CV, cs.LG
+**发布日期**: 2026-09-23
+**链接**: http://arxiv.org/abs/2609.28473v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Contrastive Learning for Authorship Verification
+**作者**: Peter Kirby
+**类别**: cs.CL, cs.LG
+**发布日期**: 2026-09-23
+**链接**: http://arxiv.org/abs/2609.28471v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### StudentBench: AI and human tutoring yield equivalent GRE learning gains
+**作者**: Curtis Northcutt, Inaara Hasmani, Kevin Feng, Trevor Khangi, Andreas Plesner, Jonas Mueller
+**类别**: cs.AI, cs.CY
+**发布日期**: 2026-09-23
+**链接**: http://arxiv.org/abs/2609.28470v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Where Should I Join? Robot Group Joining via Language-Guided Goal Prediction
+**作者**: Zilin Fang, Zishuo Wang, Gim Hee Lee, David Hsu
+**类别**: cs.RO, cs.AI
+**发布日期**: 2026-09-23
+**链接**: http://arxiv.org/abs/2609.28467v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### The Past Frames the Future: Memory for Autoregressive Video Generation
+**作者**: Harold Haodong Chen, Rongjin Guo, Disen Lan, Wen-Jie Shu, Hongfei Zhang, Hanzhe Hu, Shengtao Yao, Zixin Zhang, Guibin Zhang, Zhefan Rao, Jinxiu Liu, Yexin Liu, Rui Peng, Yuhao Liu, Bin Ren, Shuai Yang, Yukang Chen, Salman Khan, Ying-Cong Chen, Ser-Nam Lim, Rynson W. H. Lau, Nicu Sebe, Yu Cheng, Ming-Hsuan Yang, Qifeng Chen
+**类别**: cs.CV
+**发布日期**: 2026-09-23
+**链接**: http://arxiv.org/abs/2609.28466v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Even Sharper Bounds for Transductive Learning and Its Applications
+**作者**: Yingzhen Yang
+**类别**: cs.LG, cs.IT, math.ST
+**发布日期**: 2026-09-23
+**链接**: http://arxiv.org/abs/2609.28459v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Can LLMs Reason About Runtime Behavior? A Repository-Level Dynamic Benchmark
+**作者**: Hamed Taherkhani, Mohammad Abdollahi, Melika Sepidband, Hridya Dhulipala, Tien N. Nguyen, Hadi Hemmati
+**类别**: cs.SE, cs.AI, cs.CL
+**发布日期**: 2026-09-23
+**链接**: http://arxiv.org/abs/2609.28449v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Nonequilibrium Phases of Repulsive Self-Attention: Chaos, Attention Condensation, and Emergent Locality
+**作者**: Qucheng Gao, Zuyi Yang, Xiao Chen
+**类别**: cond-mat.dis-nn, cond-mat.stat-mech, cs.LG
+**发布日期**: 2026-09-23
+**链接**: http://arxiv.org/abs/2609.28448v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Order-Invariant Answers, Order-Sensitive Representations in Mathematical Reasoning
+**作者**: Zhixu Silvia Tao
+**类别**: cs.LG, cs.AI, cs.CL, cs.SC
+**发布日期**: 2026-09-23
+**链接**: http://arxiv.org/abs/2609.28442v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### HaRP: High Dynamic Range Photosequencing through Dual Reversed Shutter Scanning
+**作者**: Xiang Ji, Guixu Lin, Jiancheng Zhao, Zhengwei Yin, Yinqiang Zheng
+**类别**: cs.CV
+**发布日期**: 2026-09-23
+**链接**: http://arxiv.org/abs/2609.28439v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Minimal-Norm Univariate Two-Layer ReLU Classification: Exact Solutions and Global Optimality with Skip Connections
+**作者**: Karolina Drabik, Ben Lewis, Antoni Puch, Etienne Boursier, Piotr Hofman, Matthias Englert, Ranko Lazić
+**类别**: cs.LG
+**发布日期**: 2026-09-23
+**链接**: http://arxiv.org/abs/2609.28438v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### MultiVENT-Raw: A Benchmark for Retrieval and Reasoning over Raw Videos
+**作者**: Reno Kriz, David Etter, Alexander Martin, Cameron Carpenter, Debashish Chakraborty, Hannah Recknor, Reihaneh Iranmanesh, Matthew Maciejewski, Kenton Murray, Eugene Yang, Benjamin Van Durme, Aaron Steven White, Andrew Yates, William Walden
+**类别**: cs.CV, cs.IR
+**发布日期**: 2026-09-23
+**链接**: http://arxiv.org/abs/2609.28437v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Predicting the Progression of Adolescent Idiopathic Scoliosis
+**作者**: Owen Pullen, Amir Jamaludin, Andrew Zisserman
+**类别**: cs.CV, eess.IV
+**发布日期**: 2026-09-23
+**链接**: http://arxiv.org/abs/2609.28434v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### LiMA: Bridging Long-term Imagination to Real-time Dexterous Manipulation via Asynchronous Diffusion
+**作者**: Ning Chen, Yankai Fu, Junkai Zhao, Qianpu Sun, Guocai Yao, Pengwei Wang, Zhongyuan Wang, Shanghang Zhang
+**类别**: cs.RO
+**发布日期**: 2026-09-23
+**链接**: http://arxiv.org/abs/2609.28431v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Cross-Scale Transfer Learning for Depression Severity Prediction: From PHQ-8 to HAMD-17 Across Languages and Clinical Paradigms
+**作者**: Wenjie Feng, Sahba Zojaji, Satoshi Nakamura
+**类别**: cs.CL
+**发布日期**: 2026-09-23
+**链接**: http://arxiv.org/abs/2609.28430v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
