@@ -141690,3 +141690,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-09-25)
+
+### LLM Agents Can Easily Tamper With Their Own Traces
+**作者**: Jeremy Qin, David Schmotz, Derck Prinzhorn, Luca Beurer-Kellner, Ameya Prabhu, Maksym Andriushchenko
+**类别**: cs.CR, cs.AI
+**发布日期**: 2026-09-24
+**链接**: http://arxiv.org/abs/2609.30266v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control
+**作者**: Jiabin Qiu, Zixuan Chen, Hongye Cao, Jieqi Shi, Jing Huo, Yang Gao
+**类别**: cs.AI, cs.RO
+**发布日期**: 2026-09-24
+**链接**: http://arxiv.org/abs/2609.30264v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Temporal Gradient Inversion for Private Trajectory Reconstruction in Embodied Reinforcement Learning
+**作者**: Sudip Bhujel, Shanghao Shi, Ruiquan Huang, Ning Zhang, Yang Xiao
+**类别**: cs.LG
+**发布日期**: 2026-09-24
+**链接**: http://arxiv.org/abs/2609.30258v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Agentic Detection of Online Conspiracies
+**作者**: Lior Biton, Oren Tsur
+**类别**: cs.CL, cs.LG
+**发布日期**: 2026-09-24
+**链接**: http://arxiv.org/abs/2609.30250v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### RAPID: Robot Agentic Programming from Demonstrations
+**作者**: Yuyao Liu, Jiayuan Mao, David Hsu, Leslie Pack Kaelbling, Tomás Lozano-Pérez
+**类别**: cs.RO, cs.AI, cs.CV
+**发布日期**: 2026-09-24
+**链接**: http://arxiv.org/abs/2609.30249v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Rolling-WAM: World Action Models with Rolling Imagination
+**作者**: Yinghua Zhou, Junjie Ye, Yiqi Zhao, Hao Dong, Celina Shiyu Wang, Ruohai Ge, Tingyi Yang, Basile Van Hoorick, Gaurav Sukhatme, Vitor Guizilini, Yue Wang
+**类别**: cs.RO, cs.AI, cs.CV
+**发布日期**: 2026-09-24
+**链接**: http://arxiv.org/abs/2609.30247v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Towards Practical Compression of 3D Gaussian Splatting
+**作者**: Pengpeng Yu, Yueru Chen, Fei Song, Tai Qin, Qi Zhang, Jing Wang, Yulan Guo
+**类别**: cs.CV
+**发布日期**: 2026-09-24
+**链接**: http://arxiv.org/abs/2609.30245v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### JevOut: Natural Context Can Flip Decision Models
+**作者**: Zixiang Xu
+**类别**: cs.CL
+**发布日期**: 2026-09-24
+**链接**: http://arxiv.org/abs/2609.30243v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data
+**作者**: Wenhao Li, Zhibin Wu, Chong Xiao, Qiangchang Wang
+**类别**: cs.CL, cs.CV, cs.MM
+**发布日期**: 2026-09-24
+**链接**: http://arxiv.org/abs/2609.30238v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### OmniFabric: Coherent UV Space Texture Synthesis for 3D Garment Reconstruction
+**作者**: Ding-Jiun Huang, Yuanhao Wang, Cheng Zhang, Hugo Bertiche, Alexandru-Eugen Ichim, Thabo Beeler, Fernando De la Torre
+**类别**: cs.CV
+**发布日期**: 2026-09-24
+**链接**: http://arxiv.org/abs/2609.30234v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Coding Agents for Generalized Task and Motion Planning Problems
+**作者**: Matteo Merler, Bowen Li, Josh Roy, Yichao Liang, Qianwei Wang, Yixuan Huang, Tom Silver
+**类别**: cs.RO, cs.AI
+**发布日期**: 2026-09-24
+**链接**: http://arxiv.org/abs/2609.30233v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### To Trust or Not to Trust: Retrieval-Augmented Fact Checking in Speech
+**作者**: Debajyoti Mazumder, Mamta, Abhirama Subramanyam Penamakuri
+**类别**: cs.LG, cs.AI, cs.CL, cs.SD
+**发布日期**: 2026-09-24
+**链接**: http://arxiv.org/abs/2609.30227v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### PoEM: Predicting RL Outcomes from Existing Policies
+**作者**: Kimia Hamidieh, Giannis Daras, Antonio Torralba
+**类别**: cs.LG, cs.AI, cs.CL, cs.CV
+**发布日期**: 2026-09-24
+**链接**: http://arxiv.org/abs/2609.30226v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### BiCC: Bidirectional Connected-Component Loss for Instance-Aware Segmentation
+**作者**: Luc Bouteille, Frederic Jonske, Jens Kleesiek, Alexander Jaus
+**类别**: cs.CV
+**发布日期**: 2026-09-24
+**链接**: http://arxiv.org/abs/2609.30223v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### TrackEverything: Long Horizon Dense Tracking via De-Duplicating 3D Scene Representations
+**作者**: Ayush Jain, Sreeharsha Paruchuri, Ishita Gupta, Fan Zhang, Tanner Schmidt, Jakob Engel, Katerina Fragkiadaki, Adam W. Harley
+**类别**: cs.CV, cs.AI, cs.RO
+**发布日期**: 2026-09-24
+**链接**: http://arxiv.org/abs/2609.30222v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
