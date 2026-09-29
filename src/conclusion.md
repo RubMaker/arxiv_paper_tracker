@@ -141998,3 +141998,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-09-29)
+
+### FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets
+**作者**: Srinjay Sarkar, Prakhar Kaushik, Soumava Paul, Alan Yuille
+**类别**: cs.CV, cs.AI, cs.GR
+**发布日期**: 2026-09-28
+**链接**: http://arxiv.org/abs/2609.35770v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Telescopic Language Models
+**作者**: Zhilin Guo, Boqiao Zhang, Hakan Aktas, Kyle Fogarty, Nursena Koprucu Aslan, Wenzhao Li, Canberk Baykal, Albert Miao, Siyu Hong, Yixiao Liu, Adam Wu, Ashish Kumar Singh, Sakar Khattar, Chenliang Zhou, Weihao Xia, Cristina Nader Vasconcelos, Cengiz Oztireli
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-09-28
+**链接**: http://arxiv.org/abs/2609.35769v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### PDMD: Projected Distribution Matching Distillation for Video Diffusion Models
+**作者**: Zimo Wang, Junkun Yuan, Angtian Wang, Haotian Yang, Canyu Zhang, Siyuan Yuan, Xingchang Huang, Bo Liu, Yizhi Wang, Yiding Yang, Chongyang Ma, Gordon Guocheng Qian
+**类别**: cs.CV, cs.LG
+**发布日期**: 2026-09-28
+**链接**: http://arxiv.org/abs/2609.35768v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning
+**作者**: Yijia Fan, Ziqi Huang, Zhongang Cai, Yan Li, Zimo Wen, Wanqi Yin, Haiwen Diao, Ziwei Liu
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-09-28
+**链接**: http://arxiv.org/abs/2609.35767v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Retrieving Biblical Intertextual References in Karen Blixen's Seven Gothic Tales
+**作者**: András Kovács, Alexander Conroy, Daniel Hershcovich, Jens Bjerring-Hansen
+**类别**: cs.CL
+**发布日期**: 2026-09-28
+**链接**: http://arxiv.org/abs/2609.35765v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Reliability-Gated Fusion of Consumer Head and Foot IMUs for Lower-Body 3D Pose
+**作者**: Zhilin Guo, Boqiao Zhang, Oszkár Urbán, Josef Bengtson, Hakan Aktas, Wenzhao Li, Siyu Hong, Kyle Fogarty, Chenliang Zhou, Ali Senguel, Cengiz Oztireli
+**类别**: cs.CV, cs.HC
+**发布日期**: 2026-09-28
+**链接**: http://arxiv.org/abs/2609.35764v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Unifying Distributional Training for One-Step Visual Generation
+**作者**: Chi Zhang, Haoyang Shi, Yueyi Liu, Ruichuan An, Junkang Zhou, Chang Li, Xiuyuan Lu, Yichi Zhang, Bo Wang, Yuhang Wu, Sen Cui, Miao Liu
+**类别**: cs.LG
+**发布日期**: 2026-09-28
+**链接**: http://arxiv.org/abs/2609.35763v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### DexRoam: Learning Mobile Bimanual Dexterous Manipulation from Egocentric Whole-Body Human Demonstrations
+**作者**: Rui Zhou, Yibo Yuan, Junkai Zhao, Fangyuan Zhao, Xiaoguang Zhao, Shanghang Zhang, Sirui Han
+**类别**: cs.RO
+**发布日期**: 2026-09-28
+**链接**: http://arxiv.org/abs/2609.35761v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Scaling Long-Form Story Generation via Narrative State Tracking
+**作者**: Zhennan Wan, Jianfei Chen
+**类别**: cs.CL
+**发布日期**: 2026-09-28
+**链接**: http://arxiv.org/abs/2609.35759v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### TokenCast: Forecasting Token Consumption During LLM Agent Execution
+**作者**: Chaoqian Ouyang, Ling Yue, Libin Zheng, Huanghui Guo, Shengxiang Xu, YiShu Wang, Ran Li, Jian Yin, Shaowu Pan, Shimin Di
+**类别**: cs.LG, cs.AI, cs.SE
+**发布日期**: 2026-09-28
+**链接**: http://arxiv.org/abs/2609.35760v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Statistical Learning of Contractive Dynamical Representations for Composite Adaptive Control
+**作者**: Min Kim, José Leonardo Brenes, Fred Hadaegh, Soon-Jo Chung
+**类别**: eess.SY, cs.LG, cs.RO
+**发布日期**: 2026-09-28
+**链接**: http://arxiv.org/abs/2609.35758v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Neural Harmonic Measure Operator
+**作者**: Jinjin He, Sinan Wang, Yuchen Sun, Bo Zhu
+**类别**: cs.LG, math.NA
+**发布日期**: 2026-09-28
+**链接**: http://arxiv.org/abs/2609.35752v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### How to Loop MoE: Flatten the Experts, Untie the Attention
+**作者**: Shouren Wang, Chuang Ma, Mohsen Hariri, Debargha Ganguly, Wang Yang, Xiaoqing Tong, Qianying Liu, Xiaotian Han, Vipin Chaudhary
+**类别**: cs.LG, cs.AI, cs.CL
+**发布日期**: 2026-09-28
+**链接**: http://arxiv.org/abs/2609.35751v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### KV-streams for Efficient Compaction in Agentic Reinforcement Learning
+**作者**: Emiliano Penaloza, Dane Malenfant, Dheeraj Vattikonda, Roger Creus Castanyer, Siddarth Venkatraman, Abhay Puri, Jonathan Light, Matthew James Sargent, Augustine N. Mavor-Parker, Massimo Caccia, Lucas Caccia, Glen Berseth, Esmeralda S. Whitammer, Alessandro Sordoni, Minseon Kim, Marc-Alexandre Côté, Laurent Charlin, Guillaume Lajoie
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-09-28
+**链接**: http://arxiv.org/abs/2609.35750v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Towards Communication-Efficient Social Intelligence in Language Agents
+**作者**: Linxiao Gong, Yijie Xu, Tianfu Wang, Yin Wu, Yili Wang, Xingbo Yao, Huizai Yao, Xilin Xia, Haowen Yang, Hui Xiong
+**类别**: cs.CL
+**发布日期**: 2026-09-28
+**链接**: http://arxiv.org/abs/2609.35749v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
