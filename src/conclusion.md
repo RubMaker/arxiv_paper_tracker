@@ -142152,3 +142152,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-09-30)
+
+### Point2Part: Unified 3D Partitioning from Point Prompts
+**作者**: Hao-Tang Tsui, Yu-Rou Tuan, Xiaoxuan Ma, Nicolas Ugrinovic, Takaaki Shiratori, Kris Kitani
+**类别**: cs.CV
+**发布日期**: 2026-09-29
+**链接**: http://arxiv.org/abs/2609.38180v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Skill-Space Shooting for Autonomous Robot Policy Improvement
+**作者**: Zihang Rui, Renhao Wang, Haoxu Huang, Yang Gao
+**类别**: cs.RO, cs.AI, cs.LG
+**发布日期**: 2026-09-29
+**链接**: http://arxiv.org/abs/2609.38178v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering
+**作者**: Jaewoo Jung, Hyeonseo Yu, Honggyu An, Jisang Han, Mungyeom Kim, Minkyeong Jeon, Heeseong Shin, Wonjun Moon, Federico Tombari, Daniel Barath, Marc Pollefeys, Seungryong Kim, Sunghwan Hong
+**类别**: cs.CV, cs.CL
+**发布日期**: 2026-09-29
+**链接**: http://arxiv.org/abs/2609.38177v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Breakdown of Local Denoising as Semantic Speciation
+**作者**: Guangkuo Liu, Mert Okyay, Yifan F. Zhang, Fangjun Hu, Rahul Nandkishore, Xun Gao
+**类别**: cs.LG, cond-mat.dis-nn, cond-mat.stat-mech
+**发布日期**: 2026-09-29
+**链接**: http://arxiv.org/abs/2609.38176v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### In-context Robot Learning Made Simple: A Democratized Recipe for Manipulation Tasks
+**作者**: Minxing Li, Minghao Han, Weizhi Zhao, Hanwen Wang, Xiangshuo Liu, Shuyao Shang, Jingxiang Zhou, Mingchao Sun, Hongyu Pan, Mu Xu, Yu Liu, Lue Fan, Zhaoxiang Zhang
+**类别**: cs.RO
+**发布日期**: 2026-09-29
+**链接**: http://arxiv.org/abs/2609.38173v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation
+**作者**: Zihan Wang, Zhen Wu, Pieter Abbeel, Rocky Duan, Jitendra Malik, Carmelo Sferrazza, C. Karen Liu, Guanya Shi, Angjoo Kanazawa
+**类别**: cs.RO, cs.CV, cs.GR
+**发布日期**: 2026-09-29
+**链接**: http://arxiv.org/abs/2609.38172v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Adversarial Training for Pixel Diffusion
+**作者**: Xin Lin, Zhifei Zhang, Yuqian Zhou, Haitian Zheng, Zhe Lin, Ming-Hsuan Yang, Truong Nguyen
+**类别**: cs.CV
+**发布日期**: 2026-09-29
+**链接**: http://arxiv.org/abs/2609.38170v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization
+**作者**: Bingchen Yao, Haobo Xu, Haokun Lin, Yichen Wu, Ziyu Guo, Renrui Zhang, Zhichao Lu, Zhenan Sun, Ying Wei
+**类别**: cs.CL, cs.AI, cs.LG
+**发布日期**: 2026-09-29
+**链接**: http://arxiv.org/abs/2609.38169v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization
+**作者**: Yi Pan, Haocheng Xi, Kan Zhu, Xingyang Li, Yibo Wu, Mayank Mishra, Hongtao Zhang, William X. Zheng, Baris Kasikci, Song Han, Kurt Keutzer, Rishabh Iyer, Ion Stoica
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-09-29
+**链接**: http://arxiv.org/abs/2609.38166v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Cropland PAtteRNS: Parallel Dimensional Attention Networks and Attention to Dataset Disparity for Crop Segmentation in Satellite Imagery Time Series Data
+**作者**: Joseph Metcalfe, Sara Sharifzadeh, Fabio Caraffini
+**类别**: cs.CV, cs.LG
+**发布日期**: 2026-09-29
+**链接**: http://arxiv.org/abs/2609.38165v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Rho: A Foundation for Efficiently Adaptable VLA Models
+**作者**: Rho Team, Simran Bagaria, Daphne Chen, Dean Fortier, Jianlong Fu, Michael Harrison, Tess Hellebrekers, Neel Joshi, Andrey Kolobov, Dalton Moore, Galen Mullins, Michael Murray, Eduardo Salinas, Reuben Tan
+**类别**: cs.RO
+**发布日期**: 2026-09-29
+**链接**: http://arxiv.org/abs/2609.38164v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Rethinking Representations for World-Action Modeling
+**作者**: Haoyi Jiang, Liu Liu, Xinjiang Wang, Zhihao Sun, Zequn Chen, Sen Wang, Xinjie Wang, Xia Chen, Jingfeng Yao, Weiheng Zhao, Shanglin Yuan, Zhizhong Su, Wei Sui, Wenyu Liu, Xinggang Wang
+**类别**: cs.CV, cs.RO
+**发布日期**: 2026-09-29
+**链接**: http://arxiv.org/abs/2609.38163v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### A Spectral Theory of Distortion in LLM Graph Reconstruction: Sharp Bounds and Empirical Characterization
+**作者**: Jianru Shen
+**类别**: cs.LG, cs.DM
+**发布日期**: 2026-09-29
+**链接**: http://arxiv.org/abs/2609.38161v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### EmoRES-TTS: Residual-Enhanced Vector Steering for Emotional Speech Generation
+**作者**: Kuan-Po Huang, Haohe Liu, Puyuan Peng, Haibin Wu, Zhaoheng Ni, Hung-yi Lee, Jinwon Lee, Neha Chachra
+**类别**: cs.SD, cs.CL, eess.AS
+**发布日期**: 2026-09-29
+**链接**: http://arxiv.org/abs/2609.38157v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### DMA$^2$: Pixel-space Distribution Matching with Adversarial and Anchor Losses
+**作者**: Xin Lin, Zhifei Zhang, Yuqian Zhou, Haitian Zheng, Shaoteng Liu, Lehan Yang, Zhe Lin, Ming-Hsuan Yang, Truong Nguyen
+**类别**: cs.CV
+**发布日期**: 2026-09-29
+**链接**: http://arxiv.org/abs/2609.38156v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
