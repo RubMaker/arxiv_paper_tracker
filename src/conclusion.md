@@ -142306,3 +142306,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-10-01)
+
+### Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces
+**作者**: Hongyuan Tao, Xinggang Wang, Lianghui Zhu, Yongkang Li, Yunchao Wei, Bin Feng, Shaoyu Chen, Qian Zhang, Chang Huang, Kai Yu
+**类别**: cs.CV
+**发布日期**: 2026-09-30
+**链接**: http://arxiv.org/abs/2609.40362v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis
+**作者**: Tian Xia, Minghao Liu, Yiqing Liang, Laixi Shi, Jiayun Wang
+**类别**: cs.LG, cs.CL, cs.CV
+**发布日期**: 2026-09-30
+**链接**: http://arxiv.org/abs/2609.40361v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Semifactual Credit-Augmented Policy Optimization
+**作者**: Junshu Pan, Zhizhang Fu, Shulin Huang, Yiran Ding, Zifan Cheng, Wenqi Shao, Qiaosheng Zhang, Yue Zhang
+**类别**: cs.LG, cs.AI, cs.CL
+**发布日期**: 2026-09-30
+**链接**: http://arxiv.org/abs/2609.40360v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text
+**作者**: Dulhan Jayalath, Oiwi Parker Jones
+**类别**: cs.LG, q-bio.NC
+**发布日期**: 2026-09-30
+**链接**: http://arxiv.org/abs/2609.40359v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model
+**作者**: Liming Lu, Xianzheng Ma, Wenkun He, Guanqi Zhan, Yilin Zhao, Junyu Chen, Mengyao Xu, Jiaojiao Fan, Wenhang Ge, Yuchao Gu, Yunze Liu, Boyi Li, Zhen Dong, Victor Prisacariu, Ming-Yu Liu, Song Han, Han Cai
+**类别**: cs.CV
+**发布日期**: 2026-09-30
+**链接**: http://arxiv.org/abs/2609.40358v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing
+**作者**: Xinghao Chen, Xiangbo Gao, Jiongze Yu, Yuheng Wu, Zhengzhong Tu
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-09-30
+**链接**: http://arxiv.org/abs/2609.40356v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### AssemblyWorld: Rethinking 3D Assembly with General-Purpose Agents
+**作者**: Jiahao Zhang, Yeying Fan, Moitreya Chatterjee, Suhas Lohit, Bernhard Egger, Tim K. Marks, Anoop Cherian, Stephen Gould
+**类别**: cs.CV, cs.RO
+**发布日期**: 2026-09-30
+**链接**: http://arxiv.org/abs/2609.40353v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### On The Simplest Quantum-Secure Block Cipher
+**作者**: Gorjan Alagic, Joseph Carolan, Christian Majenz, Saliha Tokat
+**类别**: quant-ph, cs.CR
+**发布日期**: 2026-09-30
+**链接**: http://arxiv.org/abs/2609.40350v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Image Classifiers are Efficient Self-Supervised Video Representation Learners
+**作者**: Owais Iqbal, Sudipta Sarkar, Shyam Marjit, Omprakash Chakraborty, Anirban Chakraborty, Abir Das
+**类别**: cs.CV, cs.LG
+**发布日期**: 2026-09-30
+**链接**: http://arxiv.org/abs/2609.40347v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Ego4WAM: What Matters When Scaling Egocentric Human Data for Robot Learning?
+**作者**: Zhihao Sun, Liu Liu, Xinjiang Wang, Haoyi Jiang, Wei Feng, Huiqiang Zhang, Xiaosong Jia, Zhizhong Su, Zuxuan Wu
+**类别**: cs.RO, cs.CV
+**发布日期**: 2026-09-30
+**链接**: http://arxiv.org/abs/2609.40341v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery
+**作者**: Young-Jun Lee, Jinheon Baek, Soyeong Jeong, Minki Kang, Seungyeon Jwa, Jonghyun Choi, Seungho Han, Dongyeop Kang
+**类别**: cs.CL
+**发布日期**: 2026-09-30
+**链接**: http://arxiv.org/abs/2609.40340v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Local Relaxation Hierarchies for Quantum Ground State Energies: Convergence Guarantees and Message Passing Algorithms
+**作者**: Sheng-Ku Lin, Ricardo Rivera Cardoso, Roberto Bondesan
+**类别**: quant-ph, cs.DC
+**发布日期**: 2026-09-30
+**链接**: http://arxiv.org/abs/2609.40336v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Is Weight Tying Still Beneficial for Decoder-Only LLMs in Private Settings Under DP-SGD?
+**作者**: Razan El Mais, Ali Chehab, Ibrahim Issa, Razane Tajeddine
+**类别**: cs.LG
+**发布日期**: 2026-09-30
+**链接**: http://arxiv.org/abs/2609.40335v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### I Have a Stream: Making Self-Supervised Learning Work on Continuous Video
+**作者**: Ivan Martinović, Lukas Knobel, Yuki M. Asano
+**类别**: cs.CV
+**发布日期**: 2026-09-30
+**链接**: http://arxiv.org/abs/2609.40333v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Turbo Harness: Instance-Adaptive Harness Optimization
+**作者**: Tunyu Zhang, Hao Wang, Kai Xu, Dimitris N. Metaxas
+**类别**: cs.AI
+**发布日期**: 2026-09-30
+**链接**: http://arxiv.org/abs/2609.40330v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
