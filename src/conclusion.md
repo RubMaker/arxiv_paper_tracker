@@ -142460,3 +142460,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-10-02)
+
+### Moore, Escher, Penrose: A Conformal Golden Braid
+**作者**: Sophia Feldman, Assaf Shocher
+**类别**: cs.CV
+**发布日期**: 2026-10-01
+**链接**: http://arxiv.org/abs/2610.02210v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Sphere Encoder 2
+**作者**: Kaiyu Yue, Sean McLeish, Ruchit Rawal, Brian Bartoldson, Menglin Jia, Tom Goldstein
+**类别**: cs.CV
+**发布日期**: 2026-10-01
+**链接**: http://arxiv.org/abs/2610.02208v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars
+**作者**: Ramazan Fazylov, Stamatis Lefkimmiatis, Ivan Laptev
+**类别**: cs.CV, cs.AI, cs.HC, cs.LG
+**发布日期**: 2026-10-01
+**链接**: http://arxiv.org/abs/2610.02207v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards
+**作者**: Pengfei Li, Naufal Suryanto, Sicheng Zhang, Muzammal Naseer
+**类别**: cs.CL, cs.AI, cs.CR
+**发布日期**: 2026-10-01
+**链接**: http://arxiv.org/abs/2610.02206v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### ROWBench: Do Video Models Render What the Program Specifies?
+**作者**: Zheng-Hui Huang, Guixu Lin, Yu-Ju Tsai, Jian-Kai Zhu, Fengbo Lan, Yu-Lun Liu, Yung-Yu Chuang, Kaipeng Zhang, Zhixiang Wang
+**类别**: cs.CV
+**发布日期**: 2026-10-01
+**链接**: http://arxiv.org/abs/2610.02205v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents
+**作者**: Yen-Jen Wang, Haozhe Jiang, Shuying Deng, Haoru Xue, Weirui Ye, Rocky Duan, Nika Haghtalab, S. Shankar Sastry, Pieter Abbeel, Haozhi Qi
+**类别**: cs.RO, cs.AI, eess.SY
+**发布日期**: 2026-10-01
+**链接**: http://arxiv.org/abs/2610.02204v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Embedding Prediction Helps Image Generation
+**作者**: Sihan Xu, Ji Xie, Zilin Wang, Hui Shen, Stella X. Yu
+**类别**: cs.CV, cs.LG
+**发布日期**: 2026-10-01
+**链接**: http://arxiv.org/abs/2610.02203v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research
+**作者**: Sohyeon Kim, Yoonho Lee, Bo Liu, Dayoon Ko, Rulin Shao, Seungone Kim, Graham Neubig, Pang Wei Koh, Aakanksha Chowdhery, Akari Asai, Omar Khattab, Yejin Choi, Gunhee Kim, Chelsea Finn
+**类别**: cs.AI, cs.CL, cs.IR
+**发布日期**: 2026-10-01
+**链接**: http://arxiv.org/abs/2610.02202v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation
+**作者**: Tianjiao Yu, Xinzhuo Li, Yifan Shen, Ying Shen, Kiet A. Nguyen, Adheesh Sunil Juvekar, Ismini Lourentzou
+**类别**: cs.CV, cs.AI, cs.LG
+**发布日期**: 2026-10-01
+**链接**: http://arxiv.org/abs/2610.02201v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### VISTA: A Visual Harness for Reasoning in an Interactive World
+**作者**: Qiushi Han, Keya Hu, Linlu Qiu, Cathy Wu, Kaiming He
+**类别**: cs.AI, cs.CV
+**发布日期**: 2026-10-01
+**链接**: http://arxiv.org/abs/2610.02200v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### TACO: Ternary Absolute-max Column-wise One-sparse Optimizer for LLM Fine-Tuning
+**作者**: Jichao Jiang, Cristian McGee, El Houcine Bergou, Hanqin Cai, Aritra Dutta
+**类别**: cs.LG, math.OC
+**发布日期**: 2026-10-01
+**链接**: http://arxiv.org/abs/2610.02199v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### FERPO: Forward Entropy-Regularized Policy Optimization
+**作者**: Sebastian Sanokowski, Alireza Sarmadi, Majid Khadiv
+**类别**: cs.LG, cs.AI, cs.RO, stat.ML
+**发布日期**: 2026-10-01
+**链接**: http://arxiv.org/abs/2610.02198v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### HiPhy: Hierarchical Alignment for Physically-Plausible Multi-Principle Video Generation
+**作者**: Tahira Kazimi, Shubhankar Borse, Munawar Hayat, Fatih Porikli, Pinar Yanardag
+**类别**: cs.CV
+**发布日期**: 2026-10-01
+**链接**: http://arxiv.org/abs/2610.02197v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### InterEvolve: Test-Time Evolution of Reward Programs for Humanoid Loco-Manipulation
+**作者**: Zhuo Lin, Sirui Xu, Liuyu Bian, Yu-Xiong Wang, Liang-Yan Gui
+**类别**: cs.RO, cs.CV, cs.GR
+**发布日期**: 2026-10-01
+**链接**: http://arxiv.org/abs/2610.02196v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Cost-augmented Schrödinger bridges on graphs are exactly solvable: a Feynman-Kac tilt replaces learned control
+**作者**: Akshay Balsubramani
+**类别**: cs.LG
+**发布日期**: 2026-10-01
+**链接**: http://arxiv.org/abs/2610.02195v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
