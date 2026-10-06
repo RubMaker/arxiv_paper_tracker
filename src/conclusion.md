@@ -142768,3 +142768,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-10-06)
+
+### One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline
+**作者**: Shih-Chen Tseng, Chih-Hsuan Chen, Ryan Yang, Hsi-An Chen, Chun-Wei Tuan Mu, Yu-Lun Liu
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-10-05
+**链接**: http://arxiv.org/abs/2610.06852v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Base Models Can Reason By Taking a Cue From Training Data
+**作者**: Sophie L. Wang, Amil Dravid, Rulin Shao, Kevin Farhat, Sewon Min, Alexei A. Efros
+**类别**: cs.LG, cs.AI, cs.CL
+**发布日期**: 2026-10-05
+**链接**: http://arxiv.org/abs/2610.06851v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation
+**作者**: Yucheng Zhang, Sirui Xu, Jinhong Li, Liuyu Bian, Anatulya Nandi, Derek Zhang, Xiangchen Liu, Xueting Li, Umar Iqbal, Yu-Xiong Wang, Liang-Yan Gui
+**类别**: cs.RO, cs.CV, cs.GR
+**发布日期**: 2026-10-05
+**链接**: http://arxiv.org/abs/2610.06850v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### TranScope: What the Software Hides About LLM Training Data, the Hardware Reveals at Scale, and Accelerators Magnify
+**作者**: Joshua Kalyanapu, Darsh Asher, Kaushal Mhapsekar, Bita Aslrousta, Rushiraj Chaitanyakumar Sheth, Maharshi Mukeshkumar Oza, Achyuta Kannan, Samira Mirbagher Ajorpaz
+**类别**: cs.CR
+**发布日期**: 2026-10-05
+**链接**: http://arxiv.org/abs/2610.06848v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generation
+**作者**: Jeffrey Hu, Daniel Olmeda Reino, Ayush Tewari
+**类别**: cs.CV
+**发布日期**: 2026-10-05
+**链接**: http://arxiv.org/abs/2610.06847v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance
+**作者**: Haojin Deng, Zhiping Lin, Yimin Yang
+**类别**: cs.AI
+**发布日期**: 2026-10-05
+**链接**: http://arxiv.org/abs/2610.06846v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Learning to Read the Contextual Tokens in Diffusion Transformers
+**作者**: Omer Dahary, Etai Sella, Hadar Averbuch-Elor, Daniel Cohen-Or, Or Patashnik
+**类别**: cs.CV, cs.AI, cs.GR, cs.LG
+**发布日期**: 2026-10-05
+**链接**: http://arxiv.org/abs/2610.06844v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Recursive Video In-Context Learning for Agentic Robot
+**作者**: Wenrui Bao, Xinxin Liu, Bingxin Xu, Yuzhang Shang
+**类别**: cs.RO, cs.AI, cs.CL, cs.MA
+**发布日期**: 2026-10-05
+**链接**: http://arxiv.org/abs/2610.06843v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Anatomy-aware Fine-grained Multimodal Fusion for Laryngopharyngeal Cancer T-Staging Prediction Using CT and Radiology Report
+**作者**: Xingyue Zhao, Yanzhou Su, Fang Zhang, Zhanghexuan Ji, Yirui Wang, Dazhou Guo, Sibo Ju, Yuehua Cheng, Yuzhen Chen, Ming Feng, Le Lu, Tsung-Ying Ho, Jian Wang, Dakai Jin, Na Shen
+**类别**: cs.CV
+**发布日期**: 2026-10-05
+**链接**: http://arxiv.org/abs/2610.06837v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Direct Intermediate Initialization for Tilted Diffusion Samplers
+**作者**: Gregory D. Bellchambers
+**类别**: stat.ML, cs.LG
+**发布日期**: 2026-10-05
+**链接**: http://arxiv.org/abs/2610.06834v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Towards Looped Models Done Right, Part II: Rethinking at Fixed Points
+**作者**: Benhao Huang, Chufan Shi, Junlin Chen, Shicheng Wen, Zhengzhong Liu, Eric Xing, Xuezhe Ma
+**类别**: cs.LG
+**发布日期**: 2026-10-05
+**链接**: http://arxiv.org/abs/2610.06833v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### UniSlider: Perceptually Uniform Sliders for Continuous Image Editing
+**作者**: David Serrano-Lozano, Duygu Ceylan, Yannick Hold-Geoffroy, Iliyan Georgiev, Javier Vazquez-Corral, Anna Frühstück
+**类别**: cs.CV, cs.AI, cs.GR
+**发布日期**: 2026-10-05
+**链接**: http://arxiv.org/abs/2610.06831v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents
+**作者**: Haozhen Zhang, Haodong Yue, Quanyu Long, Jianzhu Bao, Qingyuan Liu, Tao Feng, Bohan Liu, Weida Liang, Wenya Wang
+**类别**: cs.CL, cs.AI, cs.LG
+**发布日期**: 2026-10-05
+**链接**: http://arxiv.org/abs/2610.06830v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling
+**作者**: Yifan Zhang, Yutong Dai, Viraj Prabhu, Zhiyuan Hu, Ran Xu, Zeyuan Chen
+**类别**: cs.CL, cs.AI, cs.LG
+**发布日期**: 2026-10-05
+**链接**: http://arxiv.org/abs/2610.06829v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### PlotGround: Grounding Plot Digitization in Real Scientific Figures and Their Source Data
+**作者**: Yaohui Zhang, Binxu Li, Haoyi Duan, Jiacheng Miao, Yixin Wang, Xinran Du, Chenyue Li, Shilong Liu, Kevin Wu, James Zou
+**类别**: cs.CL, cs.CV
+**发布日期**: 2026-10-05
+**链接**: http://arxiv.org/abs/2610.06825v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
