@@ -142922,3 +142922,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-10-07)
+
+### World Models' Last Exam in Physics
+**作者**: Mingju Gao, Qingle Liu, Yuzhao Peng, Xinjie Lin, Ziming Qin, Zheng Jiang, Wenyi Li, Calvin Xiao, Youjie Zheng, Kaisen Yang, Qinhuai Na
+**类别**: cs.CV
+**发布日期**: 2026-10-06
+**链接**: http://arxiv.org/abs/2610.08791v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Building Rome from a Single Image
+**作者**: Jiraphon Yenphraphai, Fang Li, Tianshuo Xu, Depu Meng, Quentin Herau, Yihan Hu, Raymond A. Yeh, Wei Zhan
+**类别**: cs.CV
+**发布日期**: 2026-10-06
+**链接**: http://arxiv.org/abs/2610.08790v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### QF3: Fast Flow RL with Filtered Q-Gradients
+**作者**: Chung Min Kim, Brent Yi, David McAllister, Hongsuk Choi, Himanshu Gaurav Singh, Jinkun Cao, Ken Goldberg, Pieter Abbeel, Carmelo Sferrazza, Angjoo Kanazawa
+**类别**: cs.RO, cs.LG
+**发布日期**: 2026-10-06
+**链接**: http://arxiv.org/abs/2610.08789v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Conformal Prediction Sets Quantify Information Gain: A Theoretical Perspective
+**作者**: Kevin Zhang, Stephen Bates
+**类别**: cs.LG
+**发布日期**: 2026-10-06
+**链接**: http://arxiv.org/abs/2610.08785v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### PEARS: Physical-Prior-Guided Efficient Adaptation via Failure Reasoning and Diffusion Steering for Tactile Manipulation
+**作者**: Kun Song, Yiming Wang, Yilin Chen, Tianyi Ding, Jiaxin Tian, Tianqi Gong, Daolin Ma, Jia Pan
+**类别**: cs.RO
+**发布日期**: 2026-10-06
+**链接**: http://arxiv.org/abs/2610.08784v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### 4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction
+**作者**: Shiqi Li, Sean Cho, Yijie Li, Fengzhi Guo, Bowen Wen, Cheng Zhang
+**类别**: cs.CV, cs.AI, cs.GR
+**发布日期**: 2026-10-06
+**链接**: http://arxiv.org/abs/2610.08782v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas
+**作者**: Ziyu Chen, Yilun Zhao, Jiashuo Sun, Yiling Ma, Manasi Patwardhan, Arman Cohan
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-10-06
+**链接**: http://arxiv.org/abs/2610.08781v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### DepthWorld: 3D World Model for Robot Manipulation
+**作者**: Jai Bardhan, Josef Sivic, Vladimir Petrik
+**类别**: cs.RO, cs.AI, cs.CV
+**发布日期**: 2026-10-06
+**链接**: http://arxiv.org/abs/2610.08780v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### ALIVE: Interaction-Aligned Object Insertion for First-Frame-Guided Video Editing
+**作者**: Zhenghong Zhou, Zhe Lin, Jiebo Luo, Yuqian Zhou
+**类别**: cs.CV
+**发布日期**: 2026-10-06
+**链接**: http://arxiv.org/abs/2610.08779v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Sherpa: Teaching LLMs to Teach Adaptively
+**作者**: Weixian Xu, Yanzhe Zhang, Zora Zhiruo Wang, Changyu Chen, Diyi Yang
+**类别**: cs.AI, cs.CL
+**发布日期**: 2026-10-06
+**链接**: http://arxiv.org/abs/2610.08778v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### CtrlCache: Accelerating Interactive Video World Models with Control-Aware Caching
+**作者**: Shangye Song, Dong Gong, Hong Jia, Yun Sing Koh, Xinyu Zhang
+**类别**: cs.CV
+**发布日期**: 2026-10-06
+**链接**: http://arxiv.org/abs/2610.08777v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Agent in a Bottle: Can LLM Agents Turn Their Capabilities Into Cheap, Scalable Artifacts?
+**作者**: Ankit Sonthalia, Haritz Puerto, Alexander Rubinstein, Martin Gubri, Seong Joon Oh
+**类别**: cs.AI
+**发布日期**: 2026-10-06
+**链接**: http://arxiv.org/abs/2610.08775v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### AdvSim2Real : Training Web Agents Against Adaptive Prompt Injection in a Web World Model
+**作者**: Sarim Hashmi, Mukul Ranjan, Kshitij Mishra, Mikhail Kuznetsov, Praneeth Vepakomma, Nils Lukas
+**类别**: cs.CL, cs.AI, cs.LG
+**发布日期**: 2026-10-06
+**链接**: http://arxiv.org/abs/2610.08773v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Backend-Agnostic Sparse Attention for Fast High-Resolution Visual Generation
+**作者**: Liao Ma, Jiayi Song, Yunfeng Wu, Songhua Liu, Peilin Zhao
+**类别**: cs.CV
+**发布日期**: 2026-10-06
+**链接**: http://arxiv.org/abs/2610.08772v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Mission-Aware Attestation Envelopes for Time-Critical Autonomous Action: A Hardware-in-the-Loop V2I Study
+**作者**: Dimitrios Nikou, Nikolaos Kekatos, Sophia Petridou, Stylianos Basagiannis
+**类别**: cs.CR, cs.RO, eess.SY
+**发布日期**: 2026-10-06
+**链接**: http://arxiv.org/abs/2610.08771v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
