@@ -143076,3 +143076,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-10-09)
+
+### Tetris3D: 3D Scene Generation With Objects That Fit Together
+**作者**: Jaeyeong Kim, Jinhyuk Jang, Jongmin Lee, Kyehong Park, Seungryong Kim
+**类别**: cs.CV
+**发布日期**: 2026-10-07
+**链接**: http://arxiv.org/abs/2610.10539v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos
+**作者**: Shravan Chaudhari, William Paul, Suchi Saria, Rama Chellappa, Homanga Bharadhwaj
+**类别**: cs.CV, cs.AI, cs.RO
+**发布日期**: 2026-10-07
+**链接**: http://arxiv.org/abs/2610.10538v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Decoupling Exploration from Optimization in RLVR
+**作者**: Saif Punjwani, Micah Goldblum
+**类别**: cs.LG, cs.AI, cs.CL
+**发布日期**: 2026-10-07
+**链接**: http://arxiv.org/abs/2610.10536v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### RoboPrompt: Intuitive Robot Policy Steering with Sparse Human Input
+**作者**: Yanwen Zou, Chenyang Shi, Guoxuan Xu, Wenye Yu, Wendi Chen, Ye Pan, Cewu Lu, Chuan Wen
+**类别**: cs.RO
+**发布日期**: 2026-10-07
+**链接**: http://arxiv.org/abs/2610.10534v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory
+**作者**: Hongru Cai, Ran Wei, Wenjie Wang, Chengfa Wu, Ning Song, Yongqi Li, Wenjie Li
+**类别**: cs.CL
+**发布日期**: 2026-10-07
+**链接**: http://arxiv.org/abs/2610.10533v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Long-WAM: Scaling the Context of World-Action Models
+**作者**: Wei Huang, Bohan Zhang, Chenzhi Liu, Isabella Liu, Shuai Yang, Weian Mao, Luozhou Wang, Yicheng Xiao, Weifeng Lin, Qixin Hu, Bryan Chu, Sifei Liu, Linxi Fan, Xiaojuan Qi, Song Han, Yukang Chen
+**类别**: cs.RO, cs.AI, cs.CV
+**发布日期**: 2026-10-07
+**链接**: http://arxiv.org/abs/2610.10528v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping
+**作者**: Aleksandar Armacki, Haoyuan Cai, Ali H. Sayed
+**类别**: math.OC, cs.LG, cs.MA
+**发布日期**: 2026-10-07
+**链接**: http://arxiv.org/abs/2610.10527v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models
+**作者**: Mikey Watts, Yuchen Cui
+**类别**: cs.RO, cs.CL, cs.LG
+**发布日期**: 2026-10-07
+**链接**: http://arxiv.org/abs/2610.10526v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### GRACE: Generation-aware latent compression for efficient video generation
+**作者**: Jiyoung Kim, Paul Hyunbin Cho, Jisu Nam, Donghoon Lee, Hyunsung Go, Yeonkyeong Lee, Hansaem Kim, Seungryong Kim
+**类别**: cs.CV
+**发布日期**: 2026-10-07
+**链接**: http://arxiv.org/abs/2610.10524v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Distilling Graph Geometry: Knowledge Gap from GNNs to MLPs
+**作者**: Zhewei Chen, Hao Zhu, Jiaojiao Jiang, Ahad N. Zehmakan
+**类别**: cs.LG
+**发布日期**: 2026-10-07
+**链接**: http://arxiv.org/abs/2610.10520v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Why Forget-Only Unlearning Needs Memorization
+**作者**: Luka Radić, Vikrant Singhal, Amartya Sanyal
+**类别**: cs.LG, cs.IT, stat.ML
+**发布日期**: 2026-10-07
+**链接**: http://arxiv.org/abs/2610.10519v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### RoboJEPA: Scaling Robotic Latent World Models
+**作者**: Artem Zholus, Nicolas Beltran-Velez, Jianhao Yuan, Sarath Chandar, Tushar Nagarajan, Daniel Severo, Koustuv Sinha, Michal Drozdzal, Adriana Romero Soriano, Jeannette Bohg, Nicolas Ballas, Mahmoud Assran
+**类别**: cs.AI, cs.RO
+**发布日期**: 2026-10-07
+**链接**: http://arxiv.org/abs/2610.10515v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### SciExam for ENSO: Can AI Agents Build Climate Models?
+**作者**: Yinling Zhang, Langchen Liu, Dongbin Xiu, Xueyan Zou, Xu Kuang, Mengdi Wang, Shilong Liu
+**类别**: cs.AI, cs.LG, physics.ao-ph
+**发布日期**: 2026-10-07
+**链接**: http://arxiv.org/abs/2610.10513v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Video-Conditioned Generative Joint 2D-3D Hand Motion Recovery
+**作者**: Chen Xu, Yunqi Li, Binbin Huang, Brent Yi, Shenghua Gao, Yi Ma
+**类别**: cs.CV
+**发布日期**: 2026-10-07
+**链接**: http://arxiv.org/abs/2610.10512v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Factorized Tactile Representation and Control for Sim-to-Real Manipulation
+**作者**: Siqi Shang, Bianca Aumann, Tye Brady, Joshua Migdal, Taskin Padir
+**类别**: cs.RO
+**发布日期**: 2026-10-07
+**链接**: http://arxiv.org/abs/2610.10510v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
