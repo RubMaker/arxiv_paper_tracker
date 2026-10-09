@@ -143230,3 +143230,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-10-09)
+
+### Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration
+**作者**: Jusuk Lee, Sungha Kim, Yeonsoo Park, Jonguk Cheon, Yoonkyo Jung, Yongjun You, H. Jin Kim, Jia-Bin Huang, Furong Huang, Youngseok Jang, Seungjae Lee
+**类别**: cs.RO, cs.CV
+**发布日期**: 2026-10-08
+**链接**: http://arxiv.org/abs/2610.12470v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Rubric-CEPR: Self-Evolving Image Editing via Reward-Verified Self-Distillation
+**作者**: Ritesh Thawkar, Shubham Patle, Shravan Venkatraman, Rao Muhammad Anwer
+**类别**: cs.CV
+**发布日期**: 2026-10-08
+**链接**: http://arxiv.org/abs/2610.12469v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training
+**作者**: Junyan Li, Ruizhi Li, Yu Liu, Xiangshuo Liu, Mingchao Sun, Hongyu Pan, Mu Xu, Lue Fan, Zhaoxiang Zhang
+**类别**: cs.RO, cs.CV
+**发布日期**: 2026-10-08
+**链接**: http://arxiv.org/abs/2610.12468v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### CSF: Contextual Safety Filtering for Motion Generators
+**作者**: Lizhi Yang, Yiling Hou, Yao Tang, Junheng Li, Daniel Weng, Blake Werner, Aaron D. Ames
+**类别**: cs.RO, cs.LG
+**发布日期**: 2026-10-08
+**链接**: http://arxiv.org/abs/2610.12467v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### On the estimation and validity of AI time horizons---a statistical look at the METR plot
+**作者**: Drew T. Nguyen, William Fithian
+**类别**: cs.AI
+**发布日期**: 2026-10-08
+**链接**: http://arxiv.org/abs/2610.12466v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control
+**作者**: Octi Zhang, Mateo Guaman Castro, Patrick Yin, Ignacio Dagnino, Abhishek Gupta, Rosario Scalise, Byron Boots
+**类别**: cs.RO, cs.LG
+**发布日期**: 2026-10-08
+**链接**: http://arxiv.org/abs/2610.12465v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents
+**作者**: Abbas Raftari
+**类别**: cs.CR, cs.AI
+**发布日期**: 2026-10-08
+**链接**: http://arxiv.org/abs/2610.12463v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### What 30,000 Hours of Ego-centric Video Does Not Teach
+**作者**: Jiahua Dong, Anurag Bagchi, Yash Jangir, Muhammad Zubair Irshad, Sergey Zakharov, Martial Hebert, Homanga Bharadhwaj, Yu-Xiong Wang, Vitor Campagnolo Guizilini, Pavel Tokmakov
+**类别**: cs.CV
+**发布日期**: 2026-10-08
+**链接**: http://arxiv.org/abs/2610.12464v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs
+**作者**: You-Zhe Xie, Ting-Wei Chou, Yu-Hsuan Li, Kaipeng Zhang, Zhixiang Wang, Yu-Lun Liu
+**类别**: cs.CV, cs.GR
+**发布日期**: 2026-10-08
+**链接**: http://arxiv.org/abs/2610.12461v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### WorldGuide: Goal-Directed Video World Model for Procedural Task Execution
+**作者**: Ankan Deria, Komal Kumar, Hisham Cholakkal, Fahad Shahbaz Khan, Salman Khan
+**类别**: cs.CV
+**发布日期**: 2026-10-08
+**链接**: http://arxiv.org/abs/2610.12459v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning
+**作者**: Zhongyu Yang, Jiale Tao, Ruitao Chen, Zuhao Yang, Yingfang Yuan, Xueliang Zhao, Auden, Kai Wang, Shuai Shao, Biao Wang, Steve Yves, Qinglin Lu
+**类别**: cs.CV
+**发布日期**: 2026-10-08
+**链接**: http://arxiv.org/abs/2610.12458v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### SpatialHarness: Test-Time Spatial Scaffolding for Fine Robotic Manipulation
+**作者**: Jiayu Wang, Yue Yu, Bin Zhu, Zhiyao Yang, Jingjing Chen
+**类别**: cs.RO
+**发布日期**: 2026-10-08
+**链接**: http://arxiv.org/abs/2610.12457v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Hybrid Cinematography: Previsualizing and Managing Hallucination Risk in Generative Video Reshooting
+**作者**: Nhan, Tran, Neal Wadhwa, Abe Davis, Stefan Stojanov
+**类别**: cs.HC, cs.CV
+**发布日期**: 2026-10-08
+**链接**: http://arxiv.org/abs/2610.12455v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### BrickBench: Evaluating Agentic Brick Design
+**作者**: Peter Kulits, Yiqing Xu, R. Kenny Jones, Cordelia Schmid, Jiajun Wu
+**类别**: cs.AI, cs.CV, cs.GR
+**发布日期**: 2026-10-08
+**链接**: http://arxiv.org/abs/2610.12452v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### VersaCamVLA: Camera-Configurable VLA Policies for Robotic Manipulation
+**作者**: Boyao Han, Chen Shi, Jingjing Qian, ZhuoTan Tian, Li Jiang
+**类别**: cs.CV, cs.RO
+**发布日期**: 2026-10-08
+**链接**: http://arxiv.org/abs/2610.12451v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
