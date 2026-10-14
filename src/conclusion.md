@@ -143538,3 +143538,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-10-14)
+
+### ChunkAct: Action Chunking for Agentic Robotics
+**作者**: Bingxin Xu, Wenrui Bao, Xinxin Liu, Jiawei Zhou, Yuzhang Shang, Emilio Ferrara
+**类别**: cs.RO, cs.AI, cs.CL, cs.CV
+**发布日期**: 2026-10-13
+**链接**: http://arxiv.org/abs/2610.18874v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### LoopWAM: Closed-Loop Generalist Policy Improvement from Deployment Rollouts
+**作者**: Wenxuan Guo, Yingping Liang, Zhaoguo Wang, Ziyuan Li, Angyuan Ma, Zhenyu Wu, Chengkun Wang, Bingyao Yu, Ze Chen, Borui Zhang, Xiuwei Xu, Meng Zhang, Erjin Zhou, Jiwen Lu
+**类别**: cs.RO, cs.CV
+**发布日期**: 2026-10-13
+**链接**: http://arxiv.org/abs/2610.18873v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### EgoExplorer: A Vision-Motion-Touch Observatory for Human Loco-Manipulation In Situ
+**作者**: Yunsong Zhou, Xuekun Jiang, Haiqi Shen, Hangxu Liu, Chaojian Shi, Yujie Liu, Jingyuan Li, Haoran Yang, Jiafei Cao, Dongzhan Zhou, Dong Wang, Yao Mu, Chunhua Shen, Weinan Zhang
+**类别**: cs.RO, cs.CV
+**发布日期**: 2026-10-13
+**链接**: http://arxiv.org/abs/2610.18872v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Dog-Breed Text-to-image Flow Matching from Pretraining to Fine-Tuning on 4 Consumer GPUs
+**作者**: Reyhaneh Esmailizadeh, Xingjian Leng, Zhanhao Liang, Liang Zheng
+**类别**: cs.CV
+**发布日期**: 2026-10-13
+**链接**: http://arxiv.org/abs/2610.18870v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Cepheid: Decoupling Scale from Structure for Cross-Family Motion Completion
+**作者**: Chih-Hai Su, Tsung-Wei Ke, Yu-Lun Liu
+**类别**: cs.CV, cs.GR, cs.LG
+**发布日期**: 2026-10-13
+**链接**: http://arxiv.org/abs/2610.18871v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study
+**作者**: Mingxuan Yan, Litian Gong, Dihong Huang, Zhixu Li, Tianyu Zhang, Wenqian Zhang, Hefeifei Jiang, Peihao Li, Jian Zhang, Mengfei Zhao, Yikai Tang, Hai Zhai, Zehao Wang, Ruijian Liang, Yanjia Huang, Lin Shao, Changliu Liu, Kaiyu Hang, Zhiwen Fan, Masayoshi Tomizuka, Jianfei Yang, Jiachen Li
+**类别**: cs.RO, cs.AI, cs.LG
+**发布日期**: 2026-10-13
+**链接**: http://arxiv.org/abs/2610.18869v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards
+**作者**: Wenbo Hu, Shraman Pramanick, Krishna Kumar Singh, Nanyun Peng, Kai-Wei Chang, Yong Jae Lee
+**类别**: cs.CL, cs.AI, cs.CV, cs.LG
+**发布日期**: 2026-10-13
+**链接**: http://arxiv.org/abs/2610.18868v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### EmbodiedEvo: Self-improving Coding Agents for Physical Intelligence
+**作者**: Wenyi Li, Yizhe Chi, Youjie Zheng, Chunyu Liu, Xiaoqiu Wang, Mingju Gao, Zheng Jiang, Deyao Hong, Calvin Xiao, Kaisen Yang, Qinhuai Na
+**类别**: cs.RO
+**发布日期**: 2026-10-13
+**链接**: http://arxiv.org/abs/2610.18867v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### PLAYGROUND: Progressive Layout Generation with Render-Grounded Planning
+**作者**: Jaeho Lee, Junhwan Heo, Junghyun Park, WonJun Moon, Eunju Yang, Seungho Jang, Seongchan Kim, Seungryong Kim
+**类别**: cs.CV
+**发布日期**: 2026-10-13
+**链接**: http://arxiv.org/abs/2610.18865v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### AutoAgent0: An Agentic Runtime for Safe Closed-Loop Driving
+**作者**: Jiageng Liu, Seth Z. Zhao, Zewei Zhou, Alejandro Huerta, Aidan Bayer-Calvert, Yuxin Bao, Haotian Lin, Robert Spataru, Zijun Cui, Yining Hong, Bolei Zhou, Jiaqi Ma
+**类别**: cs.RO
+**发布日期**: 2026-10-13
+**链接**: http://arxiv.org/abs/2610.18866v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Data Free Training of Diffusion Models for Lattice Field Theories
+**作者**: Dennis Grinwald, Ankur Singha, Khaled Kahouli, Karl Jansen, Shinichi Nakajima
+**类别**: hep-lat, cs.LG
+**发布日期**: 2026-10-13
+**链接**: http://arxiv.org/abs/2610.18863v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning
+**作者**: Minghao Luo, Liang Chen
+**类别**: cs.CL, cs.AI, cs.LG
+**发布日期**: 2026-10-13
+**链接**: http://arxiv.org/abs/2610.18862v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### AesCode: Aesthetic Code Generation with Decoupled Cross-Modal Rewards
+**作者**: Xin Gao, Yifan Yang, Xin Li, Pan Wang, Yan Li, Muzhao Tian, Mingxi Cheng, Bei Liu, Kai Qiu, Qi Dai, Dong Chen, Yue Dong, Leandros Tassiulas, Rex Ying, Ji Li, Chong Luo
+**类别**: cs.AI
+**发布日期**: 2026-10-13
+**链接**: http://arxiv.org/abs/2610.18860v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Hybrid Reasoning Agents
+**作者**: Jiaru Zou, Yunzhe Qi, Sirui Chen, Federico Bianchi, Shang Zhu, Pan Lu, Jingrui He, James Zou
+**类别**: cs.CL, cs.AI, cs.LG
+**发布日期**: 2026-10-13
+**链接**: http://arxiv.org/abs/2610.18861v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Visual Tokens on Demand: Visual Budgeting for Scalable and Efficient Multi-Image Reasoning in Multimodal LLMs
+**作者**: Aimon Rahman, Joymallya Chakraborty, Vidit Bansal, Abhishek Dan
+**类别**: cs.CV
+**发布日期**: 2026-10-13
+**链接**: http://arxiv.org/abs/2610.18858v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
