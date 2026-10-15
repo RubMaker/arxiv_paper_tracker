@@ -143692,3 +143692,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-10-15)
+
+### Can Learning to Answer Spatial Questions Improve Novel-View Generation?
+**作者**: Jahyeok Koo, Hyeonseo Yu, Seungho Jang, Jaewoo Jung, Jiwon Kang, Seokju Cho, Seungryong Kim
+**类别**: cs.CV
+**发布日期**: 2026-10-14
+**链接**: http://arxiv.org/abs/2610.20610v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving
+**作者**: Shaoyuan Xie, Zihan Zhang, Jingxuan Wang, Jiashu Qu, Xiaoqing Liang, Lingdong Kong, Junchi Lu, Henrik I. Christensen, Qi Alfred Chen
+**类别**: cs.RO
+**发布日期**: 2026-10-14
+**链接**: http://arxiv.org/abs/2610.20609v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion
+**作者**: Huixuan Cheng, Bike Zhang, Shankar Sastry, Koushil Sreenath
+**类别**: cs.RO, cs.AI, cs.LG
+**发布日期**: 2026-10-14
+**链接**: http://arxiv.org/abs/2610.20606v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Representation Conditioning for Generation
+**作者**: Saeed Razavi, Xingjian Leng, Liang Zheng
+**类别**: cs.CV
+**发布日期**: 2026-10-14
+**链接**: http://arxiv.org/abs/2610.20608v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance
+**作者**: Zhefei Gong, Hefeifei Jiang, Zehao Wang, Jiachen Li
+**类别**: cs.RO, cs.AI, cs.LG
+**发布日期**: 2026-10-14
+**链接**: http://arxiv.org/abs/2610.20607v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### VITAL: From Visual Motion to Precise Action
+**作者**: Ao Liang, Youquan Liu, Mingxiao Li, Wei Chow, Lingdong Kong, Yue Liao, Dongyue Lu, Yu Yang, Wei Yin, Runnan Chen
+**类别**: cs.CV
+**发布日期**: 2026-10-14
+**链接**: http://arxiv.org/abs/2610.20604v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### CommerceGen-Studio: An End-to-End Framework for Commercial-Grade Main-Image Generation
+**作者**: Xiaoli Xu, Zhengtao Wu, Zhengze Xu, Tao Liu, Yongchao Du, Zuan Gao, Xingjian Wang, Hao Yan, Mengting Chen, Wei Li, Bo Zheng
+**类别**: cs.CV
+**发布日期**: 2026-10-14
+**链接**: http://arxiv.org/abs/2610.20603v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### DynThinker: Unifying Static 3D and Dynamic 4D Spatial Reasoning
+**作者**: Qihang Cao, Haoyuan Li, Zihan Guo, Sensen Gao, Zihui Gao, Huixin Zhang, Fan He, Jianhua Han, Hang Xu, Xiaodan Liang, Jia-Wang Bian
+**类别**: cs.CV
+**发布日期**: 2026-10-14
+**链接**: http://arxiv.org/abs/2610.20598v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Co-Evolving Acting and Forecasting for Language Agents
+**作者**: Haofei Yu, Yixing Chen, Yining Zhao, Xuyan Ye, Yuxiang Liu, Zhigang Hua, Yan Xie, Shuang Yang, Jiaxuan You
+**类别**: cs.AI, cs.LG
+**发布日期**: 2026-10-14
+**链接**: http://arxiv.org/abs/2610.20597v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### CoWear: Towards Collaborative Wearable Inertial Localization with Multiple Smart Devices
+**作者**: Zhuoyuan She, Zhanpeng Zhang, Yapeng Chen, Jiale Wang, Xin Xie, Ming Xia
+**类别**: cs.RO
+**发布日期**: 2026-10-14
+**链接**: http://arxiv.org/abs/2610.20596v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### GeoThinker-$F$: Endogenous Predictive World Representations for Fast Spatial Intelligence
+**作者**: Haoyuan Li, Qihang Cao, Huanyuan Zhou, Xin Hu, Sijia Chen, Zihan Guo, Kun Xiang, Yunshuang Nie, Tao Tang, Xinlong Zheng, Jia-Wang Bian, Xianming Liu, Xiaodan Liang
+**类别**: cs.CV
+**发布日期**: 2026-10-14
+**链接**: http://arxiv.org/abs/2610.20592v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Feed-Forward Multi-View Feature Coding for 3D Gaussian Splatting
+**作者**: Seungmi Choi, Ji-Hyoun Choi, Suhyun Jo, Tae-Gwon Park, Hui Yong Kim
+**类别**: cs.CV
+**发布日期**: 2026-10-14
+**链接**: http://arxiv.org/abs/2610.20590v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Your Transformer Is Secretly Elastic
+**作者**: Walter Simoncini, Dheeraj Varghese, Gertjan J. Burghouts, Cees G. M. Snoek
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-10-14
+**链接**: http://arxiv.org/abs/2610.20588v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Price of Anarchy of First-Price Auctions in Agentic Markets
+**作者**: Shubhendu Trivedi, Jacob Eisenstein, Alekh Agarwal, Ian Gemp, Michael Kaisers, Adam Fisch
+**类别**: cs.GT, cs.AI, cs.LG
+**发布日期**: 2026-10-14
+**链接**: http://arxiv.org/abs/2610.20587v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Continuum Attention
+**作者**: Afshin Khadangi
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-10-14
+**链接**: http://arxiv.org/abs/2610.20586v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
