@@ -143846,3 +143846,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-10-16)
+
+### LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation
+**作者**: Zhixu Li, Keqian Tang, Litian Gong, Jingyu Yao, Wenqian Zhang, Tianze Xu, Zehao Wang, Yuping Wang, Junge Zhang, Jiachen Li
+**类别**: cs.RO, cs.AI, cs.LG
+**发布日期**: 2026-10-15
+**链接**: http://arxiv.org/abs/2610.22372v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Gen4P: Video Generators are 4D Perceivers
+**作者**: Yitong Xia, Zeren Jiang, Chuanxia Zheng
+**类别**: cs.CV
+**发布日期**: 2026-10-15
+**链接**: http://arxiv.org/abs/2610.22371v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Which Tokens to Merge? Diffusion Dynamics for Efficient Image Generation
+**作者**: SeungJu Cha, Ye-Chan Kim, HyunGee Kim, Sungho Koh, Dong-Jin Kim
+**类别**: cs.CV
+**发布日期**: 2026-10-15
+**链接**: http://arxiv.org/abs/2610.22370v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### SoftCache: Adaptive Step Size Caching for Diffusion Transformers
+**作者**: Shimon Malnick, Nadav Orenstein, Ohad Fried, Shai Avidan
+**类别**: cs.CV
+**发布日期**: 2026-10-15
+**链接**: http://arxiv.org/abs/2610.22369v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Value as Memory: Online Value-Guided Post-training for General Robot Policies
+**作者**: Wenye Yu, Yijin Chen, Kaiyi Xiong, Wenbo Han, Wendi Chen, Yang Jin, Han Xue, Jun Lv, Cewu Lu, Chuan Wen
+**类别**: cs.RO
+**发布日期**: 2026-10-15
+**链接**: http://arxiv.org/abs/2610.22368v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Discovering state-of-the-art quantum circuits with large language models
+**作者**: Andi Gu, Alek H. Kemeny, Susanne F. Yelin, Mikhail D. Lukin
+**类别**: quant-ph, cs.AI
+**发布日期**: 2026-10-15
+**链接**: http://arxiv.org/abs/2610.22367v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### T2-z: Test-Time Optimization of Environment Latents for Robotic World Models
+**作者**: Chenyuan Zhou, Yining Hong, Huang Huang, Yunfan Jiang, Wenlong Huang, David Held, Vitor Campagnolo Guizilini, Yue Wang, Li Fei-Fei, Jiajun Wu, Leonidas Guibas, Yejin Choi
+**类别**: cs.RO, cs.AI, cs.CV
+**发布日期**: 2026-10-15
+**链接**: http://arxiv.org/abs/2610.22364v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Perceive, Predict, and Plan: a Unified World Action Model for Egocentric Dexterous Manipulation
+**作者**: Zirui Wu, Chen Guo, Tianjian Jiang, Zeren Jiang, Zeming Li, Lingchen Yang, Longteng Duan, Ying Xue, Handi Yin, Shenyuan Gao, Martin R. Oswald, Jun Zhang, Ping Tan, Jie Song
+**类别**: cs.CV, cs.RO
+**发布日期**: 2026-10-15
+**链接**: http://arxiv.org/abs/2610.22363v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### CoDA: Co-Evolution of Data Engines and Action Policies
+**作者**: Tianjiao Yu, Zhilin Ou, Yifan Shen, Xinzhuo Li, Yuanzhe Liu, Onkar Kishor Susladkar, Fan Wang, Ismini Lourentzou
+**类别**: cs.RO, cs.AI
+**发布日期**: 2026-10-15
+**链接**: http://arxiv.org/abs/2610.22362v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Grounding Generative Verification in 3D Content
+**作者**: Shuanglin Li, Jiaying Lin, Shuquan Ye
+**类别**: cs.CV
+**发布日期**: 2026-10-15
+**链接**: http://arxiv.org/abs/2610.22360v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### PathFM: Fast Generative Forecasting of Multivariate Trajectories
+**作者**: Jiachen Yao, Xiyuan Zhang, Annan Yu, Boran Han, Abdul Fatir Ansari, Shuai Zhang, Michael Bohlke-Schneider, Bernie Wang
+**类别**: cs.LG
+**发布日期**: 2026-10-15
+**链接**: http://arxiv.org/abs/2610.22358v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### DK-VLM: Geometry as Position for Spatial Reasoning in Vision-Language Models
+**作者**: Han Su, Meng Tian, Tianyu Huang, Mingyu Gao, Lennox Wei, Dongxu Li, Jianhua Han, Hang Xu, Xiaohe Wu, Wangmeng Zuo
+**类别**: cs.CV
+**发布日期**: 2026-10-15
+**链接**: http://arxiv.org/abs/2610.22356v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### OmniVerifier-C1: Decomposed Graded Verifier for Rule-Governed Generative World Modeling
+**作者**: Bowei Liu, Xinchen Zhang, Xuhuan Li, Tianlin Zhang, Kaian Jiang, Jingwei Liu, Congyang Zhao, Yifei Qian, Junhong Liu, Zhiheng Li, Yujiu Yang, Yang Cai, Ling Yang
+**类别**: cs.CL
+**发布日期**: 2026-10-15
+**链接**: http://arxiv.org/abs/2610.22355v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Rethinking Routing Exploration in Modern Mixture-of-Experts
+**作者**: Bingcong Li, Hao Ma, Michael Muehlebach, Niao He, Yi Ma
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-10-15
+**链接**: http://arxiv.org/abs/2610.22353v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### SUPRA-TEX: 3D Generation with Super-Aligned Texture
+**作者**: Chen Yang, Jiemin Fang, Fanpeng Meng, Zihao Huang, Jichen Pang, Guanjun Wu, Zhikuan Bao, Qi Tian
+**类别**: cs.CV, cs.GR
+**发布日期**: 2026-10-15
+**链接**: http://arxiv.org/abs/2610.22352v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
