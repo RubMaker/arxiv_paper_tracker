@@ -144154,3 +144154,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-10-20)
+
+### Text-to-Image Generative Modeling Without Language Pretraining
+**作者**: Keshigeyan Chandrasegaran, Yue Zhao, Armin W. Thomas, Ehsan Adeli, Jiajun Wu, Juan Carlos Niebles, Li Fei-Fei, Michael Poli
+**类别**: cs.LG, cs.CV
+**发布日期**: 2026-10-19
+**链接**: http://arxiv.org/abs/2610.26863v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory
+**作者**: Yu Zhou, Cheng-Fu Yang, Rui Sun, Di Wu, Sibo Peng, Mingyang Zhang, Zhen Yang, Ruiyi Zhang, Nanyun Peng, Zhe Gan, Kai-Wei Chang
+**类别**: cs.CL, cs.AI, cs.CV, cs.LG, cs.MM
+**发布日期**: 2026-10-19
+**链接**: http://arxiv.org/abs/2610.26860v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Can It Actually Work? Synthesizing Functional CAD Mechanisms
+**作者**: Wenqian Zhang, Yangyi Huang, Zigeng Xu, Weiyang Liu, Zhen Liu
+**类别**: cs.CV, cs.CL, cs.GR
+**发布日期**: 2026-10-19
+**链接**: http://arxiv.org/abs/2610.26861v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Reinforcement Learning with Visually Attributable On-Policy Self-Distillation
+**作者**: Shiao Xie, Siyu Chen, Jianwei Lv, Xiandong Li, Yujin Wang
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-10-19
+**链接**: http://arxiv.org/abs/2610.26856v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### VideoMaMa++: Temporally Consistent Video Matting via Preserve-and-Refine Token
+**作者**: Sangbeom Lim, Seoung Wug Oh, Heeji Yoon, Seungryong Kim, Joon-Young Lee
+**类别**: cs.CV
+**发布日期**: 2026-10-19
+**链接**: http://arxiv.org/abs/2610.26857v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience
+**作者**: Tianqi Liu, Hanfei Zhao, Qifeng Liang, Hui En Pang, Jiarui Xu, Sayang Mu, Penghao Qiu, YingSheng Zhang, Jun Wang, Ziang Cao, Mingze Sun, Yukang Cao, Fangzhou Hong, Zhaoxi Chen, Ziwei Liu
+**类别**: cs.CV, cs.RO
+**发布日期**: 2026-10-19
+**链接**: http://arxiv.org/abs/2610.26855v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Physical Words: A Vocabulary for Structuring Latent Reasoning in Robot Manipulation
+**作者**: Jiaming Liu, Xinghao Zhu, Yiming Zhang, Shanghang Zhang, Yinxi Wang, Yichu Yang, Zhuoyang Liu, Dantong Niu, Soha Pouya, Juekun Li, Yan Chang
+**类别**: cs.RO
+**发布日期**: 2026-10-19
+**链接**: http://arxiv.org/abs/2610.26854v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### InfiniDream: Open-Ended Photorealistic 3D Worlds Through Procedural Generation
+**作者**: Yi-Chuan Huang, Hao-Jen Chien, Zheng-Hui Huang, Yu-Lun Liu, Kaipeng Zhang, Zhixiang Wang
+**类别**: cs.CV
+**发布日期**: 2026-10-19
+**链接**: http://arxiv.org/abs/2610.26853v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting
+**作者**: Zehao Wang, Jianpeng Yao, Yuping Wang, Yiping Li, Jiaqi Li, Zhixu Li, Kanghoon Lee, Jinfeng Wang, Cong Liu, Zhaowei Tan, Jinkyoo Park, Jiachen Li
+**类别**: cs.RO, cs.AI, cs.LG
+**发布日期**: 2026-10-19
+**链接**: http://arxiv.org/abs/2610.26852v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Manga2Animate: An Agentic Framework for Faithful Manga Animation with Script and Storyboard Planning
+**作者**: Sheng-Wei Zhang, Hsi-An Chen, Yan-Ting Liou, Chih-Hsuan Chen, Shih-Chen Tseng, Yu-Lun Liu
+**类别**: cs.CV
+**发布日期**: 2026-10-19
+**链接**: http://arxiv.org/abs/2610.26851v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### GenOlympiad: Benchmarking Frontier Image Models at Their Capability Boundaries
+**作者**: Xi Hu, Martin Bell, Liang Zheng
+**类别**: cs.CV
+**发布日期**: 2026-10-19
+**链接**: http://arxiv.org/abs/2610.26850v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Where is Physical RSI capability from? An Observational Scaling Law of LLM-as-policy
+**作者**: Zekai Li, Jiayi Yu, Jinlu Zhang, Luyang Niu, Zekun Qi, Jun Zheng, Xuchuan Chen, Dairu Liu, Yintianrun Zhang, He Wang, Li Yi
+**类别**: cs.RO, cs.AI, cs.CV
+**发布日期**: 2026-10-19
+**链接**: http://arxiv.org/abs/2610.26848v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### WeAct: Dynamic Weight Switching as Agent Actions
+**作者**: Rui Shi, Xunjian Yin, Jiacheng Sang, Zichuan Liu, Shuyan Zhou
+**类别**: cs.LG, cs.AI, cs.CL
+**发布日期**: 2026-10-19
+**链接**: http://arxiv.org/abs/2610.26847v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### GPT-6 Astra Is a Native Visuo-Tactile Policy for Contact-Rich Manipulation
+**作者**: Chen Yang, Linzhe Shi, Hang Zhang, Mu Xu, Jiansheng Fan, Chen Wang
+**类别**: cs.RO
+**发布日期**: 2026-10-19
+**链接**: http://arxiv.org/abs/2610.26846v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Train An Imaginative Agent
+**作者**: Jiaxin Ge, Junyi Zhang, Tianning Chai, Hanjun Yoo, Chenyang Wang, Xiuyu Li, Weijia Shi, XuDong Wang, Sewon Min, Luke Zettlemoyer, Trevor Darrell, Haiwen Feng
+**类别**: cs.AI
+**发布日期**: 2026-10-19
+**链接**: http://arxiv.org/abs/2610.26845v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
