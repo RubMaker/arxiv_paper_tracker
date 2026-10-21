@@ -144308,3 +144308,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-10-21)
+
+### Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs
+**作者**: Noam Rotstein, Yoad Tewel, Chen Tessler, Haggai Maron, Gal Chechik, Or Litany, Yoni Kasten, Yuval Atzmon
+**类别**: cs.CV, cs.AI, cs.GR, cs.LG, cs.RO
+**发布日期**: 2026-10-20
+**链接**: http://arxiv.org/abs/2610.28632v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### AEON: Unifying Video and 3D World Models
+**作者**: Weiqi Zhang, Wenyuan Zhang, Yu-Shen Liu, Junsheng Zhou
+**类别**: cs.CV
+**发布日期**: 2026-10-20
+**链接**: http://arxiv.org/abs/2610.28631v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### SolarRenderer: Few-Step Generative Reference Rendering
+**作者**: Guian Fang, Shengju Qian, Dongyue Lu, Junchao Huang, Lutao Jiang, Xin Wang, Yiren Song, Li Jiang, Mike Zheng Shou
+**类别**: cs.CV
+**发布日期**: 2026-10-20
+**链接**: http://arxiv.org/abs/2610.28630v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery
+**作者**: Yazhuo Liu, Kunqing Ding, Xiaoguo Gong, Zifeng Wang, Yichen Yang, Yifeng Che, Wen Chen, Josh Kacher, Olivier Pierron, Shigenobu Ogata, Ting Zhu
+**类别**: cond-mat.mtrl-sci, cond-mat.mes-hall, cs.AI, cs.MA
+**发布日期**: 2026-10-20
+**链接**: http://arxiv.org/abs/2610.28629v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking
+**作者**: Yuxuan Kuang, Jiashun Wang, Yixuan Sun, Yufei Ye, Sungjae Park, Umar Iqbal, Katerina Fragkiadaki, Shubham Tulsiani
+**类别**: cs.RO, cs.CV, cs.GR, cs.LG
+**发布日期**: 2026-10-20
+**链接**: http://arxiv.org/abs/2610.28628v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### UniWALM: Unified World Action Language Model for Embodied Robot Control
+**作者**: Rahul Sajnani, Diego Romeres, Mingyuan Zhang, Kai Gao, Carl Qi, Baichuan Huang, Srinath Sridhar, Dylan Randle, Lillian J. Ratliff, Jose Barreiros, Manikantan Nambi, Jeroen Vanbaar
+**类别**: cs.RO, cs.AI, cs.CV
+**发布日期**: 2026-10-20
+**链接**: http://arxiv.org/abs/2610.28626v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### PsycheMME: A Psychology-Informed Benchmark for Social Understanding and Interaction in Videos
+**作者**: Heran Hu, Yuhang Dong, Zhucun Xue, Kaiwei Chen, Yong Liu, Jiangning Zhang
+**类别**: cs.CV
+**发布日期**: 2026-10-20
+**链接**: http://arxiv.org/abs/2610.28625v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Industrial ReMEmbR: Scaling Spatiotemporal Memory to Robot Fleets
+**作者**: Jad Yammine, Malek Wahidi, Abrar Anwar, Yan Chang, Mihir Acharya, Anthony Rizk
+**类别**: cs.RO, cs.AI, cs.SE
+**发布日期**: 2026-10-20
+**链接**: http://arxiv.org/abs/2610.28624v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Planning under Noise with Neural Operators
+**作者**: Michael Chen, Hong Chul Nam, Xi Deng, Anima Anandkumar
+**类别**: cs.LG, cs.RO
+**发布日期**: 2026-10-20
+**链接**: http://arxiv.org/abs/2610.28623v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### MindView: Benchmarking Generative Multi-View Spatial Intelligence
+**作者**: Yanbo Wang, Siqi Luo, Siyu Zhang, Chenming Zhu, Wenzhao Zheng, Qian Yu, Juncheng Yan, Bin Fu, Tai Wang, Yu Qiao, Yihao Liu, Jiwen Lu
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-10-20
+**链接**: http://arxiv.org/abs/2610.28622v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Weight Placement Is Not Enough: Synchronization in Multi-Node CPU Decoding of Ternary LLMs
+**作者**: Runguo Li, Dezhen Lu
+**类别**: cs.DC
+**发布日期**: 2026-10-20
+**链接**: http://arxiv.org/abs/2610.28620v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Adaptive Multi-Token Prediction: How far should we go?
+**作者**: Emile Anand, Mohammed Rehan Parwani, Xinyuan Cao
+**类别**: cs.AI, cs.LG, eess.SY
+**发布日期**: 2026-10-20
+**链接**: http://arxiv.org/abs/2610.28619v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Efficient Edge-aware Attention Network for Graph Generation
+**作者**: Vincent Jung, Alba Carballo-Castro, Yiming Qin, Lonneke van der Plas, Pascal Frossard
+**类别**: cs.LG
+**发布日期**: 2026-10-20
+**链接**: http://arxiv.org/abs/2610.28618v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### NarraSpace: Multimodal Scene-Grounded Evidence for Picture-Description Dementia Classification
+**作者**: Qingming Li, Ruiyan Sun, Satoshi Nakamura
+**类别**: cs.CL
+**发布日期**: 2026-10-20
+**链接**: http://arxiv.org/abs/2610.28616v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### KoalaGS: Complexity-Aware Continuous Level of Detail for Gaussian Splatting
+**作者**: Radu Beche, Raoul de Charette
+**类别**: cs.CV
+**发布日期**: 2026-10-20
+**链接**: http://arxiv.org/abs/2610.28615v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
