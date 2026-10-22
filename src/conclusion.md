@@ -144462,3 +144462,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-10-22)
+
+### Agentic World Action Models
+**作者**: Zhuoyang Liu, Dantong Niu, Botong Zhang, Boning Shao, Jing Wang, Ruijie Zheng, Yuvan Sharma, Runyu Lu, Jiaming Liu, Renrui Zhang, Roei Herzig, Yutong Bai, Ken Goldberg, Danfei Xu, Yuke Zhu, Guanzhi Wang, Linxi "Jim" Fan, Trevor Darrell
+**类别**: cs.RO
+**发布日期**: 2026-10-21
+**链接**: http://arxiv.org/abs/2610.30136v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data
+**作者**: Zhennan Wan, Jianfei Chen
+**类别**: cs.CL, cs.LG
+**发布日期**: 2026-10-21
+**链接**: http://arxiv.org/abs/2610.30132v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Rethinking Video Autoencoders for Interactive World Models
+**作者**: Adrien Ramanana Rahary, Yutong Bai, Nicolas Dufour, Patrick Pérez, David Picard
+**类别**: cs.CV
+**发布日期**: 2026-10-21
+**链接**: http://arxiv.org/abs/2610.30129v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation
+**作者**: Zhanshuo Cao, Jiakai Tang, Yuqi Zhou, Sunhao Dai, Jun Xu
+**类别**: cs.IR, cs.AI, cs.CL, cs.LG
+**发布日期**: 2026-10-21
+**链接**: http://arxiv.org/abs/2610.30128v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### VoxProg: 3D Spatial Reasoning through Voxel Programming
+**作者**: Zhichao Zhai, Menglei Zhao, Guikun Chen, Zihao Yan, Kanzhi Wu, Wenguan Wang, Jun Xiao
+**类别**: cs.CV
+**发布日期**: 2026-10-21
+**链接**: http://arxiv.org/abs/2610.30127v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### PhysiCalWorld: In-Context Physics Calibration for World Models
+**作者**: Yunhao Luo, Wentao He, Yinpei Dai, Hyelin Nam, Hongze Fu, Joyce Chai, Nima Fazeli, Jeong Joon Park
+**类别**: cs.RO, cs.AI, cs.CV
+**发布日期**: 2026-10-21
+**链接**: http://arxiv.org/abs/2610.30125v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### A Quasipolynomial Algorithm for $\ell_\infty$ Contractions
+**作者**: Ashkan Soleymani, Gabriele Farina
+**类别**: cs.GT, cs.CC, cs.LG, math.OC
+**发布日期**: 2026-10-21
+**链接**: http://arxiv.org/abs/2610.30122v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### ALPS: Visual State Encoders for World Models
+**作者**: Yanqing Liu, Letian Zhang, Chengzhi Liu, Zijun Wang, Jieru Mei, Hongliang Fei, Yuyin Zhou, Cihang Xie
+**类别**: cs.CV
+**发布日期**: 2026-10-21
+**链接**: http://arxiv.org/abs/2610.30120v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Self-normalized Bernstein Inequalities for Regenerative Processes and Applications to Learning Without Independence
+**作者**: Imon Banerjee, Pierre Alquier
+**类别**: cs.LG, math.PR, math.ST
+**发布日期**: 2026-10-21
+**链接**: http://arxiv.org/abs/2610.30119v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### The role of locality and weight sharing in convolutional neural networks
+**作者**: Francesco Mori, Melanie Weber
+**类别**: cs.LG, cond-mat.dis-nn, cond-mat.stat-mech, stat.ML
+**发布日期**: 2026-10-21
+**链接**: http://arxiv.org/abs/2610.30118v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### CW-WAM: A Structured Contact-Wrench World Action Model for Force-Sensitive Manipulation
+**作者**: Houzhu Ding, Xinda Qi, Luqi Wang, Ming Yang
+**类别**: cs.RO
+**发布日期**: 2026-10-21
+**链接**: http://arxiv.org/abs/2610.30117v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Environment Duels: A Microcosm of LLM Co-Evolution
+**作者**: Shibo Jin, Zhiqiu Xu, Yiling Zou, Shangyu Gong, Mayur Naik
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-10-21
+**链接**: http://arxiv.org/abs/2610.30116v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### The End of Consensus Research?
+**作者**: Clément Burgelin, Rachid Guerraoui, Zicong Hong, Yinan Hu, Anne-Marie Kermarrec, Rafael Pires, Rasmus Moorits Veski, Martijn de Vos
+**类别**: cs.DC, cs.AI
+**发布日期**: 2026-10-21
+**链接**: http://arxiv.org/abs/2610.30114v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research
+**作者**: Houde Qian, Zheng Jiang, Wenyi Li, Chenxi Xu, Xinjie Lin, Yuzhao Peng, Ruoyu Han, Youjie Zheng, Kaisen Yang, Qinhuai Na, You Fu, Calvin Xiao
+**类别**: cs.CL, cs.AI, cs.CE
+**发布日期**: 2026-10-21
+**链接**: http://arxiv.org/abs/2610.30113v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Minimax Optimality of the NPMLE for Gaussian Mixtures in Hellinger Distance
+**作者**: Shayan Hundrieser, Tudor Manole
+**类别**: math.ST, cs.IT, cs.LG
+**发布日期**: 2026-10-21
+**链接**: http://arxiv.org/abs/2610.30109v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
