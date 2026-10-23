@@ -144616,3 +144616,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-10-23)
+
+### A Unified Framework for Image-to-3D Part Generation via Variable Granularity
+**作者**: Qiwen Gu, Xin Zhou, Xiwu Chen, Zhongyang Zhu, Zhuo Zhang, Junqiao Zhao
+**类别**: cs.CV
+**发布日期**: 2026-10-22
+**链接**: http://arxiv.org/abs/2610.31671v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success
+**作者**: Yunfei Xie, Howard H. Qian, Shiyi Lan, Kaiyu Hang, Chen Wei
+**类别**: cs.CV, cs.LG, cs.RO
+**发布日期**: 2026-10-22
+**链接**: http://arxiv.org/abs/2610.31670v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Reading, Writing, Sharing, and Interacting with the World through Video
+**作者**: Shengqiong Wu, Meng Luo, Bobo Li, Ziwei Liu, Shuicheng Yan, Ming-Hsuan Yang, Philip Torr, Hao Fei
+**类别**: cs.CV
+**发布日期**: 2026-10-22
+**链接**: http://arxiv.org/abs/2610.31668v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning
+**作者**: Mahdi Salmani, Adel Javanmard, Devansh Gupta, Meisam Razaviyayn
+**类别**: cs.AI, cs.CL
+**发布日期**: 2026-10-22
+**链接**: http://arxiv.org/abs/2610.31667v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Phase Transition from Random Features to Fully Trainable Networks
+**作者**: Xin He, Huan Lao, Xiliang Lu, Shijun Zhang
+**类别**: math.NA, cs.LG, math.ST, stat.ML
+**发布日期**: 2026-10-22
+**链接**: http://arxiv.org/abs/2610.31663v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Reliable AI-Assisted Decisions via Selective Auditing
+**作者**: Isaac Gibbs, Elise L. Han, Ryan J. Tibshirani, Tijana Zrnic
+**类别**: stat.ML, cs.LG, stat.ME
+**发布日期**: 2026-10-22
+**链接**: http://arxiv.org/abs/2610.31662v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### OpenTac: An Open Ecosystem for Customizable, Scalable, and Transferable 3D Tactile Sensing
+**作者**: Ariel Slepyan, Geeta Chandra Raju Bethala, Jiafeng Gu, Anagha Rajendra Dangle, Yinzhe Zhou, Hongyuan Fu, Jade Sim, Tuhin Basu, Xinyi Yin, Md Faizal Karim, Gregory Hager, Homanga Bharadhwaj, Anand Bhattad, Krishna Murthy Jatavallabhula, Nitish V. Thakor
+**类别**: cs.RO, eess.SP, eess.SY
+**发布日期**: 2026-10-22
+**链接**: http://arxiv.org/abs/2610.31661v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing
+**作者**: Sy-Tuyen Ho, Anirudh Satheesh, Soham Chawathe, Huy Nghiem, Yongkyun Lee, Andrew Adams Schoen, Furong Huang
+**类别**: cs.CV, cs.LG
+**发布日期**: 2026-10-22
+**链接**: http://arxiv.org/abs/2610.31659v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Cost-Aware Abstention for LLM-Based IT Ticket Classification
+**作者**: Sachin Gupta
+**类别**: cs.LG, cs.AI, cs.CL
+**发布日期**: 2026-10-22
+**链接**: http://arxiv.org/abs/2610.31657v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning
+**作者**: Ali Najar, Hosein Hasani, Amir Kooshan Fattah, Yasamin Rajabi, Mahdieh Soleymani Baghshah
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-10-22
+**链接**: http://arxiv.org/abs/2610.31656v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### BrickWright: Agentic Creation of Physically Feasible Brick Builds
+**作者**: Ava Pun, Kevin Dai, Sally Chen, Maxwell Jones, Ruixuan Liu, Kangle Deng, Changliu Liu, Maneesh Agrawala, Deva Ramanan, Jun-Yan Zhu
+**类别**: cs.CV
+**发布日期**: 2026-10-22
+**链接**: http://arxiv.org/abs/2610.31651v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence
+**作者**: Qijin Zhang, Hanzhen Wang, Yuehan Zhao, Haoyu Dai, Yao Shu, Zhongxiang Dai, Shuang Qiu
+**类别**: cs.AI, cs.LG
+**发布日期**: 2026-10-22
+**链接**: http://arxiv.org/abs/2610.31650v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Gate3DGen: A Pre-processing Model that Selectively Purifies Real-World Images for 3D Generation
+**作者**: Xiaolin Li, Zihao Huang, Fanpeng Meng, Chen Yang, Guanjun Wu, Kai Zhang, Jiemin Fang, Qi Tian
+**类别**: cs.CV
+**发布日期**: 2026-10-22
+**链接**: http://arxiv.org/abs/2610.31649v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Low-Bit N-Gram Embeddings for Language Models
+**作者**: Stephen Chung, Wenyu Du
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-10-22
+**链接**: http://arxiv.org/abs/2610.31646v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### OmniRay: Camera-Agnostic Monocular 3D Reconstruction with Composite Ray Fields
+**作者**: Namitha Guruprasad, Abhay Yadav, Cheng Peng, Rama Chellappa, Anand Bhattad
+**类别**: cs.CV
+**发布日期**: 2026-10-22
+**链接**: http://arxiv.org/abs/2610.31645v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
