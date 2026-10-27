@@ -144924,3 +144924,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-10-27)
+
+### Retriever-Free Retrieval: Navigating Documents with Decision Models
+**作者**: Chao Wan, Paul Jünger, Beixi Du, Bodong Liu, Navaneetha Krishnan, Kilian Q. Weinberger
+**类别**: cs.AI
+**发布日期**: 2026-10-26
+**链接**: http://arxiv.org/abs/2610.35868v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Center-of-Mass Interpretation of Evolution Strategies
+**作者**: Akshat Gupta
+**类别**: cs.AI, cs.CL
+**发布日期**: 2026-10-26
+**链接**: http://arxiv.org/abs/2610.35865v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Auto-Research Arena: Benchmarking and Advancing Auto-Research in Language Modeling
+**作者**: Xi Chen, Chongjian Ge, Yiran Xu, Yiqun Mei, Henrik I. Christensen, Hao Tan, Ziwen Chen, Hanwen Jiang
+**类别**: cs.LG
+**发布日期**: 2026-10-26
+**链接**: http://arxiv.org/abs/2610.35866v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### VibeVideoBench:Evaluating Multimodal Agents on Code-Driven Video Generation
+**作者**: Muxi Diao, Wenbin Xu, Lele Yang, Xuyang Ma, Yuzhe Chen, Jiankang Chen, Kaiyu Jiang, Changyi Liu, Haoyu Zhang, Hongyi Fu, Jianxiong Wang, Tianke Zhang, Haonan Fan, Yingxin Li, Bingyi Li, Xu Wang, Xuanyu Zheng, Bin Wen, Tingting Gao, Han Li, Wentao Zhang, Weiran Xu, Kongming Liang, Zhanyu Ma
+**类别**: cs.CV
+**发布日期**: 2026-10-26
+**链接**: http://arxiv.org/abs/2610.35864v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Learning Force-Reactive Humanoid Loco-Manipulation
+**作者**: Sihang Li, Xiaofeng Guo, Jinkun Cao, Charlie Cheng, Ruihan Yang, Chen Feng, Guanya Shi, Haozhi Qi
+**类别**: cs.RO, cs.AI, cs.LG, eess.SY
+**发布日期**: 2026-10-26
+**链接**: http://arxiv.org/abs/2610.35862v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Do vision models know that three is three?
+**作者**: Ankit Sonthalia, Arnas Uselis, Seong Joon Oh
+**类别**: cs.CV
+**发布日期**: 2026-10-26
+**链接**: http://arxiv.org/abs/2610.35857v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### On the stability of learning
+**作者**: John J. Vastola
+**类别**: q-bio.NC, cs.LG
+**发布日期**: 2026-10-26
+**链接**: http://arxiv.org/abs/2610.35856v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### FL4N: Feed-forward Latent Model for 4D Novel View Synthesis
+**作者**: Eunbeen Hong, Hyeonseo Yu, Honggyu An, Jooho Son, Hyunah Ko, Soowon Son, Chaehyun Kim, Jahyeok Koo, Jisoo Kim, Junhwa Hur, Seungryong Kim
+**类别**: cs.CV
+**发布日期**: 2026-10-26
+**链接**: http://arxiv.org/abs/2610.35854v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Differentiable Contact Dynamics for Legged Locomotion: Policy Learning and Contact-Implicit Trajectory Optimization
+**作者**: Gijeong Kim, Seungbin Oh, Dongyun Kang, Hae-Won Park
+**类别**: cs.RO
+**发布日期**: 2026-10-26
+**链接**: http://arxiv.org/abs/2610.35852v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Nonprehensile Robotic Catching Using Virtual Constraints
+**作者**: Aakash Khandelwal, Ranjan Mukherjee
+**类别**: eess.SY, cs.RO
+**发布日期**: 2026-10-26
+**链接**: http://arxiv.org/abs/2610.35851v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### OSWAM: An Effective World Action Model with One-Step Action Generation
+**作者**: Guowen Zhang, Liyi Chen, Xu Hu, Pengfei Wang, Jingfan Chen, Chenhang He, Lei Zhang
+**类别**: cs.CV, cs.RO
+**发布日期**: 2026-10-26
+**链接**: http://arxiv.org/abs/2610.35850v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Patient-specific rubric-based evaluation of large language models across longitudinal cancer care
+**作者**: Wei-Wei Zhang, Pengkai Wang, Yan Li, Zhijie Sang, Guan-Qun Zhou, Jun-Yan Li, Shu-Han Zhou, Pei-Wen Liu, Ting-Xi Tang, Min Tang, Zhitian Hou, Jianmin Wu, Jian Guan, i Lin, Hongxia Yang, Ying Sun
+**类别**: cs.AI
+**发布日期**: 2026-10-26
+**链接**: http://arxiv.org/abs/2610.35847v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Preserve to Expand: Source-Aware Adaptation and Model Merging for Multilingual LLM-Based ASR
+**作者**: Yuchen Zhang, Haralambos Mouratidis, Ravi Shekhar
+**类别**: cs.CL
+**发布日期**: 2026-10-26
+**链接**: http://arxiv.org/abs/2610.35846v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Work Agents: Systems, Capabilities, and Optimization
+**作者**: Zishan Xu, Enjun Du, Mingqi Gao, Cheng Yang, Junhao Shen, Zirong Chen, Zhiyuan Yao, Yifu Guo, Yuquan Lu, Jinyang Huang, Zhengxi Lu, Siyi Liu, Ziyu Zheng, Yongqi Zhang, Difan Zou, Weiwen Liu
+**类别**: cs.LG
+**发布日期**: 2026-10-26
+**链接**: http://arxiv.org/abs/2610.35845v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### MedVTok: A General-Purpose Medical Visual Tokenizer
+**作者**: Chenglong Ma, Yuanfeng Ji, Junzhi Ning, Jiyao Liu, Yujie Wei, Shaohao Rui, Chaoyang Zhang, Wenjie Li, Wenhao Tang, Cheng Tang, Wei Li, Shujian Gao, Yujie Zhang, Ying Chen, Zilong Li, Zongyuan Ge, Diping Song, Jin Ye, Ming Hu, Junjun He, Hongming Shan
+**类别**: eess.IV, cs.CV
+**发布日期**: 2026-10-26
+**链接**: http://arxiv.org/abs/2610.35842v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
