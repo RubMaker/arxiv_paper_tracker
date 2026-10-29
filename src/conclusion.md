@@ -145232,3 +145232,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-10-29)
+
+### Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction
+**作者**: Prakhar Kaushik, Soumava Paul, Alan Yuille
+**类别**: cs.CV, cs.AI, cs.GR, cs.LG
+**发布日期**: 2026-10-27
+**链接**: http://arxiv.org/abs/2610.37668v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning
+**作者**: Chaehyun Kim, Chi-Pin Huang, Jisoo Kim, Min-Hung Chen, Yu-Chiang Frank Wang, Seungryong Kim, Fu-En Yang
+**类别**: cs.RO, cs.AI, cs.CV
+**发布日期**: 2026-10-27
+**链接**: http://arxiv.org/abs/2610.37666v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Can Discrete Tokens Serve as Semantically Lossless Representations of Visual Signals?
+**作者**: Jialv Zou, Xiaotong Li, Zhengrong Yue, Xu Huang, Yaxin Luo, Wenhao Yan, Haodong Li, Wenyu Liu, Xinggang Wang
+**类别**: cs.CV
+**发布日期**: 2026-10-27
+**链接**: http://arxiv.org/abs/2610.37662v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### When Should We Intervene at Test Time?
+**作者**: Jiahao Zhang, Xinling Wen, Liangliang Li, Yu Chen
+**类别**: cs.LG
+**发布日期**: 2026-10-27
+**链接**: http://arxiv.org/abs/2610.37658v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness
+**作者**: Igor Shilov, Xiaoxue Yang, Alexander Panfilov, Evgenii Kortukov, Matthieu Meeus, Peter Romov, Wojciech Samek, Jonas Geiping, Yves-Alexandre de Montjoye
+**类别**: cs.LG, cs.CL, cs.CR
+**发布日期**: 2026-10-27
+**链接**: http://arxiv.org/abs/2610.37657v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops
+**作者**: Aakash Sarkar, Ananya Mukherjee, Motoshige Sato
+**类别**: cs.LG, cs.AI, physics.comp-ph
+**发布日期**: 2026-10-27
+**链接**: http://arxiv.org/abs/2610.37656v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric chemistry
+**作者**: Wenqing Peng, Michael Boy, Zhi-Song Liu
+**类别**: cs.AI
+**发布日期**: 2026-10-27
+**链接**: http://arxiv.org/abs/2610.37655v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well
+**作者**: Ian Chuang, Hiya Shah, Vamsi Chilamkur, Iman Soltani, Claire Tomlin
+**类别**: cs.RO, cs.LG, eess.SY
+**发布日期**: 2026-10-27
+**链接**: http://arxiv.org/abs/2610.37652v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### GEPA-Curator: Curated Learning for Self Improving Agents
+**作者**: Zack Yu, Nicholas Lee, Minjae Lee, Lakshya Agarwal, Luca Manolache, Wonjun Kang, Matei Zaharia, Michael W. Mahoney, Kurt Keutzer, Sehoon Kim, Amir Gholami
+**类别**: cs.CL
+**发布日期**: 2026-10-27
+**链接**: http://arxiv.org/abs/2610.37651v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Can LLMs Uncover Hidden Physical Laws through Free Exploration?
+**作者**: Zhen Yang, Wen Wang, Xander Xu, Ying-Cong Chen
+**类别**: cs.CL, cs.AI, cs.MA
+**发布日期**: 2026-10-27
+**链接**: http://arxiv.org/abs/2610.37649v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Scaling Laws for Tool-Use Agents via Controllable Environment Synthesis
+**作者**: Andrew Szot, Samira Abnar, Omar Attia, Abbas Kazerouni, Michael Kirchhof, Cheng-Yu Hsieh, Raviteja Vemulapalli, Alexander Toshev
+**类别**: cs.LG
+**发布日期**: 2026-10-27
+**链接**: http://arxiv.org/abs/2610.37648v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### MuonGS: Pretraining LLMs with Relaxed Weight-Norm Control
+**作者**: Athanasios Glentis, Dawei Li, Mingyi Hong
+**类别**: cs.LG, cs.AI, math.OC
+**发布日期**: 2026-10-27
+**链接**: http://arxiv.org/abs/2610.37647v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Multi-State Linear Attention with Generalized Second-Order Routing
+**作者**: Hee Seung Hwang, Sanghyuk Chun, Xindi Wu, Olga Russakovsky, Zhiwei Deng
+**类别**: cs.CL
+**发布日期**: 2026-10-27
+**链接**: http://arxiv.org/abs/2610.37645v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Metacognitive Decoding: Efficient Inference for Diffusion Language Agents
+**作者**: Mingyu Zhao, Shuhang Lin, Ligong Han, Xiaojing Yu, Zhenting Wang, Yifei Pang, Yang Zhou, Dimitris N. Metaxas
+**类别**: cs.CL
+**发布日期**: 2026-10-27
+**链接**: http://arxiv.org/abs/2610.37642v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Classical Verification of Quantum Computation Beyond the Polynomial Hierarchy
+**作者**: Atul Mantri
+**类别**: quant-ph, cs.CC, cs.CR
+**发布日期**: 2026-10-27
+**链接**: http://arxiv.org/abs/2610.37635v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
