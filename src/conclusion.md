@@ -145386,3 +145386,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-10-30)
+
+### Elucidating the Design Space of LM Data Attribution
+**作者**: Steven Yu, Sheng-Yu Wang, Kimia Hamidieh, Antonio Torralba, David Bau
+**类别**: cs.CL
+**发布日期**: 2026-10-29
+**链接**: http://arxiv.org/abs/2610.40655v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering
+**作者**: Moshe Shenfeld, Eliad Tsfadia, Katrina Ligett
+**类别**: cs.LG
+**发布日期**: 2026-10-29
+**链接**: http://arxiv.org/abs/2610.40654v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Micro-Edits: Computational Support for Fine-Scale Edits in Film
+**作者**: Nhan Tran, Hijung Valentina Shin, Abe Davis, Mackenzie Leake
+**类别**: cs.HC, cs.CV
+**发布日期**: 2026-10-29
+**链接**: http://arxiv.org/abs/2610.40653v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Rethinking Neural Thickets Without Weight Perturbations
+**作者**: Nicolas Dufour, Elouan Gardès, Amil Dravid, Patrick Pérez, Loic Landrieu
+**类别**: cs.LG, cs.AI, cs.CV
+**发布日期**: 2026-10-29
+**链接**: http://arxiv.org/abs/2610.40649v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers
+**作者**: Jiongfan Yang, Weichen Fan, Haiwen Diao, Zhongang Cai, Ziwei Liu
+**类别**: cs.CV, cs.AI, cs.LG, cs.NE
+**发布日期**: 2026-10-29
+**链接**: http://arxiv.org/abs/2610.40647v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### SwapBot: Tool-Centric Robot Manipulation via Interchangeable End-Effectors and Tactile Sensing
+**作者**: Yunchu Zhang, Ray Song, Junhan Jiao, Liyiming Ke, Yuchen Yang, Ruihan Gao, Emma Romig, Siddhartha Srinivasa, Yiyue Luo
+**类别**: cs.RO
+**发布日期**: 2026-10-29
+**链接**: http://arxiv.org/abs/2610.40646v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Adaptive Scenario Generation for KL-DRO Around a Learned Density Model
+**作者**: Aron Brenner, Saurabh Amin
+**类别**: eess.SY, cs.LG
+**发布日期**: 2026-10-29
+**链接**: http://arxiv.org/abs/2610.40644v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Luggage re-identification: A study of strategies towards a real-world application
+**作者**: Quentin Dhôte, Romaric Audigier
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-10-29
+**链接**: http://arxiv.org/abs/2610.40643v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### From extreme weather to agricultural consequences with agentic AI
+**作者**: Minghan Yu, Mengyu Dai, Yixin Wen, Haizhao Yang
+**类别**: physics.ao-ph, cs.AI
+**发布日期**: 2026-10-29
+**链接**: http://arxiv.org/abs/2610.40641v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### SonoWorld4D: From One Video to a 4D Audio-Visual Scene via Diffusion Synchronization
+**作者**: Derong Jin, Xiyi Chen, Ming C. Lin, Ruohan Gao
+**类别**: cs.CV, cs.SD
+**发布日期**: 2026-10-29
+**链接**: http://arxiv.org/abs/2610.40640v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### world2vec: Mechanistic world models through latent dynamics learning
+**作者**: Tobias Schmidt, Rodrigo Gonzalez Laiz, Krisztián Szuppinger, Steffen Schneider
+**类别**: cs.LG
+**发布日期**: 2026-10-29
+**链接**: http://arxiv.org/abs/2610.40637v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Probing Spatial State Representations in Visual Foundation Models
+**作者**: Baiqiao Yin, Zhongang Cai, Ruisi Wang, Qiwei Liang, Lei Yang, Ziwei Liu
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-10-29
+**链接**: http://arxiv.org/abs/2610.40636v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### SymAnt: Grounding Long-Horizon Action Anticipation with Adaptable Symbolic Priors
+**作者**: Fnu Aryan, Yaqi Xie, Joseph Campbell, Woojun Kim, Kwonjoon Lee, Hossein Nourkhiz Mahjoub, Ehsan Moradi-Pari, Katia Sycara, Simon Stepputtis
+**类别**: cs.RO, cs.CV
+**发布日期**: 2026-10-29
+**链接**: http://arxiv.org/abs/2610.40632v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender
+**作者**: Qiyao Ma, Xiaodong Liu, Weiwei Yang, Mingqian Feng, Chengquan Guo, Jialin Song, Carolyn Buractaon, Zhe Zhao, Junshan Zhang, Sandeep Atluri, Christopher White, Jianfeng Gao
+**类别**: cs.CL
+**发布日期**: 2026-10-29
+**链接**: http://arxiv.org/abs/2610.40627v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Testimony from Timelines: Evidence-Grounded Significance Testing of Temporal Clinical Hypotheses
+**作者**: Chengyang He, Wenlong Zhang, Koduvayur Subbalakshmi, Ping Wang
+**类别**: cs.CL, cs.IR
+**发布日期**: 2026-10-29
+**链接**: http://arxiv.org/abs/2610.40619v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
