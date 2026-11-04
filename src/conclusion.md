@@ -145694,3 +145694,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-11-04)
+
+### Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations
+**作者**: Jason Jingzhou Liu, Tony Tao, Deepak Pathak, Ruslan Salakhutdinov
+**类别**: cs.RO, cs.AI, cs.CV, cs.LG, eess.SY
+**发布日期**: 2026-11-02
+**链接**: http://arxiv.org/abs/2611.03647v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation
+**作者**: Tony Tao, Jason Jingzhou Liu, Ruslan Salakhutdinov, Deepak Pathak
+**类别**: cs.RO, cs.AI, cs.CV, cs.LG, eess.SY
+**发布日期**: 2026-11-02
+**链接**: http://arxiv.org/abs/2611.03648v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### EgoActionBench: Benchmarking Dense Action Captioning for Egocentric Human Videos
+**作者**: Yujiao Shen, Jiahe Song, Haitian Li, Jingkang Yang, Ziwei Liu
+**类别**: cs.CV
+**发布日期**: 2026-11-02
+**链接**: http://arxiv.org/abs/2611.03646v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### From Natural Language to Exact Cover: A Neuro-Symbolic Approach to Zebra Puzzles
+**作者**: Paulius Skaisgiris, Thomas Pammer, Veronika Semmelrock, Mykyta Ielanskyi, Maximilian Heisinger, Erich Kobler
+**类别**: cs.AI
+**发布日期**: 2026-11-02
+**链接**: http://arxiv.org/abs/2611.03641v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### WebHarbor: Docking Real Websites for Evolving GUI Agent Environments
+**作者**: Zhaoyang Wang, Qianhui Wu, Boyu Gou, Demi Wang, Jiacheng Zhang, Peichun Hua, Qize Li, Shi Qiu, Yifan Jiang, Yifan Zhang, Zexu Jin, Baolin Peng, Bolin Shen, Chetan Bansal, Dehan Kong, Deren Lei, Dongshen Peng, Fengqing Jiang, Hao Cheng, Haoqing Wang, Jiaming Shan, Jicheng Wang, Jingguang Zhou, Jixuan He, Kaide Zeng, Kangyu Zhu, Lama Moukheiber, Mufan Qiu, Peng Xia, Qihan Sun, Qingwei Lin, Qiushi Sun, Ruichen Zhang, Shuqing Luo, Si Qin, Sicheng Fan, Tao Xiong, Wenlin Yao, Xinyu Zhang, Xinyue Zeng, Xuanrui Li, Xuchao Zhang, Yian Wang, Yichao Liu, Yiming Liang, Yiyang Zhou, Yizhu Jiao, Yuetai Li, Yurun Chen, Yuxuan Zhang, Zheyuan Yang, Zhiyuan Yao, Zhongyang Li, Zihao Li, Zili Wang, Jianfeng Gao, Huaxiu Yao
+**类别**: cs.AI, cs.CL, cs.LG
+**发布日期**: 2026-11-02
+**链接**: http://arxiv.org/abs/2611.03634v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Pretraining Data Scale Reverses the Muon-AdamW Fine-Tuning Gap
+**作者**: Catherine Li, Jingchu Gai, Andrej Risteski, Jacob Mitchell Springer, Aditi Raghunathan
+**类别**: cs.LG
+**发布日期**: 2026-11-02
+**链接**: http://arxiv.org/abs/2611.03633v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Not All Reasoning Generalizes: A Case Study on Learning Generalizable Reasoning Strategies in RLVR
+**作者**: Ziqi Pang, Yu-Xiong Wang
+**类别**: cs.LG
+**发布日期**: 2026-11-02
+**链接**: http://arxiv.org/abs/2611.03627v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Isekai3D SDG: A Platform for Diverse Synthetic Gameplay Visual Data
+**作者**: Rafal Karp, Gene Liu, Shih-Hsin Li, Eric Courtemanche, Shengze Wang, Josef Spjut, David Pankratz, Mischa Kolbe, Michael Stengel, Sven Elflein, Adam Grygielski, Liwen Wu, Anjul Patney
+**类别**: cs.CV
+**发布日期**: 2026-11-02
+**链接**: http://arxiv.org/abs/2611.03626v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### FADE: Factored Ability--Difficulty Filtering for Online RLVR Scheduling
+**作者**: Tomas Duncun, Jonah Ellison, Mateo Ruiz, Hanae Fujita, Ingrid Solberg
+**类别**: cs.LG
+**发布日期**: 2026-11-02
+**链接**: http://arxiv.org/abs/2611.03625v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Thought-deciphering via hierarchical EEG-to-text alignment
+**作者**: Xiaopeng Mao, Morten Mørup, Xin Xu, Sang Wan Lee, Sadasivan Puthusserypady
+**类别**: cs.LG, eess.SP
+**发布日期**: 2026-11-02
+**链接**: http://arxiv.org/abs/2611.03623v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### D&A: Decoupling Description and Assessment Enables VLMs as Zero-Shot Robotic Reward Models
+**作者**: Marius Memmel, Shawn Yin, Urvi Rutia, Angad Wadhwa, Eldon Li, Gavin Angeloff, Ankit Goyal, Jesse Zhang, Dieter Fox, Fabio Ramos, Anqi Li, Abhishek Gupta
+**类别**: cs.RO, cs.AI, cs.CL, cs.LG, eess.SY
+**发布日期**: 2026-11-02
+**链接**: http://arxiv.org/abs/2611.03622v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Strategist: Evolving Reasoning with Agents
+**作者**: Taiming Lu, Qi Xu, Zhigang Hua, Zhuang Liu
+**类别**: cs.AI, cs.CL
+**发布日期**: 2026-11-02
+**链接**: http://arxiv.org/abs/2611.03618v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Tracing the Scientific Discovery Capacity of LLMs to Their Training Data
+**作者**: Arda Uzunoglu, Mahler Revsine, Michael Schatz, Benjamin Van Durme, Mehrdad Farajtabar, Daniel Khashabi, Eric Nalisnick
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-11-02
+**链接**: http://arxiv.org/abs/2611.03617v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Benchmark Prediction with Sparse and Unpaired Cached Responses
+**作者**: Hayden Helm, Avijit Ghosh, Ben Johnson, Carey Priebe
+**类别**: cs.LG, stat.ME, stat.ML
+**发布日期**: 2026-11-02
+**链接**: http://arxiv.org/abs/2611.03614v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Efficient Closure Learning in Dynamical Systems: A Comparison of Data-Assimilated and Embedded Approaches
+**作者**: Rileigh Bandy, Teresa Portone, Mohammad Khalil, Eric Crislip, Kyle Neal
+**类别**: cs.LG, math.DS, stat.ML
+**发布日期**: 2026-11-02
+**链接**: http://arxiv.org/abs/2611.03612v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
