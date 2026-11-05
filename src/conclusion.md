@@ -145848,3 +145848,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-11-05)
+
+### DreamX: Video Diffusion Model is a Universal Latent Action Learner
+**作者**: Jisoo Kim, Chaehyun Kim, Junsu Kim, Jiho Park, Seongchan Kim, Eunbeen Hong, Soowon Son, Fu-En Yang, Seungryong Kim
+**类别**: cs.CV, cs.AI, cs.RO
+**发布日期**: 2026-11-03
+**链接**: http://arxiv.org/abs/2611.05377v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence
+**作者**: Hao Fei
+**类别**: cs.CL, cs.AI
+**发布日期**: 2026-11-03
+**链接**: http://arxiv.org/abs/2611.05376v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Aligning Language Models with General Preferences: An Empirical Study of Direct Nash Optimization
+**作者**: Austin Tsai, Saurav Nanda, Ganapathy Parthasarathy, Bhuvnesh Kumar, Parivesh Choudhary
+**类别**: cs.LG, cs.AI, cs.CL
+**发布日期**: 2026-11-03
+**链接**: http://arxiv.org/abs/2611.05373v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### PolicyIK: High-Precision Inverse Kinematics for Robot Arms with Reinforcement Learning
+**作者**: Yuhan Liu, Xinqi Liu, Zixuan Dong, Keith W. Ross, Shenji Wan
+**类别**: cs.RO, cs.LG
+**发布日期**: 2026-11-03
+**链接**: http://arxiv.org/abs/2611.05372v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### GUILD: Guided Iterative Data Collection for Imitation Learning
+**作者**: Shivin Dass, Kevin Nguyen, Rohan Yelandur, Junhong Xu, Roberto Martín-Martín
+**类别**: cs.RO, cs.LG
+**发布日期**: 2026-11-03
+**链接**: http://arxiv.org/abs/2611.05368v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments
+**作者**: Zhipeng Zhong, Matthew Coombes, Cunjia Liu
+**类别**: cs.CV, cs.RO
+**发布日期**: 2026-11-03
+**链接**: http://arxiv.org/abs/2611.05361v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### GSCV++: Lightweight 3D Gaussian Splatting Sequence Compression via Standard Video Codecs
+**作者**: Qi Yang, Yingzhan Xu, Kai Zhang, Li Zhang
+**类别**: cs.CV
+**发布日期**: 2026-11-03
+**链接**: http://arxiv.org/abs/2611.05359v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Suppressing Misaligned Behaviors in Language Models, Durably
+**作者**: Luxi He, Pengcheng Jiang, Jifan Zhang, Jiawei Han, Danqi Chen
+**类别**: cs.CL, cs.AI, cs.LG
+**发布日期**: 2026-11-03
+**链接**: http://arxiv.org/abs/2611.05358v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Reading Why: Born-Measured Attention with Exact Word Evidence on Light and Qubits
+**作者**: Teerawat Tongloy, Jiraporn Pongsopa, Rangsan Jomtarak
+**类别**: quant-ph, cs.CL, cs.LG, physics.optics
+**发布日期**: 2026-11-03
+**链接**: http://arxiv.org/abs/2611.05355v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### OpenBrain: An Auditable Generated-Label Release for Whole-Brain MRI Parcellation
+**作者**: Qizhen Lan, Yu-Chun Hsu, Yuxiang Wei, Lijing Zhu, Zenan Sun, Liang He, Lishan Yu, Xiaoqian Jiang
+**类别**: cs.CV
+**发布日期**: 2026-11-03
+**链接**: http://arxiv.org/abs/2611.05348v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Agnostic Learning by Imitating
+**作者**: Sílvia Casacuberta, Parikshit Gopalan, Varun Kanade, Omer Reingold, Konstantinos Stavropoulos, Pranay Tankala
+**类别**: cs.LG, cs.CC, cs.DS
+**发布日期**: 2026-11-03
+**链接**: http://arxiv.org/abs/2611.05346v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Adversarial Speculative Reasoning Improves Long Horizon Agents
+**作者**: Hongyin Luo, Wei Fang, Lijie Yang, Owen Stepan, Daniel Suit, Jeff Krapf, Dana Wensberg, Jack O'Brien
+**类别**: cs.AI
+**发布日期**: 2026-11-03
+**链接**: http://arxiv.org/abs/2611.05345v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### A Circuit for In-Context Learning
+**作者**: Andrew Gao, William Gao
+**类别**: cs.CL, cs.LG
+**发布日期**: 2026-11-03
+**链接**: http://arxiv.org/abs/2611.05344v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Weight-space programming for auditing clinical decision networks
+**作者**: Humza Nusrat, Omar Nusrat
+**类别**: physics.med-ph, cs.AI
+**发布日期**: 2026-11-03
+**链接**: http://arxiv.org/abs/2611.05341v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### MedPhysBench: A Benchmark for Evaluating Language Models on Medical Physics Calculations and Error Detection
+**作者**: Omar Nusrat
+**类别**: physics.med-ph, cs.AI, cs.CL
+**发布日期**: 2026-11-03
+**链接**: http://arxiv.org/abs/2611.05340v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
