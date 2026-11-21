@@ -146002,3 +146002,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-11-21)
+
+### Posterior Matching Distillation
+**作者**: Hidir Yesiltepe, Julius Berner, Arash Vahdat, Pinar Yanardag
+**类别**: cs.CV
+**发布日期**: 2026-11-19
+**链接**: http://arxiv.org/abs/2611.26629v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### RL Post-Training in Diffusion Transformers Is Activation Steering
+**作者**: Tuna Han Salih Meral, Kaan Oktay, Alec Helbling, Atakan Kara, Duen Horng Chau, Pinar Yanardag
+**类别**: cs.CV, cs.LG
+**发布日期**: 2026-11-19
+**链接**: http://arxiv.org/abs/2611.26627v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### PlayCraft: Designing Engaging Games from Agent Play Experience
+**作者**: Weihao Cheng
+**类别**: cs.AI, cs.CV
+**发布日期**: 2026-11-19
+**链接**: http://arxiv.org/abs/2611.26624v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming
+**作者**: Jinbin Luo, Xiaozhe Yao, Shang Yang, Zhijian Liu, Song Han, Qinghao Hu
+**类别**: cs.DC, cs.LG
+**发布日期**: 2026-11-19
+**链接**: http://arxiv.org/abs/2611.26619v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning
+**作者**: Yuxin Jiang, Wenqiang Sun, Jiaqi Li, Yuchao Gu, Lvmin Zhang, Ivor Tsang, Mike Zheng Shou
+**类别**: cs.CV, cs.AI, cs.LG, cs.RO
+**发布日期**: 2026-11-19
+**链接**: http://arxiv.org/abs/2611.26617v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### ScaleWorld: High-Resolution World Generation through Shared Prediction and Refinement
+**作者**: Yansong Qu, Wesker Zheng, Quanjian Song, Zhiyuan Zhang, Xiao Cao, Shengchuan Zhang, Liujuan Cao
+**类别**: cs.CV
+**发布日期**: 2026-11-19
+**链接**: http://arxiv.org/abs/2611.26615v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control
+**作者**: Yiyang Du, Yuxuan Kuang, Qitao Zhao, Yixuan Wang, Zhanqiu Guo, Yi Xu, Xin Li, Wenbin He, Liu Ren, Chenyan Xiong
+**类别**: cs.RO, cs.CL, cs.CV
+**发布日期**: 2026-11-19
+**链接**: http://arxiv.org/abs/2611.26613v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Bio-PM-Guided Synthetic IMU Generation
+**作者**: Deepali Singh, Deepesh Parpani, Aviral Gupta
+**类别**: cs.LG
+**发布日期**: 2026-11-19
+**链接**: http://arxiv.org/abs/2611.26607v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth
+**作者**: Peiyun Hu, Marko Mihajlovic, Lyndon Duong, Lahav Lipson, Wei Dong, Amaël Delaunoy, Stephan R. Richter, Vladlen Koltun
+**类别**: cs.CV, cs.LG
+**发布日期**: 2026-11-19
+**链接**: http://arxiv.org/abs/2611.26603v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### SoK: Assessing the Evolution of LLM Capability in Software Vulnerability Research
+**作者**: Amine Lbath, Manan Suri, Aurelien Delaitre, Vadim Okun, Massih-Reza Amini, Dinesh Manocha
+**类别**: cs.CR, cs.AI, cs.SE
+**发布日期**: 2026-11-19
+**链接**: http://arxiv.org/abs/2611.26601v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### A Tutorial on Complementarity-Based Contact Models for Robotics
+**作者**: Onur Beker, A. René Geist, Michael Posa, Marc Toussaint, Justin Carpentier, Georg Martius
+**类别**: cs.RO, cs.GR, math.OC
+**发布日期**: 2026-11-19
+**链接**: http://arxiv.org/abs/2611.26600v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Active Feature Acquisition by Distilling an Oracle Teacher
+**作者**: Yang Meng, Zixin Ding, Robert L. Grossman, Yuxin Chen
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-11-19
+**链接**: http://arxiv.org/abs/2611.26598v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### PGX: Physically Grounded Execution for Long-Horizon Humanoid Loco-Manipulation
+**作者**: Kai Lu, Chenyang Ma, Ioannis Havoutis
+**类别**: cs.RO, cs.AI
+**发布日期**: 2026-11-19
+**链接**: http://arxiv.org/abs/2611.26596v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Coda-DaVinci: Reimagining Video Generation with Code2Video
+**作者**: Yiyan Ji, Qixun Wang, Yang Shi, Zhuoran Zhang, Yifan Xu, Tengfei Liu, Yuqi Tang, Xiaohan Zhang, Shujie Li, Jiafu Tang, Xuanyu Zhu, Xinyu Liu, Yan He, Yushuo Guan, Zihao Wang, Xianghua Ying, Shixuan Liu, Haotian Wang, Wenjing Yang, Zhaoxiang Zhang, Yuanxing Zhang, Pengfei Wan, Jiaheng Liu
+**类别**: cs.CV
+**发布日期**: 2026-11-19
+**链接**: http://arxiv.org/abs/2611.26595v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Realized versus Population Reliability: Anytime-Valid Self-Consistency Certification under Correlated Reasoning
+**作者**: Terence D. Agbeyegbe, Toneukarin G. Agbeyegbe
+**类别**: stat.ME, cs.AI, cs.LG
+**发布日期**: 2026-11-19
+**链接**: http://arxiv.org/abs/2611.26592v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
