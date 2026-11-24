@@ -146156,3 +146156,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-11-24)
+
+### When Does Fine-Tuning Beat Prompting for Qiskit-to-CUDA-Q Translation? An Execution-Verified Study
+**作者**: Ana Paula Appel
+**类别**: quant-ph, cs.AI
+**发布日期**: 2026-11-22
+**链接**: http://arxiv.org/abs/2611.29793v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### A Cascaded Framework with a Cross-Attention-Guided Mamba-CNN Model for Pre- and Post-Treatment Glioma Segmentation
+**作者**: Siavash Taremi, Mahmoud Heidari, Seyed Mohammad Hossein Hashemi, Mohsen Hooshmand
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-11-22
+**链接**: http://arxiv.org/abs/2611.29792v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Tabular Foundation Models for Weighted Regression and Classification
+**作者**: Junwen Xia, Yan He, Dehan Kong, Zhenhua Lin
+**类别**: stat.ML, cs.LG
+**发布日期**: 2026-11-22
+**链接**: http://arxiv.org/abs/2611.29789v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Beyond Language Optimization: Enhancing Visual Representations for Radiology Report Generation
+**作者**: Rui Zuo, Qinyue Tong, Ziqian Lu, Zheming Lu
+**类别**: cs.CV
+**发布日期**: 2026-11-22
+**链接**: http://arxiv.org/abs/2611.29783v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Constrained Diffusion from Binary Evaluations via Learned Doob h-Functions
+**作者**: Ssaumya Kammal Jaiswal, Mahfuza Farooque
+**类别**: cs.LG, stat.ML
+**发布日期**: 2026-11-22
+**链接**: http://arxiv.org/abs/2611.29779v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### ComplexIF: A Challenging Multi-Turn, Multi-Constraint Instruction-Following Benchmark
+**作者**: Zhichao Xu, Bingsen Chen, Yawei Wang, Tao Li, Haoyu Wang, Dan Roth, Vivek Srikumar
+**类别**: cs.CL
+**发布日期**: 2026-11-22
+**链接**: http://arxiv.org/abs/2611.29775v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### S1Arena-MM: Which Multimodal Decisions Can Be Left to System 1?
+**作者**: Lang Lin, Tianyu Chen, Yi Gu, Yang Zhao, Xinran Song, Xinyang Liu, Jianpeng Cheng, Mingyuan Zhou
+**类别**: cs.CV, cs.AI, cs.LG
+**发布日期**: 2026-11-22
+**链接**: http://arxiv.org/abs/2611.29773v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Into My Arms: Structured reinforcement learning for autonomous transport of objects and humans
+**作者**: Elle Miller, Reem Almheiri, Takuma Tsukakoshi, Ben Sanati, Tamon Miyake, Yushi Wang, Namiko Saito, Shigeki Sugano, Tetsuya Ogata, Rika Antonova, Oisin Mac Aodha, Sethu Vijayakumar
+**类别**: cs.RO, cs.AI
+**发布日期**: 2026-11-22
+**链接**: http://arxiv.org/abs/2611.29771v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### When Simpler Beats Learned: Dual-Weighted Sampling vs. Machine Learning for the Pricing Subproblem in Graph Coloring
+**作者**: Nikolai Antonov, Přemysl Šůcha, Mikoláš Janota, Jan Hůla
+**类别**: cs.LG, math.OC
+**发布日期**: 2026-11-22
+**链接**: http://arxiv.org/abs/2611.29769v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Estimating a Transition Point from Gibbs and Ground States
+**作者**: Yuhao Cai, Zhenzhang Li
+**类别**: quant-ph, cs.AI
+**发布日期**: 2026-11-22
+**链接**: http://arxiv.org/abs/2611.29768v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### CivicBench: Robust Detection of AI-Generated Political Video
+**作者**: Mert Onur Cakiroglu, Elham Buxton, Mehmet Dalkilic, Hasan Kurban
+**类别**: cs.CV
+**发布日期**: 2026-11-22
+**链接**: http://arxiv.org/abs/2611.29766v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Sánchez, Feijóo, or Abascal? Speaker Attribution and Ideological Congruence in LLM Personas Reading Posts on X of the Leaders of the Three Main Parties of the 29N General Election in Spain
+**作者**: Víctor Yeste, Candida Maria Greco, Paolo Rosso, Andrea Tagarelli
+**类别**: cs.CL, cs.CY, cs.SI
+**发布日期**: 2026-11-22
+**链接**: http://arxiv.org/abs/2611.29765v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Selecting Stable Sampling Dynamics for Compositional Diffusion: A Feynman-Kac Weight Reduction
+**作者**: Sunjin Kim, Sungsoo Ahn, Michael Chertkov
+**类别**: cs.LG, cond-mat.stat-mech, cs.AI, stat.ML
+**发布日期**: 2026-11-22
+**链接**: http://arxiv.org/abs/2611.29764v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### probly: Uncertainty-Aware Machine Learning
+**作者**: Paul Hofman, Clemens Damke, Timo Löhr, Santo M. A. R. Thies, Alireza Javanmardi, Valentin Margraf, Jakub Paplham, Yusuf Sale, Eyke Hüllermeier, Maximilian Muschalik
+**类别**: cs.LG, stat.ML
+**发布日期**: 2026-11-22
+**链接**: http://arxiv.org/abs/2611.29762v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### DictaRashi: A State-of-the-Art OCR Model For Rashi Script
+**作者**: Ometz Shmidman, Yonah Taurog, Aryeh Sanders, Shlomo Bluth, Moshe Koppel, Joshua Geudalia, Avi Shmidman
+**类别**: cs.CV
+**发布日期**: 2026-11-22
+**链接**: http://arxiv.org/abs/2611.29760v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
