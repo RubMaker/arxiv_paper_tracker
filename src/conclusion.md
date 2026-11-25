@@ -146310,3 +146310,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-11-25)
+
+### On the Importance of Hidden-State Refinement in Masked Diffusion Language Models
+**作者**: Linhao Zhong, Bozhen Fang, Xuehao Wang, Zekai Luo, Liyang Li, Hourong Li, Chenchen Jing, Hao Chen
+**类别**: cs.CL
+**发布日期**: 2026-11-24
+**链接**: http://arxiv.org/abs/2611.32416v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Within-task hazards of AI agents: unidentified by time-horizon curves, identified by repeated runs
+**作者**: Ruiqi Zhao
+**类别**: stat.ME, cs.AI
+**发布日期**: 2026-11-24
+**链接**: http://arxiv.org/abs/2611.32415v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### A Face Robot which Imitates Human Musculoskeletal Skin System and Its Evaluation on Basic Movement of Facial Expression
+**作者**: Shun Kaneko, Shunnosuke Yoshimura, Akihiro Miki, Kento Kawaharazuka, Kei Okada
+**类别**: cs.RO
+**发布日期**: 2026-11-24
+**链接**: http://arxiv.org/abs/2611.32413v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### TESS: Query-Guided Temporal Event-Structured Frame Selection for Long-Video Understanding
+**作者**: Qi Lu, Shiyan Tong, Shujie Li, Sen Li, Likun shi, Maofei Que, Xiaolong Jiang, Yao Hu
+**类别**: cs.CV
+**发布日期**: 2026-11-24
+**链接**: http://arxiv.org/abs/2611.32410v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Delay-Tolerant Formation Tracking for Multi-AGV Systems via Reference-Shift Coupling
+**作者**: Yunfei Bi
+**类别**: cs.RO
+**发布日期**: 2026-11-24
+**链接**: http://arxiv.org/abs/2611.32409v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Every Edit Its Own Budget: Per-Instruction Token Freezing for Training-Free Acceleration of Multi-Edit Image Editing
+**作者**: Jyotirmoy Nath, Neeraj Kumar, Brejesh Lall
+**类别**: cs.CV
+**发布日期**: 2026-11-24
+**链接**: http://arxiv.org/abs/2611.32407v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### BEACON: Learning Observation-Conditioned Starting Points for Guided Conditional Flow Matching in Microscopy
+**作者**: Anirban Ray, Florian Jug
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-11-24
+**链接**: http://arxiv.org/abs/2611.32406v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### CPU-Eval: Evaluating Large Language Models for CPU Hardware Code Generation
+**作者**: Yuisei Iwata, Yutaka Masuda, Tohru Ishihara
+**类别**: cs.AR, cs.AI
+**发布日期**: 2026-11-24
+**链接**: http://arxiv.org/abs/2611.32405v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### A Framework for Graph Node Symmetric Quantification under Dataset Shift
+**作者**: Alessio Micheli, Alejandro Moreo, Marco Podda, Fabrizio Sebastiani, Domenico Tortorella
+**类别**: cs.LG
+**发布日期**: 2026-11-24
+**链接**: http://arxiv.org/abs/2611.32403v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Optimal Transport Meets t-SNE: Integrated Visualization without Batch Effects in OT-tSNE
+**作者**: Azhar Akhmetova, Edward Eichhorn, Boris Landa, Dmitry Kobak, Sebastian Damrich
+**类别**: cs.LG
+**发布日期**: 2026-11-24
+**链接**: http://arxiv.org/abs/2611.32402v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Verify then Steer: Progress Hallucination-Aware Recovery for Continuous Vision-and-Language Navigation
+**作者**: Jiewen Hou, Guanxiang Qi, Meina Kan, Shiguang Shan, Xilin Chen
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-11-24
+**链接**: http://arxiv.org/abs/2611.32400v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Not All Pairs Align: Caption-Guided Audio-Visual Contrastive Learning
+**作者**: Omar Emara, Nan Lu, Dima Damen, Hazel Doughty
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-11-24
+**链接**: http://arxiv.org/abs/2611.32399v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### PRC4D: Physical Relation-Constrained Persistent 4D Reconstruction
+**作者**: Junho Kim, Hyunyoung Choi, Jiseok Kim, Seongwon Lee
+**类别**: cs.CV
+**发布日期**: 2026-11-24
+**链接**: http://arxiv.org/abs/2611.32396v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Adaptive and Detection-Aware Super-Resolution for Small Object Detection
+**作者**: Cezica-Elena Luncanu, Stelian Spînu
+**类别**: cs.CV
+**发布日期**: 2026-11-24
+**链接**: http://arxiv.org/abs/2611.32394v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Fractal Neural Synthesis: Constant-Storage Procedural Weight Derivation via Complex Quadratic Boundary Dynamics
+**作者**: Volkan Dagli, Zerrin Dagli, Daghan Dagli
+**类别**: cs.LG, cs.NE
+**发布日期**: 2026-11-24
+**链接**: http://arxiv.org/abs/2611.32393v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
