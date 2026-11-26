@@ -146464,3 +146464,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-11-26)
+
+### VAPOR: Improving Multimodal Reasoning with Sparse Visual Updates
+**作者**: Mingyu Su, Wei Wu, Erle Zhu, Chengxing Xie, Deyao Hong, Hongning Wang
+**类别**: cs.CV
+**发布日期**: 2026-11-25
+**链接**: http://arxiv.org/abs/2611.33751v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Spectral Colorimetry Based on GMoE for Temperature Measurement in Explosion Fields
+**作者**: Jie Fang, Wenhao Li, Jianning Yang, Nan Wang
+**类别**: cs.CV
+**发布日期**: 2026-11-25
+**链接**: http://arxiv.org/abs/2611.33750v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Teaching Students to Stand on Their Own: Distilling Vision Foundation Models for Fine-Grained Few-Shot Class-Incremental Learning
+**作者**: Junsu Kim, Seungryul Baek
+**类别**: cs.CV, cs.AI
+**发布日期**: 2026-11-25
+**链接**: http://arxiv.org/abs/2611.33749v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### REFORGE: LLM-Assisted RTL Bug Repair with Structured Context and Verification Feedback
+**作者**: Tanvir Hossain, Sudipta Paria, Aidan Gleason Myers, Swarup Bhunia, Tamzidul Hoque
+**类别**: cs.AI, cs.SE
+**发布日期**: 2026-11-25
+**链接**: http://arxiv.org/abs/2611.33748v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Tells of a Lying Machine: Analyzing LLM-Generated Strategic Dialogue in Chinese Werewolf
+**作者**: Xian Cui, Gan Yang, Dongqi Han, Han Zhu, Bo Zheng, Jianhui Zheng, Xiaoyong Li
+**类别**: cs.CL
+**发布日期**: 2026-11-25
+**链接**: http://arxiv.org/abs/2611.33747v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### WhatIf: Counterfactual World Models over Action-Grounded Causal Graphs for Robotic Manipulation
+**作者**: Xu Yang, Kailai Sun, Qianchuan Zhao
+**类别**: cs.AI
+**发布日期**: 2026-11-25
+**链接**: http://arxiv.org/abs/2611.33745v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### OrbACE: Orbital and Atomic Cluster Expansion
+**作者**: Etinosa Osaro, Dario Rocca
+**类别**: physics.chem-ph, cs.LG, physics.comp-ph
+**发布日期**: 2026-11-25
+**链接**: http://arxiv.org/abs/2611.33743v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### FlashProve-Next: Verifiable Inference for Production LLM APIs
+**作者**: Liang Song
+**类别**: cs.CR, cs.AI, cs.LG
+**发布日期**: 2026-11-25
+**链接**: http://arxiv.org/abs/2611.33741v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### RegHarness: Regulating What Code-as-Policy Agents Keep from Steps to Skills
+**作者**: Shengming Liu, Yunyi Gao, Xinyi Wang, Jianyong Sun, Shuai Wang, Yi Deng, Li Chenye, Mingcai Zhou, Sim Kuan Goh
+**类别**: cs.RO
+**发布日期**: 2026-11-25
+**链接**: http://arxiv.org/abs/2611.33739v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### JOVE ICE: Intent Guided Cloud Edge Device Collaboration for AI Glasses
+**作者**: Yuyang Jin, Bingfeng Pi, Jiamei Sun, Wei Jin, Dongyang Wang, Yunpeng Li, Yan Bai, Lei Zuo
+**类别**: cs.AI
+**发布日期**: 2026-11-25
+**链接**: http://arxiv.org/abs/2611.33735v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### DualCast: Dual-Image Conditioned Diffusion Transformers for Digital Human E-Commerce Video Generation
+**作者**: Lifan Jiang, Yifan Huang, Jixuan Zhang, Peifeng Wang, Yuying Ma, Dehai Zhao, Deng Cai, Boxi Wu
+**类别**: cs.CV
+**发布日期**: 2026-11-25
+**链接**: http://arxiv.org/abs/2611.33734v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### PROVE: Predict-to-Specify and Observe-to-Verify for Human-Aligned Evaluation of Mobile Manipulation
+**作者**: Bowen Lyu, Yunan Liu, Liaoyuan Fan, Qinchuan Cheng, Jiafei Duan, Cheston Tan, Shijie Li
+**类别**: cs.RO
+**发布日期**: 2026-11-25
+**链接**: http://arxiv.org/abs/2611.33733v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### CovNovBench: A Benchmark for Evaluating Time Series Foundation Models under Covariate Novelty
+**作者**: Wenhao Pan, Ravi Kiran Selvam, Michael W. Mahoney, Mayank Jauhari, Mengfei Cao, Dmitry Efimov, Boris N. Oreshkin
+**类别**: cs.LG, stat.ME
+**发布日期**: 2026-11-25
+**链接**: http://arxiv.org/abs/2611.33732v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### RoboJackVR: Turning Robot Tasks into VR Games for Scalable Demonstration Collection
+**作者**: Ben Ma, Jixuan Cai
+**类别**: cs.RO, cs.HC
+**发布日期**: 2026-11-25
+**链接**: http://arxiv.org/abs/2611.33731v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Asset4D-Bench: Benchmarking Coding Agents for Editable 3D and 4D Reconstruction
+**作者**: Chengyi Sun, Deyuan Liu, Lei Zhao, Jungang Li, Qi Jia
+**类别**: cs.AI
+**发布日期**: 2026-11-25
+**链接**: http://arxiv.org/abs/2611.33728v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
