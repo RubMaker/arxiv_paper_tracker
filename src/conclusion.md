@@ -146618,3 +146618,157 @@ VGGT-Edit的提出为3D场景编辑领域提供了一种新的解决方案，其
 
 ---
 
+
+
+## ArXiv论文 - 最近5天 (截至 2026-11-27)
+
+### AnyCam: Anything Can Represent Camera for Video Generation
+**作者**: Weijie Lyu, Zhixin Shu, Yuntian Ke, Ming-Hsuan Yang
+**类别**: cs.CV
+**发布日期**: 2026-11-25
+**链接**: http://arxiv.org/abs/2611.34944v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Tracking Any Point with Agentic Visual Reasoning
+**作者**: Xuweiyi Chen, Jin Yao, Linzhan Mou, Lei Gong, Di Liu, Cheng Zhang, Ziqiao Ma, Sihan Xu, Adam W. Harley, Shengyi Qian, Zezhou Cheng
+**类别**: cs.CV
+**发布日期**: 2026-11-25
+**链接**: http://arxiv.org/abs/2611.34943v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning
+**作者**: Yalin E. Sagduyu, Tugba Erpek
+**类别**: cs.NI, cs.AI, eess.SP
+**发布日期**: 2026-11-25
+**链接**: http://arxiv.org/abs/2611.34942v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Improving and Expanding Video Editing Capabilities Without Videos
+**作者**: Ji Xie, Yanhao Jia, Xiangpeng Yang, Martin Q. Ma, Sihan Xu, Erik Cambria, Louis-Philippe Morency
+**类别**: cs.CV
+**发布日期**: 2026-11-25
+**链接**: http://arxiv.org/abs/2611.34941v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### LuxAvatar: Real-Time Relightable Head Avatars via Causal Neural Shading of 3D Intrinsic Proxies
+**作者**: Yipengjing Sun, Chenyang Wang, Boyao Zhou, Jiapeng Zhu, Ka Leong Cheng, Shengping Zhang
+**类别**: cs.CV
+**发布日期**: 2026-11-25
+**链接**: http://arxiv.org/abs/2611.34940v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### A Mesh for Every Moment
+**作者**: Roy Or-El, Jeong Joon Park, Ira Kemelmacher-Shlizerman
+**类别**: cs.CV, cs.GR
+**发布日期**: 2026-11-25
+**链接**: http://arxiv.org/abs/2611.34939v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Tokenisation is not in APX
+**作者**: Violeta Kastreva, Philip Whittington, Dennis Komm, Tiago Pimentel
+**类别**: cs.CL, cs.LG
+**发布日期**: 2026-11-25
+**链接**: http://arxiv.org/abs/2611.34938v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### DexLink: Synthesizing Dexterous Behaviors from Chained Hand-object Poses
+**作者**: Meenal Parakh, Deep Patel, Beining Han, Jia Deng
+**类别**: cs.RO
+**发布日期**: 2026-11-25
+**链接**: http://arxiv.org/abs/2611.34936v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Can image generation help visual reasoning? An empirical study
+**作者**: Xueyang Yu, Yifan Jing, Taiming Lu, Linrong Cai, Zhipeng Cai, Yunyang Xiong, Gabriel Sarch, Zhuang Liu
+**类别**: cs.LG, cs.CL, cs.CV
+**发布日期**: 2026-11-25
+**链接**: http://arxiv.org/abs/2611.34935v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Attack Policy Selection can Mislead Monitor Evaluators
+**作者**: Charlie Griffin, Oliver Makins, Asa Cooper Stickland, Alessandro Abate, Yarin Gal, Abby D'Cruz, Xander Davies
+**类别**: cs.LG, cs.AI
+**发布日期**: 2026-11-25
+**链接**: http://arxiv.org/abs/2611.34934v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### MERLoc: Robust Robot Localization in Dynamic Environments with Pose-Based Retrieval over 3D Gaussian Splatting References
+**作者**: Michael Baumgartner, Dario Mylonopoulos, Sammy Christen, Markus Gross, Moritz Bacher
+**类别**: cs.RO
+**发布日期**: 2026-11-25
+**链接**: http://arxiv.org/abs/2611.34932v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### DynMF2: Rigid Motion Factorization by Expectation-Maximization for Monocular 4D Reconstruction and Motion Segmentation
+**作者**: Agelos Kratimenos, Yile Hua, Kostas Daniilidis
+**类别**: cs.CV
+**发布日期**: 2026-11-25
+**链接**: http://arxiv.org/abs/2611.34931v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### A gene informed benchmark for BioScoring of pathology foundation models
+**作者**: Paul Vilars, Vincent Quoc-Huy Trinh, Maria Vakalopoulou, Dimitris Samaras, Stergios Christodoulidis, Mahdi S. Hosseini
+**类别**: cs.LG
+**发布日期**: 2026-11-25
+**链接**: http://arxiv.org/abs/2611.34930v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### High-Fidelity Image Matting with Pixel-Space Diffusion Transformers
+**作者**: Baihan Yang, Xin Lin, Yufan Wei, Baiang Li, Yuheng Liu, Juanxi Tian, Xiaohui Xie, Truong Nguyen
+**类别**: cs.CV
+**发布日期**: 2026-11-25
+**链接**: http://arxiv.org/abs/2611.34929v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
+### Diverse Alternative Reasoning Traces for Hard Math Problems
+**作者**: Lukas Aichberger, Adam Golinski, Arno Blaas, Arwen Bradley, Jacob Springer, Mehrdad Farajtabar, Michael Kirchhof, Sinead Williamson
+**类别**: cs.CL, cs.AI, cs.LG
+**发布日期**: 2026-11-25
+**链接**: http://arxiv.org/abs/2611.34928v1
+
+**论文分析出错**: Your account org-3a9eef7ef265480d83cf544027ea2da2 <ak-f56ipa7zu1g111exsf41> is suspended due to insufficient balance, please recharge your account or check your plan and billing details
+
+---
+
